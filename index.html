@@ -369,7 +369,7 @@
             const no      = b.sira_no || '';
             const title   = b.kitap_adi || '—';
             const author  = b.yazar_adi || '—';
-            const cover   = b.kapak || b.kapak_linki || b.resim || '';
+            const cover   = b.kapak || b.kapak_linki || b.resim || b.kapak_gorseli || '';
             const coverHtml = cover ? `<div class="cover-wrap"><img src="${cover}" alt="${title} kapağı" class="cover-img" loading="lazy"></div>` : `<div class="cover-wrap" style="display:flex;align-items:center;justify-content:center;color:var(--muted);font-size:0.85rem;">Kapak Yok</div>`;
             return `
             <div class="card">
