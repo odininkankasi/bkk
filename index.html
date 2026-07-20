@@ -307,8 +307,8 @@
             script.onerror = function() {
                 document.getElementById('loader').innerHTML = '⚠️ Veri yüklenemedi. İnternet bağlantınızı kontrol edin.';
             };
-            // callback adı olarak "sheetsCallback" kullanıyoruz - global olarak tanımlı
-            script.src = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:json&callback=sheetsCallback`;
+            // DÜZELTME: tqx parametresi içinde responseHandler kullanıyoruz
+            script.src = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=responseHandler:sheetsCallback`;
             document.body.appendChild(script);
         }
 
