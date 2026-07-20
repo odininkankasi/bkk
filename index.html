@@ -144,11 +144,17 @@
 
         /* Number */
         .num {
-            font-size: 1rem;
-            color: var(--muted);
-            min-width: 40px;
+            font-size: 0.9rem;
+            color: var(--text);
+            border: 1px solid var(--border-hover);
+            min-width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
             font-family: 'Outfit', sans-serif;
-            text-align: right;
+            font-weight: 400;
         }
 
         /* Main Info */
@@ -312,7 +318,7 @@
 
             return `
             <div class="list-item">
-                <div class="num">#${no}</div>
+                <div class="num">${no}</div>
                 <div class="item-main">
                     <div class="book-title">${title}</div>
                     <div class="author">${author}</div>
