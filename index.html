@@ -265,34 +265,26 @@
         <div class="grid" id="books-grid">
             <!-- Cards will be injected here -->
         </div>
-    </div>
-
-    <script>
+        <script>
         const SHEET_ID = '16X3KyJtwW5uO3fzco0XxaWBzkNYvDBfSDEymGn-MYQo';
         let allBooks = [];
 
-        // Google Visualization API (JSONP) - no CORS issues
-        function fetchData() {
-            const script = document.createElement('script');
-            const callback = 'handleSheetData_' + Date.now();
-            const url = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:json&callback=${callback}`;
-
-            window[callback] = function (data) {
+        // Google Sheets gviz/tq - JSONP ile veri çekme
+        // Önce global callback fonksiyonunu tanımla, sonra script tag ekle
+        window.sheetsCallback = function(data) {
+            try {
                 document.getElementById('loader').style.display = 'none';
-                delete window[callback];
-                document.body.removeChild(script);
 
                 const cols = data.table.cols.map(c => c.label);
                 allBooks = data.table.rows
-                    .filter(row => row !== null)  // bazı satırlar tamamen null olabiliyor
+                    .filter(row => row !== null)
                     .map(row => {
                         const obj = {};
                         cols.forEach((col, i) => {
-                            const cell = row.c ? row.c[i] : null;
-                            if (cell && cell.f) {
-                                // formatted value varsa onu kullan (sayılar için "1" yerine "1.0" sorununu çözer)
-                                obj[col] = cell.f;
-                            } else if (cell && cell.v !== null && cell.v !== undefined) {
+                            const cell = (row.c && row.c[i]) ? row.c[i] : null;
+                            if (cell !== null && cell.f !== undefined && cell.f !== null) {
+                                obj[col] = String(cell.f);
+                            } else if (cell !== null && cell.v !== undefined && cell.v !== null) {
                                 obj[col] = String(cell.v);
                             } else {
                                 obj[col] = '';
@@ -304,19 +296,30 @@
 
                 renderBooks(allBooks);
                 updateStats(allBooks);
-            };
+            } catch(e) {
+                document.getElementById('loader').innerHTML = '⚠️ Veri işlenirken hata: ' + e.message;
+                console.error(e);
+            }
+        };
 
-            script.onerror = function () {
+        function fetchData() {
+            const script = document.createElement('script');
+            script.onerror = function() {
                 document.getElementById('loader').innerHTML = '⚠️ Veri yüklenemedi. İnternet bağlantınızı kontrol edin.';
             };
-
-            script.src = url;
+            // callback adı olarak "sheetsCallback" kullanıyoruz - global olarak tanımlı
+            script.src = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:json&callback=sheetsCallback`;
             document.body.appendChild(script);
         }
 
         function renderBooks(books) {
             const grid = document.getElementById('books-grid');
             grid.innerHTML = '';
+
+            if (books.length === 0) {
+                grid.innerHTML = '<p style="color: var(--text-muted); text-align:center; grid-column:1/-1;">Kitap bulunamadı.</p>';
+                return;
+            }
 
             books.forEach(book => {
                 const card = document.createElement('div');
@@ -335,17 +338,17 @@
                 }
 
                 card.innerHTML = `
-                <div class="sira-no">${no}</div>
-                <div class="book-title">${title}</div>
-                <div class="author">${author}</div>
-                ${rating > 0 ? `<div class="rating">${stars}</div>` : ''}
-                <div class="tags">
-                    <span class="tag ${isRead ? 'tag-read' : 'tag-unread'}">
-                        ${isRead ? '✓ Okundu' : '⌛ Okunacak'}
-                    </span>
-                    ${isOwned ? '<span class="tag tag-owned">📚 Kitaplıkta</span>' : ''}
-                </div>
-            `;
+                    <div class="sira-no">${no}</div>
+                    <div class="book-title">${title}</div>
+                    <div class="author">${author}</div>
+                    ${rating > 0 ? `<div class="rating">${stars}</div>` : ''}
+                    <div class="tags">
+                        <span class="tag ${isRead ? 'tag-read' : 'tag-unread'}">
+                            ${isRead ? '✓ Okundu' : '⌛ Okunacak'}
+                        </span>
+                        ${isOwned ? '<span class="tag tag-owned">📚 Kitaplıkta</span>' : ''}
+                    </div>
+                `;
 
                 grid.appendChild(card);
             });
@@ -358,10 +361,10 @@
             const owned = books.filter(b => b['kitaplikta_var'] === 'Evet').length;
 
             statsContainer.innerHTML = `
-            <div class="stat-badge">Toplam: <strong>${total}</strong> Kitap</div>
-            <div class="stat-badge">Okunan: <strong>${read}</strong> Kitap</div>
-            <div class="stat-badge">Kitaplıkta: <strong>${owned}</strong> Kitap</div>
-        `;
+                <div class="stat-badge">Toplam: <strong>${total}</strong> Kitap</div>
+                <div class="stat-badge">Okunan: <strong>${read}</strong> Kitap</div>
+                <div class="stat-badge">Kitaplıkta: <strong>${owned}</strong> Kitap</div>
+            `;
         }
 
         document.getElementById('searchInput').addEventListener('input', (e) => {
@@ -373,7 +376,6 @@
             renderBooks(filtered);
         });
 
-        // Initial fetch
         fetchData();
 
     </script>
