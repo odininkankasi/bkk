@@ -319,9 +319,8 @@
             const no      = b.sira_no || '';
             const title   = b.kitap_adi || '—';
             const author  = b.yazar_adi || '—';
-            const dateStart = b.tarih_1 ? b.tarih_1 : '';
-            const dateEnd   = b.tarih_2 ? b.tarih_2 : '';
-            
+            const dateStart = b.tarih_1 || b['tarih 1'] || b['Tarih 1'] || b.tarih1 || b.Tarih1 || '';
+            const dateEnd   = b.tarih_2 || b['tarih 2'] || b['Tarih 2'] || b.tarih2 || b.Tarih2 || '';
             let dateHtml = '';
             if (dateStart || dateEnd) {
                 // Remove timestamp if Google Sheets sends dates like "Date(2023, 10, 1)"
