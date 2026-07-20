@@ -159,12 +159,40 @@
             background: var(--surface);
             border: 1px solid var(--border);
             border-radius: 18px;
-            padding: 22px;
             cursor: default;
             transition: transform 0.25s ease, border-color 0.25s ease, background 0.25s ease, box-shadow 0.25s ease;
             position: relative;
             overflow: hidden;
             backdrop-filter: blur(10px);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .cover-wrap {
+            width: 100%;
+            height: 340px;
+            background: rgba(0,0,0,0.2);
+            position: relative;
+            overflow: hidden;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .cover-img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.5s ease;
+        }
+
+        .card:hover .cover-img {
+            transform: scale(1.05);
+        }
+
+        .card-content {
+            padding: 22px;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
         }
 
         .card::before {
@@ -244,7 +272,8 @@
             header { padding: 40px 0 36px; }
             h1 { font-size: 2.2rem; }
             .grid { grid-template-columns: 1fr; gap: 16px; }
-            .card { padding: 20px; }
+            .card-content { padding: 20px; }
+            .cover-wrap { height: 400px; }
             .book-title { font-size: 1.15rem; }
             .author { font-size: 0.95rem; }
             .stat { font-size: 0.9rem; padding: 8px 14px; }
@@ -340,16 +369,22 @@
             const no      = b.sira_no || '';
             const title   = b.kitap_adi || '—';
             const author  = b.yazar_adi || '—';
+            const cover   = b.kapak || b.kapak_linki || b.resim || '';
+            const coverHtml = cover ? `<div class="cover-wrap"><img src="${cover}" alt="${title} kapağı" class="cover-img" loading="lazy"></div>` : `<div class="cover-wrap" style="display:flex;align-items:center;justify-content:center;color:var(--muted);font-size:0.85rem;">Kapak Yok</div>`;
             return `
             <div class="card">
-                <div class="num">#${no}</div>
-                <div class="book-title">${title}</div>
-                <div class="author">${author}</div>
-                ${stars ? `<div class="stars">${stars}</div>` : ''}
-                <div class="card-divider"></div>
-                <div class="tags">
-                    <span class="tag ${isRead ? 'tag-read' : 'tag-unread'}">${isRead ? '✓ Okundu' : '⌛ Okunacak'}</span>
-                    ${isOwned ? '<span class="tag tag-owned">📚 Kitaplıkta</span>' : ''}
+                ${coverHtml}
+                <div class="card-content">
+                    <div class="num">#${no}</div>
+                    <div class="book-title">${title}</div>
+                    <div class="author">${author}</div>
+                    ${stars ? `<div class="stars">${stars}</div>` : ''}
+                    <div style="flex-grow:1"></div>
+                    <div class="card-divider"></div>
+                    <div class="tags">
+                        <span class="tag ${isRead ? 'tag-read' : 'tag-unread'}">${isRead ? '✓ Okundu' : '⌛ Okunacak'}</span>
+                        ${isOwned ? '<span class="tag tag-owned">📚 Kitaplıkta</span>' : ''}
+                    </div>
                 </div>
             </div>`;
         }).join('');
