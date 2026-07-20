@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dune - İthaki Bilimkurgu Klasikleri</title>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+        :root {
+            --bg: #f7f3ea;
+            --surface: transparent;
+            --border: #dcd1be;
+            --border-hover: #c4b59c;
+            --accent: #8c3a26;
+            --text: #2d241c;
+            --muted: #8b7d6a;
+            --read: #335e45;
+            --unread: #a09786;
+            --gold: #b46b1a;
+        }
+
+        body {
+            background: var(--bg);
+            color: var(--text);
+            font-family: 'Outfit', sans-serif;
+            min-height: 100vh;
+            overflow-x: hidden;
+            line-height: 1.6;
+        }
+
+        .page { max-width: 900px; margin: 0 auto; padding: 60px 20px 100px; }
+
+        .back-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            color: var(--muted);
+            text-decoration: none;
+            font-family: 'Lora', serif;
+            font-style: italic;
+            font-size: 1.1rem;
+            margin-bottom: 40px;
+            transition: color 0.3s;
+        }
+
+        .back-link:hover { color: var(--accent); }
+
+        .book-container {
+            display: grid;
+            grid-template-columns: 320px 1fr;
+            gap: 60px;
+            align-items: start;
+        }
+
+        .book-cover {
+            width: 100%;
+            border-radius: 4px;
+            box-shadow: 4px 4px 15px rgba(0,0,0,0.08), 1px 1px 2px rgba(0,0,0,0.05);
+            border: 1px solid rgba(0,0,0,0.05);
+        }
+
+        .book-info {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .book-num {
+            font-size: 1.2rem;
+            color: var(--muted);
+            font-family: 'Outfit', sans-serif;
+        }
+
+        .book-title {
+            font-family: 'Lora', serif;
+            font-size: clamp(2.5rem, 5vw, 4rem);
+            font-weight: 500;
+            line-height: 1.1;
+            color: var(--text);
+            letter-spacing: -0.02em;
+        }
+
+        .book-author {
+            font-family: 'Lora', serif;
+            font-size: 1.5rem;
+            font-style: italic;
+            color: var(--accent);
+        }
+
+        .meta-row {
+            display: flex;
+            align-items: center;
+            gap: 24px;
+            padding: 20px 0;
+            border-top: 1px solid var(--border);
+            border-bottom: 1px solid var(--border);
+            margin: 10px 0;
+        }
+
+        .stars { font-size: 1.2rem; letter-spacing: 3px; color: var(--gold); }
+
+        .tags { display: flex; gap: 16px; }
+        .tag {
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            font-weight: 500;
+        }
+        .tag-read { color: var(--read); }
+        .tag-owned { color: var(--gold); }
+
+        .book-desc {
+            font-family: 'Lora', serif;
+            font-size: 1.15rem;
+            color: var(--text);
+            line-height: 1.8;
+            opacity: 0.9;
+        }
+
+        @media (max-width: 768px) {
+            .book-container {
+                grid-template-columns: 1fr;
+                gap: 40px;
+            }
+            .book-cover {
+                max-width: 300px;
+                margin: 0 auto;
+                display: block;
+            }
+            .book-title { text-align: center; }
+            .book-author { text-align: center; }
+            .book-num { text-align: center; }
+            .meta-row { justify-content: center; flex-wrap: wrap; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="page">
+    <a href="index.html" class="back-link">← Klasikler Listesine Dön</a>
+
+    <div class="book-container">
+        <img src="https://i.imgur.com/39p6b9L.jpeg" alt="Dune Kapağı" class="book-cover">
+        
+        <div class="book-info">
+            <div class="book-num">Bilimkurgu Klasikleri #1</div>
+            <h1 class="book-title">Dune</h1>
+            <div class="book-author">Frank Herbert</div>
+            
+            <div class="meta-row">
+                <div class="stars">★★★★★</div>
+                <div class="tags">
+                    <span class="tag tag-read">✓ Okundu</span>
+                    <span class="tag tag-owned">📚 Kitaplıkta</span>
+                </div>
+            </div>
+
+            <div class="book-desc">
+                <p>Modern edebiyatın en destansı bilimkurgu eserlerinden biri olan Dune, genç Paul Atreides'in hikâyesini anlatıyor. Evrenin en önemli ve en değerli maddesi olan melanjın, diğer adıyla "baharat"ın tek kaynağı olan çöl gezegeni Arrakis'in kontrolü, Atreides hanedanına geçer.</p>
+                <br>
+                <p>Ancak bu devir teslim, rakip Harkonnen hanedanı ve İmparator'un kurduğu ölümcül bir tuzağın parçasıdır. Paul, gezegenin yerlileri Fremenler arasına karışarak hayatta kalmak ve efsanelerde anlatılan kurtarıcı Muad'Dib'e dönüşmek zorundadır.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
