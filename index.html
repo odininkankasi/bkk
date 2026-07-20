@@ -177,6 +177,16 @@
             font-style: italic;
         }
 
+        /* Dates */
+        .dates {
+            font-size: 0.8rem;
+            color: var(--muted);
+            font-family: 'Outfit', sans-serif;
+            margin-top: 2px;
+            letter-spacing: 0.02em;
+        }
+        .date-sep { opacity: 0.5; margin: 0 4px; }
+
         /* Meta Info */
         .item-meta {
             display: flex;
@@ -309,12 +319,27 @@
             const no      = b.sira_no || '';
             const title   = b.kitap_adi || '—';
             const author  = b.yazar_adi || '—';
+            const dateStart = b.tarih_1 ? b.tarih_1 : '';
+            const dateEnd   = b.tarih_2 ? b.tarih_2 : '';
+            
+            let dateHtml = '';
+            if (dateStart || dateEnd) {
+                // Remove timestamp if Google Sheets sends dates like "Date(2023, 10, 1)"
+                // But normally the fetch query formats it, so we can just display it.
+                dateHtml = `<div class="dates">
+                    ${dateStart ? `<span>Başlama: ${dateStart}</span>` : ''}
+                    ${dateStart && dateEnd ? '<span class="date-sep">|</span>' : ''}
+                    ${dateEnd ? `<span>Bitiş: ${dateEnd}</span>` : ''}
+                </div>`;
+            }
+
             return `
             <div class="list-item">
                 <div class="num">#${no}</div>
                 <div class="item-main">
                     <div class="book-title">${title}</div>
                     <div class="author">${author}</div>
+                    ${dateHtml}
                 </div>
                 <div class="item-meta">
                     ${stars ? `<div class="stars">${stars}</div>` : ''}
