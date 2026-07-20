@@ -147,106 +147,72 @@
 
         .loader-text { color: var(--muted); font-size: 0.95rem; }
 
-        /* ── Grid ── */
-        .grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-            gap: 16px;
+        /* ── List Layout ── */
+        .list-container {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
         }
 
-        /* ── Card ── */
-        .card {
+        /* ── List Item ── */
+        .list-item {
             background: var(--surface);
             border: 1px solid var(--border);
-            border-radius: 18px;
-            cursor: default;
-            transition: transform 0.25s ease, border-color 0.25s ease, background 0.25s ease, box-shadow 0.25s ease;
-            position: relative;
-            overflow: hidden;
+            border-radius: 14px;
+            padding: 16px 20px;
+            display: flex;
+            align-items: center;
+            gap: 24px;
+            transition: transform 0.2s ease, border-color 0.2s ease, background 0.2s ease;
             backdrop-filter: blur(10px);
-            display: flex;
-            flex-direction: column;
         }
 
-        .cover-wrap {
-            width: 100%;
-            height: 340px;
-            background: rgba(0,0,0,0.2);
-            position: relative;
-            overflow: hidden;
-            border-bottom: 1px solid var(--border);
-        }
-
-        .cover-img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-            transition: transform 0.5s ease;
-        }
-
-        .card:hover .cover-img {
-            transform: scale(1.05);
-        }
-
-        .card-content {
-            padding: 22px;
-            flex-grow: 1;
-            display: flex;
-            flex-direction: column;
-        }
-
-        .card::before {
-            content: '';
-            position: absolute;
-            inset: 0;
-            background: linear-gradient(135deg, rgba(240,165,0,0.06) 0%, transparent 60%);
-            opacity: 0;
-            transition: opacity 0.3s;
-            pointer-events: none;
-        }
-
-        .card:hover {
-            transform: translateY(-4px);
+        .list-item:hover {
             border-color: var(--border-hover);
             background: var(--surface-hover);
-            box-shadow: 0 20px 40px rgba(0,0,0,0.4), 0 0 0 1px rgba(240,165,0,0.08);
+            transform: translateX(5px);
         }
-
-        .card:hover::before { opacity: 1; }
 
         /* Number */
         .num {
-            font-size: 0.7rem;
-            font-weight: 700;
+            font-size: 1.1rem;
+            font-weight: 800;
             color: var(--gold);
-            letter-spacing: 0.1em;
-            margin-bottom: 10px;
-            opacity: 0.7;
+            min-width: 45px;
+            opacity: 0.8;
+            font-family: 'Inter', sans-serif;
+        }
+
+        /* Main Info */
+        .item-main {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
         }
 
         /* Title */
         .book-title {
             font-family: 'Playfair Display', serif;
-            font-size: 1.05rem;
+            font-size: 1.15rem;
             font-weight: 700;
-            line-height: 1.35;
             color: var(--text);
-            margin-bottom: 6px;
         }
 
         /* Author */
         .author {
-            font-size: 0.82rem;
+            font-size: 0.85rem;
             color: var(--muted);
             font-weight: 400;
-            margin-bottom: 16px;
         }
 
-        /* Divider */
-        .card-divider {
-            height: 1px;
-            background: var(--border);
-            margin-bottom: 14px;
+        /* Meta Info */
+        .item-meta {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-end;
+            gap: 8px;
+            min-width: 150px;
         }
 
         /* Tags */
@@ -271,13 +237,23 @@
         @media (max-width: 600px) {
             header { padding: 40px 0 36px; }
             h1 { font-size: 2.2rem; }
-            .grid { grid-template-columns: 1fr; gap: 16px; }
-            .card-content { padding: 20px; }
-            .cover-wrap { height: 400px; }
-            .book-title { font-size: 1.15rem; }
-            .author { font-size: 0.95rem; }
+            .list-item {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 12px;
+                padding: 16px;
+            }
+            .item-meta {
+                align-items: center;
+                flex-direction: row;
+                flex-wrap: wrap;
+                width: 100%;
+                justify-content: space-between;
+                margin-top: 8px;
+            }
+            .book-title { font-size: 1.1rem; }
             .stat { font-size: 0.9rem; padding: 8px 14px; }
-            .tag { font-size: 0.8rem; padding: 4px 12px; }
+            .tag { font-size: 0.75rem; padding: 4px 10px; }
         }
 
         @media (max-width: 400px) {
@@ -306,7 +282,7 @@
         <p class="loader-text">Liste yükleniyor…</p>
     </div>
 
-    <div class="grid" id="grid"></div>
+    <div class="list-container" id="grid"></div>
 
 </div>
 
@@ -358,7 +334,7 @@
     function render(books) {
         const grid = document.getElementById('grid');
         if (!books.length) {
-            grid.innerHTML = '<p style="color:var(--muted);grid-column:1/-1;text-align:center;padding:40px">Kitap bulunamadı.</p>';
+            grid.innerHTML = '<p style="color:var(--muted);text-align:center;padding:40px">Kitap bulunamadı.</p>';
             return;
         }
         grid.innerHTML = books.map(b => {
@@ -369,18 +345,15 @@
             const no      = b.sira_no || '';
             const title   = b.kitap_adi || '—';
             const author  = b.yazar_adi || '—';
-            const cover   = b.kapak || b.kapak_linki || b.resim || b.kapak_gorseli || '';
-            const coverHtml = cover ? `<div class="cover-wrap"><img src="${cover}" alt="${title} kapağı" class="cover-img" loading="lazy"></div>` : `<div class="cover-wrap" style="display:flex;align-items:center;justify-content:center;color:var(--muted);font-size:0.85rem;">Kapak Yok</div>`;
             return `
-            <div class="card">
-                ${coverHtml}
-                <div class="card-content">
-                    <div class="num">#${no}</div>
+            <div class="list-item">
+                <div class="num">#${no}</div>
+                <div class="item-main">
                     <div class="book-title">${title}</div>
                     <div class="author">${author}</div>
+                </div>
+                <div class="item-meta">
                     ${stars ? `<div class="stars">${stars}</div>` : ''}
-                    <div style="flex-grow:1"></div>
-                    <div class="card-divider"></div>
                     <div class="tags">
                         <span class="tag ${isRead ? 'tag-read' : 'tag-unread'}">${isRead ? '✓ Okundu' : '⌛ Okunacak'}</span>
                         ${isOwned ? '<span class="tag tag-owned">📚 Kitaplıkta</span>' : ''}
