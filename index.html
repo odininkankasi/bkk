@@ -291,9 +291,16 @@
                     const obj = {};
                     cols.forEach((col, i) => {
                         const cell = (row.c && row.c[i]) ? row.c[i] : null;
-                        if (cell && cell.f != null) obj[col] = String(cell.f);
-                        else if (cell && cell.v != null) obj[col] = String(cell.v);
-                        else obj[col] = '';
+                        let val = '';
+                        if (cell && cell.f != null) val = String(cell.f);
+                        else if (cell && cell.v != null) val = String(cell.v);
+
+                        // Checkbox sütunları TRUE/true/Evet → 'Evet' olarak normalize et
+                        if (col === 'okundu' || col === 'kitaplikta_var') {
+                            obj[col] = (val === 'TRUE' || val === 'true' || val === 'Evet') ? 'Evet' : '';
+                        } else {
+                            obj[col] = val;
+                        }
                     });
                     return obj;
                 })
