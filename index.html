@@ -5,45 +5,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>İthaki Bilimkurgu Klasikleri Listesi</title>
     <meta name="description" content="İthaki Bilimkurgu Klasikleri listem — Google Sheets ile senkronize">
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
     <style>
         *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
         :root {
-            --bg: #080c14;
-            --surface: rgba(255,255,255,0.04);
-            --surface-hover: rgba(255,255,255,0.08);
-            --border: rgba(255,255,255,0.08);
-            --border-hover: rgba(255,255,255,0.18);
-            --gold: #f0a500;
-            --gold-soft: #fbbf24;
-            --purple: #7c3aed;
-            --text: #f1f5f9;
-            --muted: #64748b;
-            --read: #10b981;
-            --unread: #6366f1;
+            --bg: #f4ecdf;
+            --surface: #fdfaf4;
+            --surface-hover: #ffffff;
+            --border: #e4d7c1;
+            --border-hover: #cbbba1;
+            --accent: #8c3a26;
+            --text: #362a22;
+            --muted: #786a5a;
+            --read: #335e45;
+            --unread: #37537b;
+            --gold: #b46b1a;
         }
 
         body {
             background: var(--bg);
             color: var(--text);
-            font-family: 'Inter', sans-serif;
+            font-family: 'Outfit', sans-serif;
+            background-image: radial-gradient(#e4d7c1 1px, transparent 1px);
+            background-size: 24px 24px;
             min-height: 100vh;
             overflow-x: hidden;
-        }
-
-        /* ── Background glow ── */
-        body::before {
-            content: '';
-            position: fixed;
-            top: -30%;
-            left: 50%;
-            transform: translateX(-50%);
-            width: 900px;
-            height: 500px;
-            background: radial-gradient(ellipse, rgba(124,58,237,0.15) 0%, transparent 70%);
-            pointer-events: none;
-            z-index: 0;
         }
 
         .page { position: relative; z-index: 1; max-width: 1100px; margin: 0 auto; padding: 40px 20px 80px; }
@@ -53,28 +40,27 @@
 
         .header-label {
             display: inline-block;
-            font-size: 0.7rem;
+            font-size: 0.75rem;
             font-weight: 600;
-            letter-spacing: 0.25em;
+            letter-spacing: 0.2em;
             text-transform: uppercase;
-            color: var(--gold);
-            border: 1px solid rgba(240,165,0,0.3);
-            padding: 5px 14px;
-            border-radius: 20px;
-            margin-bottom: 20px;
-            background: rgba(240,165,0,0.05);
+            color: var(--accent);
+            border: 1px solid var(--border-hover);
+            padding: 6px 16px;
+            border-radius: 30px;
+            margin-bottom: 24px;
+            background: var(--surface);
+            font-family: 'Outfit', sans-serif;
         }
 
         h1 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Lora', serif;
             font-size: clamp(2.5rem, 6vw, 4.5rem);
-            font-weight: 900;
-            line-height: 1.1;
+            font-weight: 700;
+            line-height: 1.15;
             margin-bottom: 14px;
-            background: linear-gradient(135deg, #f1f5f9 30%, #f0a500 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
+            color: var(--text);
+            letter-spacing: -0.02em;
         }
 
         .subtitle {
@@ -95,9 +81,9 @@
             border: 1px solid var(--border);
             border-radius: 12px;
             padding: 10px 18px;
-            font-size: 0.85rem;
-            color: var(--muted);
-            backdrop-filter: blur(12px);
+            font-size: 0.9rem;
+            color: var(--text);
+            box-shadow: 0 2px 4px rgba(0,0,0,0.02);
         }
 
         .stat strong { color: var(--text); font-weight: 600; }
@@ -119,25 +105,25 @@
             width: 100%;
             padding: 15px 20px 15px 46px;
             border-radius: 14px;
-            border: 1px solid var(--border);
+            border: 1px solid var(--border-hover);
             background: var(--surface);
             color: var(--text);
-            font-size: 0.95rem;
-            font-family: 'Inter', sans-serif;
+            font-size: 1rem;
+            font-family: 'Outfit', sans-serif;
             transition: border-color 0.3s, background 0.3s;
-            backdrop-filter: blur(12px);
+            box-shadow: 0 4px 6px rgba(0,0,0,0.02);
         }
 
         #searchInput::placeholder { color: var(--muted); }
-        #searchInput:focus { outline: none; border-color: rgba(240,165,0,0.5); background: var(--surface-hover); }
+        #searchInput:focus { outline: none; border-color: var(--accent); background: var(--surface-hover); }
 
         /* ── Loader ── */
         #loader { text-align: center; padding: 80px 20px; }
 
         .spinner {
             width: 44px; height: 44px;
-            border: 3px solid rgba(255,255,255,0.07);
-            border-top-color: var(--gold);
+            border: 3px solid var(--border);
+            border-top-color: var(--accent);
             border-radius: 50%;
             animation: spin 0.8s linear infinite;
             margin: 0 auto 20px;
@@ -158,29 +144,30 @@
         .list-item {
             background: var(--surface);
             border: 1px solid var(--border);
-            border-radius: 14px;
-            padding: 16px 20px;
+            border-radius: 12px;
+            padding: 18px 24px;
             display: flex;
             align-items: center;
             gap: 24px;
-            transition: transform 0.2s ease, border-color 0.2s ease, background 0.2s ease;
-            backdrop-filter: blur(10px);
+            transition: transform 0.2s ease, border-color 0.2s ease, background 0.2s ease, box-shadow 0.2s ease;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.015);
         }
 
         .list-item:hover {
             border-color: var(--border-hover);
             background: var(--surface-hover);
-            transform: translateX(5px);
+            transform: translateX(4px);
+            box-shadow: 0 6px 14px rgba(0,0,0,0.03);
         }
 
         /* Number */
         .num {
-            font-size: 1.1rem;
-            font-weight: 800;
-            color: var(--gold);
+            font-size: 1.15rem;
+            font-weight: 600;
+            color: var(--muted);
             min-width: 45px;
-            opacity: 0.8;
-            font-family: 'Inter', sans-serif;
+            font-family: 'Lora', serif;
+            font-style: italic;
         }
 
         /* Main Info */
@@ -188,15 +175,16 @@
             flex-grow: 1;
             display: flex;
             flex-direction: column;
-            gap: 4px;
+            gap: 6px;
         }
 
         /* Title */
         .book-title {
-            font-family: 'Playfair Display', serif;
-            font-size: 1.15rem;
-            font-weight: 700;
+            font-family: 'Lora', serif;
+            font-size: 1.25rem;
+            font-weight: 600;
             color: var(--text);
+            line-height: 1.3;
         }
 
         /* Author */
@@ -226,12 +214,12 @@
             letter-spacing: 0.03em;
         }
 
-        .tag-read { background: rgba(16,185,129,0.12); color: var(--read); border: 1px solid rgba(16,185,129,0.2); }
-        .tag-unread { background: rgba(99,102,241,0.12); color: #818cf8; border: 1px solid rgba(99,102,241,0.2); }
-        .tag-owned { background: rgba(240,165,0,0.1); color: var(--gold-soft); border: 1px solid rgba(240,165,0,0.2); }
+        .tag-read { background: rgba(51,94,69,0.1); color: var(--read); border: 1px solid rgba(51,94,69,0.2); }
+        .tag-unread { background: rgba(55,83,123,0.1); color: var(--unread); border: 1px solid rgba(55,83,123,0.2); }
+        .tag-owned { background: rgba(180,107,26,0.1); color: var(--gold); border: 1px solid rgba(180,107,26,0.2); }
 
         /* Stars */
-        .stars { margin-bottom: 10px; font-size: 0.85rem; letter-spacing: 2px; color: var(--gold); }
+        .stars { margin-bottom: 2px; font-size: 0.95rem; letter-spacing: 2px; color: var(--gold); }
 
         /* ── Mobile ── */
         @media (max-width: 600px) {
