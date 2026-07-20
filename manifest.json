@@ -1,0 +1,17 @@
+{
+  "name": "İthaki BK Listesi",
+  "short_name": "BK Klasikleri",
+  "description": "İthaki Bilimkurgu Klasikleri Kişisel Koleksiyonum",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f3ea",
+  "theme_color": "#2d241c",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
