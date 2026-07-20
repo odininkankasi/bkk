@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kitaplığım</title>
-    <meta name="description" content="Bilimkurgu kitap listem — Google Sheets ile senkronize">
+    <title>İthaki Bilimkurgu Klasikleri Listesi</title>
+    <meta name="description" content="İthaki Bilimkurgu Klasikleri listem — Google Sheets ile senkronize">
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
     <style>
         *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -242,13 +242,17 @@
         /* ── Mobile ── */
         @media (max-width: 600px) {
             header { padding: 40px 0 36px; }
-            .grid { grid-template-columns: 1fr 1fr; gap: 12px; }
-            .card { padding: 16px; }
-            .book-title { font-size: 0.95rem; }
+            h1 { font-size: 2.2rem; }
+            .grid { grid-template-columns: 1fr; gap: 16px; }
+            .card { padding: 20px; }
+            .book-title { font-size: 1.15rem; }
+            .author { font-size: 0.95rem; }
+            .stat { font-size: 0.9rem; padding: 8px 14px; }
+            .tag { font-size: 0.8rem; padding: 4px 12px; }
         }
 
         @media (max-width: 400px) {
-            .grid { grid-template-columns: 1fr; }
+            h1 { font-size: 1.8rem; }
         }
     </style>
 </head>
@@ -258,7 +262,7 @@
 
     <header>
         <div class="header-label">📚 Kişisel Koleksiyon</div>
-        <h1>Kitaplığım</h1>
+        <h1>İthaki Bilimkurgu<br>Klasikleri Listesi</h1>
         <p class="subtitle">Google Sheets ile senkronize · canlı liste</p>
         <div class="stats" id="stats"></div>
     </header>
