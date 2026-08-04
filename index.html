@@ -210,6 +210,55 @@
         /* Stars */
         .stars { font-size: 0.9rem; letter-spacing: 2px; color: var(--gold); }
 
+        /* ── Tabs ── */
+        .tabs-wrap {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 28px;
+            flex-wrap: wrap;
+        }
+
+        .tab-btn {
+            background: transparent;
+            border: 1px solid var(--border);
+            color: var(--muted);
+            padding: 8px 18px;
+            border-radius: 20px;
+            font-family: 'Outfit', sans-serif;
+            font-size: 0.9rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .tab-btn:hover {
+            border-color: var(--border-hover);
+            color: var(--text);
+        }
+
+        .tab-btn.active {
+            background: var(--accent);
+            color: #fff;
+            border-color: var(--accent);
+        }
+
+        .tab-btn .badge {
+            background: rgba(0,0,0,0.08);
+            padding: 2px 7px;
+            border-radius: 10px;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+
+        .tab-btn.active .badge {
+            background: rgba(255,255,255,0.25);
+            color: #fff;
+        }
+
         /* ── Mobile ── */
         @media (max-width: 600px) {
             header { padding: 40px 0 30px; }
@@ -227,6 +276,8 @@
                 margin-top: 4px;
             }
             .book-title { font-size: 1.15rem; }
+            .tabs-wrap { gap: 6px; }
+            .tab-btn { padding: 6px 12px; font-size: 0.82rem; }
         }
 
         @media (max-width: 400px) {
@@ -250,6 +301,12 @@
         <input type="text" id="searchInput" placeholder="Kitap veya yazar ara…">
     </div>
 
+    <div class="tabs-wrap" id="tabsWrap" style="display: none;">
+        <button class="tab-btn active" data-tab="all">📋 Tüm Liste <span class="badge" id="countAll">0</span></button>
+        <button class="tab-btn" data-tab="read">✅ Okunanlar <span class="badge" id="countRead">0</span></button>
+        <button class="tab-btn" data-tab="unread">⌛ Okunmayanlar <span class="badge" id="countUnread">0</span></button>
+    </div>
+
     <div id="loader">
         <div class="spinner"></div>
         <p class="loader-text">Liste yükleniyor…</p>
@@ -262,10 +319,12 @@
 <script>
     const SHEET_ID = '16X3KyJtwW5uO3fzco0XxaWBzkNYvDBfSDEymGn-MYQo';
     let allBooks = [];
+    let currentTab = 'all';
 
     window.sheetsCallback = function(data) {
         try {
             document.getElementById('loader').style.display = 'none';
+            document.getElementById('tabsWrap').style.display = 'flex';
             const cols = data.table.cols.map(c => c.label);
             allBooks = data.table.rows
                 .filter(row => row !== null)
@@ -288,7 +347,7 @@
                 })
                 .filter(b => b.kitap_adi && b.kitap_adi.trim());
 
-            render(allBooks);
+            filterAndRender();
             renderStats(allBooks);
         } catch(e) {
             document.getElementById('loader').innerHTML = '<p style="color:#ef4444">⚠️ Hata: ' + e.message + '</p>';
@@ -302,6 +361,24 @@
         };
         s.src = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=responseHandler:sheetsCallback`;
         document.body.appendChild(s);
+    }
+
+    function filterAndRender() {
+        const query = document.getElementById('searchInput').value.toLowerCase().trim();
+        
+        let filtered = allBooks.filter(b => {
+            const matchesQuery = !query || 
+                (b.kitap_adi && b.kitap_adi.toLowerCase().includes(query)) ||
+                (b.yazar_adi && b.yazar_adi.toLowerCase().includes(query));
+
+            if (!matchesQuery) return false;
+
+            if (currentTab === 'read') return b.okundu === 'Evet';
+            if (currentTab === 'unread') return b.okundu !== 'Evet';
+            return true; // 'all'
+        });
+
+        render(filtered);
     }
 
     function render(books) {
@@ -340,19 +417,32 @@
     function renderStats(books) {
         const total = books.length;
         const read  = books.filter(b => b.okundu === 'Evet').length;
+        const unread = total - read;
         const owned = books.filter(b => b.kitaplikta_var === 'Evet').length;
+        
         document.getElementById('stats').innerHTML = `
             <div class="stat">📖 Toplam <strong>${total}</strong> Kitap</div>
             <div class="stat">✅ Okunan <strong>${read}</strong></div>
+            <div class="stat">⌛ Okunmayan <strong>${unread}</strong></div>
             <div class="stat">🏠 Kitaplıkta <strong>${owned}</strong></div>`;
+
+        document.getElementById('countAll').innerText = total;
+        document.getElementById('countRead').innerText = read;
+        document.getElementById('countUnread').innerText = unread;
     }
 
-    document.getElementById('searchInput').addEventListener('input', e => {
-        const t = e.target.value.toLowerCase();
-        render(allBooks.filter(b =>
-            b.kitap_adi.toLowerCase().includes(t) ||
-            b.yazar_adi.toLowerCase().includes(t)
-        ));
+    // Tab switcher events
+    document.querySelectorAll('.tab-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            currentTab = btn.getAttribute('data-tab');
+            filterAndRender();
+        });
+    });
+
+    document.getElementById('searchInput').addEventListener('input', () => {
+        filterAndRender();
     });
 
     fetchData();
