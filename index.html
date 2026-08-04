@@ -304,7 +304,7 @@
     <div class="tabs-wrap" id="tabsWrap" style="display: none;">
         <button class="tab-btn active" data-tab="all">📋 Tüm Liste <span class="badge" id="countAll">0</span></button>
         <button class="tab-btn" data-tab="read">✅ Okunanlar <span class="badge" id="countRead">0</span></button>
-        <button class="tab-btn" data-tab="unread">⌛ Okunmayanlar <span class="badge" id="countUnread">0</span></button>
+        <button class="tab-btn" data-tab="unread">⌛ Okunacaklar <span class="badge" id="countUnread">0</span></button>
     </div>
 
     <div id="loader">
@@ -423,7 +423,7 @@
         document.getElementById('stats').innerHTML = `
             <div class="stat">📖 Toplam <strong>${total}</strong> Kitap</div>
             <div class="stat">✅ Okunan <strong>${read}</strong></div>
-            <div class="stat">⌛ Okunmayan <strong>${unread}</strong></div>
+            <div class="stat">⌛ Okunacak <strong>${unread}</strong></div>
             <div class="stat">🏠 Kitaplıkta <strong>${owned}</strong></div>`;
 
         document.getElementById('countAll').innerText = total;
