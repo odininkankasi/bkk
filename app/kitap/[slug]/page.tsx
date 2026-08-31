@@ -22,7 +22,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!book) return { title: "Kitap Bulunamadı" };
 
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://bkkkitaplik.com";
-  const no = book.sira_no ? `#${String(book.sira_no).padStart(2, "0")} ` : "";
+  const isUpcoming = book.sira_no === "Yakında" || !book.sira_no || isNaN(Number(book.sira_no));
+  const no = isUpcoming ? "(Yakında) " : `#${String(book.sira_no).padStart(2, "0")} `;
   const pageTitle = `${no}${book.kitap_adi} — ${book.yazar_adi}`;
   const pageDesc = `${book.kitap_adi} (${book.yazar_adi}) - İthaki Bilimkurgu Klasikleri serisi ${no}künye bilgileri, çevirmeni, yayın yılı ve kişisel okuma günlüğü.`;
   const coverUrl = book.kapak_gorseli
@@ -93,7 +94,8 @@ export default async function BookDetailPage({ params }: Props) {
   const nextBook = bookIndex < books.length - 1 ? books[bookIndex + 1] : null;
 
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://bkkkitaplik.com";
-  const no = book.sira_no ? "#" + String(book.sira_no).padStart(2, "0") : "";
+  const isUpcoming = book.sira_no === "Yakında" || !book.sira_no || isNaN(Number(book.sira_no));
+  const no = isUpcoming ? "Yakında" : "#" + String(book.sira_no).padStart(2, "0");
   const cover = book.kapak_gorseli || "/icon.png";
   const fullCoverUrl = cover.startsWith("http") ? cover : `${baseUrl}${cover}`;
 
@@ -125,11 +127,11 @@ export default async function BookDetailPage({ params }: Props) {
     url: `${baseUrl}/kitap/${book.slug}`,
     description:
       book.tanitim_yazisi ||
-      `${book.kitap_adi}, ${book.yazar_adi} tarafından kaleme alınmış İthaki Bilimkurgu Klasikleri serisinin ${no} numaralı kitabıdır.`,
+      `${book.kitap_adi}, ${book.yazar_adi} tarafından kaleme alınmış İthaki Bilimkurgu Klasikleri serisi eseridir.`,
     isPartOf: {
       "@type": "BookSeries",
       name: "İthaki Bilimkurgu Klasikleri",
-      position: book.sira_no,
+      position: isUpcoming ? undefined : book.sira_no,
     },
   };
 
@@ -184,8 +186,14 @@ export default async function BookDetailPage({ params }: Props) {
         <div className="md:col-span-7">
           {/* Başlık Alanı */}
           <div className="mb-6">
-            <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-md text-xs sm:text-sm font-black uppercase tracking-wider text-[var(--accent)] bg-[var(--accent-soft)] mb-2.5 font-mono">
-              <span>İthaki BKK {no}</span>
+            <div
+              className={`inline-flex items-center gap-1.5 px-3 py-1 rounded-md text-xs sm:text-sm font-black uppercase tracking-wider mb-2.5 font-mono ${
+                isUpcoming
+                  ? "bg-amber-600 text-white"
+                  : "text-[var(--accent)] bg-[var(--accent-soft)]"
+              }`}
+            >
+              <span>{isUpcoming ? "İthaki BKK — Yakında" : `İthaki BKK ${no}`}</span>
             </div>
 
             <h1 className="font-serif text-3xl sm:text-4xl lg:text-5xl font-bold text-[var(--text-primary)] tracking-tight leading-tight mb-2">

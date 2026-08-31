@@ -11,7 +11,8 @@ export default function BookListRow({ book }: Props) {
   const rating = book.puan || 0;
   const stars = rating ? "★".repeat(rating) + "☆".repeat(5 - rating) : "";
   const cover = book.kapak_gorseli || "/icon.png";
-  const no = book.sira_no ? "#" + String(book.sira_no).padStart(2, "0") : "—";
+  const isUpcoming = book.sira_no === "Yakında" || !book.sira_no || isNaN(Number(book.sira_no));
+  const no = isUpcoming ? "Yakında" : "#" + String(book.sira_no).padStart(2, "0");
 
   return (
     <Link
@@ -19,7 +20,11 @@ export default function BookListRow({ book }: Props) {
       className="group bg-[var(--surface-card)] border border-[var(--border-main)] rounded-xl p-3 sm:p-4 flex items-center gap-3.5 sm:gap-4 hover:border-[var(--accent)] hover:bg-[var(--surface-sub)] transition-all duration-150 shadow-xs"
     >
       {/* Numara */}
-      <div className="font-black text-base sm:text-lg text-[var(--text-muted)] min-w-[36px] sm:min-w-[42px] text-center font-mono">
+      <div
+        className={`font-black text-xs sm:text-sm min-w-[50px] sm:min-w-[60px] text-center font-mono py-1 px-1.5 rounded ${
+          isUpcoming ? "bg-amber-600 text-white" : "text-[var(--text-muted)]"
+        }`}
+      >
         {no}
       </div>
 
@@ -53,12 +58,14 @@ export default function BookListRow({ book }: Props) {
 
         <span
           className={`text-xs font-bold px-3 py-1 rounded-md whitespace-nowrap ${
-            isRead
+            isUpcoming
+              ? "bg-amber-950/90 text-amber-300 border border-amber-500/30"
+              : isRead
               ? "bg-[var(--read-tag-bg)] text-[var(--read-tag-text)] border border-emerald-300 dark:border-emerald-800"
               : "bg-[var(--unread-tag-bg)] text-[var(--unread-tag-text)] border border-[var(--border-sub)]"
           }`}
         >
-          {isRead ? "✓ Okundu" : "⌛ Okunacak"}
+          {isUpcoming ? "✨ Yakında" : isRead ? "✓ Okundu" : "⌛ Okunacak"}
         </span>
 
         {isOwned && (

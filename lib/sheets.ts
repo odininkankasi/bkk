@@ -122,11 +122,22 @@ export async function getBooks(): Promise<Book[]> {
           }
         });
 
-        const num = String(obj.sira_no || "0").padStart(2, "0");
-        obj.slug = num + "-" + slugify(obj.kitap_adi);
+        // Sıra No kontrolü (Boşsa veya sayı değilse 'Yakında' olarak ele al)
+        if (!obj.sira_no || obj.sira_no.trim() === "" || isNaN(Number(obj.sira_no))) {
+          obj.sira_no = obj.sira_no || "Yakında";
+          obj.slug = "yakinda-" + slugify(obj.kitap_adi);
+        } else {
+          const num = String(obj.sira_no).padStart(2, "0");
+          obj.slug = num + "-" + slugify(obj.kitap_adi);
+        }
 
         // Yerel Doğrulanmış Künye & HD Kapak Önceliği
-        const fallbackMatch = (fallbackBooks as Book[]).find((fb) => String(fb.sira_no) == String(obj.sira_no));
+        const fallbackMatch = (fallbackBooks as Book[]).find(
+          (fb) =>
+            (fb.sira_no && String(fb.sira_no) === String(obj.sira_no)) ||
+            slugify(fb.kitap_adi) === slugify(obj.kitap_adi)
+        );
+
         if (fallbackMatch) {
           if (fallbackMatch.kapak_gorseli) obj.kapak_gorseli = fallbackMatch.kapak_gorseli;
           if (!obj.cevirmen && fallbackMatch.cevirmen) obj.cevirmen = fallbackMatch.cevirmen;

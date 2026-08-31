@@ -13,20 +13,22 @@ interface Props {
 
 export default function BookCatalog({ initialBooks }: Props) {
   const [query, setQuery] = useState("");
-  const [activeTab, setActiveTab] = useState<"all" | "read" | "unread" | "owned" | "rated">("all");
+  const [activeTab, setActiveTab] = useState<"all" | "read" | "unread" | "owned" | "rated" | "upcoming">("all");
   const [viewMode, setViewMode] = useState<"list" | "grid">("grid");
   const [sortBy, setSortBy] = useState<"no-asc" | "no-desc" | "rating" | "title">("no-asc");
 
   // İstatistikler
   const total = initialBooks.length;
   const readCount = useMemo(() => initialBooks.filter((b) => b.okundu === "Evet").length, [initialBooks]);
-  const unreadCount = total - readCount;
+  const unreadCount = initialBooks.filter((b) => b.okundu !== "Evet" && b.sira_no !== "Yakında" && !isNaN(Number(b.sira_no))).length;
   const ownedCount = useMemo(() => initialBooks.filter((b) => b.kitaplikta_var === "Evet").length, [initialBooks]);
-  const pct = Math.round((readCount / total) * 100) || 0;
+  const upcomingCount = useMemo(() => initialBooks.filter((b) => b.sira_no === "Yakında" || !b.sira_no || isNaN(Number(b.sira_no))).length, [initialBooks]);
+  const pct = Math.round((readCount / (total - upcomingCount || 1)) * 100) || 0;
 
   // Filtreleme ve Sıralama
   const filteredBooks = useMemo(() => {
     let list = initialBooks.filter((b) => {
+      const isUpc = b.sira_no === "Yakında" || !b.sira_no || isNaN(Number(b.sira_no));
       const noMatch = "#" + (b.sira_no || "");
       const q = query.toLowerCase().trim();
       const matchesQuery =
@@ -34,12 +36,14 @@ export default function BookCatalog({ initialBooks }: Props) {
         (b.kitap_adi && b.kitap_adi.toLowerCase().includes(q)) ||
         (b.yazar_adi && b.yazar_adi.toLowerCase().includes(q)) ||
         (b.sira_no && b.sira_no.includes(q)) ||
+        (isUpc && (q.includes("yakin") || q.includes("aytozu"))) ||
         noMatch.includes(q);
 
       if (!matchesQuery) return false;
 
+      if (activeTab === "upcoming") return isUpc;
       if (activeTab === "read") return b.okundu === "Evet";
-      if (activeTab === "unread") return b.okundu !== "Evet";
+      if (activeTab === "unread") return b.okundu !== "Evet" && !isUpc;
       if (activeTab === "owned") return b.kitaplikta_var === "Evet";
       if (activeTab === "rated") return (b.puan || 0) > 0;
 
@@ -48,10 +52,13 @@ export default function BookCatalog({ initialBooks }: Props) {
 
     // Sıralama
     return list.sort((a, b) => {
-      if (sortBy === "no-desc") return (parseInt(b.sira_no) || 0) - (parseInt(a.sira_no) || 0);
+      const numA = parseInt(a.sira_no) || 999999;
+      const numB = parseInt(b.sira_no) || 999999;
+
+      if (sortBy === "no-desc") return numB - numA;
       if (sortBy === "rating") return (b.puan || 0) - (a.puan || 0);
       if (sortBy === "title") return a.kitap_adi.localeCompare(b.kitap_adi, "tr");
-      return (parseInt(a.sira_no) || 0) - (parseInt(b.sira_no) || 0);
+      return numA - numB;
     });
   }, [initialBooks, query, activeTab, sortBy]);
 
@@ -172,6 +179,18 @@ export default function BookCatalog({ initialBooks }: Props) {
             >
               ⭐ Puanlananlar
             </button>
+            {upcomingCount > 0 && (
+              <button
+                onClick={() => setActiveTab("upcoming")}
+                className={`px-4 py-2 rounded-full text-xs sm:text-sm font-bold whitespace-nowrap transition-all cursor-pointer ${
+                  activeTab === "upcoming"
+                    ? "bg-amber-600 text-white shadow-xs"
+                    : "bg-amber-950/20 text-amber-600 dark:text-amber-300 border border-amber-500/30 hover:border-amber-500"
+                }`}
+              >
+                ✨ Yakında ({upcomingCount})
+              </button>
+            )}
           </div>
 
           {/* Görünüm & Sıralama */}

@@ -9,8 +9,9 @@ export default function BookCard({ book }: Props) {
   const isRead = book.okundu === "Evet";
   const rating = book.puan || 0;
   const stars = rating ? "★".repeat(rating) + "☆".repeat(5 - rating) : "";
+  const isUpcoming = book.sira_no === "Yakında" || !book.sira_no || isNaN(Number(book.sira_no));
+  const no = isUpcoming ? "Yakında" : "#" + String(book.sira_no).padStart(2, "0");
   const cover = book.kapak_gorseli || "/icon.png";
-  const no = book.sira_no ? "#" + String(book.sira_no).padStart(2, "0") : "";
 
   // Uzun başlıklar için akıllı tipografi optimizasyonu
   const titleLen = book.kitap_adi?.length || 0;
@@ -36,18 +37,24 @@ export default function BookCard({ book }: Props) {
           loading="lazy"
         />
         {/* Seri No Rozeti */}
-        <div className="absolute top-2 left-2 bg-[#14100c]/90 text-[#faf4e6] text-xs font-black px-2 py-0.5 rounded shadow-sm backdrop-blur-xs font-mono">
+        <div
+          className={`absolute top-2 left-2 text-xs font-black px-2 py-0.5 rounded shadow-sm backdrop-blur-xs font-mono ${
+            isUpcoming ? "bg-amber-600 text-white" : "bg-[#14100c]/90 text-[#faf4e6]"
+          }`}
+        >
           {no}
         </div>
         {/* Okundu Rozeti */}
         <div
           className={`absolute bottom-2 right-2 text-[11px] font-extrabold px-2 py-0.5 rounded shadow-sm ${
-            isRead
+            isUpcoming
+              ? "bg-amber-950/90 text-amber-300 border border-amber-500/30 backdrop-blur-xs"
+              : isRead
               ? "bg-[var(--read-tag-text)] text-white"
               : "bg-[#14100c]/90 text-[#faf4e6] backdrop-blur-xs"
           }`}
         >
-          {isRead ? "✓ Okundu" : "⌛ Okunacak"}
+          {isUpcoming ? "✨ Yakında" : isRead ? "✓ Okundu" : "⌛ Okunacak"}
         </div>
       </div>
 
