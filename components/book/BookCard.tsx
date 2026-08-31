@@ -15,9 +15,9 @@ export default function BookCard({ book }: Props) {
   return (
     <Link
       href={`/kitap/${book.slug}`}
-      className="group bg-stone-50 dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-xl p-2.5 flex flex-col hover:border-amber-700/40 dark:hover:border-amber-500/40 hover:-translate-y-1 transition-all duration-200 shadow-xs hover:shadow-md"
+      className="group bg-white dark:bg-[#131720] border border-[#e7e2d7] dark:border-[#232a36] rounded-xl p-2.5 flex flex-col hover:border-amber-800/40 dark:hover:border-amber-500/40 hover:-translate-y-1 transition-all duration-200 shadow-xs hover:shadow-md"
     >
-      <div className="relative w-full aspect-[2/3] rounded-lg overflow-hidden bg-stone-200 dark:bg-stone-800 mb-2.5 border border-black/5 dark:border-white/5">
+      <div className="relative w-full aspect-[2/3] rounded-lg overflow-hidden bg-[#f3efe6] dark:bg-[#1a202c] mb-2.5 border border-black/5 dark:border-white/5">
         <img
           src={cover}
           alt={book.kitap_adi}
@@ -25,7 +25,7 @@ export default function BookCard({ book }: Props) {
           loading="lazy"
         />
         {/* Seri No Rozeti */}
-        <div className="absolute top-1.5 left-1.5 bg-stone-950/80 text-white text-[11px] font-extrabold px-1.5 py-0.5 rounded backdrop-blur-xs">
+        <div className="absolute top-1.5 left-1.5 bg-stone-950/85 text-white text-[11px] font-extrabold px-1.5 py-0.5 rounded backdrop-blur-xs">
           {no}
         </div>
         {/* Okundu Rozeti */}
@@ -33,7 +33,7 @@ export default function BookCard({ book }: Props) {
           className={`absolute bottom-1.5 right-1.5 text-[10px] font-bold px-1.5 py-0.5 rounded shadow-xs ${
             isRead
               ? "bg-emerald-700 text-white"
-              : "bg-stone-800/80 text-stone-300 backdrop-blur-xs"
+              : "bg-stone-900/85 text-stone-300 backdrop-blur-xs"
           }`}
         >
           {isRead ? "✓ Okundu" : "⌛ Okunacak"}
@@ -49,7 +49,7 @@ export default function BookCard({ book }: Props) {
       </div>
 
       {stars && (
-        <div className="text-amber-500 dark:text-amber-400 text-xs mt-auto pt-1 tracking-tighter font-serif">
+        <div className="text-amber-600 dark:text-amber-400 text-xs mt-auto pt-1 tracking-tighter font-serif">
           {stars}
         </div>
       )}

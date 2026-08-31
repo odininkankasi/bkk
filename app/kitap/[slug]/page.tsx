@@ -2,7 +2,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getBooks, getBookBySlug } from "@/lib/sheets";
 import ReadingPanel from "@/components/book/ReadingPanel";
-import { ArrowLeft, ChevronLeft, ChevronRight, BookOpen, Layers, User, Building2, Sparkles } from "lucide-react";
+import { ArrowLeft, ChevronLeft, ChevronRight, BookOpen, Layers } from "lucide-react";
 import type { Metadata } from "next";
 
 interface Props {
@@ -66,7 +66,7 @@ export default async function BookDetailPage({ params }: Props) {
       <div className="grid grid-cols-1 md:grid-cols-12 gap-8 items-start mb-8">
         {/* Sol Sütun: Kapak Görseli */}
         <div className="md:col-span-4 flex justify-center">
-          <div className="w-full max-w-[260px] md:max-w-none aspect-[2/3] rounded-2xl overflow-hidden shadow-lg border border-stone-200 dark:border-stone-800 bg-stone-200 dark:bg-stone-800 sticky top-24">
+          <div className="w-full max-w-[260px] md:max-w-none aspect-[2/3] rounded-2xl overflow-hidden shadow-md border border-[#e7e2d7] dark:border-[#232a36] bg-[#f3efe6] dark:bg-[#1a202c] sticky top-24">
             <img
               src={cover}
               alt={book.kitap_adi}
@@ -79,7 +79,7 @@ export default async function BookDetailPage({ params }: Props) {
         <div className="md:col-span-8">
           {/* Başlık Alanı */}
           <div className="mb-6">
-            <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-md text-xs font-extrabold uppercase tracking-wider text-amber-800 dark:text-amber-400 bg-amber-800/10 dark:bg-amber-400/10 mb-2">
+            <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-md text-xs font-extrabold uppercase tracking-wider text-amber-900 dark:text-amber-400 bg-amber-900/10 dark:bg-amber-400/10 mb-2">
               <span>İthaki BKK {no}</span>
             </div>
 
@@ -96,7 +96,7 @@ export default async function BookDetailPage({ params }: Props) {
           <ReadingPanel book={book} />
 
           {/* 📖 2. KÜNYE BİLGİLERİ */}
-          <div className="border-t border-stone-200 dark:border-stone-800 pt-6 mb-8">
+          <div className="border-t border-[#e7e2d7] dark:border-[#232a36] pt-6 mb-8">
             <div className="text-xs font-extrabold uppercase tracking-wider text-stone-500 dark:text-stone-400 flex items-center gap-1.5 mb-4">
               <Layers className="w-4 h-4 text-amber-800 dark:text-amber-400" />
               <span>Eser &amp; Yayın Künyesi</span>
@@ -133,8 +133,8 @@ export default async function BookDetailPage({ params }: Props) {
             </div>
           </div>
 
-          {/* 📝 3. TANITIM & ARKA KAPAK YAZISI */}
-          <div className="border-t border-stone-200 dark:border-stone-800 pt-6">
+          {/* 📝 3. TANITIM & ARKA KAPAK YAZISI (Editoryal Ferah Açık Tasarım) */}
+          <div className="border-t border-[#e7e2d7] dark:border-[#232a36] pt-6">
             <div className="text-xs font-extrabold uppercase tracking-wider text-stone-500 dark:text-stone-400 flex items-center gap-1.5 mb-3">
               <BookOpen className="w-4 h-4 text-amber-800 dark:text-amber-400" />
               <span>Tanıtım &amp; Arka Kapak Bülteni</span>
@@ -157,11 +157,11 @@ export default async function BookDetailPage({ params }: Props) {
       </div>
 
       {/* ── Önceki / Sonraki Kitap Navigasyonu ── */}
-      <div className="border-t border-stone-200 dark:border-stone-800 pt-8 mt-12 grid grid-cols-1 sm:grid-cols-2 gap-4">
+      <div className="border-t border-[#e7e2d7] dark:border-[#232a36] pt-8 mt-12 grid grid-cols-1 sm:grid-cols-2 gap-4">
         {prevBook ? (
           <Link
             href={`/kitap/${prevBook.slug}`}
-            className="group border border-stone-200 dark:border-stone-800 rounded-xl p-4 flex items-center gap-3.5 hover:border-amber-700/40 dark:hover:border-amber-500/40 hover:bg-stone-100/50 dark:hover:bg-stone-800/50 transition-colors"
+            className="group bg-white dark:bg-[#131720] border border-[#e7e2d7] dark:border-[#232a36] rounded-xl p-4 flex items-center gap-3.5 hover:border-amber-800/40 dark:hover:border-amber-500/40 hover:bg-[#fbf9f5] dark:hover:bg-[#1a202c] transition-colors shadow-xs"
           >
             <ChevronLeft className="w-5 h-5 text-stone-400 group-hover:text-amber-800 dark:group-hover:text-amber-400 transition-colors flex-shrink-0" />
             <div className="min-w-0">
@@ -178,7 +178,7 @@ export default async function BookDetailPage({ params }: Props) {
         {nextBook ? (
           <Link
             href={`/kitap/${nextBook.slug}`}
-            className="group border border-stone-200 dark:border-stone-800 rounded-xl p-4 flex items-center justify-between gap-3.5 text-right hover:border-amber-700/40 dark:hover:border-amber-500/40 hover:bg-stone-100/50 dark:hover:bg-stone-800/50 transition-colors sm:ml-auto w-full"
+            className="group bg-white dark:bg-[#131720] border border-[#e7e2d7] dark:border-[#232a36] rounded-xl p-4 flex items-center justify-between gap-3.5 text-right hover:border-amber-800/40 dark:hover:border-amber-500/40 hover:bg-[#fbf9f5] dark:hover:bg-[#1a202c] transition-colors sm:ml-auto w-full shadow-xs"
           >
             <div className="min-w-0 flex-1 text-left sm:text-right">
               <div className="text-[11px] font-bold text-stone-400 uppercase">Sonraki Eser ▶</div>
