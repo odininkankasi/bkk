@@ -50,23 +50,23 @@ export default async function BookDetailPage({ params }: Props) {
   const cover = book.kapak_gorseli || "/icon.png";
 
   return (
-    <div className="max-w-4xl mx-auto px-4 sm:px-6 py-8 sm:py-12">
+    <div className="max-w-4xl mx-auto px-4 sm:px-6 py-8 sm:py-14">
       {/* ── Geri Dön Linki ── */}
-      <div className="mb-6">
+      <div className="mb-8">
         <Link
           href="/"
-          className="inline-flex items-center gap-1.5 text-xs sm:text-sm font-bold text-[var(--text-muted)] hover:text-[var(--accent)] transition-colors"
+          className="inline-flex items-center gap-2 text-sm sm:text-base font-bold text-[var(--text-muted)] hover:text-[var(--accent)] transition-colors"
         >
-          <ArrowLeft className="w-4 h-4" />
+          <ArrowLeft className="w-5 h-5" />
           <span>Tüm Bilimkurgu Klasikleri Listesine Dön</span>
         </Link>
       </div>
 
       {/* ── Kitap Başlığı & Kapak Grid ── */}
-      <div className="grid grid-cols-1 md:grid-cols-12 gap-8 items-start mb-8">
+      <div className="grid grid-cols-1 md:grid-cols-12 gap-8 sm:gap-10 items-start mb-10">
         {/* Sol Sütun: Kapak Görseli */}
-        <div className="md:col-span-4 flex justify-center">
-          <div className="w-full max-w-[260px] md:max-w-none aspect-[2/3] rounded-2xl overflow-hidden shadow-md border border-[var(--border-main)] bg-[var(--surface-sub)] sticky top-24">
+        <div className="md:col-span-5 flex justify-center">
+          <div className="w-full max-w-[280px] md:max-w-none aspect-[2/3] rounded-2xl overflow-hidden shadow-lg border border-[var(--border-main)] bg-[var(--surface-sub)] sticky top-24">
             <img
               src={cover}
               alt={book.kitap_adi}
@@ -76,18 +76,18 @@ export default async function BookDetailPage({ params }: Props) {
         </div>
 
         {/* Sağ Sütun: Kitap Bilgileri & Okuma Paneli */}
-        <div className="md:col-span-8">
+        <div className="md:col-span-7">
           {/* Başlık Alanı */}
           <div className="mb-6">
-            <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-md text-xs font-extrabold uppercase tracking-wider text-[var(--accent)] bg-[var(--accent-soft)] mb-2">
+            <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-md text-xs sm:text-sm font-black uppercase tracking-wider text-[var(--accent)] bg-[var(--accent-soft)] mb-2.5 font-mono">
               <span>İthaki BKK {no}</span>
             </div>
 
-            <h1 className="font-serif text-2xl sm:text-4xl font-semibold text-[var(--text-primary)] tracking-tight leading-tight mb-1.5">
+            <h1 className="font-serif text-3xl sm:text-4xl lg:text-5xl font-bold text-[var(--text-primary)] tracking-tight leading-tight mb-2">
               {book.kitap_adi}
             </h1>
 
-            <div className="font-serif text-lg sm:text-xl italic text-[var(--accent)]">
+            <div className="font-serif text-xl sm:text-2xl italic text-[var(--accent)] font-medium">
               {book.yazar_adi}
             </div>
           </div>
@@ -96,37 +96,37 @@ export default async function BookDetailPage({ params }: Props) {
           <ReadingPanel book={book} />
 
           {/* 📖 2. KÜNYE BİLGİLERİ */}
-          <div className="border-t border-[var(--border-main)] pt-6 mb-8">
-            <div className="text-xs font-extrabold uppercase tracking-wider text-[var(--text-muted)] flex items-center gap-1.5 mb-4">
-              <Layers className="w-4 h-4 text-[var(--accent)]" />
+          <div className="border-t border-[var(--border-main)] pt-7 mb-8">
+            <div className="text-xs sm:text-sm font-black uppercase tracking-wider text-[var(--text-muted)] flex items-center gap-2 mb-4">
+              <Layers className="w-4 h-4 sm:w-5 sm:h-5 text-[var(--accent)]" />
               <span>Eser &amp; Yayın Künyesi</span>
             </div>
 
-            <div className="grid grid-cols-2 sm:grid-cols-2 gap-4 text-sm">
+            <div className="grid grid-cols-2 gap-4 sm:gap-6 text-sm sm:text-base">
               <div>
-                <div className="text-[11px] font-bold text-[var(--text-muted)] uppercase">Özgün Adı</div>
-                <div className="font-medium text-[var(--text-primary)] mt-0.5">
+                <div className="text-xs font-bold text-[var(--text-muted)] uppercase">Özgün Adı</div>
+                <div className="font-semibold text-[var(--text-primary)] mt-1">
                   {book.ozgun_adi || book.kitap_adi}
                 </div>
               </div>
 
               <div>
-                <div className="text-[11px] font-bold text-[var(--text-muted)] uppercase">Çevirmen</div>
-                <div className="font-medium text-[var(--text-primary)] mt-0.5">
+                <div className="text-xs font-bold text-[var(--text-muted)] uppercase">Çevirmen</div>
+                <div className="font-semibold text-[var(--text-primary)] mt-1">
                   {book.cevirmen || "İthaki Çeviri Kurulu"}
                 </div>
               </div>
 
               <div>
-                <div className="text-[11px] font-bold text-[var(--text-muted)] uppercase">Yayınevi</div>
-                <div className="font-medium text-[var(--text-primary)] mt-0.5">
+                <div className="text-xs font-bold text-[var(--text-muted)] uppercase">Yayınevi</div>
+                <div className="font-semibold text-[var(--text-primary)] mt-1">
                   İthaki Yayınları
                 </div>
               </div>
 
               <div>
-                <div className="text-[11px] font-bold text-[var(--text-muted)] uppercase">Seri Sıra Numarası</div>
-                <div className="font-mono font-bold text-[var(--text-primary)] mt-0.5">
+                <div className="text-xs font-bold text-[var(--text-muted)] uppercase">Seri Sıra Numarası</div>
+                <div className="font-mono font-black text-base text-[var(--text-primary)] mt-1">
                   {no || "—"}
                 </div>
               </div>
@@ -134,13 +134,13 @@ export default async function BookDetailPage({ params }: Props) {
           </div>
 
           {/* 📝 3. TANITIM & ARKA KAPAK YAZISI */}
-          <div className="border-t border-[var(--border-main)] pt-6">
-            <div className="text-xs font-extrabold uppercase tracking-wider text-[var(--text-muted)] flex items-center gap-1.5 mb-3">
-              <BookOpen className="w-4 h-4 text-[var(--accent)]" />
+          <div className="border-t border-[var(--border-main)] pt-7">
+            <div className="text-xs sm:text-sm font-black uppercase tracking-wider text-[var(--text-muted)] flex items-center gap-2 mb-3.5">
+              <BookOpen className="w-4 h-4 sm:w-5 sm:h-5 text-[var(--accent)]" />
               <span>Tanıtım &amp; Arka Kapak Bülteni</span>
             </div>
 
-            <div className="text-[var(--text-secondary)] leading-relaxed font-sans text-sm sm:text-base">
+            <div className="text-[var(--text-secondary)] leading-relaxed font-sans text-base sm:text-lg">
               {book.tanitim_yazisi ? (
                 <p>{book.tanitim_yazisi}</p>
               ) : (
@@ -161,12 +161,12 @@ export default async function BookDetailPage({ params }: Props) {
         {prevBook ? (
           <Link
             href={`/kitap/${prevBook.slug}`}
-            className="group bg-[var(--surface-card)] border border-[var(--border-main)] rounded-xl p-4 flex items-center gap-3.5 hover:border-[var(--accent)] hover:bg-[var(--surface-sub)] transition-colors shadow-xs"
+            className="group bg-[var(--surface-card)] border border-[var(--border-main)] rounded-xl p-4 sm:p-5 flex items-center gap-4 hover:border-[var(--accent)] hover:bg-[var(--surface-sub)] transition-colors shadow-xs"
           >
-            <ChevronLeft className="w-5 h-5 text-[var(--text-muted)] group-hover:text-[var(--accent)] transition-colors flex-shrink-0" />
+            <ChevronLeft className="w-6 h-6 text-[var(--text-muted)] group-hover:text-[var(--accent)] transition-colors flex-shrink-0" />
             <div className="min-w-0">
-              <div className="text-[11px] font-bold text-[var(--text-muted)] uppercase">◀ Önceki Eser</div>
-              <div className="font-serif font-bold text-sm text-[var(--text-primary)] truncate group-hover:text-[var(--accent)]">
+              <div className="text-xs font-black text-[var(--text-muted)] uppercase">◀ Önceki Eser</div>
+              <div className="font-serif font-bold text-base text-[var(--text-primary)] truncate group-hover:text-[var(--accent)] mt-0.5">
                 #{prevBook.sira_no} {prevBook.kitap_adi}
               </div>
             </div>
@@ -178,15 +178,15 @@ export default async function BookDetailPage({ params }: Props) {
         {nextBook ? (
           <Link
             href={`/kitap/${nextBook.slug}`}
-            className="group bg-[var(--surface-card)] border border-[var(--border-main)] rounded-xl p-4 flex items-center justify-between gap-3.5 text-right hover:border-[var(--accent)] hover:bg-[var(--surface-sub)] transition-colors sm:ml-auto w-full shadow-xs"
+            className="group bg-[var(--surface-card)] border border-[var(--border-main)] rounded-xl p-4 sm:p-5 flex items-center justify-between gap-4 text-right hover:border-[var(--accent)] hover:bg-[var(--surface-sub)] transition-colors sm:ml-auto w-full shadow-xs"
           >
             <div className="min-w-0 flex-1 text-left sm:text-right">
-              <div className="text-[11px] font-bold text-[var(--text-muted)] uppercase">Sonraki Eser ▶</div>
-              <div className="font-serif font-bold text-sm text-[var(--text-primary)] truncate group-hover:text-[var(--accent)]">
+              <div className="text-xs font-black text-[var(--text-muted)] uppercase">Sonraki Eser ▶</div>
+              <div className="font-serif font-bold text-base text-[var(--text-primary)] truncate group-hover:text-[var(--accent)] mt-0.5">
                 #{nextBook.sira_no} {nextBook.kitap_adi}
               </div>
             </div>
-            <ChevronRight className="w-5 h-5 text-[var(--text-muted)] group-hover:text-[var(--accent)] transition-colors flex-shrink-0" />
+            <ChevronRight className="w-6 h-6 text-[var(--text-muted)] group-hover:text-[var(--accent)] transition-colors flex-shrink-0" />
           </Link>
         ) : (
           <div className="hidden sm:block" />

@@ -1,79 +1,77 @@
 @import "tailwindcss";
 
 @layer base {
-  /* ── ☀️ AYDINLIK MOD: SEPYA / KİTAP KAĞIDI (Vintage Book Paper) ── */
+  /* ── ☀️ AYDINLIK MOD: YÜKSEK KONTRASTLI SEPYA / KİTAP KAĞIDI ── */
   :root, [data-theme="light"] {
     --bg-page: #f5eedc;
     --surface-card: #fcf8ee;
-    --surface-sub: #ede3ce;
+    --surface-sub: #eae0cb;
     --surface-input: #ffffff;
-    --text-primary: #2d2319;
-    --text-secondary: #5c4b3a;
-    --text-muted: #8c7864;
-    --border-main: #dfd2be;
-    --border-sub: #cfbfab;
-    --accent: #933c24;
-    --accent-hover: #782f1b;
-    --accent-soft: #f0dfd1;
-    --gold: #b46b1a;
-    --read-tag-bg: #e2ede5;
-    --read-tag-text: #245738;
-    --unread-tag-bg: #eae0ce;
-    --unread-tag-text: #736250;
-    --owned-tag-bg: #e1e9f4;
-    --owned-tag-text: #224b7a;
-    --bar-bg: #e5dac6;
-    --bar-fill: #2d6a4f;
+    --text-primary: #18120b;      /* Derin espresso - maksimum okunabilirlik */
+    --text-secondary: #423424;    /* Net kavruk kahve - çok rahat okunur */
+    --text-muted: #6b5844;        /* Belirgin koyu kum rengi */
+    --border-main: #d8c8b0;
+    --border-sub: #c9b69b;
+    --accent: #8b2c14;            /* Net kiremit/terracotta */
+    --accent-hover: #70210e;
+    --accent-soft: #ebd8c7;
+    --gold: #9a580a;
+    --read-tag-bg: #d7e8db;
+    --read-tag-text: #174a2a;     /* Yüksek kontrastlı zümrüt */
+    --unread-tag-bg: #e6dac5;
+    --unread-tag-text: #594735;
+    --owned-tag-bg: #d8e4f5;
+    --owned-tag-text: #163d6b;
+    --bar-bg: #dfd1bb;
+    --bar-fill: #1f5f3e;
   }
 
-  /* ── 🌙 KARANLIK MOD: SICAK KOYU SEPYA / ESPRESSO (Warm Dark Coffee) ── */
+  /* ── 🌙 KARANLIK MOD: SICAK VE YÜKSEK KONTRASTLI KOYU SEPYA ── */
   [data-theme="dark"] {
-    --bg-page: #17130f;
-    --surface-card: #221c16;
-    --surface-sub: #2c241c;
-    --surface-input: #1a1510;
-    --text-primary: #f2ebd9;
-    --text-secondary: #cfc1aa;
-    --text-muted: #968673;
-    --border-main: #362c22;
-    --border-sub: #45392d;
-    --accent: #de633a;
-    --accent-hover: #f07b53;
-    --accent-soft: #382017;
-    --gold: #f59e0b;
-    --read-tag-bg: #173322;
+    --bg-page: #14100c;
+    --surface-card: #1e1711;
+    --surface-sub: #282018;
+    --surface-input: #17120d;
+    --text-primary: #faf4e6;      /* Sıcak parşömen beyazı - kristal netliğinde */
+    --text-secondary: #d8cbba;    /* Net fildişi */
+    --text-muted: #a69682;        /* Kolay okunan açık kum */
+    --border-main: #3b2f22;
+    --border-sub: #4c3d2e;
+    --accent: #ea6438;
+    --accent-hover: #f97d54;
+    --accent-soft: #381f16;
+    --gold: #fbbf24;
+    --read-tag-bg: #143821;
     --read-tag-text: #4ade80;
-    --unread-tag-bg: #2b231b;
-    --unread-tag-text: #a1917e;
-    --owned-tag-bg: #172a45;
+    --unread-tag-bg: #2b2118;
+    --unread-tag-text: #b8a794;
+    --owned-tag-bg: #152d4d;
     --owned-tag-text: #60a5fa;
-    --bar-bg: #2c241c;
+    --bar-bg: #2b2118;
     --bar-fill: #10b981;
+  }
+
+  html {
+    font-size: 16px;
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
   }
 
   body {
     background-color: var(--bg-page);
     color: var(--text-primary);
-    font-family: var(--font-outfit), -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-    line-height: 1.6;
+    font-family: var(--font-outfit), -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.65;
     min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
     transition: background-color 0.25s ease, color 0.25s ease;
   }
 
   h1, h2, h3, h4, .font-serif-title {
-    font-family: var(--font-lora), Georgia, serif;
+    font-family: var(--font-lora), Georgia, Cambria, 'Times New Roman', Times, serif;
     letter-spacing: -0.015em;
+    color: var(--text-primary);
   }
 }
-
-/* Yardımcı Sepya Sınıfları */
-.bg-theme-page { background-color: var(--bg-page); }
-.bg-theme-card { background-color: var(--surface-card); }
-.bg-theme-sub { background-color: var(--surface-sub); }
-.bg-theme-input { background-color: var(--surface-input); }
-.text-theme-primary { color: var(--text-primary); }
-.text-theme-secondary { color: var(--text-secondary); }
-.text-theme-muted { color: var(--text-muted); }
-.text-theme-accent { color: var(--accent); }
-.border-theme-main { border-color: var(--border-main); }
-.border-theme-sub { border-color: var(--border-sub); }
