@@ -104,8 +104,8 @@ export default function BookCatalog({ initialBooks }: Props) {
         </div>
       </div>
 
-      {/* ── Arama, Filtreler & Görünüm Değiştirici (Sticky) ── */}
-      <div className="sticky top-18 z-30 bg-[var(--bg-page)]/95 backdrop-blur-md border border-[var(--border-main)] rounded-2xl p-4 sm:p-5 mb-8 shadow-sm">
+      {/* ── Arama, Filtreler & Görünüm Değiştirici (Doğal Akış / Ferah) ── */}
+      <div className="bg-[var(--surface-card)] border border-[var(--border-main)] rounded-2xl p-4 sm:p-5 mb-8 shadow-xs">
         {/* Arama Çubuğu */}
         <div className="relative mb-3.5">
           <Search className="w-5 h-5 absolute left-3.5 top-1/2 -translate-y-1/2 text-[var(--text-muted)] pointer-events-none" />

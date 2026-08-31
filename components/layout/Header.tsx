@@ -4,7 +4,7 @@ import { BookOpen, BarChart2, Compass } from "lucide-react";
 
 export default function Header() {
   return (
-    <header className="border-b border-[var(--border-main)] bg-[var(--bg-page)]/95 backdrop-blur-md sticky top-0 z-40">
+    <header className="border-b border-[var(--border-main)] bg-[var(--bg-page)]">
       <div className="max-w-5xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between gap-4">
         {/* Logo & Seri Başlığı */}
         <Link href="/" className="flex items-center gap-2.5 group">
@@ -18,30 +18,30 @@ export default function Header() {
           </div>
         </Link>
 
-        {/* Sağ Navigasyon & Tema */}
+        {/* Sağ Navigasyon & Tema (Masaüstü) */}
         <div className="flex items-center gap-2 sm:gap-4">
           <Link
             href="/"
-            className="text-xs sm:text-sm font-semibold text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors flex items-center gap-1.5"
+            className="text-xs sm:text-sm font-semibold text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors hidden sm:flex items-center gap-1.5"
           >
             <BookOpen className="w-4 h-4" />
-            <span className="hidden sm:inline">Kitaplık</span>
+            <span>Kitaplık</span>
           </Link>
 
           <Link
             href="/seri-rehberi"
-            className="text-xs sm:text-sm font-semibold text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors flex items-center gap-1.5"
+            className="text-xs sm:text-sm font-semibold text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors hidden sm:flex items-center gap-1.5"
           >
             <Compass className="w-4 h-4" />
-            <span className="hidden sm:inline">Seri Rehberi</span>
+            <span>Seri Rehberi</span>
           </Link>
           
           <Link
             href="/istatistik"
-            className="text-xs sm:text-sm font-semibold text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors flex items-center gap-1.5"
+            className="text-xs sm:text-sm font-semibold text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors hidden sm:flex items-center gap-1.5"
           >
             <BarChart2 className="w-4 h-4" />
-            <span className="hidden sm:inline">İstatistik</span>
+            <span>İstatistik</span>
           </Link>
 
           <ThemeToggle />
