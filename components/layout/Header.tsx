@@ -8,15 +8,12 @@ export default function Header() {
       <div className="max-w-5xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between gap-4">
         {/* Logo & Seri Başlığı */}
         <Link href="/" className="flex items-center gap-2.5 group">
-          <div className="w-8 h-8 rounded-lg bg-[var(--accent-soft)] text-[var(--accent)] flex items-center justify-center text-base group-hover:scale-105 transition-transform">
+          <div className="w-9 h-9 rounded-lg bg-[var(--accent-soft)] text-[var(--accent)] flex items-center justify-center text-lg group-hover:scale-105 transition-transform">
             🪐
           </div>
           <div>
-            <div className="font-serif font-bold text-base sm:text-lg text-[var(--text-primary)] tracking-tight leading-none group-hover:text-[var(--accent)] transition-colors">
+            <div className="font-serif font-bold text-lg sm:text-xl text-[var(--text-primary)] tracking-tight leading-none group-hover:text-[var(--accent)] transition-colors">
               Bilimkurgu Klasikleri
-            </div>
-            <div className="text-[11px] font-semibold text-[var(--text-muted)] uppercase tracking-wider mt-0.5">
-              İthaki Yayınları • Dijital Kitaplık
             </div>
           </div>
         </Link>
