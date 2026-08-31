@@ -2,7 +2,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getBooks, getBookBySlug } from "@/lib/sheets";
 import ReadingPanel from "@/components/book/ReadingPanel";
-import { ChevronLeft, ChevronRight, BookOpen, Layers } from "lucide-react";
+import { ChevronLeft, ChevronRight, BookOpen, Layers, Info } from "lucide-react";
 import type { Metadata } from "next";
 
 interface Props {
@@ -154,6 +154,21 @@ export default async function BookDetailPage({ params }: Props) {
                   sunuyor.
                 </p>
               )}
+            </div>
+
+            {/* ℹ️ Otomatik Künye & İletişim Uyarısı */}
+            <div className="mt-6 flex items-start gap-2.5 text-xs sm:text-sm text-[var(--text-muted)] italic font-sans leading-relaxed pt-4 border-t border-[var(--border-main)]/60">
+              <Info className="w-4 h-4 text-[var(--accent)] flex-shrink-0 mt-0.5" />
+              <p>
+                Bu kitabın künye ve tanıtım bilgileri arşiv taramasıyla otomatik oluşturulmuştur; olası çevirmen, sayfa veya baskı hatalarını düzeltmemiz için lütfen{" "}
+                <a
+                  href="mailto:iletisim@bkkkitaplik.com"
+                  className="text-[var(--accent)] not-italic font-semibold underline hover:opacity-80 transition-opacity"
+                >
+                  iletişim e-posta adresinden
+                </a>{" "}
+                bize iletin.
+              </p>
             </div>
           </div>
         </div>
