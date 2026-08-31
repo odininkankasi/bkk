@@ -124,10 +124,15 @@ export async function getBooks(): Promise<Book[]> {
         const num = String(obj.sira_no || "0").padStart(2, "0");
         obj.slug = num + "-" + slugify(obj.kitap_adi);
 
-        // Yerel HD Kapak Önceliği
+        // Yerel Doğrulanmış Künye & HD Kapak Önceliği
         const fallbackMatch = (fallbackBooks as Book[]).find((fb) => String(fb.sira_no) == String(obj.sira_no));
-        if (fallbackMatch && fallbackMatch.kapak_gorseli) {
-          obj.kapak_gorseli = fallbackMatch.kapak_gorseli;
+        if (fallbackMatch) {
+          if (fallbackMatch.kapak_gorseli) obj.kapak_gorseli = fallbackMatch.kapak_gorseli;
+          if (!obj.cevirmen && fallbackMatch.cevirmen) obj.cevirmen = fallbackMatch.cevirmen;
+          if (!obj.ozgun_adi && fallbackMatch.ozgun_adi) obj.ozgun_adi = fallbackMatch.ozgun_adi;
+          if (!obj.sayfa_sayisi && fallbackMatch.sayfa_sayisi) obj.sayfa_sayisi = fallbackMatch.sayfa_sayisi;
+          if (!obj.isbn && fallbackMatch.isbn) obj.isbn = fallbackMatch.isbn;
+          if (!obj.tanitim_yazisi && fallbackMatch.tanitim_yazisi) obj.tanitim_yazisi = fallbackMatch.tanitim_yazisi;
         }
 
         return obj as Book;
