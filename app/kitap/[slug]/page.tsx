@@ -1,8 +1,8 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { getBooks, getBookBySlug } from "@/lib/sheets";
+import { getBooks } from "@/lib/sheets";
 import ReadingPanel from "@/components/book/ReadingPanel";
-import { ChevronLeft, ChevronRight, BookOpen, Layers, Info } from "lucide-react";
+import { ChevronLeft, ChevronRight, BookOpen, Layers } from "lucide-react";
 import type { Metadata } from "next";
 
 interface Props {
@@ -24,7 +24,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const no = book.sira_no ? `#${String(book.sira_no).padStart(2, "0")} ` : "";
   return {
     title: `${no}${book.kitap_adi} — ${book.yazar_adi} | İthaki BKK`,
-    description: `${book.kitap_adi} (${book.yazar_adi}) - İthaki Bilimkurgu Klasikleri serisi ${no}künye bilgileri, tanıtım bülteni ve kişisel okuma günlüğü.`,
+    description: `${book.kitap_adi} (${book.yazar_adi}) - İthaki Bilimkurgu Klasikleri serisi ${no}detayları ve kişisel okuma günlüğü.`,
     openGraph: {
       title: `${no}${book.kitap_adi} — ${book.yazar_adi}`,
       description: `${book.kitap_adi} İthaki Bilimkurgu Klasikleri serisi incelemesi.`,
@@ -33,10 +33,19 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
+async function getBookBySlug(slug: string) {
+  const books = await getBooks();
+  return (
+    books.find((b) => b.slug === slug || b.sira_no === slug || String(b.sira_no).padStart(2, "0") === slug) || null
+  );
+}
+
 export default async function BookDetailPage({ params }: Props) {
   const { slug } = await params;
   const books = await getBooks();
-  const bookIndex = books.findIndex((b) => b.slug === slug || b.sira_no === slug || String(b.sira_no).padStart(2, "0") === slug);
+  const bookIndex = books.findIndex(
+    (b) => b.slug === slug || b.sira_no === slug || String(b.sira_no).padStart(2, "0") === slug
+  );
 
   if (bookIndex === -1) {
     notFound();
@@ -49,6 +58,8 @@ export default async function BookDetailPage({ params }: Props) {
   const no = book.sira_no ? "#" + String(book.sira_no).padStart(2, "0") : "";
   const cover = book.kapak_gorseli || "/icon.png";
 
+  const hasExtraMeta = Boolean(book.cevirmen || book.ozgun_adi || book.sayfa_sayisi || book.isbn);
+
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 py-6 sm:py-10">
       {/* ── Kitap Başlığı & Kapak Grid ── */}
@@ -56,11 +67,7 @@ export default async function BookDetailPage({ params }: Props) {
         {/* Sol Sütun: Kapak Görseli */}
         <div className="md:col-span-5 flex justify-center">
           <div className="w-full max-w-[280px] md:max-w-none aspect-[2/3] rounded-2xl overflow-hidden shadow-lg border border-[var(--border-main)] bg-[var(--surface-sub)] sticky top-6">
-            <img
-              src={cover}
-              alt={book.kitap_adi}
-              className="w-full h-full object-cover"
-            />
+            <img src={cover} alt={book.kitap_adi} className="w-full h-full object-cover" />
           </div>
         </div>
 
@@ -93,38 +100,8 @@ export default async function BookDetailPage({ params }: Props) {
 
             <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 sm:gap-6 text-sm sm:text-base">
               <div>
-                <div className="text-xs font-bold text-[var(--text-muted)] uppercase">Özgün Adı</div>
-                <div className="font-semibold text-[var(--text-primary)] mt-1">
-                  {book.ozgun_adi || book.kitap_adi}
-                </div>
-              </div>
-
-              <div>
-                <div className="text-xs font-bold text-[var(--text-muted)] uppercase">Çevirmen</div>
-                <div className="font-semibold text-[var(--text-primary)] mt-1">
-                  {book.cevirmen || "İthaki Çeviri Kurulu"}
-                </div>
-              </div>
-
-              <div>
-                <div className="text-xs font-bold text-[var(--text-muted)] uppercase">Sayfa Sayısı</div>
-                <div className="font-semibold text-[var(--text-primary)] mt-1">
-                  {book.sayfa_sayisi ? `${book.sayfa_sayisi} sayfa` : "—"}
-                </div>
-              </div>
-
-              <div>
-                <div className="text-xs font-bold text-[var(--text-muted)] uppercase">ISBN</div>
-                <div className="font-mono text-xs sm:text-sm font-semibold text-[var(--text-primary)] mt-1">
-                  {book.isbn || "—"}
-                </div>
-              </div>
-
-              <div>
                 <div className="text-xs font-bold text-[var(--text-muted)] uppercase">Yayınevi</div>
-                <div className="font-semibold text-[var(--text-primary)] mt-1">
-                  İthaki Yayınları
-                </div>
+                <div className="font-semibold text-[var(--text-primary)] mt-1">İthaki Yayınları</div>
               </div>
 
               <div>
@@ -133,44 +110,52 @@ export default async function BookDetailPage({ params }: Props) {
                   {no || "—"}
                 </div>
               </div>
-            </div>
-          </div>
 
-          {/* 📝 3. TANITIM & ARKA KAPAK YAZISI */}
-          <div className="border-t border-[var(--border-main)] pt-7">
-            <div className="text-xs sm:text-sm font-black uppercase tracking-wider text-[var(--text-muted)] flex items-center gap-2 mb-3.5">
-              <BookOpen className="w-4 h-4 sm:w-5 sm:h-5 text-[var(--accent)]" />
-              <span>Tanıtım &amp; Arka Kapak Bülteni</span>
-            </div>
+              {book.ozgun_adi && (
+                <div>
+                  <div className="text-xs font-bold text-[var(--text-muted)] uppercase">Özgün Adı</div>
+                  <div className="font-semibold text-[var(--text-primary)] mt-1">{book.ozgun_adi}</div>
+                </div>
+              )}
 
-            <div className="text-[var(--text-secondary)] leading-relaxed font-sans text-base sm:text-lg">
-              {book.tanitim_yazisi ? (
-                <p>{book.tanitim_yazisi}</p>
-              ) : (
-                <p>
-                  Bilimkurgu edebiyatının mihenk taşlarından biri olan <strong>{book.kitap_adi}</strong>, usta yazar{" "}
-                  <em>{book.yazar_adi}</em> imzasını taşıyor. İthaki Bilimkurgu Klasikleri serisinin <strong>{no}</strong>{" "}
-                  numaralı bu eseri, insanlığın geleceğine, evrenin sınırlarına ve bilinmeyene dair unutulmaz bir anlatı
-                  sunuyor.
-                </p>
+              {book.cevirmen && (
+                <div>
+                  <div className="text-xs font-bold text-[var(--text-muted)] uppercase">Çevirmen</div>
+                  <div className="font-semibold text-[var(--text-primary)] mt-1">{book.cevirmen}</div>
+                </div>
+              )}
+
+              {book.sayfa_sayisi && (
+                <div>
+                  <div className="text-xs font-bold text-[var(--text-muted)] uppercase">Sayfa Sayısı</div>
+                  <div className="font-semibold text-[var(--text-primary)] mt-1">{book.sayfa_sayisi} sayfa</div>
+                </div>
+              )}
+
+              {book.isbn && (
+                <div>
+                  <div className="text-xs font-bold text-[var(--text-muted)] uppercase">ISBN</div>
+                  <div className="font-mono text-xs sm:text-sm font-semibold text-[var(--text-primary)] mt-1">
+                    {book.isbn}
+                  </div>
+                </div>
               )}
             </div>
-
-            {/* ℹ️ Otomatik Künye & İletişim Uyarısı */}
-            <div className="mt-6 flex items-start gap-2.5 text-xs sm:text-sm text-[var(--text-muted)] italic font-sans leading-relaxed pt-4 border-t border-[var(--border-main)]/60">
-              <Info className="w-4 h-4 text-[var(--accent)] flex-shrink-0 mt-0.5" />
-              <p>
-                Bu kitabın künye ve tanıtım bilgileri arşiv taramasıyla otomatik oluşturulmuştur; olası çevirmen, sayfa veya baskı hatalarını düzeltmemiz için lütfen{" "}
-                <a
-                  href="mailto:iletisim@bkkkitaplik.com"
-                  className="text-[var(--accent)] not-italic font-semibold underline hover:opacity-80 transition-opacity"
-                >
-                  iletişim e-posta adresinden
-                </a>{" "}
-                bize iletin.
-              </p>
-            </div>
           </div>
+
+          {/* 📝 3. TANITIM & ARKA KAPAK YAZISI (Varsa Göster) */}
+          {book.tanitim_yazisi && (
+            <div className="border-t border-[var(--border-main)] pt-7">
+              <div className="text-xs sm:text-sm font-black uppercase tracking-wider text-[var(--text-muted)] flex items-center gap-2 mb-3.5">
+                <BookOpen className="w-4 h-4 sm:w-5 sm:h-5 text-[var(--accent)]" />
+                <span>Tanıtım &amp; Arka Kapak Bülteni</span>
+              </div>
+
+              <div className="text-[var(--text-secondary)] leading-relaxed font-sans text-base sm:text-lg">
+                <p>{book.tanitim_yazisi}</p>
+              </div>
+            </div>
+          )}
         </div>
       </div>
 
