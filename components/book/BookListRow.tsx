@@ -59,7 +59,7 @@ export default function BookListRow({ book }: Props) {
         <span
           className={`text-xs font-bold px-3 py-1 rounded-md whitespace-nowrap ${
             isUpcoming
-              ? "bg-amber-950/90 text-amber-300 border border-amber-500/30"
+              ? "bg-amber-100 dark:bg-amber-950/80 text-amber-950 dark:text-amber-200 border border-amber-300 dark:border-amber-700"
               : isRead
               ? "bg-[var(--read-tag-bg)] text-[var(--read-tag-text)] border border-emerald-300 dark:border-emerald-800"
               : "bg-[var(--unread-tag-bg)] text-[var(--unread-tag-text)] border border-[var(--border-sub)]"

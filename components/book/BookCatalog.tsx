@@ -182,10 +182,10 @@ export default function BookCatalog({ initialBooks }: Props) {
             {upcomingCount > 0 && (
               <button
                 onClick={() => setActiveTab("upcoming")}
-                className={`px-4 py-2 rounded-full text-xs sm:text-sm font-bold whitespace-nowrap transition-all cursor-pointer ${
+                className={`px-4 py-2 rounded-full text-xs sm:text-sm font-black whitespace-nowrap transition-all cursor-pointer ${
                   activeTab === "upcoming"
                     ? "bg-amber-600 text-white shadow-xs"
-                    : "bg-amber-950/20 text-amber-600 dark:text-amber-300 border border-amber-500/30 hover:border-amber-500"
+                    : "bg-amber-100 dark:bg-amber-950/40 text-amber-950 dark:text-amber-200 border border-amber-300 dark:border-amber-700 hover:bg-amber-200 dark:hover:bg-amber-900/60"
                 }`}
               >
                 ✨ Yakında ({upcomingCount})

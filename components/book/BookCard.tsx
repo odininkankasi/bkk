@@ -48,7 +48,7 @@ export default function BookCard({ book }: Props) {
         <div
           className={`absolute bottom-2 right-2 text-[11px] font-extrabold px-2 py-0.5 rounded shadow-sm ${
             isUpcoming
-              ? "bg-amber-950/90 text-amber-300 border border-amber-500/30 backdrop-blur-xs"
+              ? "bg-amber-600 text-white"
               : isRead
               ? "bg-[var(--read-tag-text)] text-white"
               : "bg-[#14100c]/90 text-[#faf4e6] backdrop-blur-xs"
