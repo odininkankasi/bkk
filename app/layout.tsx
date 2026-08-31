@@ -18,7 +18,7 @@ const outfit = Outfit({
 
 export const metadata: Metadata = {
   title: "İthaki Bilimkurgu Klasikleri — Dijital Kitaplık & Okuma Rehberi",
-  description: "İthaki Yayınları Bilimkurgu Klasikleri (BKK) serisi tam külliyatı, kapak görselleri, künye bilgileri, tanıtım bültenleri ve kişisel okuma günlüğü.",
+  description: "İthaki Yayınları Bilimkurgu Klasikleri külliyatı; kişisel okuma günlüğüm, kitap listeleri ve kitap yorumlarım.",
   manifest: "/manifest.json",
   icons: {
     icon: "/icon.png",
