@@ -57,14 +57,21 @@ export default async function SeriesGuidePage() {
             <span>Seri Rehberi</span>
           </div>
           <h1 className="font-serif text-3xl sm:text-5xl font-bold text-[var(--text-primary)] tracking-tight">
-            Alt Seriler &amp; Edebi Külliyat
+            Alt Seriler &amp; Edebi Evrenler
           </h1>
-          <p className="text-[var(--text-secondary)] text-base sm:text-lg mt-2 max-w-2xl font-medium">
-            İthaki Bilimkurgu Klasikleri dizisinde seri içinde devam eden alt seriler, devam kitapları ve okuma sıraları.
-          </p>
         </div>
 
         <ExcelExportButton books={books} />
+      </div>
+
+      {/* ── 📖 Editoryal Özet & Rehber Metni (Açık ve Ferah Tipografi) ── */}
+      <div className="space-y-3.5 text-base sm:text-lg text-[var(--text-secondary)] leading-relaxed font-sans mb-8">
+        <p>
+          İthaki Bilimkurgu Klasikleri dizisi, bağımsız başyapıtların yanı sıra dünya edebiyat tarihine damgasını vurmuş çok ciltli epik evrenlere de ev sahipliği yapıyor. Frank Herbert&apos;ın Arrakis çöllerinde kurduğu altı ciltlik devasa <em>Dune</em> evreninden, Kim Stanley Robinson&apos;ın insanlığın kızıl gezegendeki geleceğini adım adım inşa ettiği <em>Mars Üçlemesi</em>&apos;ne kadar uzanan bu alt seriler; tek bir kitapla sınırlı kalmayan, nesiller boyu süren felsefi, politik ve ekolojik dönüşümleri derinlemesine ele alır.
+        </p>
+        <p>
+          Bu rehberde, külliyat içerisinde farklı sıra numaralarıyla yayımlanmış ancak kronolojik veya tematik olarak birbirini takip eden alt serileri bir arada bulabilir; ciltlerin serideki sıra numaralarını ve yayın akışını kolayca takip edebilirsiniz.
+        </p>
       </div>
 
       {/* ── 🚀 Kategori Navigasyonu (Alt Seriler / Yazarlar / Çevirmenler) ── */}
@@ -82,9 +89,9 @@ export default async function SeriesGuidePage() {
                 <div className="text-xs font-black uppercase tracking-wider text-[var(--accent)] font-mono">
                   {series.author}
                 </div>
-                <h3 className="font-serif text-2xl sm:text-3xl font-bold text-[var(--text-primary)] mt-0.5">
+                <h2 className="font-serif text-2xl sm:text-3xl font-bold text-[var(--text-primary)] mt-0.5">
                   {series.title}
-                </h3>
+                </h2>
               </div>
 
               <div className="text-right">

@@ -1,6 +1,6 @@
 import { getBooks, Book } from "@/lib/sheets";
 import Link from "next/link";
-import { Users, ChevronRight } from "lucide-react";
+import { ChevronRight } from "lucide-react";
 import ExcelExportButton from "@/components/book/ExcelExportButton";
 import GuideNav from "@/components/layout/GuideNav";
 import type { Metadata } from "next";
@@ -42,12 +42,19 @@ export default async function AuthorsPage() {
           <h1 className="font-serif text-3xl sm:text-5xl font-bold text-[var(--text-primary)] tracking-tight">
             Külliyat Yazarları Atlası
           </h1>
-          <p className="text-[var(--text-secondary)] text-base sm:text-lg mt-2 max-w-2xl font-medium">
-            İthaki Bilimkurgu Klasikleri serisinde yer alan <strong>{totalAuthors}</strong> usta yazar ve serideki tüm eserleri.
-          </p>
         </div>
 
         <ExcelExportButton books={books} />
+      </div>
+
+      {/* ── 📖 Editoryal Özet Metni (Açık ve Ferah Tipografi) ── */}
+      <div className="space-y-3.5 text-base sm:text-lg text-[var(--text-secondary)] leading-relaxed font-sans mb-8">
+        <p>
+          19. yüzyılın erken dönem spekülatif anlatılarından 20. yüzyılın altın çağına, yeni dalgadan siberpunk akımına kadar uzanan İthaki Bilimkurgu Klasikleri; insanlığın geleceğini, varoluşunu ve sınırlarını sorgulayan <strong>{totalAuthors}</strong> vizyoner yazarın başyapıtlarını bir araya getiriyor. Arthur C. Clarke, Isaac Asimov, Philip K. Dick, Ursula K. Le Guin, Octavia E. Butler ve Strugatski Kardeşler gibi edebiyat anıtlarının yanı sıra Doğu Bloku&apos;ndan Latin Amerika&apos;ya kadar dünya bilimkurgusunun gizli kalmış hazineleri bu atlas üzerinde buluşuyor.
+        </p>
+        <p>
+          Aşağıdaki külliyat atlası üzerinden seride yer alan tüm yazarları eser sayılarıyla birlikte inceleyebilir, favori yazarınızın dizideki tüm ciltlerine ve sıra numaralarına tek tıkla ulaşabilirsiniz.
+        </p>
       </div>
 
       {/* ── 🚀 Kategori Navigasyonu (Alt Seriler / Yazarlar / Çevirmenler) ── */}

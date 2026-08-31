@@ -1,6 +1,6 @@
 import { getBooks, Book } from "@/lib/sheets";
 import Link from "next/link";
-import { Feather, ChevronRight } from "lucide-react";
+import { ChevronRight } from "lucide-react";
 import ExcelExportButton from "@/components/book/ExcelExportButton";
 import GuideNav from "@/components/layout/GuideNav";
 import type { Metadata } from "next";
@@ -44,12 +44,19 @@ export default async function TranslatorsPage() {
           <h1 className="font-serif text-3xl sm:text-5xl font-bold text-[var(--text-primary)] tracking-tight">
             Külliyat Çevirmenleri Atlası
           </h1>
-          <p className="text-[var(--text-secondary)] text-base sm:text-lg mt-2 max-w-2xl font-medium">
-            Bilimkurgu edebiyatının mihenk taşlarını dilimize kazandıran <strong>{totalTranslators}</strong> değerli çevirmen ve eserleri.
-          </p>
         </div>
 
         <ExcelExportButton books={books} />
+      </div>
+
+      {/* ── 📖 Editoryal Özet Metni (Açık ve Ferah Tipografi) ── */}
+      <div className="space-y-3.5 text-base sm:text-lg text-[var(--text-secondary)] leading-relaxed font-sans mb-8">
+        <p>
+          Bir bilimkurgu başyapıtını okumak, yalnızca yazarın tasarladığı uzak geleceğe adım atmak değil; o evrenin terminolojisini, felsefesini ve ritmini Türkçede ilmek ilmek yeniden kuran çevirmenin edebi emeğine ortak olmaktır. Frank Herbert&apos;ın özgün kavramlarından Strugatski Kardeşler&apos;in Sovyet dönemi taşlamalarına, siberpunk jargondan mitolojik alegorilere kadar her bir satır, çevirmenlerin titiz diliyle hayat bulmuştur.
+        </p>
+        <p>
+          Dost Körpe&apos;den Hazal Yalın&apos;a, Murat Özbank&apos;tan Can Kantarcı, Sönmez Güven ve İpek Ortaer&apos;e kadar İthaki Bilimkurgu Klasikleri serisine emek veren <strong>{totalTranslators}</strong> değerli çevirmeni, serideki katkıları ve Türkçeye kazandırdıkları başyapıtlarla birlikte bu atlas üzerinde listeliyoruz.
+        </p>
       </div>
 
       {/* ── 🚀 Kategori Navigasyonu (Alt Seriler / Yazarlar / Çevirmenler) ── */}
