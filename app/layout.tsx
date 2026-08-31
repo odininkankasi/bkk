@@ -18,7 +18,7 @@ const outfit = Outfit({
 
 export const metadata: Metadata = {
   title: "İthaki Bilimkurgu Klasikleri — Dijital Kitaplık & Okuma Rehberi",
-  description: "İthaki Yayınları Bilimkurgu Klasikleri (BKK) serisi 116+ kitap tam külliyatı, kapak görselleri, künye bilgileri, tanıtım bültenleri ve kişisel okuma günlüğü.",
+  description: "İthaki Yayınları Bilimkurgu Klasikleri (BKK) serisi tam külliyatı, kapak görselleri, künye bilgileri, tanıtım bültenleri ve kişisel okuma günlüğü.",
   manifest: "/manifest.json",
   icons: {
     icon: "/icon.png",
@@ -33,7 +33,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="tr" data-theme="light" className={`${lora.variable} ${outfit.variable} scroll-smooth`}>
-      <body className="antialiased min-h-screen flex flex-col selection:bg-amber-200 selection:text-stone-900">
+      <body className="antialiased min-h-screen flex flex-col selection:bg-amber-900/20 selection:text-amber-950">
         <Header />
         <main className="flex-1">
           {children}
