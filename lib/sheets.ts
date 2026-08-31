@@ -15,6 +15,7 @@ export interface Book {
   cevirmen?: string;
   ozgun_adi?: string;
   sayfa_sayisi?: string;
+  isbn?: string;
   basim_yili?: string;
   slug: string;
 }

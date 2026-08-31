@@ -91,7 +91,7 @@ export default async function BookDetailPage({ params }: Props) {
               <span>Eser &amp; Yayın Künyesi</span>
             </div>
 
-            <div className="grid grid-cols-2 gap-4 sm:gap-6 text-sm sm:text-base">
+            <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 sm:gap-6 text-sm sm:text-base">
               <div>
                 <div className="text-xs font-bold text-[var(--text-muted)] uppercase">Özgün Adı</div>
                 <div className="font-semibold text-[var(--text-primary)] mt-1">
@@ -103,6 +103,20 @@ export default async function BookDetailPage({ params }: Props) {
                 <div className="text-xs font-bold text-[var(--text-muted)] uppercase">Çevirmen</div>
                 <div className="font-semibold text-[var(--text-primary)] mt-1">
                   {book.cevirmen || "İthaki Çeviri Kurulu"}
+                </div>
+              </div>
+
+              <div>
+                <div className="text-xs font-bold text-[var(--text-muted)] uppercase">Sayfa Sayısı</div>
+                <div className="font-semibold text-[var(--text-primary)] mt-1">
+                  {book.sayfa_sayisi ? `${book.sayfa_sayisi} sayfa` : "—"}
+                </div>
+              </div>
+
+              <div>
+                <div className="text-xs font-bold text-[var(--text-muted)] uppercase">ISBN</div>
+                <div className="font-mono text-xs sm:text-sm font-semibold text-[var(--text-primary)] mt-1">
+                  {book.isbn || "—"}
                 </div>
               </div>
 
