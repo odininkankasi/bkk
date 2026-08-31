@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { Book } from "@/lib/sheets";
 import { exportBooksToCSV } from "@/lib/utils";
-import { Download, FileSpreadsheet, Check } from "lucide-react";
+import { FileSpreadsheet, Check } from "lucide-react";
 
 interface Props {
   books: Book[];
@@ -21,17 +21,17 @@ export default function ExcelExportButton({ books }: Props) {
   return (
     <button
       onClick={handleExport}
-      className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold border border-emerald-600/30 dark:border-emerald-500/30 bg-emerald-50 dark:bg-emerald-950/40 text-emerald-800 dark:text-emerald-300 hover:bg-emerald-100 dark:hover:bg-emerald-900/50 transition-colors shadow-xs cursor-pointer"
+      className="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-lg text-xs font-bold border border-[var(--border-main)] bg-[var(--surface-card)] text-[var(--text-primary)] hover:border-[var(--accent)] hover:text-[var(--accent)] transition-all shadow-xs cursor-pointer"
       title="Tüm BKK serisini Excel olarak indir"
     >
       {downloaded ? (
         <>
-          <Check className="w-3.5 h-3.5 text-emerald-600 dark:text-emerald-400" />
+          <Check className="w-3.5 h-3.5 text-emerald-600" />
           <span>Excel İndirildi!</span>
         </>
       ) : (
         <>
-          <FileSpreadsheet className="w-3.5 h-3.5 text-emerald-600 dark:text-emerald-400" />
+          <FileSpreadsheet className="w-3.5 h-3.5 text-[var(--accent)]" />
           <span>Excel İndir (.csv)</span>
         </>
       )}

@@ -22,18 +22,18 @@ export default function ThemeToggle() {
   return (
     <button
       onClick={toggle}
-      className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold border border-stone-300 dark:border-stone-700 bg-stone-100/80 dark:bg-stone-800/80 text-stone-700 dark:text-stone-300 hover:bg-stone-200 dark:hover:bg-stone-700 transition-colors shadow-xs cursor-pointer"
+      className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-bold border border-[var(--border-main)] bg-[var(--surface-card)] text-[var(--text-primary)] hover:border-[var(--accent)] transition-all shadow-xs cursor-pointer"
       title="Temayı Değiştir"
     >
       {theme === "light" ? (
         <>
-          <Moon className="w-3.5 h-3.5" />
-          <span>Koyu Mod</span>
+          <Moon className="w-3.5 h-3.5 text-[var(--accent)]" />
+          <span>Karanlık Mod</span>
         </>
       ) : (
         <>
           <Sun className="w-3.5 h-3.5 text-amber-400" />
-          <span>Açık Mod</span>
+          <span>Sepya Mod</span>
         </>
       )}
     </button>

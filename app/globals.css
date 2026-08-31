@@ -1,53 +1,63 @@
 @import "tailwindcss";
 
 @layer base {
-  :root {
-    --bg-main: #fbf9f5;
-    --surface: #ffffff;
-    --surface-sub: #f3efe6;
-    --text-main: #1c1917;
-    --text-sub: #44403c;
-    --text-muted: #78716c;
-    --border: #e7e2d7;
-    --border-sub: #ded8cb;
-    --accent: #9a3412;
-    --accent-hover: #7c2d12;
-    --gold: #b45309;
-    --read-text: #166534;
-    --read-bg: #dcfce7;
-    --unread-text: #78716c;
-    --unread-bg: #f3efe6;
-    --owned-text: #1e40af;
-    --owned-bg: #dbeafe;
+  /* ── ☀️ AYDINLIK MOD: SEPYA / KİTAP KAĞIDI (Vintage Book Paper) ── */
+  :root, [data-theme="light"] {
+    --bg-page: #f5eedc;
+    --surface-card: #fcf8ee;
+    --surface-sub: #ede3ce;
+    --surface-input: #ffffff;
+    --text-primary: #2d2319;
+    --text-secondary: #5c4b3a;
+    --text-muted: #8c7864;
+    --border-main: #dfd2be;
+    --border-sub: #cfbfab;
+    --accent: #933c24;
+    --accent-hover: #782f1b;
+    --accent-soft: #f0dfd1;
+    --gold: #b46b1a;
+    --read-tag-bg: #e2ede5;
+    --read-tag-text: #245738;
+    --unread-tag-bg: #eae0ce;
+    --unread-tag-text: #736250;
+    --owned-tag-bg: #e1e9f4;
+    --owned-tag-text: #224b7a;
+    --bar-bg: #e5dac6;
+    --bar-fill: #2d6a4f;
   }
 
+  /* ── 🌙 KARANLIK MOD: SICAK KOYU SEPYA / ESPRESSO (Warm Dark Coffee) ── */
   [data-theme="dark"] {
-    --bg-main: #0c0f14;
-    --surface: #131720;
-    --surface-sub: #1a202c;
-    --text-main: #f8fafc;
-    --text-sub: #cbd5e1;
-    --text-muted: #94a3b8;
-    --border: #232a36;
-    --border-sub: #2d3748;
-    --accent: #ea580c;
-    --accent-hover: #c2410c;
+    --bg-page: #17130f;
+    --surface-card: #221c16;
+    --surface-sub: #2c241c;
+    --surface-input: #1a1510;
+    --text-primary: #f2ebd9;
+    --text-secondary: #cfc1aa;
+    --text-muted: #968673;
+    --border-main: #362c22;
+    --border-sub: #45392d;
+    --accent: #de633a;
+    --accent-hover: #f07b53;
+    --accent-soft: #382017;
     --gold: #f59e0b;
-    --read-text: #4ade80;
-    --read-bg: #064e3b;
-    --unread-text: #94a3b8;
-    --unread-bg: #1e293b;
-    --owned-text: #60a5fa;
-    --owned-bg: #1e3a8a;
+    --read-tag-bg: #173322;
+    --read-tag-text: #4ade80;
+    --unread-tag-bg: #2b231b;
+    --unread-tag-text: #a1917e;
+    --owned-tag-bg: #172a45;
+    --owned-tag-text: #60a5fa;
+    --bar-bg: #2c241c;
+    --bar-fill: #10b981;
   }
 
   body {
-    background-color: var(--bg-main);
-    color: var(--text-main);
+    background-color: var(--bg-page);
+    color: var(--text-primary);
     font-family: var(--font-outfit), -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
     line-height: 1.6;
     min-height: 100vh;
-    transition: background-color 0.2s ease, color 0.2s ease;
+    transition: background-color 0.25s ease, color 0.25s ease;
   }
 
   h1, h2, h3, h4, .font-serif-title {
@@ -55,3 +65,15 @@
     letter-spacing: -0.015em;
   }
 }
+
+/* Yardımcı Sepya Sınıfları */
+.bg-theme-page { background-color: var(--bg-page); }
+.bg-theme-card { background-color: var(--surface-card); }
+.bg-theme-sub { background-color: var(--surface-sub); }
+.bg-theme-input { background-color: var(--surface-input); }
+.text-theme-primary { color: var(--text-primary); }
+.text-theme-secondary { color: var(--text-secondary); }
+.text-theme-muted { color: var(--text-muted); }
+.text-theme-accent { color: var(--accent); }
+.border-theme-main { border-color: var(--border-main); }
+.border-theme-sub { border-color: var(--border-sub); }
