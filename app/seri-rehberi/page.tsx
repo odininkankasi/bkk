@@ -1,12 +1,13 @@
 import { getBooks, Book } from "@/lib/sheets";
 import Link from "next/link";
-import { Users, Layers, BookOpen, ChevronRight } from "lucide-react";
+import { Users, Layers, Feather, ChevronRight, BookOpen } from "lucide-react";
 import ExcelExportButton from "@/components/book/ExcelExportButton";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Seri Rehberi & Alt Seriler — İthaki BKK",
-  description: "İthaki Bilimkurgu Klasikleri serisi genel külliyat rehberi, alt seriler (Dune, Mars Üçlemesi vb.) ve yazarlar atlası.",
+  title: "Seri Rehberi, Alt Seriler & Çevirmenler Atlası — İthaki BKK",
+  description:
+    "İthaki Bilimkurgu Klasikleri külliyat rehberi: Alt seriler (Dune, Mars Üçlemesi), külliyat yazarları ve Türkçeye kazandıran çevirmenler atlası.",
 };
 
 export const revalidate = 60;
@@ -14,24 +15,44 @@ export const revalidate = 60;
 export default async function SeriesGuidePage() {
   const books = await getBooks();
 
-  // 1. Yazarlar Haritası & İstatistikleri (Genel Külliyat Verisi)
-  const authorMap: Record<string, { total: number; books: Book[] }> = {};
+  // 1. Yazarlar Haritası & İstatistikleri
+  const authorMap: Record<string, { total: number; pages: number; books: Book[] }> = {};
+  // 2. Çevirmenler Haritası & İstatistikleri
+  const translatorMap: Record<string, { total: number; pages: number; books: Book[] }> = {};
+
+  let totalPages = 0;
+
   books.forEach((b) => {
+    const pageNum = parseInt(b.sayfa_sayisi || "0", 10) || 0;
+    totalPages += pageNum;
+
+    // Yazar
     const author = b.yazar_adi?.trim() || "Bilinmeyen Yazar";
     if (!authorMap[author]) {
-      authorMap[author] = { total: 0, books: [] };
+      authorMap[author] = { total: 0, pages: 0, books: [] };
     }
     authorMap[author].total++;
+    authorMap[author].pages += pageNum;
     authorMap[author].books.push(b);
+
+    // Çevirmen
+    const translator = b.cevirmen?.trim() || "İthaki Çeviri Kurulu";
+    if (!translatorMap[translator]) {
+      translatorMap[translator] = { total: 0, pages: 0, books: [] };
+    }
+    translatorMap[translator].total++;
+    translatorMap[translator].pages += pageNum;
+    translatorMap[translator].books.push(b);
   });
 
   const totalAuthors = Object.keys(authorMap).length;
+  const totalTranslators = Object.keys(translatorMap).length;
 
-  // En çok kitabı olan yazarlar
-  const topAuthors = Object.entries(authorMap)
-    .sort((a, b) => b[1].total - a[1].total);
+  // Sıralamalar
+  const sortedAuthors = Object.entries(authorMap).sort((a, b) => b[1].total - a[1].total);
+  const sortedTranslators = Object.entries(translatorMap).sort((a, b) => b[1].total - a[1].total);
 
-  // 2. Alt Seriler Tanımları (Genel Edebi Bilgi)
+  // 3. Alt Seriler Tanımları
   const subSeries = [
     {
       id: "dune",
@@ -51,7 +72,6 @@ export default async function SeriesGuidePage() {
     },
   ];
 
-  // Alt serilerin kitap nesnelerini bağlama
   const subSeriesWithBooks = subSeries.map((s) => {
     const matchedBooks = s.bookNumbers
       .map((num) => books.find((b) => b.sira_no == num))
@@ -67,7 +87,7 @@ export default async function SeriesGuidePage() {
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 py-6 sm:py-12">
       {/* ── Başlık & Açıklama ── */}
-      <div className="mb-10 flex flex-wrap items-center justify-between gap-4">
+      <div className="mb-8 flex flex-wrap items-center justify-between gap-4">
         <div>
           <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-md text-xs font-black uppercase tracking-wider text-[var(--accent)] bg-[var(--accent-soft)] mb-2.5 font-mono">
             <span>Genel Külliyat Rehberi</span>
@@ -76,14 +96,42 @@ export default async function SeriesGuidePage() {
             Seri Rehberi
           </h1>
           <p className="text-[var(--text-secondary)] text-base sm:text-lg mt-2 max-w-2xl font-medium">
-            İthaki Bilimkurgu Klasikleri külliyatının alt serileri, seri içinde seri olan ciltler ve yazarlar atlası.
+            İthaki Bilimkurgu Klasikleri külliyatının alt serileri, çevirmenler atlası ve yazarlar haritası.
           </p>
         </div>
 
         <ExcelExportButton books={books} />
       </div>
 
-      {/* ── 🌟 BÖLÜM 1: SERİ İÇİNDE SERİ OLAN KİTAPLAR (ALT SERİLER) ── */}
+      {/* ── 📊 Külliyat Hızlı İstatistik Rozetleri ── */}
+      <div className="grid grid-cols-2 sm:grid-cols-4 gap-3.5 mb-12">
+        <div className="p-4 rounded-xl border border-[var(--border-main)] bg-[var(--surface-card)]">
+          <div className="text-xs font-bold uppercase text-[var(--text-muted)]">Toplam Cilt</div>
+          <div className="font-serif text-2xl sm:text-3xl font-bold text-[var(--text-primary)] mt-1 font-mono">
+            {books.length} Kitap
+          </div>
+        </div>
+        <div className="p-4 rounded-xl border border-[var(--border-main)] bg-[var(--surface-card)]">
+          <div className="text-xs font-bold uppercase text-[var(--text-muted)]">Yazar Sayısı</div>
+          <div className="font-serif text-2xl sm:text-3xl font-bold text-[var(--text-primary)] mt-1 font-mono">
+            {totalAuthors} Yazar
+          </div>
+        </div>
+        <div className="p-4 rounded-xl border border-[var(--border-main)] bg-[var(--surface-card)]">
+          <div className="text-xs font-bold uppercase text-[var(--text-muted)]">Çevirmen Kadrosu</div>
+          <div className="font-serif text-2xl sm:text-3xl font-bold text-[var(--accent)] mt-1 font-mono">
+            {totalTranslators} Çevirmen
+          </div>
+        </div>
+        <div className="p-4 rounded-xl border border-[var(--border-main)] bg-[var(--surface-card)]">
+          <div className="text-xs font-bold uppercase text-[var(--text-muted)]">Toplam Külliyat</div>
+          <div className="font-serif text-2xl sm:text-3xl font-bold text-[var(--text-primary)] mt-1 font-mono">
+            {totalPages.toLocaleString("tr-TR")} Sayfa
+          </div>
+        </div>
+      </div>
+
+      {/* ── 🌟 BÖLÜM 1: SERİ İÇİNDE DEVAM EDEN ALT SERİLER ── */}
       <section className="mb-14">
         <div className="flex items-center gap-2.5 mb-6 pb-3 border-b border-[var(--border-main)]">
           <Layers className="w-6 h-6 text-[var(--accent)]" />
@@ -98,7 +146,6 @@ export default async function SeriesGuidePage() {
               key={series.id}
               className="bg-[var(--surface-card)] border border-[var(--border-main)] rounded-2xl p-6 sm:p-8 shadow-xs"
             >
-              {/* Alt Seri Başlık & Yazar */}
               <div className="flex flex-wrap items-start justify-between gap-4 mb-4">
                 <div>
                   <div className="text-xs font-black uppercase tracking-wider text-[var(--accent)] font-mono">
@@ -116,12 +163,10 @@ export default async function SeriesGuidePage() {
                 </div>
               </div>
 
-              {/* Açıklama */}
               <p className="text-[var(--text-secondary)] text-sm sm:text-base leading-relaxed font-medium mb-6">
                 {series.desc}
               </p>
 
-              {/* Serinin Kitapları Kart Izgarası */}
               <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-3.5">
                 {series.books.map((b, idx) => {
                   const cover = b.kapak_gorseli || "/icon.png";
@@ -157,7 +202,68 @@ export default async function SeriesGuidePage() {
         </div>
       </section>
 
-      {/* ── ✍️ BÖLÜM 2: TÜM YAZARLAR ATLASI (KÜLLİYAT YAZARLARI) ── */}
+      {/* ── ✍️ BÖLÜM 2: KÜLLİYAT ÇEVİRMENLERİ ATLASI (YENİ!) ── */}
+      <section className="mb-14">
+        <div className="flex flex-wrap items-center justify-between gap-4 mb-6 pb-3 border-b border-[var(--border-main)]">
+          <div className="flex items-center gap-2.5">
+            <Feather className="w-6 h-6 text-[var(--accent)]" />
+            <h2 className="font-serif text-2xl sm:text-3xl font-bold text-[var(--text-primary)]">
+              Külliyat Çevirmenleri Atlası ({totalTranslators} Çevirmen)
+            </h2>
+          </div>
+          <span className="text-xs font-bold text-[var(--text-muted)]">
+            Bilimkurguyu Türkçeye kazandıran ustalar
+          </span>
+        </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          {sortedTranslators.map(([translator, data]) => {
+            return (
+              <div
+                key={translator}
+                className="bg-[var(--surface-card)] border border-[var(--border-main)] rounded-xl p-4 sm:p-5 flex flex-col justify-between shadow-xs"
+              >
+                <div className="flex items-start justify-between gap-3 mb-3">
+                  <div>
+                    <h3 className="font-serif font-bold text-base sm:text-lg text-[var(--text-primary)]">
+                      {translator}
+                    </h3>
+                    <div className="text-xs font-medium text-[var(--text-muted)] mt-0.5">
+                      Toplam <strong className="text-[var(--accent)] font-mono">{data.total}</strong> kitap{" "}
+                      {data.pages > 0 && <span>({data.pages.toLocaleString("tr-TR")} sayfa)</span>}
+                    </div>
+                  </div>
+
+                  <span className="text-xs font-mono font-extrabold bg-[var(--surface-sub)] text-[var(--accent)] border border-[var(--border-main)] px-2.5 py-1 rounded-md">
+                    {data.total} Eser
+                  </span>
+                </div>
+
+                {/* Çevirmenin Eserleri */}
+                <div className="space-y-1.5 pt-2.5 border-t border-[var(--border-main)]/60 text-xs sm:text-sm">
+                  {data.books.map((b) => (
+                    <Link
+                      key={b.slug}
+                      href={`/kitap/${b.slug}`}
+                      className="flex items-center justify-between gap-2 text-[var(--text-secondary)] hover:text-[var(--accent)] font-medium group"
+                    >
+                      <span className="truncate">
+                        <strong className="font-mono text-[var(--accent)] mr-1">#{b.sira_no}</strong> {b.kitap_adi}
+                        <span className="text-[var(--text-muted)] text-[11px] ml-1.5 font-normal">
+                          ({b.yazar_adi})
+                        </span>
+                      </span>
+                      <ChevronRight className="w-3.5 h-3.5 text-[var(--text-muted)] group-hover:text-[var(--accent)] flex-shrink-0" />
+                    </Link>
+                  ))}
+                </div>
+              </div>
+            );
+          })}
+        </div>
+      </section>
+
+      {/* ── 👥 BÖLÜM 3: TÜM YAZARLAR ATLASI (KÜLLİYAT YAZARLARI) ── */}
       <section>
         <div className="flex items-center justify-between gap-4 mb-6 pb-3 border-b border-[var(--border-main)]">
           <div className="flex items-center gap-2.5">
@@ -169,7 +275,7 @@ export default async function SeriesGuidePage() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          {topAuthors.map(([author, data]) => {
+          {sortedAuthors.map(([author, data]) => {
             return (
               <div
                 key={author}
@@ -180,7 +286,7 @@ export default async function SeriesGuidePage() {
                     <h3 className="font-serif font-bold text-base sm:text-lg text-[var(--text-primary)]">
                       {author}
                     </h3>
-                    <div className="text-xs font-bold text-[var(--text-muted)] mt-0.5">
+                    <div className="text-xs font-medium text-[var(--text-muted)] mt-0.5">
                       İthaki BKK serisinde <strong className="text-[var(--accent)] font-mono">{data.total}</strong> eseri bulunuyor
                     </div>
                   </div>
@@ -191,7 +297,7 @@ export default async function SeriesGuidePage() {
                 </div>
 
                 {/* Yazarın Eserleri Listesi */}
-                <div className="space-y-1.5 pt-2 border-t border-[var(--border-main)]/60 text-xs sm:text-sm">
+                <div className="space-y-1.5 pt-2.5 border-t border-[var(--border-main)]/60 text-xs sm:text-sm">
                   {data.books.map((b) => (
                     <Link
                       key={b.slug}
