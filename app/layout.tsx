@@ -17,6 +17,8 @@ const outfit = Outfit({
   display: "swap",
 });
 
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://bkkkitaplik.com";
+
 export const viewport: Viewport = {
   themeColor: [
     { media: "(prefers-color-scheme: light)", color: "#f5eedc" },
@@ -28,8 +30,31 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: "İthaki Bilimkurgu Klasikleri — Dijital Kitaplık & Okuma Rehberi",
-  description: "İthaki Yayınları Bilimkurgu Klasikleri külliyatı; kişisel okuma günlüğüm, kitap listeleri ve kitap yorumlarım.",
+  metadataBase: new URL(siteUrl),
+  title: {
+    default: "İthaki Bilimkurgu Klasikleri — Dijital Kitaplık & Okuma Rehberi",
+    template: "%s | İthaki BKK",
+  },
+  description:
+    "İthaki Yayınları Bilimkurgu Klasikleri (BKK) dizisindeki 116 kitabın künyesi, çevirmenleri, okuma sıraları ve kişisel okuma günlüğü.",
+  keywords: [
+    "İthaki Bilimkurgu Klasikleri",
+    "İthaki BKK",
+    "Bilimkurgu Klasikleri Listesi",
+    "BKK Sıralı Liste",
+    "Dune Serisi Sırası",
+    "Mars Üçlemesi",
+    "İthaki Çevirmenler",
+    "Bilimkurgu Kitaplığı",
+  ],
+  authors: [{ name: "BKK Okuma Topluluğu" }],
+  creator: "BKK Kitaplık",
+  publisher: "İthaki Bilimkurgu Klasikleri Rehberi",
+  formatDetection: {
+    email: false,
+    address: false,
+    telephone: false,
+  },
   manifest: "/manifest.json",
   appleWebApp: {
     capable: true,
@@ -42,15 +67,39 @@ export const metadata: Metadata = {
     apple: "/icon.png",
   },
   openGraph: {
+    type: "website",
+    locale: "tr_TR",
+    url: siteUrl,
+    siteName: "İthaki Bilimkurgu Klasikleri Dijital Kitaplık",
     title: "İthaki Bilimkurgu Klasikleri (BKK) — Külliyat & Okuma Portalı",
-    description: "İthaki Yayınları Bilimkurgu Klasikleri külliyatı; kişisel okuma günlüğüm, kitap listeleri ve kitap yorumlarım.",
-    images: [{ url: "/icon.png", width: 512, height: 512, alt: "İthaki Bilimkurgu Klasikleri" }],
+    description:
+      "İthaki Yayınları Bilimkurgu Klasikleri dizisindeki 116 eserin tam listesi, çevirmenleri, yayın yılları ve okuma takibi.",
+    images: [
+      {
+        url: "/icon.png",
+        width: 512,
+        height: 512,
+        alt: "İthaki Bilimkurgu Klasikleri Logo",
+      },
+    ],
   },
   twitter: {
     card: "summary",
-    title: "İthaki Bilimkurgu Klasikleri",
-    description: "İthaki Yayınları Bilimkurgu Klasikleri külliyatı; kişisel okuma günlüğüm ve kitap yorumlarım.",
+    title: "İthaki Bilimkurgu Klasikleri Dijital Kitaplık",
+    description:
+      "İthaki Yayınları Bilimkurgu Klasikleri dizisindeki 116 eserin tam listesi, çevirmenleri ve okuma rehberi.",
     images: ["/icon.png"],
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+    },
   },
 };
 
@@ -59,13 +108,31 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const websiteSchema = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: "İthaki Bilimkurgu Klasikleri Portalı",
+    url: siteUrl,
+    description:
+      "İthaki Yayınları Bilimkurgu Klasikleri külliyatının 116 ciltlik tam listesi, çevirmenler ve yazarlar atlası.",
+    inLanguage: "tr-TR",
+  };
+
   return (
-    <html lang="tr" data-theme="light" className={`${lora.variable} ${outfit.variable} scroll-smooth`}>
+    <html
+      lang="tr"
+      data-theme="light"
+      className={`${lora.variable} ${outfit.variable} scroll-smooth`}
+    >
+      <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
+        />
+      </head>
       <body className="antialiased min-h-screen flex flex-col selection:bg-amber-900/20 selection:text-amber-950 pb-16 sm:pb-0">
         <Header />
-        <main className="flex-1">
-          {children}
-        </main>
+        <main className="flex-1">{children}</main>
         <Footer />
         <BottomNav />
       </body>

@@ -9,12 +9,22 @@ export const metadata: Metadata = {
   title: "Alt Seriler — İthaki Bilimkurgu Klasikleri Seri Rehberi",
   description:
     "İthaki Bilimkurgu Klasikleri külliyatında seri içinde devam eden alt seriler (Dune, Mars Üçlemesi vb.) ve okuma sıraları.",
+  openGraph: {
+    title: "Alt Seriler & Edebi Evrenler — İthaki BKK",
+    description:
+      "İthaki Bilimkurgu Klasikleri külliyatında seri içinde devam eden alt seriler ve okuma sıraları.",
+    url: `${process.env.NEXT_PUBLIC_SITE_URL || "https://bkkkitaplik.com"}/seri-rehberi`,
+  },
+  alternates: {
+    canonical: `${process.env.NEXT_PUBLIC_SITE_URL || "https://bkkkitaplik.com"}/seri-rehberi`,
+  },
 };
 
 export const revalidate = 60;
 
 export default async function SeriesGuidePage() {
   const books = await getBooks();
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://bkkkitaplik.com";
 
   // Alt Seriler Tanımları
   const subSeries = [
@@ -48,8 +58,45 @@ export default async function SeriesGuidePage() {
     };
   });
 
+  // Schema.org Breadcrumb & CollectionPage
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Anasayfa",
+        item: `${baseUrl}/`,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Alt Seriler",
+        item: `${baseUrl}/seri-rehberi`,
+      },
+    ],
+  };
+
+  const collectionSchema = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: "İthaki Bilimkurgu Klasikleri Alt Seriler",
+    description: "İthaki Bilimkurgu Klasikleri dizisinde yer alan alt seriler ve devam kitapları.",
+    url: `${baseUrl}/seri-rehberi`,
+  };
+
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 py-6 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionSchema) }}
+      />
+
       {/* ── Başlık & Açıklama ── */}
       <div className="mb-6 flex flex-wrap items-center justify-between gap-4">
         <div>

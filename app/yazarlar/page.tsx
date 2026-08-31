@@ -9,12 +9,22 @@ export const metadata: Metadata = {
   title: "Yazarlar Atlası — İthaki Bilimkurgu Klasikleri Yazarları",
   description:
     "İthaki Bilimkurgu Klasikleri dizisinde yer alan 67 yazar ve serideki tüm eserleri listesi.",
+  openGraph: {
+    title: "Yazarlar Atlası — İthaki BKK",
+    description:
+      "İthaki Bilimkurgu Klasikleri dizisinde yer alan 67 yazar ve serideki tüm eserleri listesi.",
+    url: `${process.env.NEXT_PUBLIC_SITE_URL || "https://bkkkitaplik.com"}/yazarlar`,
+  },
+  alternates: {
+    canonical: `${process.env.NEXT_PUBLIC_SITE_URL || "https://bkkkitaplik.com"}/yazarlar`,
+  },
 };
 
 export const revalidate = 60;
 
 export default async function AuthorsPage() {
   const books = await getBooks();
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://bkkkitaplik.com";
 
   // Yazarlar Haritası & İstatistikleri
   const authorMap: Record<string, { total: number; books: Book[] }> = {};
@@ -31,8 +41,57 @@ export default async function AuthorsPage() {
   const totalAuthors = Object.keys(authorMap).length;
   const sortedAuthors = Object.entries(authorMap).sort((a, b) => b[1].total - a[1].total);
 
+  // Schema.org Breadcrumb & CollectionPage
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Anasayfa",
+        item: `${baseUrl}/`,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Yazarlar Atlası",
+        item: `${baseUrl}/yazarlar`,
+      },
+    ],
+  };
+
+  const collectionSchema = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: "İthaki Bilimkurgu Klasikleri Yazarlar Atlası",
+    description: `İthaki Bilimkurgu Klasikleri dizisinde yer alan ${totalAuthors} yazar ve serideki eserleri.`,
+    url: `${baseUrl}/yazarlar`,
+    mainEntity: {
+      "@type": "ItemList",
+      itemListElement: sortedAuthors.map(([author, data], idx) => ({
+        "@type": "ListItem",
+        position: idx + 1,
+        item: {
+          "@type": "Person",
+          name: author,
+          jobTitle: "Yazar",
+        },
+      })),
+    },
+  };
+
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 py-6 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionSchema) }}
+      />
+
       {/* ── Başlık & Açıklama ── */}
       <div className="mb-6 flex flex-wrap items-center justify-between gap-4">
         <div>

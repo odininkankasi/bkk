@@ -9,12 +9,22 @@ export const metadata: Metadata = {
   title: "Çevirmenler Atlası — İthaki Bilimkurgu Klasikleri Çevirmenleri",
   description:
     "İthaki Bilimkurgu Klasikleri dizisini Türkçeye kazandıran çevirmenler ve serideki tüm çeviri eserleri listesi.",
+  openGraph: {
+    title: "Çevirmenler Atlası — İthaki BKK",
+    description:
+      "İthaki Bilimkurgu Klasikleri dizisini Türkçeye kazandıran çevirmenler ve serideki tüm çeviri eserleri listesi.",
+    url: `${process.env.NEXT_PUBLIC_SITE_URL || "https://bkkkitaplik.com"}/cevirmenler`,
+  },
+  alternates: {
+    canonical: `${process.env.NEXT_PUBLIC_SITE_URL || "https://bkkkitaplik.com"}/cevirmenler`,
+  },
 };
 
 export const revalidate = 60;
 
 export default async function TranslatorsPage() {
   const books = await getBooks();
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://bkkkitaplik.com";
 
   // Çevirmenler Haritası & İstatistikleri
   const translatorMap: Record<string, { total: number; books: Book[] }> = {};
@@ -33,8 +43,57 @@ export default async function TranslatorsPage() {
   const totalTranslators = Object.keys(translatorMap).length;
   const sortedTranslators = Object.entries(translatorMap).sort((a, b) => b[1].total - a[1].total);
 
+  // Schema.org Breadcrumb & CollectionPage
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Anasayfa",
+        item: `${baseUrl}/`,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Çevirmenler Atlası",
+        item: `${baseUrl}/cevirmenler`,
+      },
+    ],
+  };
+
+  const collectionSchema = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: "İthaki Bilimkurgu Klasikleri Çevirmenler Atlası",
+    description: `İthaki Bilimkurgu Klasikleri dizisini Türkçeye kazandıran ${totalTranslators} çevirmen ve serideki eserleri.`,
+    url: `${baseUrl}/cevirmenler`,
+    mainEntity: {
+      "@type": "ItemList",
+      itemListElement: sortedTranslators.map(([translator, data], idx) => ({
+        "@type": "ListItem",
+        position: idx + 1,
+        item: {
+          "@type": "Person",
+          name: translator,
+          jobTitle: "Çevirmen",
+        },
+      })),
+    },
+  };
+
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 py-6 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionSchema) }}
+      />
+
       {/* ── Başlık & Açıklama ── */}
       <div className="mb-6 flex flex-wrap items-center justify-between gap-4">
         <div>

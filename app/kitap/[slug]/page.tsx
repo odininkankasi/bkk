@@ -21,14 +21,51 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const book = await getBookBySlug(slug);
   if (!book) return { title: "Kitap Bulunamadı" };
 
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://bkkkitaplik.com";
   const no = book.sira_no ? `#${String(book.sira_no).padStart(2, "0")} ` : "";
+  const pageTitle = `${no}${book.kitap_adi} — ${book.yazar_adi}`;
+  const pageDesc = `${book.kitap_adi} (${book.yazar_adi}) - İthaki Bilimkurgu Klasikleri serisi ${no}künye bilgileri, çevirmeni, yayın yılı ve kişisel okuma günlüğü.`;
+  const coverUrl = book.kapak_gorseli
+    ? book.kapak_gorseli.startsWith("http")
+      ? book.kapak_gorseli
+      : `${baseUrl}${book.kapak_gorseli}`
+    : `${baseUrl}/icon.png`;
+
   return {
-    title: `${no}${book.kitap_adi} — ${book.yazar_adi} | İthaki BKK`,
-    description: `${book.kitap_adi} (${book.yazar_adi}) - İthaki Bilimkurgu Klasikleri serisi ${no}detayları ve kişisel okuma günlüğü.`,
+    title: pageTitle,
+    description: pageDesc,
+    keywords: [
+      book.kitap_adi,
+      book.yazar_adi,
+      book.cevirmen ? `${book.cevirmen} çevirisi` : "",
+      "İthaki Bilimkurgu Klasikleri",
+      `İthaki BKK #${book.sira_no}`,
+      "Bilimkurgu Kitap İncelemesi",
+    ].filter(Boolean),
     openGraph: {
-      title: `${no}${book.kitap_adi} — ${book.yazar_adi}`,
-      description: `${book.kitap_adi} İthaki Bilimkurgu Klasikleri serisi incelemesi.`,
-      images: book.kapak_gorseli ? [{ url: book.kapak_gorseli }] : [],
+      type: "article",
+      locale: "tr_TR",
+      url: `${baseUrl}/kitap/${book.slug}`,
+      siteName: "İthaki Bilimkurgu Klasikleri Portalı",
+      title: pageTitle,
+      description: pageDesc,
+      images: [
+        {
+          url: coverUrl,
+          width: 600,
+          height: 900,
+          alt: `${book.kitap_adi} - ${book.yazar_adi} Kitap Kapağı`,
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: pageTitle,
+      description: pageDesc,
+      images: [coverUrl],
+    },
+    alternates: {
+      canonical: `${baseUrl}/kitap/${book.slug}`,
     },
   };
 }
@@ -55,19 +92,91 @@ export default async function BookDetailPage({ params }: Props) {
   const prevBook = bookIndex > 0 ? books[bookIndex - 1] : null;
   const nextBook = bookIndex < books.length - 1 ? books[bookIndex + 1] : null;
 
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://bkkkitaplik.com";
   const no = book.sira_no ? "#" + String(book.sira_no).padStart(2, "0") : "";
   const cover = book.kapak_gorseli || "/icon.png";
+  const fullCoverUrl = cover.startsWith("http") ? cover : `${baseUrl}${cover}`;
 
-  const hasExtraMeta = Boolean(book.cevirmen || book.ozgun_adi || book.sayfa_sayisi || book.isbn);
+  // 1. Google Schema.org Book Structured Data
+  const bookSchema = {
+    "@context": "https://schema.org",
+    "@type": "Book",
+    name: book.kitap_adi,
+    alternateName: book.ozgun_adi || undefined,
+    author: {
+      "@type": "Person",
+      name: book.yazar_adi,
+    },
+    translator: book.cevirmen
+      ? {
+          "@type": "Person",
+          name: book.cevirmen,
+        }
+      : undefined,
+    publisher: {
+      "@type": "Organization",
+      name: "İthaki Yayınları",
+    },
+    inLanguage: "tr",
+    isbn: book.isbn || undefined,
+    numberOfPages: book.sayfa_sayisi ? parseInt(book.sayfa_sayisi, 10) : undefined,
+    datePublished: book.ithaki_yayin_yili || undefined,
+    image: fullCoverUrl,
+    url: `${baseUrl}/kitap/${book.slug}`,
+    description:
+      book.tanitim_yazisi ||
+      `${book.kitap_adi}, ${book.yazar_adi} tarafından kaleme alınmış İthaki Bilimkurgu Klasikleri serisinin ${no} numaralı kitabıdır.`,
+    isPartOf: {
+      "@type": "BookSeries",
+      name: "İthaki Bilimkurgu Klasikleri",
+      position: book.sira_no,
+    },
+  };
+
+  // 2. Google Schema.org BreadcrumbList Structured Data
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Anasayfa",
+        item: `${baseUrl}/`,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Kitaplık",
+        item: `${baseUrl}/#kitaplar`,
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: book.kitap_adi,
+        item: `${baseUrl}/kitap/${book.slug}`,
+      },
+    ],
+  };
 
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 py-6 sm:py-10">
+      {/* ── 🌟 Google Schema.org JSON-LD Structured Data ── */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(bookSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+
       {/* ── Kitap Başlığı & Kapak Grid ── */}
       <div className="grid grid-cols-1 md:grid-cols-12 gap-8 sm:gap-10 items-start mb-10">
         {/* Sol Sütun: Kapak Görseli */}
         <div className="md:col-span-5 flex justify-center">
           <div className="w-full max-w-[280px] md:max-w-none aspect-[2/3] rounded-2xl overflow-hidden shadow-lg border border-[var(--border-main)] bg-[var(--surface-sub)] sticky top-6">
-            <img src={cover} alt={book.kitap_adi} className="w-full h-full object-cover" />
+            <img src={cover} alt={`${book.kitap_adi} - ${book.yazar_adi}`} className="w-full h-full object-cover" />
           </div>
         </div>
 
