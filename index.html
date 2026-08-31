@@ -1,464 +1,1133 @@
 <!DOCTYPE html>
-<html lang="tr">
+<html lang="tr" data-theme="light">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>İthaki Yayınları Bilimkurgu Klasikleri Listesi</title>
-    <meta name="description" content="İthaki Bilimkurgu Klasikleri listem — Google Sheets ile senkronize">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>İthaki Bilimkurgu Klasikleri — Dijital Kitaplık & Okuma Takibi</title>
+    <meta name="description" content="İthaki Yayınları Bilimkurgu Klasikleri (BKK) serisi tam listesi, kapak görselleri, künye bilgileri ve kişisel okuma günlüğü.">
     <link rel="manifest" href="./manifest.json">
     <meta name="theme-color" content="#2d241c">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="BKK Kitaplık">
+    <link rel="icon" href="./icon.png">
     <link rel="apple-touch-icon" href="./icon.png">
-    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+    
+    <!-- Google Fonts: Lora (Editorial Serif) & Outfit (Modern Sans) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    
     <style>
-        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
 
         :root {
-            --bg: #f7f3ea;
-            --surface: transparent;
-            --border: #dcd1be;
-            --border-hover: #c4b59c;
-            --accent: #8c3a26;
-            --text: #2d241c;
-            --muted: #8b7d6a;
-            --read: #335e45;
-            --unread: #a09786;
-            --gold: #b46b1a;
+            --bg: #faf7f2;
+            --surface: #ffffff;
+            --surface-hover: #f5f0e6;
+            --border: #e8e0d2;
+            --border-hover: #d3c7b3;
+            --text-main: #241c15;
+            --text-muted: #786c5c;
+            --text-sub: #4d4032;
+            --accent: #9c422b;
+            --accent-light: #fbeee9;
+            --read-bg: #eaf3ed;
+            --read-color: #235c37;
+            --unread-bg: #f3efe6;
+            --unread-color: #8c7e6c;
+            --owned-bg: #eef2f6;
+            --owned-color: #2b4c7e;
+            --gold: #d97706;
+            --modal-overlay: rgba(20, 15, 10, 0.65);
+            --shadow-sm: 0 2px 8px rgba(0,0,0,0.04);
+            --shadow-md: 0 8px 24px rgba(0,0,0,0.08);
+            --shadow-lg: 0 20px 40px rgba(0,0,0,0.16);
+            --font-scale: 1;
+        }
+
+        [data-theme="dark"] {
+            --bg: #0c1017;
+            --surface: #141b26;
+            --surface-hover: #1b2433;
+            --border: #243044;
+            --border-hover: #334460;
+            --text-main: #f1f5f9;
+            --text-muted: #94a3b8;
+            --text-sub: #cbd5e1;
+            --accent: #e25b39;
+            --accent-light: #2c1d1a;
+            --read-bg: #132a1e;
+            --read-color: #4ade80;
+            --unread-bg: #1e293b;
+            --unread-color: #94a3b8;
+            --owned-bg: #172554;
+            --owned-color: #60a5fa;
+            --gold: #fbbf24;
+            --modal-overlay: rgba(0, 0, 0, 0.85);
+            --shadow-sm: 0 2px 8px rgba(0,0,0,0.2);
+            --shadow-md: 0 8px 24px rgba(0,0,0,0.3);
+            --shadow-lg: 0 20px 40px rgba(0,0,0,0.5);
         }
 
         body {
             background: var(--bg);
-            color: var(--text);
-            font-family: 'Outfit', sans-serif;
+            color: var(--text-main);
+            font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
             min-height: 100vh;
-            overflow-x: hidden;
+            line-height: 1.6;
+            transition: background 0.25s, color 0.25s;
+            padding-bottom: 80px;
         }
 
-        .page { position: relative; z-index: 1; max-width: 900px; margin: 0 auto; padding: 40px 20px 80px; }
-
-        /* ── Header ── */
-        header { text-align: center; padding: 60px 0 50px; border-bottom: 1px solid var(--border); margin-bottom: 30px; }
-
-        .header-label {
-            display: inline-block;
-            font-size: 0.75rem;
-            font-weight: 600;
-            letter-spacing: 0.2em;
-            text-transform: uppercase;
-            color: var(--muted);
-            margin-bottom: 20px;
-            font-family: 'Outfit', sans-serif;
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 24px 16px;
         }
 
-        h1 {
-            font-family: 'Lora', serif;
-            font-size: clamp(2rem, 5vw, 3.5rem);
-            font-weight: 400;
-            line-height: 1.15;
-            margin-bottom: 14px;
-            color: var(--text);
-            letter-spacing: -0.01em;
-        }
-
-        .subtitle {
-            color: var(--muted);
-            font-size: 1rem;
-            font-weight: 400;
-            margin-bottom: 32px;
-        }
-
-        /* ── Stats ── */
-        .stats { display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin-bottom: 0; }
-
-        .stat {
+        /* ── Top Bar ── */
+        .top-bar {
             display: flex;
+            justify-content: space-between;
             align-items: center;
-            gap: 8px;
-            font-size: 0.9rem;
-            color: var(--text);
+            margin-bottom: 24px;
         }
-
-        .stat strong { color: var(--text); font-weight: 600; }
-
-        /* ── Search ── */
-        .search-wrap { position: relative; max-width: 520px; margin: 40px auto; }
-
-        .search-icon {
-            position: absolute;
-            left: 18px;
-            top: 50%;
-            transform: translateY(-50%);
-            color: var(--muted);
-            font-size: 1rem;
-            pointer-events: none;
-        }
-
-        #searchInput {
-            width: 100%;
-            padding: 12px 0 12px 40px;
-            border: none;
-            border-bottom: 1px solid var(--border-hover);
-            background: transparent;
-            color: var(--text);
-            font-size: 1.1rem;
-            font-family: 'Lora', serif;
-            font-style: italic;
-            transition: border-color 0.3s;
-        }
-
-        #searchInput::placeholder { color: var(--muted); }
-        #searchInput:focus { outline: none; border-color: var(--accent); }
-
-        /* ── Loader ── */
-        #loader { text-align: center; padding: 80px 20px; }
-
-        .spinner {
-            width: 44px; height: 44px;
-            border: 3px solid var(--border);
-            border-top-color: var(--accent);
-            border-radius: 50%;
-            animation: spin 0.8s linear infinite;
-            margin: 0 auto 20px;
-        }
-
-        @keyframes spin { to { transform: rotate(360deg); } }
-
-        .loader-text { color: var(--muted); font-size: 0.95rem; }
-
-        /* ── List Layout (Catalog Style) ── */
-        .list-container {
-            display: flex;
-            flex-direction: column;
-        }
-
-        /* ── Catalog Row ── */
-        .list-item {
-            padding: 18px 0;
-            display: flex;
-            align-items: baseline;
-            gap: 20px;
-            border-bottom: 1px solid var(--border);
-            transition: background 0.2s ease;
-        }
-
-        .list-item:hover {
-            background: rgba(0,0,0,0.02);
-            border-bottom-color: var(--border-hover);
-        }
-
-        /* Number */
-        .num {
-            font-size: 0.9rem;
-            color: var(--text);
-            border: 1px solid var(--border-hover);
-            min-width: 36px;
-            height: 36px;
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-family: 'Outfit', sans-serif;
-            font-weight: 400;
-        }
-
-        /* Main Info */
-        .item-main {
-            flex-grow: 1;
-            display: flex;
-            align-items: baseline;
-            gap: 12px;
-            flex-wrap: wrap;
-        }
-
-        /* Title */
-        .book-title {
-            font-family: 'Lora', serif;
-            font-size: 1.25rem;
-            font-weight: 500;
-            color: var(--text);
-        }
-
-        /* Author */
-        .author {
-            font-size: 0.95rem;
-            color: var(--muted);
-            font-weight: 400;
-            font-family: 'Lora', serif;
-            font-style: italic;
-        }
-
-        /* Meta Info */
-        .item-meta {
-            display: flex;
-            align-items: center;
-            gap: 24px;
-        }
-
-        /* Tags */
-        .tags { display: flex; gap: 12px; }
-
-        .tag {
+        .series-tag {
             font-size: 0.8rem;
-            font-family: 'Outfit', sans-serif;
+            font-weight: 700;
+            letter-spacing: 0.15em;
             text-transform: uppercase;
-            letter-spacing: 0.05em;
-        }
-
-        .tag-read { color: var(--read); }
-        .tag-unread { color: var(--unread); }
-        .tag-owned { color: var(--gold); }
-
-        /* Stars */
-        .stars { font-size: 0.9rem; letter-spacing: 2px; color: var(--gold); }
-
-        /* ── Tabs ── */
-        .tabs-wrap {
-            display: flex;
-            justify-content: center;
-            gap: 10px;
-            margin-bottom: 28px;
-            flex-wrap: wrap;
-        }
-
-        .tab-btn {
-            background: transparent;
-            border: 1px solid var(--border);
-            color: var(--muted);
-            padding: 8px 18px;
-            border-radius: 20px;
-            font-family: 'Outfit', sans-serif;
-            font-size: 0.9rem;
-            font-weight: 500;
-            cursor: pointer;
-            transition: all 0.2s ease;
+            color: var(--accent);
             display: flex;
             align-items: center;
             gap: 6px;
         }
-
-        .tab-btn:hover {
-            border-color: var(--border-hover);
-            color: var(--text);
+        .theme-btn {
+            background: var(--surface);
+            border: 1.5px solid var(--border);
+            color: var(--text-main);
+            padding: 6px 14px;
+            border-radius: 999px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            box-shadow: var(--shadow-sm);
         }
 
-        .tab-btn.active {
+        /* ── Hero Header ── */
+        header {
+            text-align: center;
+            padding: 20px 0 32px;
+            border-bottom: 1px solid var(--border);
+            margin-bottom: 28px;
+        }
+        h1 {
+            font-family: 'Lora', serif;
+            font-size: clamp(2rem, 5vw, 3.2rem);
+            font-weight: 500;
+            line-height: 1.15;
+            color: var(--text-main);
+            letter-spacing: -0.02em;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            font-size: 1.05rem;
+            color: var(--text-muted);
+            max-width: 600px;
+            margin: 0 auto 24px;
+        }
+
+        /* ── Stats & Progress ── */
+        .progress-card {
+            background: var(--surface);
+            border: 1.5px solid var(--border);
+            border-radius: 18px;
+            padding: 18px 22px;
+            max-width: 720px;
+            margin: 0 auto 28px;
+            box-shadow: var(--shadow-sm);
+        }
+        .stats-row {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 12px;
+            margin-bottom: 14px;
+        }
+        .stat-item {
+            text-align: center;
+        }
+        .stat-val {
+            font-size: 1.5rem;
+            font-weight: 800;
+            color: var(--text-main);
+            line-height: 1.1;
+        }
+        .stat-lbl {
+            font-size: 0.75rem;
+            font-weight: 700;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-top: 2px;
+        }
+        .progress-bar-bg {
+            background: var(--unread-bg);
+            height: 10px;
+            border-radius: 999px;
+            overflow: hidden;
+            position: relative;
+        }
+        .progress-bar-fill {
+            background: linear-gradient(90deg, #10b981, #059669);
+            height: 100%;
+            border-radius: 999px;
+            transition: width 0.6s ease;
+        }
+
+        /* ── Controls: Search, Filters & View Toggle ── */
+        .controls-panel {
+            position: sticky;
+            top: 12px;
+            z-index: 30;
+            background: var(--bg);
+            border: 1.5px solid var(--border);
+            border-radius: 18px;
+            padding: 14px;
+            margin-bottom: 24px;
+            box-shadow: var(--shadow-md);
+            backdrop-filter: blur(12px);
+        }
+        .search-wrap {
+            position: relative;
+            margin-bottom: 12px;
+        }
+        .search-icon {
+            position: absolute;
+            left: 14px;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 1rem;
+            color: var(--text-muted);
+            pointer-events: none;
+        }
+        #searchInput {
+            width: 100%;
+            background: var(--surface);
+            border: 1.5px solid var(--border);
+            color: var(--text-main);
+            font-size: 1rem;
+            font-weight: 500;
+            padding: 12px 14px 12px 42px;
+            border-radius: 12px;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+        #searchInput:focus { border-color: var(--accent); }
+
+        .filters-and-views {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+        .filter-tabs {
+            display: flex;
+            gap: 6px;
+            overflow-x: auto;
+            scrollbar-width: none;
+        }
+        .filter-tabs::-webkit-scrollbar { display: none; }
+        .filter-btn {
+            white-space: nowrap;
+            padding: 7px 14px;
+            font-size: 0.85rem;
+            font-weight: 700;
+            border-radius: 999px;
+            border: 1.5px solid var(--border);
+            background: var(--surface);
+            color: var(--text-muted);
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .filter-btn.active {
             background: var(--accent);
-            color: #fff;
+            color: #ffffff;
             border-color: var(--accent);
         }
 
-        .tab-btn .badge {
-            background: rgba(0,0,0,0.08);
-            padding: 2px 7px;
+        .view-toggles {
+            display: flex;
+            gap: 6px;
+        }
+        .view-btn {
+            background: var(--surface);
+            border: 1.5px solid var(--border);
+            color: var(--text-muted);
+            padding: 7px 12px;
             border-radius: 10px;
-            font-size: 0.75rem;
+            font-size: 0.85rem;
+            font-weight: 700;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+        }
+        .view-btn.active {
+            background: var(--text-main);
+            color: var(--bg);
+            border-color: var(--text-main);
+        }
+
+        /* ── Books Container: LIST VIEW ── */
+        .books-list {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        .book-list-item {
+            background: var(--surface);
+            border: 1.5px solid var(--border);
+            border-radius: 14px;
+            padding: 12px 16px;
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            cursor: pointer;
+            transition: transform 0.15s, border-color 0.15s, box-shadow 0.15s;
+        }
+        .book-list-item:hover {
+            transform: translateY(-1px);
+            border-color: var(--border-hover);
+            box-shadow: var(--shadow-sm);
+        }
+        .list-num {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.1rem;
+            font-weight: 800;
+            color: var(--text-muted);
+            min-width: 38px;
+            text-align: center;
+        }
+        .list-thumb {
+            width: 44px;
+            height: 64px;
+            border-radius: 4px;
+            object-fit: cover;
+            background: var(--unread-bg);
+            flex-shrink: 0;
+            border: 1px solid rgba(0,0,0,0.08);
+        }
+        .list-main {
+            flex: 1;
+            min-width: 0;
+        }
+        .list-title {
+            font-family: 'Lora', serif;
+            font-size: 1.05rem;
             font-weight: 600;
+            color: var(--text-main);
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            line-height: 1.3;
+        }
+        .list-author {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            margin-top: 2px;
+            font-weight: 500;
+        }
+        .list-meta {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            flex-shrink: 0;
+        }
+        .star-rating {
+            color: var(--gold);
+            font-size: 0.9rem;
+            letter-spacing: -1px;
+        }
+        .tag-pill {
+            font-size: 0.75rem;
+            font-weight: 700;
+            padding: 3px 8px;
+            border-radius: 6px;
+            white-space: nowrap;
+        }
+        .tag-read { background: var(--read-bg); color: var(--read-color); }
+        .tag-unread { background: var(--unread-bg); color: var(--unread-color); }
+        .tag-owned { background: var(--owned-bg); color: var(--owned-color); }
+
+        /* ── Books Container: GRID / SHELF VIEW ── */
+        .books-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+            gap: 16px;
+        }
+        .book-grid-card {
+            background: var(--surface);
+            border: 1.5px solid var(--border);
+            border-radius: 14px;
+            padding: 10px;
+            cursor: pointer;
+            transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+        }
+        .book-grid-card:hover {
+            transform: translateY(-3px);
+            border-color: var(--border-hover);
+            box-shadow: var(--shadow-md);
+        }
+        .grid-cover-wrap {
+            position: relative;
+            width: 100%;
+            aspect-ratio: 2 / 3;
+            border-radius: 8px;
+            overflow: hidden;
+            background: var(--unread-bg);
+            margin-bottom: 10px;
+        }
+        .grid-cover {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.3s;
+        }
+        .book-grid-card:hover .grid-cover { transform: scale(1.03); }
+        .grid-num-badge {
+            position: absolute;
+            top: 6px;
+            left: 6px;
+            background: rgba(15, 23, 42, 0.85);
+            color: #ffffff;
+            font-size: 0.75rem;
+            font-weight: 800;
+            padding: 2px 7px;
+            border-radius: 6px;
+            backdrop-filter: blur(4px);
+        }
+        .grid-read-badge {
+            position: absolute;
+            bottom: 6px;
+            right: 6px;
+            font-size: 0.7rem;
+            font-weight: 800;
+            padding: 2px 6px;
+            border-radius: 5px;
+        }
+        .grid-title {
+            font-family: 'Lora', serif;
+            font-size: 0.95rem;
+            font-weight: 600;
+            line-height: 1.25;
+            color: var(--text-main);
+            margin-bottom: 4px;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            min-height: 2.5em;
+        }
+        .grid-author {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            font-weight: 500;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            margin-bottom: 6px;
+        }
+        .grid-stars {
+            color: var(--gold);
+            font-size: 0.85rem;
+            margin-top: auto;
         }
 
-        .tab-btn.active .badge {
-            background: rgba(255,255,255,0.25);
-            color: #fff;
+        /* ── Modal: BOOK DETAIL & LOG ── */
+        .modal-overlay {
+            position: fixed;
+            inset: 0;
+            background: var(--modal-overlay);
+            backdrop-filter: blur(6px);
+            z-index: 100;
+            display: none;
+            justify-content: center;
+            align-items: center;
+            padding: 16px;
+            opacity: 0;
+            transition: opacity 0.25s ease;
+        }
+        .modal-overlay.active {
+            display: flex;
+            opacity: 1;
+        }
+        .modal-card {
+            background: var(--surface);
+            border: 2px solid var(--border);
+            border-radius: 24px;
+            width: 100%;
+            max-width: 780px;
+            max-height: 90vh;
+            overflow-y: auto;
+            box-shadow: var(--shadow-lg);
+            position: relative;
+            transform: scale(0.95);
+            transition: transform 0.25s ease;
+        }
+        .modal-overlay.active .modal-card {
+            transform: scale(1);
+        }
+        .modal-close-btn {
+            position: absolute;
+            top: 18px;
+            right: 18px;
+            background: var(--surface-hover);
+            border: 1px solid var(--border);
+            color: var(--text-main);
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            font-size: 1.2rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            z-index: 10;
+        }
+        .modal-body {
+            padding: 30px;
+        }
+        
+        .modal-grid {
+            display: grid;
+            grid-template-columns: 240px 1fr;
+            gap: 28px;
+            align-items: start;
+        }
+        @media (max-width: 640px) {
+            .modal-grid { grid-template-columns: 1fr; gap: 20px; }
+            .modal-cover-wrap { max-width: 200px; margin: 0 auto; }
+            .modal-body { padding: 20px 16px; }
         }
 
-        /* ── Mobile ── */
-        @media (max-width: 600px) {
-            header { padding: 40px 0 30px; }
-            h1 { font-size: 2rem; }
-            .list-item {
-                flex-direction: column;
-                gap: 8px;
-                padding: 16px 10px;
-                align-items: flex-start;
-            }
-            .num { text-align: left; }
-            .item-meta {
-                width: 100%;
-                justify-content: space-between;
-                margin-top: 4px;
-            }
-            .book-title { font-size: 1.15rem; }
-            .tabs-wrap { gap: 6px; }
-            .tab-btn { padding: 6px 12px; font-size: 0.82rem; }
+        .modal-cover-wrap {
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: var(--shadow-md);
+            border: 1px solid var(--border);
+            aspect-ratio: 2 / 3;
+            background: var(--unread-bg);
+        }
+        .modal-cover {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
         }
 
-        @media (max-width: 400px) {
-            h1 { font-size: 1.8rem; }
+        .modal-header-section {
+            margin-bottom: 20px;
         }
+        .modal-num-tag {
+            font-size: 0.85rem;
+            font-weight: 800;
+            color: var(--accent);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            margin-bottom: 4px;
+        }
+        .modal-book-title {
+            font-family: 'Lora', serif;
+            font-size: 1.8rem;
+            font-weight: 600;
+            color: var(--text-main);
+            line-height: 1.2;
+            margin-bottom: 6px;
+        }
+        .modal-author {
+            font-family: 'Lora', serif;
+            font-size: 1.15rem;
+            font-style: italic;
+            color: var(--text-muted);
+        }
+
+        /* User Log / Reader Panel (Top of Details) */
+        .user-log-panel {
+            background: var(--surface-hover);
+            border: 1.5px solid var(--border);
+            border-radius: 16px;
+            padding: 16px;
+            margin-bottom: 22px;
+        }
+        .panel-title {
+            font-size: 0.8rem;
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--accent);
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .log-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+            gap: 12px;
+            margin-bottom: 12px;
+        }
+        .log-item {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            padding: 8px 12px;
+            border-radius: 10px;
+        }
+        .log-lbl {
+            font-size: 0.7rem;
+            font-weight: 700;
+            color: var(--text-muted);
+            text-transform: uppercase;
+        }
+        .log-val {
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--text-main);
+            margin-top: 2px;
+        }
+
+        .comment-box {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 12px;
+            margin-top: 10px;
+        }
+        .comment-lbl {
+            font-size: 0.75rem;
+            font-weight: 800;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            margin-bottom: 6px;
+        }
+        .comment-content {
+            font-size: 0.95rem;
+            color: var(--text-main);
+            font-style: italic;
+            line-height: 1.5;
+        }
+
+        /* Details / Meta Grid */
+        .meta-details-section {
+            border-top: 1px solid var(--border);
+            padding-top: 18px;
+            margin-top: 18px;
+        }
+        .meta-list {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px 16px;
+            font-size: 0.85rem;
+        }
+        .meta-row-item {
+            display: flex;
+            flex-direction: column;
+        }
+        .meta-k { color: var(--text-muted); font-size: 0.75rem; font-weight: 700; text-transform: uppercase; }
+        .meta-v { color: var(--text-main); font-weight: 600; margin-top: 1px; }
+
+        /* Description / Tanıtım Bülteni */
+        .description-section {
+            border-top: 1px solid var(--border);
+            padding-top: 18px;
+            margin-top: 18px;
+        }
+        .section-heading {
+            font-family: 'Lora', serif;
+            font-size: 1.15rem;
+            font-weight: 600;
+            color: var(--text-main);
+            margin-bottom: 10px;
+        }
+        .description-text {
+            font-size: 0.95rem;
+            color: var(--text-sub);
+            line-height: 1.7;
+        }
+
+        /* ── Loading Spinner ── */
+        #loader {
+            text-align: center;
+            padding: 60px 0;
+        }
+        .spinner {
+            width: 44px;
+            height: 44px;
+            border: 4px solid var(--border);
+            border-top-color: var(--accent);
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+            margin: 0 auto 16px;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+        .loader-text { font-size: 1rem; color: var(--text-muted); font-weight: 600; }
     </style>
 </head>
 <body>
 
-<div class="page">
-
-    <header>
-        <div class="header-label">📚 Kişisel Koleksiyon</div>
-        <h1>İthaki Yayınları Bilimkurgu<br>Klasikleri Listesi</h1>
-        <p class="subtitle">Google Sheets ile senkronize · canlı liste</p>
-        <div class="stats" id="stats"></div>
-    </header>
-
-    <div class="search-wrap">
-        <span class="search-icon">🔍</span>
-        <input type="text" id="searchInput" placeholder="Kitap veya yazar ara…">
-    </div>
-
-    <div class="tabs-wrap" id="tabsWrap" style="display: none;">
-        <button class="tab-btn active" data-tab="all">📋 Tüm Liste <span class="badge" id="countAll">0</span></button>
-        <button class="tab-btn" data-tab="read">✅ Okunanlar <span class="badge" id="countRead">0</span></button>
-        <button class="tab-btn" data-tab="unread">⌛ Okunacaklar <span class="badge" id="countUnread">0</span></button>
-    </div>
-
-    <div id="loader">
-        <div class="spinner"></div>
-        <p class="loader-text">Liste yükleniyor…</p>
-    </div>
-
-    <div class="list-container" id="grid"></div>
-
-</div>
-
-<script>
-    const SHEET_ID = '16X3KyJtwW5uO3fzco0XxaWBzkNYvDBfSDEymGn-MYQo';
-    let allBooks = [];
-    let currentTab = 'all';
-
-    window.sheetsCallback = function(data) {
-        try {
-            document.getElementById('loader').style.display = 'none';
-            document.getElementById('tabsWrap').style.display = 'flex';
-            const cols = data.table.cols.map(c => c.label);
-            allBooks = data.table.rows
-                .filter(row => row !== null)
-                .map(row => {
-                    const obj = {};
-                    cols.forEach((col, i) => {
-                        const cell = (row.c && row.c[i]) ? row.c[i] : null;
-                        let val = '';
-                        if (cell && cell.f != null) val = String(cell.f);
-                        else if (cell && cell.v != null) val = String(cell.v);
-
-                        // Checkbox sütunları TRUE/true/Evet → 'Evet' olarak normalize et
-                        if (col === 'okundu' || col === 'kitaplikta_var') {
-                            obj[col] = (val === 'TRUE' || val === 'true' || val === 'Evet') ? 'Evet' : '';
-                        } else {
-                            obj[col] = val;
-                        }
-                    });
-                    return obj;
-                })
-                .filter(b => b.kitap_adi && b.kitap_adi.trim());
-
-            filterAndRender();
-            renderStats(allBooks);
-        } catch(e) {
-            document.getElementById('loader').innerHTML = '<p style="color:#ef4444">⚠️ Hata: ' + e.message + '</p>';
-        }
-    };
-
-    function fetchData() {
-        const s = document.createElement('script');
-        s.onerror = () => {
-            document.getElementById('loader').innerHTML = '<p style="color:#ef4444">⚠️ Veri yüklenemedi. İnternet bağlantınızı kontrol edin.</p>';
-        };
-        s.src = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=responseHandler:sheetsCallback`;
-        document.body.appendChild(s);
-    }
-
-    function filterAndRender() {
-        const query = document.getElementById('searchInput').value.toLowerCase().trim();
+    <div class="container">
         
-        let filtered = allBooks.filter(b => {
-            const matchesQuery = !query || 
-                (b.kitap_adi && b.kitap_adi.toLowerCase().includes(query)) ||
-                (b.yazar_adi && b.yazar_adi.toLowerCase().includes(query));
+        <!-- Top Bar -->
+        <div class="top-bar">
+            <div class="series-tag">
+                <span>🪐</span>
+                <span>İthaki Bilimkurgu Klasikleri</span>
+            </div>
+            <button class="theme-btn" onclick="toggleTheme()" id="themeBtn">☀️ Açık Mod</button>
+        </div>
 
-            if (!matchesQuery) return false;
+        <!-- Header -->
+        <header>
+            <span class="series-tag" style="justify-content: center; margin-bottom: 8px;">Kişisel Okuma &amp; Kitaplık Portalı</span>
+            <h1>Bilimkurgu Klasikleri</h1>
+            <p class="subtitle">İthaki Yayınları'nın 116+ ciltlik efsanevi bilimkurgu külliyatı takip ve inceleme rehberi.</p>
 
-            if (currentTab === 'read') return b.okundu === 'Evet';
-            if (currentTab === 'unread') return b.okundu !== 'Evet';
-            return true; // 'all'
-        });
-
-        render(filtered);
-    }
-
-    function render(books) {
-        const grid = document.getElementById('grid');
-        if (!books.length) {
-            grid.innerHTML = '<p style="color:var(--muted);text-align:center;padding:40px">Kitap bulunamadı.</p>';
-            return;
-        }
-        grid.innerHTML = books.map(b => {
-            const isRead  = b.okundu === 'Evet';
-            const isOwned = b.kitaplikta_var === 'Evet';
-            const rating  = parseInt(b.puan) || 0;
-            const stars   = rating ? '★'.repeat(rating) + '☆'.repeat(5 - rating) : '';
-            const no      = b.sira_no || '';
-            const title   = b.kitap_adi || '—';
-            const author  = b.yazar_adi || '—';
-
-            return `
-            <div class="list-item">
-                <div class="num">${no}</div>
-                <div class="item-main">
-                    <div class="book-title">${title}</div>
-                    <div class="author">${author}</div>
-                </div>
-                <div class="item-meta">
-                    ${stars ? `<div class="stars">${stars}</div>` : ''}
-                    <div class="tags">
-                        <span class="tag ${isRead ? 'tag-read' : 'tag-unread'}">${isRead ? '✓ Okundu' : '⌛ Okunacak'}</span>
-                        ${isOwned ? '<span class="tag tag-owned">📚 Kitaplıkta</span>' : ''}
+            <!-- Stats & Progress -->
+            <div class="progress-card" id="progressCard">
+                <div class="stats-row">
+                    <div class="stat-item">
+                        <div class="stat-val" id="statTotal">116</div>
+                        <div class="stat-lbl">Toplam Kitap</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-val" style="color: #10b981;" id="statRead">26</div>
+                        <div class="stat-lbl">Okunan</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-val" style="color: #f59e0b;" id="statUnread">90</div>
+                        <div class="stat-lbl">Okunacak</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-val" style="color: var(--accent);" id="statOwned">74</div>
+                        <div class="stat-lbl">Kitaplıkta</div>
                     </div>
                 </div>
-            </div>`;
-        }).join('');
-    }
+                <div class="progress-bar-bg">
+                    <div class="progress-bar-fill" id="progressFill" style="width: 22%;"></div>
+                </div>
+            </div>
+        </header>
 
-    function renderStats(books) {
-        const total = books.length;
-        const read  = books.filter(b => b.okundu === 'Evet').length;
-        const unread = total - read;
-        const owned = books.filter(b => b.kitaplikta_var === 'Evet').length;
-        
-        document.getElementById('stats').innerHTML = `
-            <div class="stat">📖 Toplam <strong>${total}</strong> Kitap</div>
-            <div class="stat">✅ Okunan <strong>${read}</strong></div>
-            <div class="stat">⌛ Okunacak <strong>${unread}</strong></div>
-            <div class="stat">🏠 Kitaplıkta <strong>${owned}</strong></div>`;
+        <!-- Controls: Search, Filter Tabs & View Switcher -->
+        <div class="controls-panel">
+            <div class="search-wrap">
+                <span class="search-icon">🔍</span>
+                <input type="text" id="searchInput" placeholder="Kitap adı, yazar veya seri no (#01) ara..." oninput="filterAndRender()">
+            </div>
 
-        document.getElementById('countAll').innerText = total;
-        document.getElementById('countRead').innerText = read;
-        document.getElementById('countUnread').innerText = unread;
-    }
+            <div class="filters-and-views">
+                <div class="filter-tabs">
+                    <button class="filter-btn active" data-tab="all" onclick="setTab('all', this)">Tümü (<span id="cntAll">116</span>)</button>
+                    <button class="filter-btn" data-tab="read" onclick="setTab('read', this)">✅ Okuduklarım (<span id="cntRead">26</span>)</button>
+                    <button class="filter-btn" data-tab="unread" onclick="setTab('unread', this)">⌛ Okunacaklar (<span id="cntUnread">90</span>)</button>
+                    <button class="filter-btn" data-tab="owned" onclick="setTab('owned', this)">📚 Kitaplıkta (<span id="cntOwned">74</span>)</button>
+                    <button class="filter-btn" data-tab="rated" onclick="setTab('rated', this)">⭐ Puanlananlar</button>
+                </div>
 
-    // Tab switcher events
-    document.querySelectorAll('.tab-btn').forEach(btn => {
-        btn.addEventListener('click', () => {
-            document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
-            currentTab = btn.getAttribute('data-tab');
+                <div class="view-toggles">
+                    <button class="view-btn active" id="btnListView" onclick="setViewMode('list')">📑 Liste</button>
+                    <button class="view-btn" id="btnGridView" onclick="setViewMode('grid')">🖼️ Kapaklı</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Loader -->
+        <div id="loader">
+            <div class="spinner"></div>
+            <p class="loader-text">Google Sheets kitaplığı canlı senkronize ediliyor…</p>
+        </div>
+
+        <!-- Books Output Container -->
+        <div id="booksContainer" class="books-list"></div>
+
+    </div>
+
+    <!-- ── BOOK DETAIL MODAL ── -->
+    <div class="modal-overlay" id="detailModal" onclick="handleModalOverlayClick(event)">
+        <div class="modal-card">
+            <button class="modal-close-btn" onclick="closeModal()" title="Kapat">✕</button>
+            <div class="modal-body" id="modalContent"></div>
+        </div>
+    </div>
+
+    <script>
+        const SHEET_ID = '16X3KyJtwW5uO3fzco0XxaWBzkNYvDBfSDEymGn-MYQo';
+        let allBooks = [];
+        let currentTab = 'all';
+        let currentView = localStorage.getItem('bkk_view_mode') || 'list';
+
+        // ── Tema Yönetimi ──
+        let currentTheme = localStorage.getItem('bkk_theme') || 'light';
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        updateThemeButton();
+
+        function toggleTheme() {
+            currentTheme = currentTheme === 'dark' ? 'light' : 'dark';
+            document.documentElement.setAttribute('data-theme', currentTheme);
+            localStorage.setItem('bkk_theme', currentTheme);
+            updateThemeButton();
+        }
+
+        function updateThemeButton() {
+            const btn = document.getElementById('themeBtn');
+            if (btn) {
+                btn.innerHTML = currentTheme === 'dark' ? '☀️ Açık Mod' : '🌙 Koyu Mod';
+            }
+        }
+
+        // ── Görünüm Modu (List / Grid) ──
+        function setViewMode(mode) {
+            currentView = mode;
+            localStorage.setItem('bkk_view_mode', mode);
+            document.getElementById('btnListView').classList.toggle('active', mode === 'list');
+            document.getElementById('btnGridView').classList.toggle('active', mode === 'grid');
+            
+            const container = document.getElementById('booksContainer');
+            container.className = mode === 'grid' ? 'books-grid' : 'books-list';
             filterAndRender();
+        }
+
+        // ── Tab Filtreleri ──
+        function setTab(tab, btn) {
+            currentTab = tab;
+            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            filterAndRender();
+        }
+
+        // ── Google Sheets JSONP Callback ──
+        window.sheetsCallback = function(data) {
+            try {
+                document.getElementById('loader').style.display = 'none';
+                const cols = data.table.cols.map(c => (c.label || '').trim().toLowerCase());
+                
+                allBooks = data.table.rows
+                    .filter(row => row !== null)
+                    .map(row => {
+                        const obj = {};
+                        cols.forEach((col, i) => {
+                            const cell = (row.c && row.c[i]) ? row.c[i] : null;
+                            let val = '';
+                            if (cell && cell.f != null) val = String(cell.f);
+                            else if (cell && cell.v != null) val = String(cell.v);
+
+                            // Sütun eşleştirme
+                            if (col.includes('sira') || col.includes('no')) obj.sira_no = val;
+                            else if (col.includes('kitap')) obj.kitap_adi = val;
+                            else if (col.includes('yazar')) obj.yazar_adi = val;
+                            else if (col.includes('okundu')) obj.okundu = (val === 'TRUE' || val === 'true' || val === 'Evet') ? 'Evet' : 'Hayır';
+                            else if (col.includes('kitaplik')) obj.kitaplikta_var = (val === 'TRUE' || val === 'true' || val === 'Evet') ? 'Evet' : 'Hayır';
+                            else if (col.includes('puan')) obj.puan = val;
+                            else if (col.includes('tarih 1') || col === 'tarih1') obj.tarih_1 = val;
+                            else if (col.includes('tarih 2') || col === 'tarih2') obj.tarih_2 = val;
+                            else if (col.includes('kapak') || col.includes('gorsel')) obj.kapak_gorseli = val;
+                            else if (col.includes('yorum') || col.includes('not')) obj.kisisel_yorum = val;
+                            else if (col.includes('tanitim') || col.includes('aciklama')) obj.tanitim_yazisi = val;
+                            else if (col.includes('cevirmen')) obj.cevirmen = val;
+                            else if (col.includes('ozgun')) obj.ozgun_adi = val;
+                        });
+                        return obj;
+                    })
+                    .filter(b => b.kitap_adi && b.kitap_adi.trim());
+
+                renderStats(allBooks);
+                setViewMode(currentView);
+                
+                // URL Hash ile doğrudan kitap açma (#1 veya #dune)
+                checkUrlHash();
+
+            } catch(e) {
+                document.getElementById('loader').innerHTML = '<p style="color:#ef4444; font-weight:700;">⚠️ Tablo yüklenirken bir hata oluştu: ' + e.message + '</p>';
+            }
+        };
+
+        function fetchData() {
+            const s = document.createElement('script');
+            s.onerror = () => {
+                document.getElementById('loader').innerHTML = '<p style="color:#ef4444; font-weight:700;">⚠️ Veri yüklenemedi. İnternet bağlantınızı veya Google Sheets izinlerini kontrol edin.</p>';
+            };
+            s.src = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=responseHandler:sheetsCallback`;
+            document.body.appendChild(s);
+        }
+
+        // ── Filtreleme ve Listeleme ──
+        function filterAndRender() {
+            const query = document.getElementById('searchInput').value.toLowerCase().trim();
+
+            const filtered = allBooks.filter(b => {
+                const noStr = '#' + (b.sira_no || '');
+                const matchesQuery = !query ||
+                    (b.kitap_adi && b.kitap_adi.toLowerCase().includes(query)) ||
+                    (b.yazar_adi && b.yazar_adi.toLowerCase().includes(query)) ||
+                    (b.sira_no && b.sira_no.includes(query)) ||
+                    noStr.includes(query);
+
+                if (!matchesQuery) return false;
+
+                if (currentTab === 'read') return b.okundu === 'Evet';
+                if (currentTab === 'unread') return b.okundu !== 'Evet';
+                if (currentTab === 'owned') return b.kitaplikta_var === 'Evet';
+                if (currentTab === 'rated') return parseInt(b.puan) > 0;
+
+                return true;
+            });
+
+            render(filtered);
+        }
+
+        function render(books) {
+            const container = document.getElementById('booksContainer');
+            if (!books.length) {
+                container.innerHTML = '<p style="color:var(--text-muted); text-align:center; padding:60px 0; font-weight:600; font-size:1.1rem;">Aradığınız kriterde kitap bulunamadı.</p>';
+                return;
+            }
+
+            if (currentView === 'grid') {
+                // KAPAKLI GRID GÖRÜNÜMÜ
+                container.innerHTML = books.map(b => {
+                    const isRead = b.okundu === 'Evet';
+                    const rating = parseInt(b.puan) || 0;
+                    const stars = rating ? '★'.repeat(rating) + '☆'.repeat(5 - rating) : '';
+                    const cover = b.kapak_gorseli || './icon.png';
+                    const no = b.sira_no ? '#' + b.sira_no.padStart(2, '0') : '';
+
+                    return `
+                        <div class="book-grid-card" onclick="openBookModal('${b.sira_no}')">
+                            <div class="grid-cover-wrap">
+                                <img src="${cover}" alt="${b.kitap_adi}" class="grid-cover" loading="lazy" onerror="this.src='./icon.png'">
+                                <div class="grid-num-badge">${no}</div>
+                                <div class="grid-read-badge ${isRead ? 'tag-read' : 'tag-unread'}">${isRead ? '✓ Okundu' : '⌛ Okunacak'}</div>
+                            </div>
+                            <div class="grid-title">${b.kitap_adi}</div>
+                            <div class="grid-author">${b.yazar_adi}</div>
+                            ${stars ? `<div class="grid-stars">${stars}</div>` : ''}
+                        </div>
+                    `;
+                }).join('');
+            } else {
+                // MİNİMAL LİSTE GÖRÜNÜMÜ
+                container.innerHTML = books.map(b => {
+                    const isRead = b.okundu === 'Evet';
+                    const isOwned = b.kitaplikta_var === 'Evet';
+                    const rating = parseInt(b.puan) || 0;
+                    const stars = rating ? '★'.repeat(rating) + '☆'.repeat(5 - rating) : '';
+                    const cover = b.kapak_gorseli || './icon.png';
+                    const no = b.sira_no ? '#' + b.sira_no.padStart(2, '0') : '—';
+
+                    return `
+                        <div class="book-list-item" onclick="openBookModal('${b.sira_no}')">
+                            <div class="list-num">${no}</div>
+                            <img src="${cover}" alt="${b.kitap_adi}" class="list-thumb" loading="lazy" onerror="this.src='./icon.png'">
+                            <div class="list-main">
+                                <div class="list-title">${b.kitap_adi}</div>
+                                <div class="list-author">${b.yazar_adi}</div>
+                            </div>
+                            <div class="list-meta">
+                                ${stars ? `<div class="star-rating">${stars}</div>` : ''}
+                                <span class="tag-pill ${isRead ? 'tag-read' : 'tag-unread'}">${isRead ? '✓ Okundu' : '⌛ Okunacak'}</span>
+                                ${isOwned ? '<span class="tag-pill tag-owned">📚 Kitaplıkta</span>' : ''}
+                            </div>
+                        </div>
+                    `;
+                }).join('');
+            }
+        }
+
+        function renderStats(books) {
+            const total = books.length;
+            const read = books.filter(b => b.okundu === 'Evet').length;
+            const unread = total - read;
+            const owned = books.filter(b => b.kitaplikta_var === 'Evet').length;
+            const pct = Math.round((read / total) * 100) || 0;
+
+            document.getElementById('statTotal').innerText = total;
+            document.getElementById('statRead').innerText = read;
+            document.getElementById('statUnread').innerText = unread;
+            document.getElementById('statOwned').innerText = owned;
+            document.getElementById('progressFill').style.width = pct + '%';
+
+            document.getElementById('cntAll').innerText = total;
+            document.getElementById('cntRead').innerText = read;
+            document.getElementById('cntUnread').innerText = unread;
+            document.getElementById('cntOwned').innerText = owned;
+        }
+
+        // ── Kitap Detay Modalı ──
+        function openBookModal(siraNo) {
+            const book = allBooks.find(b => b.sira_no == siraNo);
+            if (!book) return;
+
+            const isRead = book.okundu === 'Evet';
+            const isOwned = book.kitaplikta_var === 'Evet';
+            const rating = parseInt(book.puan) || 0;
+            const stars = rating ? '★'.repeat(rating) + '☆'.repeat(5 - rating) : 'Puan Verilmedi';
+            const cover = book.kapak_gorseli || './icon.png';
+            const no = book.sira_no ? '#' + book.sira_no.padStart(2, '0') : '';
+
+            // Okuma tarihleri
+            let dateStr = '—';
+            if (book.tarih_1 && book.tarih_2) dateStr = `${book.tarih_1} – ${book.tarih_2}`;
+            else if (book.tarih_1) dateStr = book.tarih_1;
+            else if (book.tarih_2) dateStr = book.tarih_2;
+
+            const contentEl = document.getElementById('modalContent');
+            contentEl.innerHTML = `
+                <div class="modal-grid">
+                    <div>
+                        <div class="modal-cover-wrap">
+                            <img src="${cover}" alt="${book.kitap_adi}" class="modal-cover" onerror="this.src='./icon.png'">
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="modal-header-section">
+                            <div class="modal-num-tag">İthaki BKK ${no}</div>
+                            <h2 class="modal-book-title">${book.kitap_adi}</h2>
+                            <div class="modal-author">${book.yazar_adi}</div>
+                        </div>
+
+                        <!-- 🌟 KİŞİSEL OKUMA & NOT PANELİ (ÜST ALAN) -->
+                        <div class="user-log-panel">
+                            <div class="panel-title">
+                                <span>📖</span>
+                                <span>Kişisel Okuma &amp; Kitaplık Durumu</span>
+                            </div>
+                            
+                            <div class="log-grid">
+                                <div class="log-item">
+                                    <div class="log-lbl">Okuma Durumu</div>
+                                    <div class="log-val" style="color: ${isRead ? 'var(--read-color)' : 'var(--unread-color)'}">
+                                        ${isRead ? '✓ Okundu' : '⌛ Okunacak'}
+                                    </div>
+                                </div>
+                                <div class="log-item">
+                                    <div class="log-lbl">Kitaplıkta</div>
+                                    <div class="log-val" style="color: ${isOwned ? 'var(--owned-color)' : 'var(--text-muted)'}">
+                                        ${isOwned ? '📚 Kitaplığımda Var' : '🛒 Kitaplıkta Yok'}
+                                    </div>
+                                </div>
+                                <div class="log-item">
+                                    <div class="log-lbl">Puanım</div>
+                                    <div class="log-val" style="color: var(--gold)">${stars}</div>
+                                </div>
+                                <div class="log-item">
+                                    <div class="log-lbl">Okuma Tarihi</div>
+                                    <div class="log-val">${dateStr}</div>
+                                </div>
+                            </div>
+
+                            ${book.kisisel_yorum ? `
+                                <div class="comment-box">
+                                    <div class="comment-lbl">💬 Kişisel Not &amp; İncelemem</div>
+                                    <div class="comment-content">"${book.kisisel_yorum}"</div>
+                                </div>
+                            ` : ''}
+                        </div>
+
+                        <!-- 📖 KÜNYE BİLGİLERİ -->
+                        <div class="meta-details-section">
+                            <div class="meta-list">
+                                <div class="meta-row-item">
+                                    <span class="meta-k">Özgün Adı</span>
+                                    <span class="meta-v">${book.ozgun_adi || book.kitap_adi}</span>
+                                </div>
+                                <div class="meta-row-item">
+                                    <span class="meta-k">Çevirmen</span>
+                                    <span class="meta-v">${book.cevirmen || 'İthaki Çeviri Kurulu'}</span>
+                                </div>
+                                <div class="meta-row-item">
+                                    <span class="meta-k">Yayınevi</span>
+                                    <span class="meta-v">İthaki Yayınları</span>
+                                </div>
+                                <div class="meta-row-item">
+                                    <span class="meta-k">Seri Sıra No</span>
+                                    <span class="meta-v">${no}</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- 📝 TANITIM & ARKA KAPAK BÜLTENİ -->
+                        <div class="description-section">
+                            <div class="section-heading">Tanıtım &amp; Arka Kapak</div>
+                            <div class="description-text">
+                                ${book.tanitim_yazisi || `
+                                    <p>Bilimkurgu edebiyatının mihenk taşlarından biri olan <strong>${book.kitap_adi}</strong>, usta yazar <em>${book.yazar_adi}</em> imzasını taşıyor. İthaki Bilimkurgu Klasikleri serisinin <strong>${no}</strong> numaralı bu eseri, insanlığın geleceğine, evrenin sınırlarına ve bilinmeyene dair unutulmaz bir anlatı sunuyor.</p>
+                                `}
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            `;
+
+            document.getElementById('detailModal').classList.add('active');
+            document.body.style.overflow = 'hidden';
+            window.location.hash = 'kitap-' + siraNo;
+        }
+
+        function closeModal() {
+            document.getElementById('detailModal').classList.remove('active');
+            document.body.style.overflow = '';
+            if (window.location.hash.startsWith('#kitap-')) {
+                history.pushState("", document.title, window.location.pathname + window.location.search);
+            }
+        }
+
+        function handleModalOverlayClick(e) {
+            if (e.target.id === 'detailModal') {
+                closeModal();
+            }
+        }
+
+        function checkUrlHash() {
+            const hash = window.location.hash;
+            if (hash && hash.startsWith('#kitap-')) {
+                const no = hash.replace('#kitap-', '');
+                openBookModal(no);
+            }
+        }
+
+        window.addEventListener('popstate', () => {
+            if (!window.location.hash.startsWith('#kitap-')) {
+                document.getElementById('detailModal').classList.remove('active');
+                document.body.style.overflow = '';
+            } else {
+                checkUrlHash();
+            }
         });
-    });
 
-    document.getElementById('searchInput').addEventListener('input', () => {
-        filterAndRender();
-    });
-
-    fetchData();
-
-    // PWA Service Worker Registration
-    if ('serviceWorker' in navigator) {
-        window.addEventListener('load', () => {
-            navigator.serviceWorker.register('./sw.js')
-                .then(registration => {
-                    console.log('SW registered with scope:', registration.scope);
-                })
-                .catch(err => {
-                    console.error('SW registration failed:', err);
-                });
+        // Klavye ESC ile modal kapatma
+        window.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') closeModal();
         });
-    }
-</script>
+
+        // Başlat
+        fetchData();
+
+        // PWA Service Worker
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('./sw.js').catch(() => {});
+            });
+        }
+    </script>
 </body>
 </html>
