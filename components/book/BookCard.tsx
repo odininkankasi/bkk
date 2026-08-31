@@ -12,6 +12,17 @@ export default function BookCard({ book }: Props) {
   const cover = book.kapak_gorseli || "/icon.png";
   const no = book.sira_no ? "#" + String(book.sira_no).padStart(2, "0") : "";
 
+  // Uzun başlıklar için akıllı tipografi optimizasyonu
+  const titleLen = book.kitap_adi?.length || 0;
+  const isVeryLong = titleLen > 24;
+  const isLong = titleLen > 18;
+
+  const titleFontSize = isVeryLong
+    ? "text-[12.5px] sm:text-[13.5px] leading-snug tracking-tight"
+    : isLong
+    ? "text-[13.5px] sm:text-[14.5px] leading-snug tracking-tight"
+    : "text-[15px] sm:text-base leading-tight";
+
   return (
     <Link
       href={`/kitap/${book.slug}`}
@@ -40,8 +51,11 @@ export default function BookCard({ book }: Props) {
         </div>
       </div>
 
-      {/* Kitap Başlığı */}
-      <div className="font-serif font-bold text-[15px] sm:text-base text-[var(--text-primary)] line-clamp-2 leading-snug group-hover:text-[var(--accent)] transition-colors min-h-[2.6em]">
+      {/* Kitap Başlığı (Akıllı Font Ölçekleme & Tam Görünürlük) */}
+      <div
+        className={`font-serif font-bold text-[var(--text-primary)] group-hover:text-[var(--accent)] transition-colors line-clamp-3 min-h-[3rem] sm:min-h-[3.3rem] flex items-start break-words hyphens-auto ${titleFontSize}`}
+        title={book.kitap_adi}
+      >
         {book.kitap_adi}
       </div>
 
