@@ -47,6 +47,18 @@ export function slugify(text: string): string {
     .replace(/^-+|-+$/g, "");
 }
 
+function formatSheetDate(val: string): string {
+  if (!val) return "";
+  const match = val.match(/Date\((\d+),(\d+),(\d+)\)/);
+  if (match) {
+    const y = match[1];
+    const m = String(parseInt(match[2]) + 1).padStart(2, "0");
+    const d = String(match[3]).padStart(2, "0");
+    return `${d}.${m}.${y}`;
+  }
+  return val;
+}
+
 export async function getBooks(): Promise<Book[]> {
   try {
     const url = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:json`;
@@ -92,9 +104,9 @@ export async function getBooks(): Promise<Book[]> {
           } else if (col === "puan") {
             obj.puan = val ? parseInt(val) || null : null;
           } else if (col.includes("tarih 1") || col === "tarih1" || col === "baslangic") {
-            obj.tarih_1 = val;
+            obj.tarih_1 = formatSheetDate(val);
           } else if (col.includes("tarih 2") || col === "tarih2" || col === "bitis") {
-            obj.tarih_2 = val;
+            obj.tarih_2 = formatSheetDate(val);
           } else if (col.includes("kapak") || col.includes("gorsel") || col === "resim") {
             obj.kapak_gorseli = val;
           } else if (col.includes("yorum") || col.includes("not")) {
