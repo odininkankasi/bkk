@@ -8,7 +8,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Yazarlar Atlası — İthaki Bilimkurgu Klasikleri Yazarları",
   description:
-    "İthaki Bilimkurgu Klasikleri dizisinde yer alan 67 usta yazar ve serideki tüm eserleri.",
+    "İthaki Bilimkurgu Klasikleri dizisinde yer alan 67 yazar ve serideki tüm eserleri listesi.",
 };
 
 export const revalidate = 60;
@@ -47,13 +47,13 @@ export default async function AuthorsPage() {
         <ExcelExportButton books={books} />
       </div>
 
-      {/* ── 📖 Editoryal Özet Metni (Açık ve Ferah Tipografi) ── */}
+      {/* ── 📖 Tarafsız & Bilgilendirici Özet Metni ── */}
       <div className="space-y-3.5 text-base sm:text-lg text-[var(--text-secondary)] leading-relaxed font-sans mb-8">
         <p>
-          19. yüzyılın erken dönem spekülatif anlatılarından 20. yüzyılın altın çağına, yeni dalgadan siberpunk akımına kadar uzanan İthaki Bilimkurgu Klasikleri; insanlığın geleceğini, varoluşunu ve sınırlarını sorgulayan <strong>{totalAuthors}</strong> vizyoner yazarın başyapıtlarını bir araya getiriyor. Arthur C. Clarke, Isaac Asimov, Philip K. Dick, Ursula K. Le Guin, Octavia E. Butler ve Strugatski Kardeşler gibi edebiyat anıtlarının yanı sıra Doğu Bloku&apos;ndan Latin Amerika&apos;ya kadar dünya bilimkurgusunun gizli kalmış hazineleri bu atlas üzerinde buluşuyor.
+          İthaki Bilimkurgu Klasikleri dizisi; 19. yüzyılın erken spekülatif anlatılarından 20. yüzyılın altın çağına, yeni dalgadan siberpunk ve çağdaş bilimkurguya kadar farklı edebi dönemleri temsil eden <strong>{totalAuthors}</strong> yazarın eserlerini kapsamaktadır.
         </p>
         <p>
-          Aşağıdaki külliyat atlası üzerinden seride yer alan tüm yazarları eser sayılarıyla birlikte inceleyebilir, favori yazarınızın dizideki tüm ciltlerine ve sıra numaralarına tek tıkla ulaşabilirsiniz.
+          Aşağıdaki liste üzerinden seride yer alan tüm yazarları, dizideki kitap sayılarını ve her bir eserin serideki sıra numaralarını inceleyebilirsiniz.
         </p>
       </div>
 

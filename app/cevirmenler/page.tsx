@@ -8,7 +8,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Çevirmenler Atlası — İthaki Bilimkurgu Klasikleri Çevirmenleri",
   description:
-    "İthaki Bilimkurgu Klasikleri dizisini Türkçeye kazandıran usta çevirmenler ve serideki tüm çeviri eserleri.",
+    "İthaki Bilimkurgu Klasikleri dizisini Türkçeye kazandıran çevirmenler ve serideki tüm çeviri eserleri listesi.",
 };
 
 export const revalidate = 60;
@@ -49,13 +49,13 @@ export default async function TranslatorsPage() {
         <ExcelExportButton books={books} />
       </div>
 
-      {/* ── 📖 Editoryal Özet Metni (Açık ve Ferah Tipografi) ── */}
+      {/* ── 📖 Tarafsız & Bilgilendirici Özet Metni ── */}
       <div className="space-y-3.5 text-base sm:text-lg text-[var(--text-secondary)] leading-relaxed font-sans mb-8">
         <p>
-          Bir bilimkurgu başyapıtını okumak, yalnızca yazarın tasarladığı uzak geleceğe adım atmak değil; o evrenin terminolojisini, felsefesini ve ritmini Türkçede ilmek ilmek yeniden kuran çevirmenin edebi emeğine ortak olmaktır. Frank Herbert&apos;ın özgün kavramlarından Strugatski Kardeşler&apos;in Sovyet dönemi taşlamalarına, siberpunk jargondan mitolojik alegorilere kadar her bir satır, çevirmenlerin titiz diliyle hayat bulmuştur.
+          İthaki Bilimkurgu Klasikleri dizisi, dünya bilimkurgu edebiyatının farklı dönem ve alt türlerine ait eserlerin Türkçeye aktarılmasında geniş bir çevirmen kadrosunun çalışmalarını bir araya getirmektedir. Serideki 116 cilt; İngilizce, Rusça, Fransızca ve diğer dillerdeki özgün metinlerden çevrilmiş olup külliyat boyunca <strong>{totalTranslators}</strong> farklı çevirmen görev almıştır.
         </p>
         <p>
-          Dost Körpe&apos;den Hazal Yalın&apos;a, Murat Özbank&apos;tan Can Kantarcı, Sönmez Güven ve İpek Ortaer&apos;e kadar İthaki Bilimkurgu Klasikleri serisine emek veren <strong>{totalTranslators}</strong> değerli çevirmeni, serideki katkıları ve Türkçeye kazandırdıkları başyapıtlarla birlikte bu atlas üzerinde listeliyoruz.
+          Aşağıdaki liste üzerinden seride yer alan tüm çevirmenleri, dizide çevirdikleri eser sayılarını ve ilgili kitapların serideki sıra numaraları ile yayın yıllarını inceleyebilirsiniz.
         </p>
       </div>
 

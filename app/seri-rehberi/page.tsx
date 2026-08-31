@@ -22,16 +22,16 @@ export default async function SeriesGuidePage() {
       id: "dune",
       title: "Dune Serisi",
       author: "Frank Herbert",
-      tag: "6 Ciltlik Efsanevi Destan",
-      desc: "Bilimkurgu tarihinin en görkemli destanı. Çöl gezegeni Arrakis, baharat melodisi, Bene Gesserit tarikatı ve insanlığın geleceğini şekillendiren efsanevi hanedanlık savaşları.",
+      tag: "6 Ciltlik Dizi",
+      desc: "Frank Herbert tarafından kaleme alınan ve 6 kitaptan oluşan Dune serisi; Arrakis gezegeni, baharat ticareti ve hanedanlıklar arasındaki mücadeleleri konu alan bilimkurgu serisidir.",
       bookNumbers: ["1", "7", "16", "26", "57", "59"],
     },
     {
       id: "mars",
       title: "Mars Üçlemesi",
       author: "Kim Stanley Robinson",
-      tag: "3 Ciltlik Başyapıt Üçleme",
-      desc: "İnsanlığın Kızıl Gezegen'i dünyalaştırma (terraforming), kolonileştirme ve yeni bir medeniyet kurma sürecini anlatan modern bilimkurgunun en gerçekçi başyapıtı.",
+      tag: "3 Ciltlik Üçleme",
+      desc: "Kim Stanley Robinson'ın Kızıl Gezegen'in dünyalaştırılması, yerleşimi ve sonrasındaki siyasi ve ekolojik süreçleri ele aldığı 3 kitaptan oluşan serisidir.",
       bookNumbers: ["45", "113", "114"],
     },
   ];
@@ -57,20 +57,20 @@ export default async function SeriesGuidePage() {
             <span>Seri Rehberi</span>
           </div>
           <h1 className="font-serif text-3xl sm:text-5xl font-bold text-[var(--text-primary)] tracking-tight">
-            Alt Seriler &amp; Edebi Evrenler
+            Alt Seriler &amp; Devam Kitapları
           </h1>
         </div>
 
         <ExcelExportButton books={books} />
       </div>
 
-      {/* ── 📖 Editoryal Özet & Rehber Metni (Açık ve Ferah Tipografi) ── */}
+      {/* ── 📖 Tarafsız & Bilgilendirici Özet Metni ── */}
       <div className="space-y-3.5 text-base sm:text-lg text-[var(--text-secondary)] leading-relaxed font-sans mb-8">
         <p>
-          İthaki Bilimkurgu Klasikleri dizisi, bağımsız başyapıtların yanı sıra dünya edebiyat tarihine damgasını vurmuş çok ciltli epik evrenlere de ev sahipliği yapıyor. Frank Herbert&apos;ın Arrakis çöllerinde kurduğu altı ciltlik devasa <em>Dune</em> evreninden, Kim Stanley Robinson&apos;ın insanlığın kızıl gezegendeki geleceğini adım adım inşa ettiği <em>Mars Üçlemesi</em>&apos;ne kadar uzanan bu alt seriler; tek bir kitapla sınırlı kalmayan, nesiller boyu süren felsefi, politik ve ekolojik dönüşümleri derinlemesine ele alır.
+          İthaki Bilimkurgu Klasikleri dizisi, bağımsız metinlerin yanı sıra aynı evrende geçen ve birbirini takip eden çok ciltli alt serileri de içermektedir. Frank Herbert&apos;ın altı ciltlik <em>Dune</em> serisi ve Kim Stanley Robinson&apos;ın <em>Mars Üçlemesi</em> gibi eserler, dizide farklı sıra numaralarıyla yayımlanmıştır.
         </p>
         <p>
-          Bu rehberde, külliyat içerisinde farklı sıra numaralarıyla yayımlanmış ancak kronolojik veya tematik olarak birbirini takip eden alt serileri bir arada bulabilir; ciltlerin serideki sıra numaralarını ve yayın akışını kolayca takip edebilirsiniz.
+          Bu sayfada, külliyat içerisinde yer alan alt serileri, serilerin kapsadığı kitapları ve serideki yayın sıra numaralarını bir arada takip edebilirsiniz.
         </p>
       </div>
 
