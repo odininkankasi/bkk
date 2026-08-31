@@ -1,0 +1,814 @@
+[
+  {
+    "sira_no": "1",
+    "kitap_adi": "Dune",
+    "yazar_adi": "Frank Herbert",
+    "cevirmen": "Dost Körpe",
+    "yayin_yili": "2015"
+  },
+  {
+    "sira_no": "2",
+    "kitap_adi": "Kıyamete Bir Milyar Yıl",
+    "yazar_adi": "Strugatski Kardeşler",
+    "cevirmen": "Hazal Yalın",
+    "yayin_yili": "2015"
+  },
+  {
+    "sira_no": "3",
+    "kitap_adi": "Maymunlar Gezegeni",
+    "yazar_adi": "Pierre Boulle",
+    "cevirmen": "S. İpek Ortaer Montanari",
+    "yayin_yili": "2015"
+  },
+  {
+    "sira_no": "4",
+    "kitap_adi": "Cesur Yeni Dünya",
+    "yazar_adi": "Aldous Huxley",
+    "cevirmen": "Ümit Tosun",
+    "yayin_yili": "2015"
+  },
+  {
+    "sira_no": "5",
+    "kitap_adi": "Çocukluğun Sonu",
+    "yazar_adi": "Arthur C. Clarke",
+    "cevirmen": "Ekin Odabaş",
+    "yayin_yili": "2015"
+  },
+  {
+    "sira_no": "6",
+    "kitap_adi": "Dr. Moreau’nun Adası",
+    "yazar_adi": "H.G. Wells",
+    "cevirmen": "Ali Kaftan",
+    "yayin_yili": "2016"
+  },
+  {
+    "sira_no": "7",
+    "kitap_adi": "Dune Mesihi",
+    "yazar_adi": "Frank Herbert",
+    "cevirmen": "Dost Körpe",
+    "yayin_yili": "2016"
+  },
+  {
+    "sira_no": "8",
+    "kitap_adi": "Işık Tanrısı",
+    "yazar_adi": "Roger Zelazny",
+    "cevirmen": "Sönmez Güven",
+    "yayin_yili": "2016"
+  },
+  {
+    "sira_no": "9",
+    "kitap_adi": "Yıkım'a Giden Adam",
+    "yazar_adi": "Alfred Bester",
+    "cevirmen": "Barış Tanyeri",
+    "yayin_yili": "2016"
+  },
+  {
+    "sira_no": "10",
+    "kitap_adi": "Yıldız Gemisi Askerleri",
+    "yazar_adi": "Robert A. Heinlein",
+    "cevirmen": "Öznur Özkaya",
+    "yayin_yili": "2016"
+  },
+  {
+    "sira_no": "11",
+    "kitap_adi": "Sürgün Gezegeni",
+    "yazar_adi": "Ursula K. Le Guin",
+    "cevirmen": "Ekin Odabaş",
+    "yayin_yili": "2016"
+  },
+  {
+    "sira_no": "12",
+    "kitap_adi": "Pazartesi Cumartesiden Başlar",
+    "yazar_adi": "Strugatski Kardeşler",
+    "cevirmen": "Hazal Yalın",
+    "yayin_yili": "2016"
+  },
+  {
+    "sira_no": "13",
+    "kitap_adi": "Arcturus'a Yolculuk",
+    "yazar_adi": "David Lindsay",
+    "cevirmen": "Çağlar Kök",
+    "yayin_yili": "2016"
+  },
+  {
+    "sira_no": "14",
+    "kitap_adi": "Zaman Makinesi",
+    "yazar_adi": "H.G. Wells",
+    "cevirmen": "Volkan Gürses",
+    "yayin_yili": "2016"
+  },
+  {
+    "sira_no": "15",
+    "kitap_adi": "2001: Bir Uzay Destanı",
+    "yazar_adi": "Arthur C. Clarke",
+    "cevirmen": "Oya İşeri Gever",
+    "yayin_yili": "2016"
+  },
+  {
+    "sira_no": "16",
+    "kitap_adi": "Dune Çocukları",
+    "yazar_adi": "Frank Herbert",
+    "cevirmen": "Dost Körpe",
+    "yayin_yili": "2016"
+  },
+  {
+    "sira_no": "17",
+    "kitap_adi": "Ben, Robot",
+    "yazar_adi": "Isaac Asimov",
+    "cevirmen": "Ekin Odabaş",
+    "yayin_yili": "2016"
+  },
+  {
+    "sira_no": "18",
+    "kitap_adi": "Kaplan! Kaplan!",
+    "yazar_adi": "Alfred Bester",
+    "cevirmen": "Barış Tanyeli",
+    "yayin_yili": "2017"
+  },
+  {
+    "sira_no": "19",
+    "kitap_adi": "Bitmeyen Savaş",
+    "yazar_adi": "Joe Haldeman",
+    "cevirmen": "Ardan Tüzünsoy",
+    "yayin_yili": "2017"
+  },
+  {
+    "sira_no": "20",
+    "kitap_adi": "Ay Zalim Bir Sevgilidir",
+    "yazar_adi": "Robert A. Heinlein",
+    "cevirmen": "Can Çakır",
+    "yayin_yili": "2017"
+  },
+  {
+    "sira_no": "21",
+    "kitap_adi": "Su Adamı",
+    "yazar_adi": "Aleksandr Belyaev",
+    "cevirmen": "Hazal Yalın",
+    "yayin_yili": "2017"
+  },
+  {
+    "sira_no": "22",
+    "kitap_adi": "Görünmez Adam",
+    "yazar_adi": "H.G. Wells",
+    "cevirmen": "Ali Kaftan",
+    "yayin_yili": "2017"
+  },
+  {
+    "sira_no": "23",
+    "kitap_adi": "Tanrı Olmak Zor İş",
+    "yazar_adi": "Strugatski Kardeşler",
+    "cevirmen": "Hazal Yalın",
+    "yayin_yili": "2017"
+  },
+  {
+    "sira_no": "24",
+    "kitap_adi": "Frankenstein",
+    "yazar_adi": "Mary Shelley",
+    "cevirmen": "Orhan Yılmaz",
+    "yayin_yili": "2017"
+  },
+  {
+    "sira_no": "25",
+    "kitap_adi": "Anlatış",
+    "yazar_adi": "Ursula K. Le Guin",
+    "cevirmen": "Kemal Baran Özbek",
+    "yayin_yili": "2017"
+  },
+  {
+    "sira_no": "26",
+    "kitap_adi": "Dune Tanrı İmparatoru",
+    "yazar_adi": "Frank Herbert",
+    "cevirmen": "Dost Körpe",
+    "yayin_yili": "2017"
+  },
+  {
+    "sira_no": "27",
+    "kitap_adi": "Resimli Adam",
+    "yazar_adi": "Ray Bradbury",
+    "cevirmen": "İlker Sönmez",
+    "yayin_yili": "2017"
+  },
+  {
+    "sira_no": "28",
+    "kitap_adi": "Yenilmez",
+    "yazar_adi": "Stanislaw Lem",
+    "cevirmen": "Seda Köycü",
+    "yayin_yili": "2017"
+  },
+  {
+    "sira_no": "29",
+    "kitap_adi": "Dünyalar Savaşı",
+    "yazar_adi": "H.G. Wells",
+    "cevirmen": "Ali Kaftan",
+    "yayin_yili": "2017"
+  },
+  {
+    "sira_no": "30",
+    "kitap_adi": "Yüzyılın En İyi Bilimkurgu Öyküleri",
+    "yazar_adi": "Orson Scott Card (Editör)",
+    "cevirmen": "Kolektif",
+    "yayin_yili": "2018"
+  },
+  {
+    "sira_no": "31",
+    "kitap_adi": "Uzayda Piknik",
+    "yazar_adi": "Strugatski Kardeşler",
+    "cevirmen": "Hazal Yalın",
+    "yayin_yili": "2018"
+  },
+  {
+    "sira_no": "32",
+    "kitap_adi": "Fahrenheit 451",
+    "yazar_adi": "Ray Bradbury",
+    "cevirmen": "Dost Körpe",
+    "yayin_yili": "2018"
+  },
+  {
+    "sira_no": "33",
+    "kitap_adi": "Uzaktan Kumandalı Kız",
+    "yazar_adi": "James Tiptree, Jr.",
+    "cevirmen": "Begüm Kovulmaz",
+    "yayin_yili": "2018"
+  },
+  {
+    "sira_no": "34",
+    "kitap_adi": "Yakma Zevki: Fahrenheit 451 Öyküleri",
+    "yazar_adi": "Ray Bradbury",
+    "cevirmen": "Murat Özbank",
+    "yayin_yili": "2018"
+  },
+  {
+    "sira_no": "35",
+    "kitap_adi": "İşte İnsan",
+    "yazar_adi": "Michael Moorcock",
+    "cevirmen": "Barış Tanyeri",
+    "yayin_yili": "2018"
+  },
+  {
+    "sira_no": "36",
+    "kitap_adi": "Bir Mars Destanı",
+    "yazar_adi": "Stanley G. Weinbaum",
+    "cevirmen": "Cihan Karamancı",
+    "yayin_yili": "2018"
+  },
+  {
+    "sira_no": "37",
+    "kitap_adi": "Bu Ölümsüz",
+    "yazar_adi": "Roger Zelazny",
+    "cevirmen": "Sönmez Güven",
+    "yayin_yili": "2018"
+  },
+  {
+    "sira_no": "38",
+    "kitap_adi": "Mars Yıllıkları",
+    "yazar_adi": "Ray Bradbury",
+    "cevirmen": "Barış Emre Alkım",
+    "yayin_yili": "2018"
+  },
+  {
+    "sira_no": "39",
+    "kitap_adi": "Kadınlar Ülkesi",
+    "yazar_adi": "Charlotte Perkins Gilman",
+    "cevirmen": "Sevda Deniz Karali",
+    "yayin_yili": "2018"
+  },
+  {
+    "sira_no": "40",
+    "kitap_adi": "Yaban Diyarlardaki Yabancı",
+    "yazar_adi": "Robert A. Heinlein",
+    "cevirmen": "Kağan Çam",
+    "yayin_yili": "2018"
+  },
+  {
+    "sira_no": "41",
+    "kitap_adi": "Tanrıların Tohumu",
+    "yazar_adi": "H.G. Wells",
+    "cevirmen": "Murat Karlıdağ",
+    "yayin_yili": "2019"
+  },
+  {
+    "sira_no": "42",
+    "kitap_adi": "Andromeda Nebulası",
+    "yazar_adi": "Ivan Yefremov",
+    "cevirmen": "Hazal Yalın",
+    "yayin_yili": "2019"
+  },
+  {
+    "sira_no": "43",
+    "kitap_adi": "Yakın",
+    "yazar_adi": "Octavia E. Butler",
+    "cevirmen": "Emek Ergun",
+    "yayin_yili": "2019"
+  },
+  {
+    "sira_no": "44",
+    "kitap_adi": "Kumsalda",
+    "yazar_adi": "Nevil Shute",
+    "cevirmen": "Gizem Dinç",
+    "yayin_yili": "2019"
+  },
+  {
+    "sira_no": "45",
+    "kitap_adi": "Kızıl Mars",
+    "yazar_adi": "Kim Stanley Robinson",
+    "cevirmen": "Sabri Gürses",
+    "yayin_yili": "2019"
+  },
+  {
+    "sira_no": "46",
+    "kitap_adi": "Postacı",
+    "yazar_adi": "David Brin",
+    "cevirmen": "Sönmez Güven",
+    "yayin_yili": "2019"
+  },
+  {
+    "sira_no": "47",
+    "kitap_adi": "Biz",
+    "yazar_adi": "Yevgeni Zamyatin",
+    "cevirmen": "Fatma Arıkan, Serdar Arıkan",
+    "yayin_yili": "2019"
+  },
+  {
+    "sira_no": "48",
+    "kitap_adi": "Phlebas'ı Hatırla",
+    "yazar_adi": "Iain M. Banks",
+    "cevirmen": "M. Boran Evren",
+    "yayin_yili": "2019"
+  },
+  {
+    "sira_no": "49",
+    "kitap_adi": "Leibowitz İçin Bir İlahi",
+    "yazar_adi": "Walter M. Miller, Jr.",
+    "cevirmen": "Sönmez Güven",
+    "yayin_yili": "2019"
+  },
+  {
+    "sira_no": "50",
+    "kitap_adi": "İşkencecinin Gölgesi",
+    "yazar_adi": "Gene Wolfe",
+    "cevirmen": "Kerem Sanatel",
+    "yayin_yili": "2019"
+  },
+  {
+    "sira_no": "51",
+    "kitap_adi": "Dünyaya Düşen Adam",
+    "yazar_adi": "Walter Tevis",
+    "cevirmen": "Mehmet Ali Ağaoğulları",
+    "yayin_yili": "2020"
+  },
+  {
+    "sira_no": "52",
+    "kitap_adi": "Uzlaştırıcının Pençesi",
+    "yazar_adi": "Gene Wolfe",
+    "cevirmen": "Kerem Sanatel",
+    "yayin_yili": "2020"
+  },
+  {
+    "sira_no": "53",
+    "kitap_adi": "Kallokain",
+    "yazar_adi": "Karin Boye",
+    "cevirmen": "Sevda Deniz Karali",
+    "yayin_yili": "2020"
+  },
+  {
+    "sira_no": "54",
+    "kitap_adi": "Kent",
+    "yazar_adi": "Clifford D. Simak",
+    "cevirmen": "Kemal Baran Özbek",
+    "yayin_yili": "2020"
+  },
+  {
+    "sira_no": "55",
+    "kitap_adi": "Tanrının Gözündeki Zerre",
+    "yazar_adi": "Larry Niven, Jerry Pournelle",
+    "cevirmen": "Kerem Sanatel",
+    "yayin_yili": "2020"
+  },
+  {
+    "sira_no": "56",
+    "kitap_adi": "Ben, Efsane",
+    "yazar_adi": "Richard Matheson",
+    "cevirmen": "Özgen Berkol Doğan",
+    "yayin_yili": "2020"
+  },
+  {
+    "sira_no": "57",
+    "kitap_adi": "Dune Sapkınları",
+    "yazar_adi": "Frank Herbert",
+    "cevirmen": "Dost Körpe",
+    "yayin_yili": "2020"
+  },
+  {
+    "sira_no": "58",
+    "kitap_adi": "Yokuştaki Salyangoz",
+    "yazar_adi": "Strugatski Kardeşler",
+    "cevirmen": "Hazal Yalın",
+    "yayin_yili": "2020"
+  },
+  {
+    "sira_no": "59",
+    "kitap_adi": "Dune Rahibeler Meclisi",
+    "yazar_adi": "Frank Herbert",
+    "cevirmen": "Dost Körpe",
+    "yayin_yili": "2020"
+  },
+  {
+    "sira_no": "60",
+    "kitap_adi": "1984",
+    "yazar_adi": "George Orwell",
+    "cevirmen": "Begüm Kovulmaz",
+    "yayin_yili": "2021"
+  },
+  {
+    "sira_no": "61",
+    "kitap_adi": "Hayvan Çiftliği",
+    "yazar_adi": "George Orwell",
+    "cevirmen": "Begüm Kovulmaz",
+    "yayin_yili": "2021"
+  },
+  {
+    "sira_no": "62",
+    "kitap_adi": "Makine Yazı",
+    "yazar_adi": "John Crowley",
+    "cevirmen": "Sevda Deniz Karali",
+    "yayin_yili": "2021"
+  },
+  {
+    "sira_no": "63",
+    "kitap_adi": "Hava Adamı Ariel",
+    "yazar_adi": "Aleksandr Belyaev",
+    "cevirmen": "Lütfiye Pehlivan",
+    "yayin_yili": "2021"
+  },
+  {
+    "sira_no": "64",
+    "kitap_adi": "Houston, Houston Duyuyor musun?",
+    "yazar_adi": "James Tiptree, Jr.",
+    "cevirmen": "Begüm Kovulmaz",
+    "yayin_yili": "2021"
+  },
+  {
+    "sira_no": "65",
+    "kitap_adi": "İşte Tanrılar",
+    "yazar_adi": "Isaac Asimov",
+    "cevirmen": "Cihan Karamancı",
+    "yayin_yili": "2021"
+  },
+  {
+    "sira_no": "66",
+    "kitap_adi": "Maymun ve Öz",
+    "yazar_adi": "Aldous Huxley",
+    "cevirmen": "Süreyyya Evren",
+    "yayin_yili": "2021"
+  },
+  {
+    "sira_no": "67",
+    "kitap_adi": "Liktorun Kılıcı",
+    "yazar_adi": "Gene Wolfe",
+    "cevirmen": "Kerem Sanatel",
+    "yayin_yili": "2021"
+  },
+  {
+    "sira_no": "68",
+    "kitap_adi": "Yer Açın! Yer Açın!",
+    "yazar_adi": "Harry Harrison",
+    "cevirmen": "İrma Dolanoğlu Çimen",
+    "yayin_yili": "2021"
+  },
+  {
+    "sira_no": "69",
+    "kitap_adi": "Alaycı Kuş",
+    "yazar_adi": "Walter Tevis",
+    "cevirmen": "Cihan Karamancı",
+    "yayin_yili": "2021"
+  },
+  {
+    "sira_no": "70",
+    "kitap_adi": "R.U.R.",
+    "yazar_adi": "Karel Čapek",
+    "cevirmen": "Bilge Kösebalaban",
+    "yayin_yili": "2021"
+  },
+  {
+    "sira_no": "71",
+    "kitap_adi": "Mevki Uygarlığı",
+    "yazar_adi": "Robert Sheckley",
+    "cevirmen": "Mert Doğruer",
+    "yayin_yili": "2021"
+  },
+  {
+    "sira_no": "72",
+    "kitap_adi": "Geri Giden Saat",
+    "yazar_adi": "Edward Page Mitchell",
+    "cevirmen": "Doğaç Yavuz",
+    "yayin_yili": "2021"
+  },
+  {
+    "sira_no": "73",
+    "kitap_adi": "Uzak Yarın",
+    "yazar_adi": "Leigh Brackett",
+    "cevirmen": "Berk Göbekcioğlu",
+    "yayin_yili": "2021"
+  },
+  {
+    "sira_no": "74",
+    "kitap_adi": "Semenderlerle Savaş",
+    "yazar_adi": "Karel Čapek",
+    "cevirmen": "Sabri Gürses",
+    "yayin_yili": "2021"
+  },
+  {
+    "sira_no": "75",
+    "kitap_adi": "Lilith'in Dölü",
+    "yazar_adi": "Octavia E. Butler",
+    "cevirmen": "Pırıltı Onukar",
+    "yayin_yili": "2022"
+  },
+  {
+    "sira_no": "76",
+    "kitap_adi": "Kara Bulut",
+    "yazar_adi": "Fred Hoyle",
+    "cevirmen": "Gül Korkmaz",
+    "yayin_yili": "2022"
+  },
+  {
+    "sira_no": "77",
+    "kitap_adi": "Özerk'in Hisarı",
+    "yazar_adi": "Gene Wolfe",
+    "cevirmen": "Kerem Sanatel",
+    "yayin_yili": "2022"
+  },
+  {
+    "sira_no": "78",
+    "kitap_adi": "Koyunlar Yukarı Bakar",
+    "yazar_adi": "John Brunner",
+    "cevirmen": "Cenk Pamay",
+    "yayin_yili": "2022"
+  },
+  {
+    "sira_no": "79",
+    "kitap_adi": "Bir Kadın Astronotun Anıları",
+    "yazar_adi": "Naomi Mitchison",
+    "cevirmen": "Serim As Özdemir",
+    "yayin_yili": "2022"
+  },
+  {
+    "sira_no": "80",
+    "kitap_adi": "Cennetin Çeşmeleri",
+    "yazar_adi": "Arthur C. Clarke",
+    "cevirmen": "Gökçe Çiçek",
+    "yayin_yili": "2022"
+  },
+  {
+    "sira_no": "81",
+    "kitap_adi": "Düşyılanı",
+    "yazar_adi": "Vonda N. McIntyre",
+    "cevirmen": "Aslı Genç",
+    "yayin_yili": "2022"
+  },
+  {
+    "sira_no": "82",
+    "kitap_adi": "Stepford Kadınları",
+    "yazar_adi": "Ira Levin",
+    "cevirmen": "Seçkin Selvi",
+    "yayin_yili": "2022"
+  },
+  {
+    "sira_no": "83",
+    "kitap_adi": "Callahan Günlükleri",
+    "yazar_adi": "Spider Robinson",
+    "cevirmen": "Doğa Özışık",
+    "yayin_yili": "2023"
+  },
+  {
+    "sira_no": "84",
+    "kitap_adi": "Güneşin Altın Elmaları",
+    "yazar_adi": "Ray Bradbury",
+    "cevirmen": "Mehmet Moralı",
+    "yayin_yili": "2023"
+  },
+  {
+    "sira_no": "85",
+    "kitap_adi": "Neuromancer",
+    "yazar_adi": "William Gibson",
+    "cevirmen": "N. Can Kantarcı",
+    "yayin_yili": "2023"
+  },
+  {
+    "sira_no": "86",
+    "kitap_adi": "Tohumdan Hasada",
+    "yazar_adi": "Octavia E. Butler",
+    "cevirmen": "Pırıltı Onukar",
+    "yayin_yili": "2023"
+  },
+  {
+    "sira_no": "87",
+    "kitap_adi": "Mümkünatı Yok",
+    "yazar_adi": "Sinclair Lewis",
+    "cevirmen": "Deniz Daruga",
+    "yayin_yili": "2023"
+  },
+  {
+    "sira_no": "88",
+    "kitap_adi": "İnsanlığın Çocukları",
+    "yazar_adi": "P. D. James",
+    "cevirmen": "Gökçe Metin",
+    "yayin_yili": "2023"
+  },
+  {
+    "sira_no": "89",
+    "kitap_adi": "Yol İşaretleri",
+    "yazar_adi": "Roger Zelazny",
+    "cevirmen": "Taylan Taftaf",
+    "yayin_yili": "2023"
+  },
+  {
+    "sira_no": "90",
+    "kitap_adi": "Dinozor Öyküleri",
+    "yazar_adi": "Ray Bradbury",
+    "cevirmen": "Elif Ersavcı",
+    "yayin_yili": "2023"
+  },
+  {
+    "sira_no": "91",
+    "kitap_adi": "Şimdi ve Daima",
+    "yazar_adi": "Ray Bradbury",
+    "cevirmen": "Kemal Baran Özbek",
+    "yayin_yili": "2023"
+  },
+  {
+    "sira_no": "92",
+    "kitap_adi": "İnsandan Öte",
+    "yazar_adi": "Theodore Sturgeon",
+    "cevirmen": "Sanem Erdem",
+    "yayin_yili": "2024"
+  },
+  {
+    "sira_no": "93",
+    "kitap_adi": "Ölüme Yazgılı Şehir",
+    "yazar_adi": "Arkadi ve Boris Strugatski",
+    "cevirmen": "Hazal Yalın",
+    "yayin_yili": "2024"
+  },
+  {
+    "sira_no": "94",
+    "kitap_adi": "2010: İkinci Uzay Destanı",
+    "yazar_adi": "Arthur C. Clarke",
+    "cevirmen": "Burcu Denizci",
+    "yayin_yili": "2024"
+  },
+  {
+    "sira_no": "95",
+    "kitap_adi": "Ara İstasyon",
+    "yazar_adi": "Clifford D. Simak",
+    "cevirmen": "Sevda Deniz Karali",
+    "yayin_yili": "2024"
+  },
+  {
+    "sira_no": "96",
+    "kitap_adi": "Zaman İçinde Bir Yer",
+    "yazar_adi": "Richard Matheson",
+    "cevirmen": "Yiğit Yavuz",
+    "yayin_yili": "2024"
+  },
+  {
+    "sira_no": "97",
+    "kitap_adi": "İçeriden Ölmek",
+    "yazar_adi": "Robert Silverberg",
+    "cevirmen": "Elif Ersavcı",
+    "yayin_yili": "2024"
+  },
+  {
+    "sira_no": "98",
+    "kitap_adi": "Yanan Krom",
+    "yazar_adi": "William Gibson",
+    "cevirmen": "Sanem Erdem",
+    "yayin_yili": "2024"
+  },
+  {
+    "sira_no": "99",
+    "kitap_adi": "Zanzibar İstifi",
+    "yazar_adi": "John Brunner",
+    "cevirmen": "Uğur Gülsün",
+    "yayin_yili": "2024"
+  },
+  {
+    "sira_no": "100",
+    "kitap_adi": "Tehlikeli Görüler",
+    "yazar_adi": "Harlan Ellison (Editör)",
+    "cevirmen": "Kolektif",
+    "yayin_yili": "2024"
+  },
+  {
+    "sira_no": "101",
+    "kitap_adi": "Melankolinin İlacı",
+    "yazar_adi": "Ray Bradbury",
+    "cevirmen": "Mehmet Moralı",
+    "yayin_yili": "2025"
+  },
+  {
+    "sira_no": "102",
+    "kitap_adi": "Hyperion",
+    "yazar_adi": "Dan Simmons",
+    "cevirmen": "Can Kantarcı",
+    "yayin_yili": "2025"
+  },
+  {
+    "sira_no": "103",
+    "kitap_adi": "Mor Bulut",
+    "yazar_adi": "M. P. Shiel",
+    "cevirmen": "Selin Kurugül",
+    "yayin_yili": "2025"
+  },
+  {
+    "sira_no": "104",
+    "kitap_adi": "Yüksek Şatodaki Adam",
+    "yazar_adi": "Philip K. Dick",
+    "cevirmen": "Dost Körpe",
+    "yayin_yili": "2025"
+  },
+  {
+    "sira_no": "105",
+    "kitap_adi": "Rama'yla Buluşma",
+    "yazar_adi": "Arthur C. Clarke",
+    "cevirmen": "Ümit Kayalıoğlu",
+    "yayin_yili": "2025"
+  },
+  {
+    "sira_no": "106",
+    "kitap_adi": "Oyunların Oyuncusu",
+    "yazar_adi": "Iain M. Banks",
+    "cevirmen": "Doğa Özışık",
+    "yayin_yili": "2025"
+  },
+  {
+    "sira_no": "107",
+    "kitap_adi": "Kar Fırtınası",
+    "yazar_adi": "Neal Stephenson",
+    "cevirmen": "Uğur Gülsün",
+    "yayin_yili": "2025"
+  },
+  {
+    "sira_no": "108",
+    "kitap_adi": "Metropolis",
+    "yazar_adi": "Thea von Harbou",
+    "cevirmen": "Anıl Alacaoğlu",
+    "yayin_yili": "2025"
+  },
+  {
+    "sira_no": "109",
+    "kitap_adi": "Kıyamet Kitabı",
+    "yazar_adi": "Connie Willis",
+    "cevirmen": "Özlem Yüksel",
+    "yayin_yili": "2026"
+  },
+  {
+    "sira_no": "110",
+    "kitap_adi": "Hyperion'ın Düşüşü",
+    "yazar_adi": "Dan Simmons",
+    "cevirmen": "Yosun Erdemli Timuçin",
+    "yayin_yili": "2026"
+  },
+  {
+    "sira_no": "111",
+    "kitap_adi": "Zamanın Şafağı",
+    "yazar_adi": "René Barjavel",
+    "cevirmen": "S. İpek Ortaer Montanari",
+    "yayin_yili": "2026"
+  },
+  {
+    "sira_no": "112",
+    "kitap_adi": "Beden Kemiricilerin İstilası",
+    "yazar_adi": "Jack Finney",
+    "cevirmen": "Beyza Güngör",
+    "yayin_yili": "2026"
+  },
+  {
+    "sira_no": "113",
+    "kitap_adi": "Yeşil Mars",
+    "yazar_adi": "Kim Stanley Robinson",
+    "cevirmen": "Uğur Gülsün",
+    "yayin_yili": "2026"
+  },
+  {
+    "sira_no": "114",
+    "kitap_adi": "Mavi Mars",
+    "yazar_adi": "Kim Stanley Robinson",
+    "cevirmen": "Uğur Gülsün",
+    "yayin_yili": "2026"
+  },
+  {
+    "sira_no": "115",
+    "kitap_adi": "Nemesis",
+    "yazar_adi": "Isaac Asimov",
+    "cevirmen": "Münevver Uzun",
+    "yayin_yili": "2026"
+  },
+  {
+    "sira_no": "116",
+    "kitap_adi": "Kim Var Orada?",
+    "yazar_adi": "John W. Campbell Jr.",
+    "cevirmen": "F. Cihan Akkartal",
+    "yayin_yili": "2026"
+  }
+]

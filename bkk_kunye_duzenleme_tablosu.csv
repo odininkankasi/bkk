@@ -1,117 +1,117 @@
-﻿Sıra No;Kitap Adı;Yazar Adı;Özgün Adı;Çevirmen;Sayfa Sayısı;ISBN;Tanıtım Bülteni
-1;"Dune";"Frank Herbert";;;;;
-2;"Kıyamete Bir Milyar Yıl";"Arkadi ve Boris Strugatsky";;;;;
-3;"Maymunlar Gezegeni";"Pierre Boulle";;;;;
-4;"Cesur Yeni Dünya";"Aldous Huxley";;;;;
-5;"Çocukluğun Sonu";"Arthur C. Clarke";;;;;
-6;"Dr. Moreau’nun Adası";"H.G. Wells";;;;;
-7;"Dune Mesihi";"Frank Herbert";;;;;
-8;"Işık Tanrısı";"Roger Zelazny";;;;;
-9;"Yıkım’a Giden Adam";"Alfred Bester";;;;;
-10;"Yıldız Gemisi Askerleri";"Robert A. Heinlein";;;;;
-11;"Sürgün Gezegeni";"Ursula K. Le Guin";;;;;
-12;"Pazartesi Cumartesiden Başlar";"Arkadi ve Boris Strugatsky";;;;;
-13;"Arcturus’a Yolculuk";"David Lindsay";;;;;
-14;"Zaman Makinesi";"H.G. Wells";;;;;
-15;"2001: Bir Uzay Destanı";"Arthur C. Clarke";;;;;
-16;"Dune Çocukları";"Frank Herbert";;;;;
-17;"Ben, Robot";"Isaac Asimov";;;;;
-18;"Kaplan! Kaplan!";"Alfred Bester";;;;;
-19;"Bitmeyen Savaş";"Joe Haldeman";;;;;
-20;"Ay Zalim Bir Sevgilidir";"Robert A. Heinlein";;;;;
-21;"Su Adamı";"Aleksandr Belyaev";;;;;
-22;"Görünmez Adam";"H.G. Wells";;;;;
-23;"Tanrı Olmak Zor İş";"Arkadi ve Boris Strugatsky";;;;;
-24;"Frankenstein";"Mary Shelley";;;;;
-25;"Anlatış";"Ursula K. Le Guin";;;;;
-26;"Dune Tanrı İmparatoru";"Frank Herbert";;;;;
-27;"Resimli Adam";"Ray Bradbury";;;;;
-28;"Yenilmez";"Stanislaw Lem";;;;;
-29;"Dünyalar Savaşı";"H.G. Wells";;;;;
-30;"Yüzyılın En İyi Bilimkurgu Öyküleri";"Orson Scott Card (Editör)";;;;;
-31;"Uzayda Piknik";"Strugatski Kardeşler";;;;;
-32;"Fahrenheit 451";"Ray Bradbury";;;;;
-33;"Uzaktan Kumandalı Kız";"James Tiptree, Jr.";;;;;
-34;"Yakma Zevki: Fahrenheit 451 Öyküleri";"Ray Bradbury";;;;;
-35;"İşte İnsan";"Michael Moorcock";;;;;
-36;"Bir Mars Destanı";"Stanley G. Weinbaum";;;;;
-37;"Bu Ölümsüz";"Roger Zelazny";;;;;
-38;"Mars Yıllıkları";"Ray Bradbury";;;;;
-39;"Kadınlar Ülkesi";"Charlotte Perkins Gilman";;;;;
-40;"Yaban Diyarlardaki Yabancı";"Robert A. Heinlein";;;;;
-41;"Tanrıların Tohumu";"H.G. Wells";;;;;
-42;"Andromeda Nebulası";"Ivan Yefremov";;;;;
-43;"Yakın";"Octavia E. Butler";;;;;
-44;"Kumsalda";"Nevil Shute";;;;;
-45;"Kızıl Mars";"Kim Stanley Robinson";;;;;
-46;"Postacı";"David Brin";;;;;
-47;"Biz";"Yevgeni Zamyatin";;;;;
-48;"Phlebas’ı Hatırla";"Iain M. Banks";;;;;
-49;"Leibowitz İçin Bir İlahi";"Walter M. Miller, Jr.";;;;;
-50;"İşkencecinin Gölgesi";"Gene Wolfe";;;;;
-51;"Dünyaya Düşen Adam";"Walter Tevis";;;;;
-52;"Uzlaştırıcının Pençesi";"Gene Wolfe";;;;;
-53;"Kallokain";"Karin Boye";;;;;
-54;"Kent";"Clifford Donald Simak";;;;;
-55;"Tanrının Gözündeki Zerre";"Larry Niven, Jerry Pournelle";;;;;
-56;"Ben, Efsane";"Richard Matheson";;;;;
-57;"Dune Sapkınları";"Frank Herbert";;;;;
-58;"Yokuştaki Salyangoz";"Arkadi ve Boris Strugatsky";;;;;
-59;"Dune Rahibeler Meclisi";"Frank Herbert";;;;;
-60;"1984";"George Orwell";;;;;
-61;"Hayvan Çiftliği";"George Orwell";;;;;
-62;"Makine Yazı";"John Crowley";;;;;
-63;"Hava Adamı Ariel";"Aleksandr Belyaev";;;;;
-64;"Houston, Houston Duyuyor musun?";"James Tiptree, Jr.";;;;;
-65;"İşte Tanrılar";"Isaac Asimov";;;;;
-66;"Maymun ve Öz";"Aldous Huxley";;;;;
-67;"Liktorun Kılıcı";"Gene Wolfe";;;;;
-68;"Yer Açın! Yer Açın!";"Harry Harrison";;;;;
-69;"Alaycı Kuş";"Walter Tevis";;;;;
-70;"R.U.R.";"Karel Čapek";;;;;
-71;"Mevki Uygarlığı";"Robert Sheckley";;;;;
-72;"Geri Giden Saat";"Edward Page Mitchell";;;;;
-73;"Uzak Yarın";"Leigh Brackett";;;;;
-74;"Semenderlerle Savaş";"Karel Čapek";;;;;
-75;"Lilith’in Dölü";"Octavia E. Butler";;;;;
-76;"Kara Bulut";"Fred Hoyle";;;;;
-77;"Özerk’in Hisarı";"Gene Wolfe";;;;;
-78;"Koyunlar Yukarı Bakar";"John Brunner";;;;;
-79;"Bir Kadın Astronotun Anıları";"Naomi Mitchison";;;;;
-80;"Cennetin Çeşmeleri";"Arthur C. Clarke";;;;;
-81;"Düşyılanı";"Vonda N. McIntyre";;;;;
-82;"Stepford Kadınları";"Ira Levin";;;;;
-83;"Callahan Günlükleri";"Spider Robinson";;;;;
-84;"Güneşin Altın Elmaları";"Ray Bradbury";;;;;
-85;"Neuromancer";"William Gibson";;;;;
-86;"Tohumdan Hasada";"Octavia E. Butler";;;;;
-87;"Mümkünatı Yok";"Sinclair Lewis";;;;;
-88;"İnsanlığın Çocukları";"P. D. James";;;;;
-89;"Yol İşaretleri";"Roger Zelazny";;;;;
-90;"Dinozor Öyküleri";"Ray Bradbury";;;;;
-91;"Şimdi ve Daima";"Ray Bradbury";;;;;
-92;"İnsandan Öte";"Theodore Sturgeon";;;;;
-93;"Ölüme Yazgılı Şehir";"Arkadi ve Boris Strugatski";;;;;
-94;"2010: İkinci Uzay Destanı";"Arthur C. Clarke";;;;;
-95;"Ara İstasyon";"Clifford D. Simak";;;;;
-96;"Zaman İçinde Bir Yer";"Richard Matheson";;;;;
-97;"İçeriden Ölmek";"Robert Silverberg";;;;;
-98;"Yanan Krom";"William Gibson";;;;;
-99;"Zanzibar İstifi";"John Brunner";;;;;
-100;"Tehlikeli Görüler";"Harlan Ellison (Editör)";;;;;
-101;"Melankolinin İlacı";"Ray Bradbury";;;;;
-102;"Hyperion";"Dan Simmons";;;;;
-103;"Mor Bulut";"M. P. Shiel";;;;;
-104;"Yüksek Şatodaki Adam";"Philip K. Dick";;;;;
-105;"Rama’yla Buluşma";"Arthur C. Clarke";;;;;
-106;"Oyunların Oyuncusu";"Iain M. Banks";;;;;
-107;"Kar Fırtınası";"Neal Stephenson";;;;;
-108;"Metropolis";"Thea von Harbou";;;;;
-109;"Kıyamet Kitabı";"Connie Willis";;;;;
-110;"Hyperion’ın Düşüşü-Hyperion Kantoları 2. Kitap";"Dan Simmons";;;;;
-111;"Zamanın Şafağı";"René Barjave";;;;;
-112;"Beden Kemiricilerin İstilası";"Jack Finney";;;;;
-113;"Yeşil Mars ";"Kim Stanley Robinson";;;;;
-114;"Mavi Mars";"Kim Stanley Robinson";;;;;
-115;"Nemesis";"Isaac Asimov";;;;;
-116;"Kim Var Orada";"John W. Campbell";;;;;
+﻿Sıra No;Kitap Adı;Yazar Adı;Çevirmen (Vikipedi Doğrulanmış);Serideki Yayın Yılı (Vikipedi)
+1;"Dune";"Frank Herbert";"Dost Körpe";2015
+2;"Kıyamete Bir Milyar Yıl";"Arkadi ve Boris Strugatsky";"Hazal Yalın";2015
+3;"Maymunlar Gezegeni";"Pierre Boulle";"S. İpek Ortaer Montanari";2015
+4;"Cesur Yeni Dünya";"Aldous Huxley";"Ümit Tosun";2015
+5;"Çocukluğun Sonu";"Arthur C. Clarke";"Ekin Odabaş";2015
+6;"Dr. Moreau’nun Adası";"H.G. Wells";"Ali Kaftan";2016
+7;"Dune Mesihi";"Frank Herbert";"Dost Körpe";2016
+8;"Işık Tanrısı";"Roger Zelazny";"Sönmez Güven";2016
+9;"Yıkım’a Giden Adam";"Alfred Bester";"Barış Tanyeri";2016
+10;"Yıldız Gemisi Askerleri";"Robert A. Heinlein";"Öznur Özkaya";2016
+11;"Sürgün Gezegeni";"Ursula K. Le Guin";"Ekin Odabaş";2016
+12;"Pazartesi Cumartesiden Başlar";"Arkadi ve Boris Strugatsky";"Hazal Yalın";2016
+13;"Arcturus’a Yolculuk";"David Lindsay";"Çağlar Kök";2016
+14;"Zaman Makinesi";"H.G. Wells";"Volkan Gürses";2016
+15;"2001: Bir Uzay Destanı";"Arthur C. Clarke";"Oya İşeri Gever";2016
+16;"Dune Çocukları";"Frank Herbert";"Dost Körpe";2016
+17;"Ben, Robot";"Isaac Asimov";"Ekin Odabaş";2016
+18;"Kaplan! Kaplan!";"Alfred Bester";"Barış Tanyeli";2017
+19;"Bitmeyen Savaş";"Joe Haldeman";"Ardan Tüzünsoy";2017
+20;"Ay Zalim Bir Sevgilidir";"Robert A. Heinlein";"Can Çakır";2017
+21;"Su Adamı";"Aleksandr Belyaev";"Hazal Yalın";2017
+22;"Görünmez Adam";"H.G. Wells";"Ali Kaftan";2017
+23;"Tanrı Olmak Zor İş";"Arkadi ve Boris Strugatsky";"Hazal Yalın";2017
+24;"Frankenstein";"Mary Shelley";"Orhan Yılmaz";2017
+25;"Anlatış";"Ursula K. Le Guin";"Kemal Baran Özbek";2017
+26;"Dune Tanrı İmparatoru";"Frank Herbert";"Dost Körpe";2017
+27;"Resimli Adam";"Ray Bradbury";"İlker Sönmez";2017
+28;"Yenilmez";"Stanislaw Lem";"Seda Köycü";2017
+29;"Dünyalar Savaşı";"H.G. Wells";"Ali Kaftan";2017
+30;"Yüzyılın En İyi Bilimkurgu Öyküleri";"Orson Scott Card (Editör)";"Kolektif";2018
+31;"Uzayda Piknik";"Strugatski Kardeşler";"Hazal Yalın";2018
+32;"Fahrenheit 451";"Ray Bradbury";"Dost Körpe";2018
+33;"Uzaktan Kumandalı Kız";"James Tiptree, Jr.";"Begüm Kovulmaz";2018
+34;"Yakma Zevki: Fahrenheit 451 Öyküleri";"Ray Bradbury";"Murat Özbank";2018
+35;"İşte İnsan";"Michael Moorcock";"Barış Tanyeri";2018
+36;"Bir Mars Destanı";"Stanley G. Weinbaum";"Cihan Karamancı";2018
+37;"Bu Ölümsüz";"Roger Zelazny";"Sönmez Güven";2018
+38;"Mars Yıllıkları";"Ray Bradbury";"Barış Emre Alkım";2018
+39;"Kadınlar Ülkesi";"Charlotte Perkins Gilman";"Sevda Deniz Karali";2018
+40;"Yaban Diyarlardaki Yabancı";"Robert A. Heinlein";"Kağan Çam";2018
+41;"Tanrıların Tohumu";"H.G. Wells";"Murat Karlıdağ";2019
+42;"Andromeda Nebulası";"Ivan Yefremov";"Hazal Yalın";2019
+43;"Yakın";"Octavia E. Butler";"Emek Ergun";2019
+44;"Kumsalda";"Nevil Shute";"Gizem Dinç";2019
+45;"Kızıl Mars";"Kim Stanley Robinson";"Sabri Gürses";2019
+46;"Postacı";"David Brin";"Sönmez Güven";2019
+47;"Biz";"Yevgeni Zamyatin";"Fatma Arıkan, Serdar Arıkan";2019
+48;"Phlebas’ı Hatırla";"Iain M. Banks";"M. Boran Evren";2019
+49;"Leibowitz İçin Bir İlahi";"Walter M. Miller, Jr.";"Sönmez Güven";2019
+50;"İşkencecinin Gölgesi";"Gene Wolfe";"Kerem Sanatel";2019
+51;"Dünyaya Düşen Adam";"Walter Tevis";"Mehmet Ali Ağaoğulları";2020
+52;"Uzlaştırıcının Pençesi";"Gene Wolfe";"Kerem Sanatel";2020
+53;"Kallokain";"Karin Boye";"Sevda Deniz Karali";2020
+54;"Kent";"Clifford Donald Simak";"Kemal Baran Özbek";2020
+55;"Tanrının Gözündeki Zerre";"Larry Niven, Jerry Pournelle";"Kerem Sanatel";2020
+56;"Ben, Efsane";"Richard Matheson";"Özgen Berkol Doğan";2020
+57;"Dune Sapkınları";"Frank Herbert";"Dost Körpe";2020
+58;"Yokuştaki Salyangoz";"Arkadi ve Boris Strugatsky";"Hazal Yalın";2020
+59;"Dune Rahibeler Meclisi";"Frank Herbert";"Dost Körpe";2020
+60;"1984";"George Orwell";"Begüm Kovulmaz";2021
+61;"Hayvan Çiftliği";"George Orwell";"Begüm Kovulmaz";2021
+62;"Makine Yazı";"John Crowley";"Sevda Deniz Karali";2021
+63;"Hava Adamı Ariel";"Aleksandr Belyaev";"Lütfiye Pehlivan";2021
+64;"Houston, Houston Duyuyor musun?";"James Tiptree, Jr.";"Begüm Kovulmaz";2021
+65;"İşte Tanrılar";"Isaac Asimov";"Cihan Karamancı";2021
+66;"Maymun ve Öz";"Aldous Huxley";"Süreyyya Evren";2021
+67;"Liktorun Kılıcı";"Gene Wolfe";"Kerem Sanatel";2021
+68;"Yer Açın! Yer Açın!";"Harry Harrison";"İrma Dolanoğlu Çimen";2021
+69;"Alaycı Kuş";"Walter Tevis";"Cihan Karamancı";2021
+70;"R.U.R.";"Karel Čapek";"Bilge Kösebalaban";2021
+71;"Mevki Uygarlığı";"Robert Sheckley";"Mert Doğruer";2021
+72;"Geri Giden Saat";"Edward Page Mitchell";"Doğaç Yavuz";2021
+73;"Uzak Yarın";"Leigh Brackett";"Berk Göbekcioğlu";2021
+74;"Semenderlerle Savaş";"Karel Čapek";"Sabri Gürses";2021
+75;"Lilith’in Dölü";"Octavia E. Butler";"Pırıltı Onukar";2022
+76;"Kara Bulut";"Fred Hoyle";"Gül Korkmaz";2022
+77;"Özerk’in Hisarı";"Gene Wolfe";"Kerem Sanatel";2022
+78;"Koyunlar Yukarı Bakar";"John Brunner";"Cenk Pamay";2022
+79;"Bir Kadın Astronotun Anıları";"Naomi Mitchison";"Serim As Özdemir";2022
+80;"Cennetin Çeşmeleri";"Arthur C. Clarke";"Gökçe Çiçek";2022
+81;"Düşyılanı";"Vonda N. McIntyre";"Aslı Genç";2022
+82;"Stepford Kadınları";"Ira Levin";"Seçkin Selvi";2022
+83;"Callahan Günlükleri";"Spider Robinson";"Doğa Özışık";2023
+84;"Güneşin Altın Elmaları";"Ray Bradbury";"Mehmet Moralı";2023
+85;"Neuromancer";"William Gibson";"N. Can Kantarcı";2023
+86;"Tohumdan Hasada";"Octavia E. Butler";"Pırıltı Onukar";2023
+87;"Mümkünatı Yok";"Sinclair Lewis";"Deniz Daruga";2023
+88;"İnsanlığın Çocukları";"P. D. James";"Gökçe Metin";2023
+89;"Yol İşaretleri";"Roger Zelazny";"Taylan Taftaf";2023
+90;"Dinozor Öyküleri";"Ray Bradbury";"Elif Ersavcı";2023
+91;"Şimdi ve Daima";"Ray Bradbury";"Kemal Baran Özbek";2023
+92;"İnsandan Öte";"Theodore Sturgeon";"Sanem Erdem";2024
+93;"Ölüme Yazgılı Şehir";"Arkadi ve Boris Strugatski";"Hazal Yalın";2024
+94;"2010: İkinci Uzay Destanı";"Arthur C. Clarke";"Burcu Denizci";2024
+95;"Ara İstasyon";"Clifford D. Simak";"Sevda Deniz Karali";2024
+96;"Zaman İçinde Bir Yer";"Richard Matheson";"Yiğit Yavuz";2024
+97;"İçeriden Ölmek";"Robert Silverberg";"Elif Ersavcı";2024
+98;"Yanan Krom";"William Gibson";"Sanem Erdem";2024
+99;"Zanzibar İstifi";"John Brunner";"Uğur Gülsün";2024
+100;"Tehlikeli Görüler";"Harlan Ellison (Editör)";"Kolektif";2024
+101;"Melankolinin İlacı";"Ray Bradbury";"Mehmet Moralı";2025
+102;"Hyperion";"Dan Simmons";"Can Kantarcı";2025
+103;"Mor Bulut";"M. P. Shiel";"Selin Kurugül";2025
+104;"Yüksek Şatodaki Adam";"Philip K. Dick";"Dost Körpe";2025
+105;"Rama’yla Buluşma";"Arthur C. Clarke";"Ümit Kayalıoğlu";2025
+106;"Oyunların Oyuncusu";"Iain M. Banks";"Doğa Özışık";2025
+107;"Kar Fırtınası";"Neal Stephenson";"Uğur Gülsün";2025
+108;"Metropolis";"Thea von Harbou";"Anıl Alacaoğlu";2025
+109;"Kıyamet Kitabı";"Connie Willis";"Özlem Yüksel";2026
+110;"Hyperion’ın Düşüşü-Hyperion Kantoları 2. Kitap";"Dan Simmons";"Yosun Erdemli Timuçin";2026
+111;"Zamanın Şafağı";"René Barjave";"S. İpek Ortaer Montanari";2026
+112;"Beden Kemiricilerin İstilası";"Jack Finney";"Beyza Güngör";2026
+113;"Yeşil Mars ";"Kim Stanley Robinson";"Uğur Gülsün";2026
+114;"Mavi Mars";"Kim Stanley Robinson";"Uğur Gülsün";2026
+115;"Nemesis";"Isaac Asimov";"Münevver Uzun";2026
+116;"Kim Var Orada";"John W. Campbell";"F. Cihan Akkartal";2026

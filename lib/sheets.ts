@@ -17,6 +17,7 @@ export interface Book {
   sayfa_sayisi?: string;
   isbn?: string;
   basim_yili?: string;
+  ithaki_yayin_yili?: string;
   slug: string;
 }
 
@@ -133,6 +134,7 @@ export async function getBooks(): Promise<Book[]> {
           if (!obj.sayfa_sayisi && fallbackMatch.sayfa_sayisi) obj.sayfa_sayisi = fallbackMatch.sayfa_sayisi;
           if (!obj.isbn && fallbackMatch.isbn) obj.isbn = fallbackMatch.isbn;
           if (!obj.tanitim_yazisi && fallbackMatch.tanitim_yazisi) obj.tanitim_yazisi = fallbackMatch.tanitim_yazisi;
+          if (!obj.ithaki_yayin_yili && fallbackMatch.ithaki_yayin_yili) obj.ithaki_yayin_yili = fallbackMatch.ithaki_yayin_yili;
         }
 
         return obj as Book;

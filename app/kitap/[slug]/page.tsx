@@ -125,6 +125,13 @@ export default async function BookDetailPage({ params }: Props) {
                 </div>
               )}
 
+              {book.ithaki_yayin_yili && (
+                <div>
+                  <div className="text-xs font-bold text-[var(--text-muted)] uppercase">Serideki Basım Yılı</div>
+                  <div className="font-mono font-bold text-[var(--accent)] mt-1">{book.ithaki_yayin_yili}</div>
+                </div>
+              )}
+
               {book.sayfa_sayisi && (
                 <div>
                   <div className="text-xs font-bold text-[var(--text-muted)] uppercase">Sayfa Sayısı</div>

@@ -9,7 +9,9 @@
     "tarih_1": "18.11.2019",
     "tarih_2": "20.11.2019",
     "kapak_gorseli": "/covers/01-01-dune.webp",
-    "slug": "01-dune"
+    "slug": "01-dune",
+    "cevirmen": "Dost Körpe",
+    "ithaki_yayin_yili": "2015"
   },
   {
     "sira_no": "2",
@@ -21,7 +23,9 @@
     "tarih_1": "01.06.2016",
     "tarih_2": "02.06.2016",
     "kapak_gorseli": "/covers/02-02-kiyamete-bir-milyar-yil.webp",
-    "slug": "02-kiyamete-bir-milyar-yil"
+    "slug": "02-kiyamete-bir-milyar-yil",
+    "cevirmen": "Hazal Yalın",
+    "ithaki_yayin_yili": "2015"
   },
   {
     "sira_no": "3",
@@ -33,7 +37,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/03-03-maymunlar-gezegeni.webp",
-    "slug": "03-maymunlar-gezegeni"
+    "slug": "03-maymunlar-gezegeni",
+    "cevirmen": "S. İpek Ortaer Montanari",
+    "ithaki_yayin_yili": "2015"
   },
   {
     "sira_no": "4",
@@ -45,7 +51,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/04-04-cesur-yeni-dunya.webp",
-    "slug": "04-cesur-yeni-dunya"
+    "slug": "04-cesur-yeni-dunya",
+    "cevirmen": "Ümit Tosun",
+    "ithaki_yayin_yili": "2015"
   },
   {
     "sira_no": "5",
@@ -57,7 +65,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/05-05-cocuklugun-sonu.webp",
-    "slug": "05-cocuklugun-sonu"
+    "slug": "05-cocuklugun-sonu",
+    "cevirmen": "Ekin Odabaş",
+    "ithaki_yayin_yili": "2015"
   },
   {
     "sira_no": "6",
@@ -69,7 +79,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/06-06-dr-moreau-nun-adasi.webp",
-    "slug": "06-dr-moreau-nun-adasi"
+    "slug": "06-dr-moreau-nun-adasi",
+    "cevirmen": "Ali Kaftan",
+    "ithaki_yayin_yili": "2016"
   },
   {
     "sira_no": "7",
@@ -81,7 +93,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/07-07-dune-mesihi.webp",
-    "slug": "07-dune-mesihi"
+    "slug": "07-dune-mesihi",
+    "cevirmen": "Dost Körpe",
+    "ithaki_yayin_yili": "2016"
   },
   {
     "sira_no": "8",
@@ -93,7 +107,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/08-08-isik-tanrisi.webp",
-    "slug": "08-isik-tanrisi"
+    "slug": "08-isik-tanrisi",
+    "cevirmen": "Sönmez Güven",
+    "ithaki_yayin_yili": "2016"
   },
   {
     "sira_no": "9",
@@ -105,7 +121,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/09-09-yikim-a-giden-adam.webp",
-    "slug": "09-yikim-a-giden-adam"
+    "slug": "09-yikim-a-giden-adam",
+    "cevirmen": "Barış Tanyeri",
+    "ithaki_yayin_yili": "2016"
   },
   {
     "sira_no": "10",
@@ -117,7 +135,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/10-10-yildiz-gemisi-askerleri.webp",
-    "slug": "10-yildiz-gemisi-askerleri"
+    "slug": "10-yildiz-gemisi-askerleri",
+    "cevirmen": "Öznur Özkaya",
+    "ithaki_yayin_yili": "2016"
   },
   {
     "sira_no": "11",
@@ -129,7 +149,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/11-11-surgun-gezegeni.webp",
-    "slug": "11-surgun-gezegeni"
+    "slug": "11-surgun-gezegeni",
+    "cevirmen": "Ekin Odabaş",
+    "ithaki_yayin_yili": "2016"
   },
   {
     "sira_no": "12",
@@ -141,7 +163,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/12-12-pazartesi-cumartesiden-baslar.webp",
-    "slug": "12-pazartesi-cumartesiden-baslar"
+    "slug": "12-pazartesi-cumartesiden-baslar",
+    "cevirmen": "Hazal Yalın",
+    "ithaki_yayin_yili": "2016"
   },
   {
     "sira_no": "13",
@@ -153,7 +177,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/13-13-arcturus-a-yolculuk.webp",
-    "slug": "13-arcturus-a-yolculuk"
+    "slug": "13-arcturus-a-yolculuk",
+    "cevirmen": "Çağlar Kök",
+    "ithaki_yayin_yili": "2016"
   },
   {
     "sira_no": "14",
@@ -165,7 +191,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/14-14-zaman-makinesi.webp",
-    "slug": "14-zaman-makinesi"
+    "slug": "14-zaman-makinesi",
+    "cevirmen": "Volkan Gürses",
+    "ithaki_yayin_yili": "2016"
   },
   {
     "sira_no": "15",
@@ -177,7 +205,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/15-15-2001-bir-uzay-destani.webp",
-    "slug": "15-2001-bir-uzay-destani"
+    "slug": "15-2001-bir-uzay-destani",
+    "cevirmen": "Oya İşeri Gever",
+    "ithaki_yayin_yili": "2016"
   },
   {
     "sira_no": "16",
@@ -189,7 +219,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/16-16-dune-cocuklari.webp",
-    "slug": "16-dune-cocuklari"
+    "slug": "16-dune-cocuklari",
+    "cevirmen": "Dost Körpe",
+    "ithaki_yayin_yili": "2016"
   },
   {
     "sira_no": "17",
@@ -201,7 +233,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/17-17-ben-robot.webp",
-    "slug": "17-ben-robot"
+    "slug": "17-ben-robot",
+    "cevirmen": "Ekin Odabaş",
+    "ithaki_yayin_yili": "2016"
   },
   {
     "sira_no": "18",
@@ -213,7 +247,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/18-18-kaplan-kaplan.webp",
-    "slug": "18-kaplan-kaplan"
+    "slug": "18-kaplan-kaplan",
+    "cevirmen": "Barış Tanyeli",
+    "ithaki_yayin_yili": "2017"
   },
   {
     "sira_no": "19",
@@ -225,7 +261,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/19-19-bitmeyen-savas.webp",
-    "slug": "19-bitmeyen-savas"
+    "slug": "19-bitmeyen-savas",
+    "cevirmen": "Ardan Tüzünsoy",
+    "ithaki_yayin_yili": "2017"
   },
   {
     "sira_no": "20",
@@ -237,7 +275,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/20-20-ay-zalim-bir-sevgilidir.webp",
-    "slug": "20-ay-zalim-bir-sevgilidir"
+    "slug": "20-ay-zalim-bir-sevgilidir",
+    "cevirmen": "Can Çakır",
+    "ithaki_yayin_yili": "2017"
   },
   {
     "sira_no": "21",
@@ -249,7 +289,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/21-21-su-adami.webp",
-    "slug": "21-su-adami"
+    "slug": "21-su-adami",
+    "cevirmen": "Hazal Yalın",
+    "ithaki_yayin_yili": "2017"
   },
   {
     "sira_no": "22",
@@ -261,7 +303,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/22-22-gorunmez-adam.webp",
-    "slug": "22-gorunmez-adam"
+    "slug": "22-gorunmez-adam",
+    "cevirmen": "Ali Kaftan",
+    "ithaki_yayin_yili": "2017"
   },
   {
     "sira_no": "23",
@@ -273,7 +317,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/23-23-tanri-olmak-zor-is.webp",
-    "slug": "23-tanri-olmak-zor-is"
+    "slug": "23-tanri-olmak-zor-is",
+    "cevirmen": "Hazal Yalın",
+    "ithaki_yayin_yili": "2017"
   },
   {
     "sira_no": "24",
@@ -285,7 +331,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/24-24-frankenstein.webp",
-    "slug": "24-frankenstein"
+    "slug": "24-frankenstein",
+    "cevirmen": "Orhan Yılmaz",
+    "ithaki_yayin_yili": "2017"
   },
   {
     "sira_no": "25",
@@ -297,7 +345,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/25-25-anlatis.webp",
-    "slug": "25-anlatis"
+    "slug": "25-anlatis",
+    "cevirmen": "Kemal Baran Özbek",
+    "ithaki_yayin_yili": "2017"
   },
   {
     "sira_no": "26",
@@ -309,7 +359,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/26-26-dune-tanri-imparatoru.webp",
-    "slug": "26-dune-tanri-imparatoru"
+    "slug": "26-dune-tanri-imparatoru",
+    "cevirmen": "Dost Körpe",
+    "ithaki_yayin_yili": "2017"
   },
   {
     "sira_no": "27",
@@ -321,7 +373,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/27-27-resimli-adam.webp",
-    "slug": "27-resimli-adam"
+    "slug": "27-resimli-adam",
+    "cevirmen": "İlker Sönmez",
+    "ithaki_yayin_yili": "2017"
   },
   {
     "sira_no": "28",
@@ -333,7 +387,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/28-28-yenilmez.webp",
-    "slug": "28-yenilmez"
+    "slug": "28-yenilmez",
+    "cevirmen": "Seda Köycü",
+    "ithaki_yayin_yili": "2017"
   },
   {
     "sira_no": "29",
@@ -345,7 +401,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/29-29-dunyalar-savasi.webp",
-    "slug": "29-dunyalar-savasi"
+    "slug": "29-dunyalar-savasi",
+    "cevirmen": "Ali Kaftan",
+    "ithaki_yayin_yili": "2017"
   },
   {
     "sira_no": "30",
@@ -357,7 +415,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/30-30-yuzyilin-en-iyi-bilimkurgu-oykuleri.webp",
-    "slug": "30-yuzyilin-en-iyi-bilimkurgu-oykuleri"
+    "slug": "30-yuzyilin-en-iyi-bilimkurgu-oykuleri",
+    "cevirmen": "Kolektif",
+    "ithaki_yayin_yili": "2018"
   },
   {
     "sira_no": "31",
@@ -369,7 +429,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/31-31-uzayda-piknik.webp",
-    "slug": "31-uzayda-piknik"
+    "slug": "31-uzayda-piknik",
+    "cevirmen": "Hazal Yalın",
+    "ithaki_yayin_yili": "2018"
   },
   {
     "sira_no": "32",
@@ -381,7 +443,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/32-32-fahrenheit-451.webp",
-    "slug": "32-fahrenheit-451"
+    "slug": "32-fahrenheit-451",
+    "cevirmen": "Dost Körpe",
+    "ithaki_yayin_yili": "2018"
   },
   {
     "sira_no": "33",
@@ -393,7 +457,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/33-33-uzaktan-kumandali-kiz.webp",
-    "slug": "33-uzaktan-kumandali-kiz"
+    "slug": "33-uzaktan-kumandali-kiz",
+    "cevirmen": "Begüm Kovulmaz",
+    "ithaki_yayin_yili": "2018"
   },
   {
     "sira_no": "34",
@@ -405,7 +471,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/34-34-yakma-zevki-fahrenheit-451-oykuleri.webp",
-    "slug": "34-yakma-zevki-fahrenheit-451-oykuleri"
+    "slug": "34-yakma-zevki-fahrenheit-451-oykuleri",
+    "cevirmen": "Murat Özbank",
+    "ithaki_yayin_yili": "2018"
   },
   {
     "sira_no": "35",
@@ -417,7 +485,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/35-35-iste-insan.webp",
-    "slug": "35-iste-insan"
+    "slug": "35-iste-insan",
+    "cevirmen": "Barış Tanyeri",
+    "ithaki_yayin_yili": "2018"
   },
   {
     "sira_no": "36",
@@ -429,7 +499,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/36-36-bir-mars-destani.webp",
-    "slug": "36-bir-mars-destani"
+    "slug": "36-bir-mars-destani",
+    "cevirmen": "Cihan Karamancı",
+    "ithaki_yayin_yili": "2018"
   },
   {
     "sira_no": "37",
@@ -441,7 +513,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/37-37-bu-olumsuz.webp",
-    "slug": "37-bu-olumsuz"
+    "slug": "37-bu-olumsuz",
+    "cevirmen": "Sönmez Güven",
+    "ithaki_yayin_yili": "2018"
   },
   {
     "sira_no": "38",
@@ -453,7 +527,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/38-38-mars-yilliklari.webp",
-    "slug": "38-mars-yilliklari"
+    "slug": "38-mars-yilliklari",
+    "cevirmen": "Barış Emre Alkım",
+    "ithaki_yayin_yili": "2018"
   },
   {
     "sira_no": "39",
@@ -465,7 +541,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/39-39-kadinlar-ulkesi.webp",
-    "slug": "39-kadinlar-ulkesi"
+    "slug": "39-kadinlar-ulkesi",
+    "cevirmen": "Sevda Deniz Karali",
+    "ithaki_yayin_yili": "2018"
   },
   {
     "sira_no": "40",
@@ -477,7 +555,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/40-40-yaban-diyarlardaki-yabanci.webp",
-    "slug": "40-yaban-diyarlardaki-yabanci"
+    "slug": "40-yaban-diyarlardaki-yabanci",
+    "cevirmen": "Kağan Çam",
+    "ithaki_yayin_yili": "2018"
   },
   {
     "sira_no": "41",
@@ -489,7 +569,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/41-41-tanrilarin-tohumu.webp",
-    "slug": "41-tanrilarin-tohumu"
+    "slug": "41-tanrilarin-tohumu",
+    "cevirmen": "Murat Karlıdağ",
+    "ithaki_yayin_yili": "2019"
   },
   {
     "sira_no": "42",
@@ -501,7 +583,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/42-42-andromeda-nebulasi.webp",
-    "slug": "42-andromeda-nebulasi"
+    "slug": "42-andromeda-nebulasi",
+    "cevirmen": "Hazal Yalın",
+    "ithaki_yayin_yili": "2019"
   },
   {
     "sira_no": "43",
@@ -513,7 +597,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/43-43-yakin.webp",
-    "slug": "43-yakin"
+    "slug": "43-yakin",
+    "cevirmen": "Emek Ergun",
+    "ithaki_yayin_yili": "2019"
   },
   {
     "sira_no": "44",
@@ -525,7 +611,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/44-44-kumsalda.webp",
-    "slug": "44-kumsalda"
+    "slug": "44-kumsalda",
+    "cevirmen": "Gizem Dinç",
+    "ithaki_yayin_yili": "2019"
   },
   {
     "sira_no": "45",
@@ -537,7 +625,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/45-45-kizil-mars.webp",
-    "slug": "45-kizil-mars"
+    "slug": "45-kizil-mars",
+    "cevirmen": "Sabri Gürses",
+    "ithaki_yayin_yili": "2019"
   },
   {
     "sira_no": "46",
@@ -549,7 +639,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/46-46-postaci.webp",
-    "slug": "46-postaci"
+    "slug": "46-postaci",
+    "cevirmen": "Sönmez Güven",
+    "ithaki_yayin_yili": "2019"
   },
   {
     "sira_no": "47",
@@ -561,7 +653,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/47-47-biz.webp",
-    "slug": "47-biz"
+    "slug": "47-biz",
+    "cevirmen": "Fatma Arıkan, Serdar Arıkan",
+    "ithaki_yayin_yili": "2019"
   },
   {
     "sira_no": "48",
@@ -573,7 +667,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/48-48-phlebas-i-hatirla.webp",
-    "slug": "48-phlebas-i-hatirla"
+    "slug": "48-phlebas-i-hatirla",
+    "cevirmen": "M. Boran Evren",
+    "ithaki_yayin_yili": "2019"
   },
   {
     "sira_no": "49",
@@ -585,7 +681,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/49-49-leibowitz-icin-bir-ilahi.webp",
-    "slug": "49-leibowitz-icin-bir-ilahi"
+    "slug": "49-leibowitz-icin-bir-ilahi",
+    "cevirmen": "Sönmez Güven",
+    "ithaki_yayin_yili": "2019"
   },
   {
     "sira_no": "50",
@@ -597,7 +695,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/50-50-iskencecinin-golgesi.webp",
-    "slug": "50-iskencecinin-golgesi"
+    "slug": "50-iskencecinin-golgesi",
+    "cevirmen": "Kerem Sanatel",
+    "ithaki_yayin_yili": "2019"
   },
   {
     "sira_no": "51",
@@ -609,7 +709,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/51-51-dunyaya-dusen-adam.webp",
-    "slug": "51-dunyaya-dusen-adam"
+    "slug": "51-dunyaya-dusen-adam",
+    "cevirmen": "Mehmet Ali Ağaoğulları",
+    "ithaki_yayin_yili": "2020"
   },
   {
     "sira_no": "52",
@@ -621,7 +723,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/52-52-uzlastiricinin-pencesi.webp",
-    "slug": "52-uzlastiricinin-pencesi"
+    "slug": "52-uzlastiricinin-pencesi",
+    "cevirmen": "Kerem Sanatel",
+    "ithaki_yayin_yili": "2020"
   },
   {
     "sira_no": "53",
@@ -633,7 +737,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/53-53-kallokain.webp",
-    "slug": "53-kallokain"
+    "slug": "53-kallokain",
+    "cevirmen": "Sevda Deniz Karali",
+    "ithaki_yayin_yili": "2020"
   },
   {
     "sira_no": "54",
@@ -645,7 +751,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/54-54-kent.webp",
-    "slug": "54-kent"
+    "slug": "54-kent",
+    "cevirmen": "Kemal Baran Özbek",
+    "ithaki_yayin_yili": "2020"
   },
   {
     "sira_no": "55",
@@ -657,7 +765,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/55-55-tanrinin-gozundeki-zerre.webp",
-    "slug": "55-tanrinin-gozundeki-zerre"
+    "slug": "55-tanrinin-gozundeki-zerre",
+    "cevirmen": "Kerem Sanatel",
+    "ithaki_yayin_yili": "2020"
   },
   {
     "sira_no": "56",
@@ -669,7 +779,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/56-56-ben-efsane.webp",
-    "slug": "56-ben-efsane"
+    "slug": "56-ben-efsane",
+    "cevirmen": "Özgen Berkol Doğan",
+    "ithaki_yayin_yili": "2020"
   },
   {
     "sira_no": "57",
@@ -681,7 +793,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/57-57-dune-sapkinlari.webp",
-    "slug": "57-dune-sapkinlari"
+    "slug": "57-dune-sapkinlari",
+    "cevirmen": "Dost Körpe",
+    "ithaki_yayin_yili": "2020"
   },
   {
     "sira_no": "58",
@@ -693,7 +807,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/58-58-yokustaki-salyangoz.webp",
-    "slug": "58-yokustaki-salyangoz"
+    "slug": "58-yokustaki-salyangoz",
+    "cevirmen": "Hazal Yalın",
+    "ithaki_yayin_yili": "2020"
   },
   {
     "sira_no": "59",
@@ -705,7 +821,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/59-59-dune-rahibeler-meclisi.webp",
-    "slug": "59-dune-rahibeler-meclisi"
+    "slug": "59-dune-rahibeler-meclisi",
+    "cevirmen": "Dost Körpe",
+    "ithaki_yayin_yili": "2020"
   },
   {
     "sira_no": "60",
@@ -717,7 +835,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/60-60-1984.webp",
-    "slug": "60-1984"
+    "slug": "60-1984",
+    "cevirmen": "Begüm Kovulmaz",
+    "ithaki_yayin_yili": "2021"
   },
   {
     "sira_no": "61",
@@ -729,7 +849,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/61-61-hayvan-ciftligi.webp",
-    "slug": "61-hayvan-ciftligi"
+    "slug": "61-hayvan-ciftligi",
+    "cevirmen": "Begüm Kovulmaz",
+    "ithaki_yayin_yili": "2021"
   },
   {
     "sira_no": "62",
@@ -741,7 +863,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/62-62-makine-yazi.webp",
-    "slug": "62-makine-yazi"
+    "slug": "62-makine-yazi",
+    "cevirmen": "Sevda Deniz Karali",
+    "ithaki_yayin_yili": "2021"
   },
   {
     "sira_no": "63",
@@ -753,7 +877,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/63-63-hava-adami-ariel.webp",
-    "slug": "63-hava-adami-ariel"
+    "slug": "63-hava-adami-ariel",
+    "cevirmen": "Lütfiye Pehlivan",
+    "ithaki_yayin_yili": "2021"
   },
   {
     "sira_no": "64",
@@ -765,7 +891,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/64-64-houston-houston-duyuyor-musun.webp",
-    "slug": "64-houston-houston-duyuyor-musun"
+    "slug": "64-houston-houston-duyuyor-musun",
+    "cevirmen": "Begüm Kovulmaz",
+    "ithaki_yayin_yili": "2021"
   },
   {
     "sira_no": "65",
@@ -777,7 +905,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/65-65-iste-tanrilar.webp",
-    "slug": "65-iste-tanrilar"
+    "slug": "65-iste-tanrilar",
+    "cevirmen": "Cihan Karamancı",
+    "ithaki_yayin_yili": "2021"
   },
   {
     "sira_no": "66",
@@ -789,7 +919,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/66-66-maymun-ve-oz.webp",
-    "slug": "66-maymun-ve-oz"
+    "slug": "66-maymun-ve-oz",
+    "cevirmen": "Süreyyya Evren",
+    "ithaki_yayin_yili": "2021"
   },
   {
     "sira_no": "67",
@@ -801,7 +933,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/67-67-liktorun-kilici.webp",
-    "slug": "67-liktorun-kilici"
+    "slug": "67-liktorun-kilici",
+    "cevirmen": "Kerem Sanatel",
+    "ithaki_yayin_yili": "2021"
   },
   {
     "sira_no": "68",
@@ -813,7 +947,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/68-68-yer-acin-yer-acin.webp",
-    "slug": "68-yer-acin-yer-acin"
+    "slug": "68-yer-acin-yer-acin",
+    "cevirmen": "İrma Dolanoğlu Çimen",
+    "ithaki_yayin_yili": "2021"
   },
   {
     "sira_no": "69",
@@ -825,7 +961,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/69-69-alayci-kus.webp",
-    "slug": "69-alayci-kus"
+    "slug": "69-alayci-kus",
+    "cevirmen": "Cihan Karamancı",
+    "ithaki_yayin_yili": "2021"
   },
   {
     "sira_no": "70",
@@ -837,7 +975,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/70-70-r-u-r.webp",
-    "slug": "70-r-u-r"
+    "slug": "70-r-u-r",
+    "cevirmen": "Bilge Kösebalaban",
+    "ithaki_yayin_yili": "2021"
   },
   {
     "sira_no": "71",
@@ -849,7 +989,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/71-71-mevki-uygarligi.webp",
-    "slug": "71-mevki-uygarligi"
+    "slug": "71-mevki-uygarligi",
+    "cevirmen": "Mert Doğruer",
+    "ithaki_yayin_yili": "2021"
   },
   {
     "sira_no": "72",
@@ -861,7 +1003,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/72-72-geri-giden-saat.webp",
-    "slug": "72-geri-giden-saat"
+    "slug": "72-geri-giden-saat",
+    "cevirmen": "Doğaç Yavuz",
+    "ithaki_yayin_yili": "2021"
   },
   {
     "sira_no": "73",
@@ -873,7 +1017,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/73-73-uzak-yarin.webp",
-    "slug": "73-uzak-yarin"
+    "slug": "73-uzak-yarin",
+    "cevirmen": "Berk Göbekcioğlu",
+    "ithaki_yayin_yili": "2021"
   },
   {
     "sira_no": "74",
@@ -885,7 +1031,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/74-74-semenderlerle-savas.webp",
-    "slug": "74-semenderlerle-savas"
+    "slug": "74-semenderlerle-savas",
+    "cevirmen": "Sabri Gürses",
+    "ithaki_yayin_yili": "2021"
   },
   {
     "sira_no": "75",
@@ -897,7 +1045,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/75-75-lilith-in-dolu.webp",
-    "slug": "75-lilith-in-dolu"
+    "slug": "75-lilith-in-dolu",
+    "cevirmen": "Pırıltı Onukar",
+    "ithaki_yayin_yili": "2022"
   },
   {
     "sira_no": "76",
@@ -909,7 +1059,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/76-76-kara-bulut.webp",
-    "slug": "76-kara-bulut"
+    "slug": "76-kara-bulut",
+    "cevirmen": "Gül Korkmaz",
+    "ithaki_yayin_yili": "2022"
   },
   {
     "sira_no": "77",
@@ -921,7 +1073,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/77-77-ozerk-in-hisari.webp",
-    "slug": "77-ozerk-in-hisari"
+    "slug": "77-ozerk-in-hisari",
+    "cevirmen": "Kerem Sanatel",
+    "ithaki_yayin_yili": "2022"
   },
   {
     "sira_no": "78",
@@ -933,7 +1087,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/78-78-koyunlar-yukari-bakar.webp",
-    "slug": "78-koyunlar-yukari-bakar"
+    "slug": "78-koyunlar-yukari-bakar",
+    "cevirmen": "Cenk Pamay",
+    "ithaki_yayin_yili": "2022"
   },
   {
     "sira_no": "79",
@@ -945,7 +1101,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/79-79-bir-kadin-astronotun-anilari.webp",
-    "slug": "79-bir-kadin-astronotun-anilari"
+    "slug": "79-bir-kadin-astronotun-anilari",
+    "cevirmen": "Serim As Özdemir",
+    "ithaki_yayin_yili": "2022"
   },
   {
     "sira_no": "80",
@@ -957,7 +1115,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/80-80-cennetin-cesmeleri.webp",
-    "slug": "80-cennetin-cesmeleri"
+    "slug": "80-cennetin-cesmeleri",
+    "cevirmen": "Gökçe Çiçek",
+    "ithaki_yayin_yili": "2022"
   },
   {
     "sira_no": "81",
@@ -969,7 +1129,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/81-81-dusyilani.webp",
-    "slug": "81-dusyilani"
+    "slug": "81-dusyilani",
+    "cevirmen": "Aslı Genç",
+    "ithaki_yayin_yili": "2022"
   },
   {
     "sira_no": "82",
@@ -981,7 +1143,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/82-82-stepford-kadinlari.webp",
-    "slug": "82-stepford-kadinlari"
+    "slug": "82-stepford-kadinlari",
+    "cevirmen": "Seçkin Selvi",
+    "ithaki_yayin_yili": "2022"
   },
   {
     "sira_no": "83",
@@ -993,7 +1157,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/83-83-callahan-gunlukleri.webp",
-    "slug": "83-callahan-gunlukleri"
+    "slug": "83-callahan-gunlukleri",
+    "cevirmen": "Doğa Özışık",
+    "ithaki_yayin_yili": "2023"
   },
   {
     "sira_no": "84",
@@ -1005,7 +1171,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/84-84-gunesin-altin-elmalari.webp",
-    "slug": "84-gunesin-altin-elmalari"
+    "slug": "84-gunesin-altin-elmalari",
+    "cevirmen": "Mehmet Moralı",
+    "ithaki_yayin_yili": "2023"
   },
   {
     "sira_no": "85",
@@ -1017,7 +1185,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/85-85-neuromancer.webp",
-    "slug": "85-neuromancer"
+    "slug": "85-neuromancer",
+    "cevirmen": "N. Can Kantarcı",
+    "ithaki_yayin_yili": "2023"
   },
   {
     "sira_no": "86",
@@ -1029,7 +1199,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/86-86-tohumdan-hasada.webp",
-    "slug": "86-tohumdan-hasada"
+    "slug": "86-tohumdan-hasada",
+    "cevirmen": "Pırıltı Onukar",
+    "ithaki_yayin_yili": "2023"
   },
   {
     "sira_no": "87",
@@ -1041,7 +1213,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/87-87-mumkunati-yok.webp",
-    "slug": "87-mumkunati-yok"
+    "slug": "87-mumkunati-yok",
+    "cevirmen": "Deniz Daruga",
+    "ithaki_yayin_yili": "2023"
   },
   {
     "sira_no": "88",
@@ -1053,7 +1227,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/88-88-insanligin-cocuklari.webp",
-    "slug": "88-insanligin-cocuklari"
+    "slug": "88-insanligin-cocuklari",
+    "cevirmen": "Gökçe Metin",
+    "ithaki_yayin_yili": "2023"
   },
   {
     "sira_no": "89",
@@ -1065,7 +1241,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/89-89-yol-isaretleri.webp",
-    "slug": "89-yol-isaretleri"
+    "slug": "89-yol-isaretleri",
+    "cevirmen": "Taylan Taftaf",
+    "ithaki_yayin_yili": "2023"
   },
   {
     "sira_no": "90",
@@ -1077,7 +1255,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/90-90-dinozor-oykuleri.webp",
-    "slug": "90-dinozor-oykuleri"
+    "slug": "90-dinozor-oykuleri",
+    "cevirmen": "Elif Ersavcı",
+    "ithaki_yayin_yili": "2023"
   },
   {
     "sira_no": "91",
@@ -1089,7 +1269,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/91-91-simdi-ve-daima.webp",
-    "slug": "91-simdi-ve-daima"
+    "slug": "91-simdi-ve-daima",
+    "cevirmen": "Kemal Baran Özbek",
+    "ithaki_yayin_yili": "2023"
   },
   {
     "sira_no": "92",
@@ -1101,7 +1283,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/92-92-insandan-ote.webp",
-    "slug": "92-insandan-ote"
+    "slug": "92-insandan-ote",
+    "cevirmen": "Sanem Erdem",
+    "ithaki_yayin_yili": "2024"
   },
   {
     "sira_no": "93",
@@ -1113,7 +1297,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/93-93-olume-yazgili-sehir.webp",
-    "slug": "93-olume-yazgili-sehir"
+    "slug": "93-olume-yazgili-sehir",
+    "cevirmen": "Hazal Yalın",
+    "ithaki_yayin_yili": "2024"
   },
   {
     "sira_no": "94",
@@ -1125,7 +1311,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/94-94-2010-ikinci-uzay-destani.webp",
-    "slug": "94-2010-ikinci-uzay-destani"
+    "slug": "94-2010-ikinci-uzay-destani",
+    "cevirmen": "Burcu Denizci",
+    "ithaki_yayin_yili": "2024"
   },
   {
     "sira_no": "95",
@@ -1137,7 +1325,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/95-95-ara-istasyon.webp",
-    "slug": "95-ara-istasyon"
+    "slug": "95-ara-istasyon",
+    "cevirmen": "Sevda Deniz Karali",
+    "ithaki_yayin_yili": "2024"
   },
   {
     "sira_no": "96",
@@ -1149,7 +1339,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/96-96-zaman-icinde-bir-yer.webp",
-    "slug": "96-zaman-icinde-bir-yer"
+    "slug": "96-zaman-icinde-bir-yer",
+    "cevirmen": "Yiğit Yavuz",
+    "ithaki_yayin_yili": "2024"
   },
   {
     "sira_no": "97",
@@ -1161,7 +1353,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/97-97-iceriden-olmek.webp",
-    "slug": "97-iceriden-olmek"
+    "slug": "97-iceriden-olmek",
+    "cevirmen": "Elif Ersavcı",
+    "ithaki_yayin_yili": "2024"
   },
   {
     "sira_no": "98",
@@ -1173,7 +1367,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/98-98-yanan-krom.webp",
-    "slug": "98-yanan-krom"
+    "slug": "98-yanan-krom",
+    "cevirmen": "Sanem Erdem",
+    "ithaki_yayin_yili": "2024"
   },
   {
     "sira_no": "99",
@@ -1185,7 +1381,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/99-99-zanzibar-istifi.webp",
-    "slug": "99-zanzibar-istifi"
+    "slug": "99-zanzibar-istifi",
+    "cevirmen": "Uğur Gülsün",
+    "ithaki_yayin_yili": "2024"
   },
   {
     "sira_no": "100",
@@ -1197,7 +1395,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/100-100-tehlikeli-goruler.webp",
-    "slug": "100-tehlikeli-goruler"
+    "slug": "100-tehlikeli-goruler",
+    "cevirmen": "Kolektif",
+    "ithaki_yayin_yili": "2024"
   },
   {
     "sira_no": "101",
@@ -1209,7 +1409,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/101-101-melankolinin-ilaci.webp",
-    "slug": "101-melankolinin-ilaci"
+    "slug": "101-melankolinin-ilaci",
+    "cevirmen": "Mehmet Moralı",
+    "ithaki_yayin_yili": "2025"
   },
   {
     "sira_no": "102",
@@ -1221,7 +1423,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/102-102-hyperion.webp",
-    "slug": "102-hyperion"
+    "slug": "102-hyperion",
+    "cevirmen": "Can Kantarcı",
+    "ithaki_yayin_yili": "2025"
   },
   {
     "sira_no": "103",
@@ -1233,7 +1437,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/103-103-mor-bulut.webp",
-    "slug": "103-mor-bulut"
+    "slug": "103-mor-bulut",
+    "cevirmen": "Selin Kurugül",
+    "ithaki_yayin_yili": "2025"
   },
   {
     "sira_no": "104",
@@ -1245,7 +1451,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/104-104-yuksek-satodaki-adam.webp",
-    "slug": "104-yuksek-satodaki-adam"
+    "slug": "104-yuksek-satodaki-adam",
+    "cevirmen": "Dost Körpe",
+    "ithaki_yayin_yili": "2025"
   },
   {
     "sira_no": "105",
@@ -1257,7 +1465,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/105-105-rama-yla-bulusma.webp",
-    "slug": "105-rama-yla-bulusma"
+    "slug": "105-rama-yla-bulusma",
+    "cevirmen": "Ümit Kayalıoğlu",
+    "ithaki_yayin_yili": "2025"
   },
   {
     "sira_no": "106",
@@ -1269,7 +1479,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/106-106-oyunlarin-oyuncusu.webp",
-    "slug": "106-oyunlarin-oyuncusu"
+    "slug": "106-oyunlarin-oyuncusu",
+    "cevirmen": "Doğa Özışık",
+    "ithaki_yayin_yili": "2025"
   },
   {
     "sira_no": "107",
@@ -1281,7 +1493,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/107-107-kar-firtinasi.webp",
-    "slug": "107-kar-firtinasi"
+    "slug": "107-kar-firtinasi",
+    "cevirmen": "Uğur Gülsün",
+    "ithaki_yayin_yili": "2025"
   },
   {
     "sira_no": "108",
@@ -1293,7 +1507,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/108-108-metropolis.webp",
-    "slug": "108-metropolis"
+    "slug": "108-metropolis",
+    "cevirmen": "Anıl Alacaoğlu",
+    "ithaki_yayin_yili": "2025"
   },
   {
     "sira_no": "109",
@@ -1305,7 +1521,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/109-109-kiyamet-kitabi.webp",
-    "slug": "109-kiyamet-kitabi"
+    "slug": "109-kiyamet-kitabi",
+    "cevirmen": "Özlem Yüksel",
+    "ithaki_yayin_yili": "2026"
   },
   {
     "sira_no": "110",
@@ -1317,7 +1535,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/110-110-hyperion-in-dususu-hyperion-kantolari-2-kitap.webp",
-    "slug": "110-hyperion-in-dususu-hyperion-kantolari-2-kitap"
+    "slug": "110-hyperion-in-dususu-hyperion-kantolari-2-kitap",
+    "cevirmen": "Yosun Erdemli Timuçin",
+    "ithaki_yayin_yili": "2026"
   },
   {
     "sira_no": "111",
@@ -1329,7 +1549,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/111-111-zamanin-safagi.webp",
-    "slug": "111-zamanin-safagi"
+    "slug": "111-zamanin-safagi",
+    "cevirmen": "S. İpek Ortaer Montanari",
+    "ithaki_yayin_yili": "2026"
   },
   {
     "sira_no": "112",
@@ -1341,7 +1563,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/112-112-beden-kemiricilerin-istilasi.webp",
-    "slug": "112-beden-kemiricilerin-istilasi"
+    "slug": "112-beden-kemiricilerin-istilasi",
+    "cevirmen": "Beyza Güngör",
+    "ithaki_yayin_yili": "2026"
   },
   {
     "sira_no": "113",
@@ -1353,7 +1577,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/113-113-yesil-mars.webp",
-    "slug": "113-yesil-mars"
+    "slug": "113-yesil-mars",
+    "cevirmen": "Uğur Gülsün",
+    "ithaki_yayin_yili": "2026"
   },
   {
     "sira_no": "114",
@@ -1365,7 +1591,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/114-114-mavi-mars.webp",
-    "slug": "114-mavi-mars"
+    "slug": "114-mavi-mars",
+    "cevirmen": "Uğur Gülsün",
+    "ithaki_yayin_yili": "2026"
   },
   {
     "sira_no": "115",
@@ -1377,7 +1605,9 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/115-115-nemesis.webp",
-    "slug": "115-nemesis"
+    "slug": "115-nemesis",
+    "cevirmen": "Münevver Uzun",
+    "ithaki_yayin_yili": "2026"
   },
   {
     "sira_no": "116",
@@ -1389,6 +1619,8 @@
     "tarih_1": "",
     "tarih_2": "",
     "kapak_gorseli": "/covers/116-116-kim-var-orada.webp",
-    "slug": "116-kim-var-orada"
+    "slug": "116-kim-var-orada",
+    "cevirmen": "F. Cihan Akkartal",
+    "ithaki_yayin_yili": "2026"
   }
 ]
