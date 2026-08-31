@@ -259,16 +259,47 @@ export default async function BookDetailPage({ params }: Props) {
             </div>
           </div>
 
-          {/* 📝 3. TANITIM & ARKA KAPAK YAZISI (Varsa Göster) */}
+          {/* 📝 3. TANITIM & ARKA KAPAK BÜLTENİ (EDİTORYAL MİZANPAJ) */}
           {book.tanitim_yazisi && (
-            <div className="border-t border-[var(--border-main)] pt-7">
-              <div className="text-xs sm:text-sm font-black uppercase tracking-wider text-[var(--text-muted)] flex items-center gap-2 mb-3.5">
+            <div className="border-t border-[var(--border-main)] pt-8 mt-2">
+              <div className="text-xs sm:text-sm font-black uppercase tracking-wider text-[var(--text-muted)] flex items-center gap-2 mb-4 font-mono">
                 <BookOpen className="w-4 h-4 sm:w-5 sm:h-5 text-[var(--accent)]" />
                 <span>Tanıtım &amp; Arka Kapak Bülteni</span>
               </div>
 
-              <div className="text-[var(--text-secondary)] leading-relaxed font-sans text-base sm:text-lg">
-                <p>{book.tanitim_yazisi}</p>
+              <div className="space-y-4 sm:space-y-5 text-base sm:text-lg leading-relaxed sm:leading-8 font-sans font-normal">
+                {book.tanitim_yazisi.split("\n\n").map((para, pIdx, arr) => {
+                  const isQuote = para.startsWith("“") || para.startsWith('"') || para.startsWith("«");
+                  const isTagline = pIdx === arr.length - 1 && para.length < 120 && !para.includes("\n");
+
+                  if (isQuote) {
+                    return (
+                      <blockquote
+                        key={pIdx}
+                        className="border-l-2 border-[var(--accent)] pl-4 py-1 italic text-[var(--text-primary)] font-serif my-3"
+                      >
+                        {para}
+                      </blockquote>
+                    );
+                  }
+
+                  if (isTagline) {
+                    return (
+                      <p
+                        key={pIdx}
+                        className="font-bold text-sm sm:text-base text-[var(--accent)] tracking-tight pt-2"
+                      >
+                        {para}
+                      </p>
+                    );
+                  }
+
+                  return (
+                    <p key={pIdx} className="text-[var(--text-secondary)]">
+                      {para}
+                    </p>
+                  );
+                })}
               </div>
             </div>
           )}

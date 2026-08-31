@@ -11,13 +11,13 @@
 - **Serideki Basım Yılı:** 2015
 - **Tanıtım Bülteni:**
 
-Okurlar tarafından 20. yüzyılın en iyi bilimkurgu yapıtı seçilen Dune serisi, yepyeni kapakları ve gözden geçirilmiş çevirileriyle 50. yılında İthaki’de.
+Okurlar tarafından 20. yüzyılın en iyi bilimkurgu yapıtı seçilen Dune serisi, yepyeni kapakları ve gözden geçirilmiş çevirileriyle 50. yılında İthaki'de.
 
-Modern edebiyatın en epik mesih anlatılarından biri sayılan Dune, genç Paul Atreides’in hikâyesini anlatır. Atreides’in ailesi, evrendeki en önemli ve en değerli madde olan melanj ‘baharının’ tek kaynağı olarak bilinen Arrakis gezegeninin kontrolünü kabul etmiştir. İmpatorluğun güçleri Arrakis’in kontrolü için birbirlerinin boğazına sarılırken, politika, din, ekoloji, teknoloji ve insani duyguların çok katmanlı, karmaşık etkileşiminden benzersiz bir hikâye doğacaktır.
+Modern edebiyatın en epik mesih anlatılarından biri sayılan Dune, genç Paul Atreides'in hikâyesini anlatır. Atreides'in ailesi, evrendeki en önemli ve en değerli madde olan melanj 'baharının' tek kaynağı olarak bilinen Arrakis gezegeninin kontrolünü kabul etmiştir. İmparatorluğun güçleri Arrakis'in kontrolü için birbirlerinin boğazına sarılırken, politika, din, ekoloji, teknoloji ve insani duyguların çok katmanlı, karmaşık etkileşiminden benzersiz bir hikâye doğacaktır.
 
-Frank Herbert’ın yarattığı evren, yıllar boyunca milyonlarca okurun zihninde gerçekliğini kabul ettirdi ve bugün de ayakta. İyi bir bilimkurgu ve iyi bir edebiyat yapıtı okumak isteyen herkesin yolu Dune serisinde birleşiyor…
+Frank Herbert'ın yarattığı evren, yıllar boyunca milyonlarca okurun zihninde gerçekliğini kabul ettirdi ve bugün de ayakta. İyi bir bilimkurgu ve iyi bir edebiyat yapıtı okumak isteyen herkesin yolu Dune serisinde birleşiyor…
 
-İthaki’nin yepyeni “Bilimkurgu Klasikleri” dizisi Dune efsanesiyle başlıyor…
+İthaki'nin yepyeni "Bilimkurgu Klasikleri" dizisi Dune efsanesiyle başlıyor…
 
 ---
 
@@ -28,11 +28,11 @@ Frank Herbert’ın yarattığı evren, yıllar boyunca milyonlarca okurun zihni
 - **Serideki Basım Yılı:** 2015
 - **Tanıtım Bülteni:**
 
-Arkadi ve Boris Strugatski, entelektüel açıdan kışkırtıcı, inanılmaz eğlenceli, cesur ve eleştirel kitaplarıyla “Sovyetler döneminin en büyük bilimkurgu yazarları” sıfatını hak eden yegâne ikili. Henüz taslak halindeyken sansürün hışmına uğrayan Kıyamete Bir Milyar Yıl ise yazarların en sıradışı ve aykırı romanlarından biri.
+Arkadi ve Boris Strugatski, entelektüel açıdan kışkırtıcı, inanılmaz eğlenceli, cesur ve eleştirel kitaplarıyla "Sovyetler döneminin en büyük bilimkurgu yazarları" sıfatını hak eden yegâne ikili. Henüz taslak halindeyken sansürün hışmına uğrayan Kıyamete Bir Milyar Yıl ise yazarların en sıradışı ve aykırı romanlarından biri.
 
-Bir astrofizikçi olan Dimitri Malyanov, kendisine Nobel Ödülü’nü kazandıracağına inandığı projesi üzerine yoğunlaşmak için ailesini Odesa’ya, eşinin annesinin evine gönderir. Ancak bir sorun vardır; yalnız kalmasına rağmen sürekli rahatsız edilir. Önce içi votka ve havyar dolu bir kutu, ardından da mini etekli güzel bir kadın kapısında beliriverir. Bu ziyaretler, bilim insanı olan arkadaşlarının da geçerken uğramasıyla sonu gelmez bir hal alır. Hepsi de çok büyük bir keşfin eşiğinde olduklarını ama aniden dikkatlerinin dağıldığını iddia etmektedir.
+Bir astrofizikçi olan Dimitri Malyanov, kendisine Nobel Ödülü'nü kazandıracağına inandığı projesi üzerine yoğunlaşmak için ailesini Odesa'ya, eşinin annesinin evine gönderir. Ancak bir sorun vardır; yalnız kalmasına rağmen sürekli rahatsız edilir. Önce içi votka ve havyar dolu bir kutu, ardından da mini etekli güzel bir kadın kapısında beliriverir. Bu ziyaretler, bilim insanı olan arkadaşlarının da geçerken uğramasıyla sonu gelmez bir hal alır. Hepsi de çok büyük bir keşfin eşiğinde olduklarını ama aniden dikkatlerinin dağıldığını iddia etmektedir.
 
-Acaba karanlık bir güç, bilimsel gelişmeleri engellemek mi istemektedir? Yoksa tüm bunların daha doğal bir açıklaması mı vardır? Kıyamete Bir Milyar Yıl, edebiyatın “Sorun sende değil, kâinatta!” deme biçimi.
+Acaba karanlık bir güç, bilimsel gelişmeleri engellemek mi istemektedir? Yoksa tüm bunların daha doğal bir açıklaması mı vardır? Kıyamete Bir Milyar Yıl, edebiyatın "Sorun sende değil, kâinatta!" deme biçimi.
 
 ---
 
@@ -43,9 +43,9 @@ Acaba karanlık bir güç, bilimsel gelişmeleri engellemek mi istemektedir? Yok
 - **Serideki Basım Yılı:** 2015
 - **Tanıtım Bülteni:**
 
-Pierre Boulle, Avrupa’dan çıkıp yazdığı bilimkurgu romanıyla vahşi batılı meslektaşlarıyla baş edebilen ilk, belki de son frankofon. Maymunlar Cehennemi ve diğer sinema uyarlamalarına da ilham kaynağı olan Maymunlar Gezegeni ise, insanlığın en derin korkularından birinin eşsiz anlatısı.
+Pierre Boulle, Avrupa'dan çıkıp yazdığı bilimkurgu romanıyla vahşi batılı meslektaşlarıyla baş edebilen ilk, belki de son frankofon. Maymunlar Cehennemi ve diğer sinema uyarlamalarına da ilham kaynağı olan Maymunlar Gezegeni ise, insanlığın en derin korkularından birinin eşsiz anlatısı.
 
-Çok da uzak olmayan bir gelecekte üç uzay gezgini; verimli ormanları, yaşanabilir iklimi ve temiz havasıyla Dünya’ya fazlasıyla benzeyen bir gezegene iniş yapar. Bu gezegen her yönüyle kusursuz gözükse de aslında hiçbir şey göründüğü gibi değildir. Gerçek, çok geçmeden açığa çıkar: Bu gezegende insanlar vahşiyken, uygar maymunlar onların efendileridir. Henüz maceranın başında yol arkadaşlarından kopup tek başına mücadele etmek zorunda kalan Ulysse Mérou, bu cennet görünümlü cehennemden kurtulmanın yollarını tek başına bulmak zorundadır.
+Çok da uzak olmayan bir gelecekte üç uzay gezgini; verimli ormanları, yaşanabilir iklimi ve temiz havasıyla Dünya'ya fazlasıyla benzeyen bir gezegene iniş yapar. Bu gezegen her yönüyle kusursuz gözükse de aslında hiçbir şey göründüğü gibi değildir. Gerçek, çok geçmeden açığa çıkar: Bu gezegende insanlar vahşiyken, uygar maymunlar onların efendileridir. Henüz maceranın başında yol arkadaşlarından kopup tek başına mücadele etmek zorunda kalan Ulysse Mérou, bu cennet görünümlü cehennemden kurtulmanın yollarını tek başına bulmak zorundadır.
 
 Ulysse, insanlığın kurtarıcısı olmayı başarabilecek mi? Yoksa bu lanetli geleceğin son tanığı mı olacak? Maymunlar Gezegeni, insanlar gezegeninden daha insani bir satir.
 
@@ -58,35 +58,35 @@ Ulysse, insanlığın kurtarıcısı olmayı başarabilecek mi? Yoksa bu lanetli
 - **Serideki Basım Yılı:** 2015
 - **Tanıtım Bülteni:**
 
-Cesur yeni Dünya bizi &#8216;Ford&#8217;dan sonra 632 yılına&#8217; götürür. Bu dünyanın cesur insanları kapısında &#8220;Cemaat, Özdeşlik, İstikrar&#8221; yazan Londra Merkez kuluçka ve Şartlandırma Merkezi&#8217;nde üretilirler. Kadınların döllenmesi yasak ve ayıp olduğu için, &#8216;annelik&#8217; ve &#8216;babalık&#8217; pornografik birer kavram olarak görülür. Toplumsal istikrarın temel güvencesi olan şartlandırma hipnopedya uykuda eğitim ile sağlanır. Hipnopedya sayesinde herkes mutludur; herkes çalışır ve herkes eğlenir. &#8220;Herkes herkes içindir.&#8221;
+Cesur yeni Dünya bizi 'Ford'dan sonra 632 yılına' götürür. Bu dünyanın cesur insanları kapısında "Cemaat, Özdeşlik, İstikrar" yazan Londra Merkez kuluçka ve Şartlandırma Merkezi'nde üretilirler. Kadınların döllenmesi yasak ve ayıp olduğu için, 'annelik' ve 'babalık' pornografik birer kavram olarak görülür. Toplumsal istikrarın temel güvencesi olan şartlandırma hipnopedya uykuda eğitim ile sağlanır. Hipnopedya sayesinde herkes mutludur; herkes çalışır ve herkes eğlenir. "Herkes herkes içindir."
 
-Aldous Huxley adını en çok Cesur Yeni Dünya ile duyurmuştur. Bilimkurgu edebiyatının klasikleri arasında yer alan bu eser, Huxley`in dünya ölçüsünde tanınmasının yolunu açmıştır. Yazar bu romanında, laburatuvarlarda `seri çocuk üretimi` yöntemiyle beyinleri yıkanan tutsak işçilerin hayatını anlatmaktadır. Düşlenen yakın geleceğin korkunç dünyasının gerçekleşeceği varsayımından hareket edilir. Makinalaşmış bir toplumun bir zaman sonra kurulacağını söyler. Burada bilimkurgudan öte bir gerçekle de yüzleşiriz adeta&#8230;
+Aldous Huxley adını en çok Cesur Yeni Dünya ile duyurmuştur. Bilimkurgu edebiyatının klasikleri arasında yer alan bu eser, Huxley"in dünya ölçüsünde tanınmasının yolunu açmıştır. Yazar bu romanında, laboratuvarlarda "seri çocuk üretimi' yöntemiyle beyinleri yıkanan tutsak işçilerin hayatını anlatmaktadır. Düşlenen yakın geleceğin korkunç dünyasının gerçekleşeceği varsayımından hareket edilir. Makinalaşmış bir toplumun bir zaman sonra kurulacağını söyler. Burada bilimkurgudan öte bir gerçekle de yüzleşiriz adeta...
 
 ---
 
 ### [ #5 ] Çocukluğun Sonu
 - **Yazar:** Arthur C. Clarke
-- **Özgün Adı:** Childhood&#8217;s End
+- **Özgün Adı:** Childhood's End
 - **Çevirmen:** Ekin Odabaş
 - **Serideki Basım Yılı:** 2015
 - **Tanıtım Bülteni:**
 
-Bilinmeyenin korkusu, geçmişten değil de gelecekten kalma bir hatıra olabilir mi?1953’te yayımlanan Çocukluğun Sonu, Arthur C. Clarke’ın bir bilimkurgu yazarı olarak tanınmasını sağlayan, yirminci yüzyıla damga vuran önemli romanlardan biri. 2015’te televizyona uyarlanarak dizi haline getirilen ve bilimkurgu takipçileri için yeniden gündeme gelen bu eserin gücü, insanlığın geleceğine dair en özgün ve düşündürücü yorumlardan birini sergilemesinde gizli.
+Bilinmeyenin korkusu, geçmişten değil de gelecekten kalma bir hatıra olabilir mi?1953'te yayımlanan Çocukluğun Sonu, Arthur C. Clarke'ın bir bilimkurgu yazarı olarak tanınmasını sağlayan, yirminci yüzyıla damga vuran önemli romanlardan biri. 2015'te televizyona uyarlanarak dizi haline getirilen ve bilimkurgu takipçileri için yeniden gündeme gelen bu eserin gücü, insanlığın geleceğine dair en özgün ve düşündürücü yorumlardan birini sergilemesinde gizli.
 
-Dünya üzerindeki uygarlığımızın kaderini, insan neslinin akıbetini irdeleyen Çocukluğun Sonu, ters köşeye yatıran bir “öteki” anlatısı, farklı bir uzaylı istilası öyküsü, ütopya ve distopya arasındaki ince çizgiye dair, kalın harflerle tarihe geçen bir bilimkurgu klasiği…
+Dünya üzerindeki uygarlığımızın kaderini, insan neslinin akıbetini irdeleyen Çocukluğun Sonu, ters köşeye yatıran bir "öteki" anlatısı, farklı bir uzaylı istilası öyküsü, ütopya ve distopya arasındaki ince çizgiye dair, kalın harflerle tarihe geçen bir bilimkurgu klasiği…
 
 ---
 
-### [ #6 ] Dr. Moreau’nun Adası
+### [ #6 ] Dr. Moreau'nun Adası
 - **Yazar:** H.G. Wells
 - **Özgün Adı:** The Island of Dr. Moreau
 - **Çevirmen:** Ali Kaftan
 - **Serideki Basım Yılı:** 2016
 - **Tanıtım Bülteni:**
 
-Edward Prendick, geçirdiği bir gemi kazası sonucunda kendisini Pasitif Okyanus&#8217;nun ortasında, kimselerin uğramadığı volkanik bir adada bulur. Ama şansına, ada pek ıssız sayılmaz: Kendisini deneylerine adamış bir bilim adamı olan Dr. Moreau, alkolik asistanı Montgomery, onun tuhaf hizmetkarı M&#8217;ling ve Moreau&#8217;nun korkunç deneylerinin ürünü tuhaf yaratıklar. Prendick, adanın içindeki ormanlarda pusu kuran tehlikelerin arasında çıktığı yolculuklarda garip ayinlerle, Kanun&#8217;la karşılaşacak, yeni ve tuhaf arkadaşlar edinecektir.
+Edward Prendick, geçirdiği bir gemi kazası sonucunda kendisini Pasifik Okyanus'nun ortasında, kimselerin uğramadığı volkanik bir adada bulur. Ama şansına, ada pek ıssız sayılmaz: Kendisini deneylerine adamış bir bilim adamı olan Dr. Moreau, alkolik asistanı Montgomery, onun tuhaf hizmetkarı M'ling ve Moreau'nun korkunç deneylerinin ürünü tuhaf yaratıklar. Prendick, adanın içindeki ormanlarda pusu kuran tehlikelerin arasında çıktığı yolculuklarda garip ayinlerle, Kanun'la karşılaşacak, yeni ve tuhaf arkadaşlar edinecektir.
 
-Bilimkurgunun büyük ustalarından H.G. Wells&#8217;ten, doğayla oyuna girişmenin tehlikelerinin ve insan olmanın anlamını sorgulayan, çarpıcı bir başyapıt.
+Bilimkurgunun büyük ustalarından H.G. Wells'ten, doğayla oyuna girişmenin tehlikelerinin ve insan olmanın anlamını sorgulayan, çarpıcı bir başyapıt.
 
 ---
 
@@ -97,7 +97,7 @@ Bilimkurgunun büyük ustalarından H.G. Wells&#8217;ten, doğayla oyuna girişm
 - **Serideki Basım Yılı:** 2016
 - **Tanıtım Bülteni:**
 
-Bir edebiyat klasiği olan, dünyanın en çok satan bilimkurgu serisi muhteşem Dune efsanesi, ikinci kitabı Dune Mesihi&#8217;yle macerasına devam ediyor. Paul Muad&#8217;dib, gezegenlerin hakimi, kutsal savaşın görkemli galibi, prensken devrimci olan bir lider, fanatik bir dini kardeşliğin mesihi…
+Bir edebiyat klasiği olan, dünyanın en çok satan bilimkurgu serisi muhteşem Dune efsanesi, ikinci kitabı Dune Mesihi'yle macerasına devam ediyor. Paul Muad'dib, gezegenlerin hakimi, kutsal savaşın görkemli galibi, prensken devrimci olan bir lider, fanatik bir dini kardeşliğin mesihi…
 
 Fremenlerin başına geçip Dune adıyla bilinen Arrakis gezegenini kontrol etmeye başlamakla kalmayıp evrenin hükümdarı olan Paul, çağlar süren bir düzene son vermiş, bir halkın kurtuluşu olmuş ve bir gezegenin en büyük ütopyasını gerçekleştirmeye ant içmiştir. Ancak zaferinden on iki yıl sonra, tüm bu güçlere sahip olmasının sebebi olan etkenler onun için bir tehlikeye dönüşür. Paul ise öngörülerine rağmen, felaket getireceğini düşündüğü geleceği değiştirmeye kararlıdır.
 
@@ -110,7 +110,7 @@ Fremenlerin başına geçip Dune adıyla bilinen Arrakis gezegenini kontrol etme
 - **Serideki Basım Yılı:** 2016
 - **Tanıtım Bülteni:**
 
-Roger Zelazny, farklı pek çok mitolojiyi bilimkurgu romanlarına uyarlamasıyla pek çok yazarın yalnızca hayal edebildiği bir şeyi alışkanlık haline getirmiş eşsiz bir yazar. Hint mitolojisiyle harmanlanan Işık Tanrısı ise sadece bilimkurguyu değil, tüm spekülatif kurguyu değiştiren, benzersiz bir roman. Gaiman’ın en iyi romanı olarak kabul edilen Amerikan Tanrıları’na fikir babalığı yapmakla kalmamış, tanrılar ve insanlar arasındaki isim oyunlarına da ilham kaynağı olmuştur. Martin’in epik serisi Buz ve Ateşin Şarkısı’ndaki Işık Tanrısı da ismini bu romandan alır, tıpkı Sam Tarly’nin ismini bu romanın başkahramanı Sam’den aldığı gibi.
+Roger Zelazny, farklı pek çok mitolojiyi bilimkurgu romanlarına uyarlamasıyla pek çok yazarın yalnızca hayal edebildiği bir şeyi alışkanlık haline getirmiş eşsiz bir yazar. Hint mitolojisiyle harmanlanan Işık Tanrısı ise sadece bilimkurguyu değil, tüm spekülatif kurguyu değiştiren, benzersiz bir roman. Gaiman'ın en iyi romanı olarak kabul edilen Amerikan Tanrıları'na fikir babalığı yapmakla kalmamış, tanrılar ve insanlar arasındaki isim oyunlarına da ilham kaynağı olmuştur. Martin'in epik serisi Buz ve Ateşin Şarkısı'ndaki Işık Tanrısı da ismini bu romandan alır, tıpkı Sam Tarly'nin ismini bu romanın başkahramanı Sam'den aldığı gibi.
 
 Dünya yok olalı çok uzun bir süre olmuştur. Kolonileşmiş bir gezegendeki tüm teknolojik gücü ele geçiren insanlar ise kendilerini ölümsüz kılmış ve Hint tanrılarının rolünü üstlenerek o gezegenin kontrolünü ele geçirmiştir. Ancak bu kötü niyetli topluluğa karşı çıkacak biri vardır: Siddhartha ya da Mahasamatman; nam-ı diğer Işık Tanrısı.
 
@@ -118,14 +118,14 @@ Işık Tanrısı, tanrılaşmış insanlara tanrısal bir müdahale.
 
 ---
 
-### [ #9 ] Yıkım’a Giden Adam
+### [ #9 ] Yıkım'a Giden Adam
 - **Yazar:** Alfred Bester
 - **Özgün Adı:** The Demolished Man
 - **Çevirmen:** Barış Tanyeri
 - **Serideki Basım Yılı:** 2016
 - **Tanıtım Bülteni:**
 
-24. yüzyılda, evrenin en güçlü adamlarından biri olan Ben Reich, yetmiş yıldır adı bile duyulmamış bir suç işlemeye karar verir: Cinayet. Esper adı verilen zihin okuyucuların, daha düşünce halindeyken suçları engellediği bu dünyada, Reich’ın amacına ulaşması neredeyse imkânsızdı. Hükümdarlık adındaki şirketinin, rakip şirket D’Courtney’le girdiği mücadeleyi büyük ölçüde kaybetmesinin ardından başka bir çaresi kalmadığını düşünen Reich, bir yandan da kâbuslarında asıl korkusu Yüzü Olmayan Adam’la uğraşıyordu. Tüm bunlara rağmen Ben Reich pes etmemeye kararlıydı. Aklında yıkımla, Yıkım’a hazırlandığının farkında değildi.
+24. yüzyılda, evrenin en güçlü adamlarından biri olan Ben Reich, yetmiş yıldır adı bile duyulmamış bir suç işlemeye karar verir: Cinayet. Esper adı verilen zihin okuyucuların, daha düşünce halindeyken suçları engellediği bu dünyada, Reich'ın amacına ulaşması neredeyse imkânsızdı. Hükümdarlık adındaki şirketinin, rakip şirket D'Courtney'le girdiği mücadeleyi büyük ölçüde kaybetmesinin ardından başka bir çaresi kalmadığını düşünen Reich, bir yandan da kâbuslarında asıl korkusu Yüzü Olmayan Adam'la uğraşıyordu. Tüm bunlara rağmen Ben Reich pes etmemeye kararlıydı. Aklında yıkımla, Yıkım'a hazırlandığının farkında değildi.
 
 Yıkıma Giden Adam, galaksinin içimizdeki megalomana verdiği çarpıcı bir yanıt.
 
@@ -138,11 +138,11 @@ Yıkıma Giden Adam, galaksinin içimizdeki megalomana verdiği çarpıcı bir y
 - **Serideki Basım Yılı:** 2016
 - **Tanıtım Bülteni:**
 
-Yayımlandığından itibaren tartışmalar yaratan Yıldız Gemisi Askerleri ilk kez Türkçede. Asimov ve Clarke&#8217;la birlikte bilimkurgunun üç büyük ustasından biri olarak görülen, bilimkurgunun dekanı Heinlein&#8217;dan vatanseverliğe, militarizme, oy hakkına ve savaşa dair en coşkulu anlatılardan biri olan bu klasik eser, muzip üslubuyla da fark yaratıyor.
+Yayımlandığından itibaren tartışmalar yaratan Yıldız Gemisi Askerleri ilk kez Türkçede. Asimov ve Clarke'la birlikte bilimkurgunun üç büyük ustasından biri olarak görülen, bilimkurgunun dekanı Heinlein'dan vatanseverliğe, militarizme, oy hakkına ve savaşa dair en coşkulu anlatılardan biri olan bu klasik eser, muzip üslubuyla da fark yaratıyor.
 
-&#8220;Silahlar tehlikeli değildir; insanlar tehlikelidir.&#8221;
+"Silahlar tehlikeli değildir; insanlar tehlikelidir."
 
-İnsanoğlunun başka gezegenlerde koloniler kurduğu ve karşılarına çıkan rakip türlerle savaştığı bir gelecek zaman. Ve Ordu&#8217;da iki yıl gönüllü askerlik yapanların vatandaş olup oy kullanabildiği Terra Federasyonu. On sekiz yaşındaki Juan Rico, vatandaşlık hakkını kazanmak (ve bir de çok sevdiği uzayda seyahat etmek için) iki yıl süren askerlik hizmetine yazıldığında ne Rasczak&#8217;ın Bıçkınları&#8217;ndan biri olacağını ne de &#8216;Böcek Savaşı&#8217;nda müfreze liderliği yapmak zorunda kalacağını biliyordu. Ama öğrenecekti…
+İnsanoğlunun başka gezegenlerde koloniler kurduğu ve karşılarına çıkan rakip türlerle savaştığı bir gelecek zaman. Ve Ordu'da iki yıl gönüllü askerlik yapanların vatandaş olup oy kullanabildiği Terra Federasyonu. On sekiz yaşındaki Juan Rico, vatandaşlık hakkını kazanmak (ve bir de çok sevdiği uzayda seyahat etmek için) iki yıl süren askerlik hizmetine yazıldığında ne Rasczak'ın Bıçkınları'ndan biri olacağını ne de 'Böcek Savaşı'nda müfreze liderliği yapmak zorunda kalacağını biliyordu. Ama öğrenecekti…
 
 ---
 
@@ -153,7 +153,7 @@ Yayımlandığından itibaren tartışmalar yaratan Yıldız Gemisi Askerleri il
 - **Serideki Basım Yılı:** 2016
 - **Tanıtım Bülteni:**
 
-Güneş küçülüp de karlar geldiğinde, insansı hilfler göçebe yaşamlarına son verip soğuğun acımasızlığından ve her sonbahar donmuş topraklardan güneye doğru akın akın gelen vahşi Goal sürülerinin gazabından kaçarak kendilerini Kış Şehirleri&#8217;ne gömdüler. Gün be gün küçülen koloni ise tam altı yüzyıl önce terk ettikleri dünyanın on beş yılına denk bir kıştan kaçıp Landin&#8217;in duvarlarının ardına sığınmıştı.
+Güneş küçülüp de karlar geldiğinde, insansı hilfler göçebe yaşamlarına son verip soğuğun acımasızlığından ve her sonbahar donmuş topraklardan güneye doğru akın akın gelen vahşi Goal sürülerinin gazabından kaçarak kendilerini Kış Şehirleri'ne gömdüler. Gün be gün küçülen koloni ise tam altı yüzyıl önce terk ettikleri dünyanın on beş yılına denk bir kıştan kaçıp Landin'in duvarlarının ardına sığınmıştı.
 
 Hilfler Uzakdoğumlu dedikleri ve tuhaf güçlere sahip olduklarından şüphelendikleri kolonicilerden korkuyordu; kayıp koloniyi yalnızlığa iten onların bu korkusuydu. Yine de Dünyalılar bu korkunç kıştan sağ çıkmak için yegane umutlarının ortak düşmanları olan yağmacı Gaallar ve insanın kanını donduran avcı karcadılarına karşı güçlerini birleştirmek olduğunu biliyorlardı. Tek seçenekleri güçlerini birleştirmek ya da ırak sürgün gezegenlerinde sonsuza dek kaybolmaktı.
 
@@ -166,26 +166,26 @@ Hilfler Uzakdoğumlu dedikleri ve tuhaf güçlere sahip olduklarından şüphele
 - **Serideki Basım Yılı:** 2016
 - **Tanıtım Bülteni:**
 
-Arkadi ve Boris Strugatski, entelektüel açıdan kışkırtıcı, inanılmaz eğlenceli, cesur ve eleştirel kitaplarıyla &#8220;Sovyetler döneminin en büyük bilimkurgu yazarları&#8221; sıfatını hak eden yegâne ikili. Pazartesi Cumartesiden Başlar ise büyünün ve bilimin muazzam karışımıyla, Strugatski Kardeşler&#8217;in külliyatı içerisinde bile benzeri bulunmayan bir eser. Her şey bilgisayar mühendisi Saşa Privalov&#8217;un iki otostopçuyu arabasına almasıyla başlar. Bu iki otostopçu imkânsızın sıradanlaştığı, sonsuzluğun sadece bir pazartesi gününden ibaret olduğu, mitolojik karakterlerin koridorlarında cirit attığı YOKHİÇ Enstitüsü&#8217;nde çalışmaktadır. Privalov da büyü araştırmalarının ciddi bir iş olduğu bu tuhaf dünyanın ister istemez içine çekilir.
+Arkadi ve Boris Strugatski, entelektüel açıdan kışkırtıcı, inanılmaz eğlenceli, cesur ve eleştirel kitaplarıyla "Sovyetler döneminin en büyük bilimkurgu yazarları" sıfatını hak eden yegâne ikili. Pazartesi Cumartesiden Başlar ise büyünün ve bilimin muazzam karışımıyla, Strugatski Kardeşler'in külliyatı içerisinde bile benzeri bulunmayan bir eser. Her şey bilgisayar mühendisi Saşa Privalov'un iki otostopçuyu arabasına almasıyla başlar. Bu iki otostopçu imkânsızın sıradanlaştığı, sonsuzluğun sadece bir pazartesi gününden ibaret olduğu, mitolojik karakterlerin koridorlarında cirit attığı YOKHİÇ Enstitüsü'nde çalışmaktadır. Privalov da büyü araştırmalarının ciddi bir iş olduğu bu tuhaf dünyanın ister istemez içine çekilir.
 
-Strugatskiler&#8217;in bilim üzerine kurguladıkları büyü akademisi, J. K. Rowling&#8217;in Hogwarts&#8217;ına, Patrick Rothfuss&#8217;un Üniversitesi&#8217;ne yıllara öncesinden gelen bir esin. Strugatskiler&#8217;in isterlerse Kafka olabileceklerini ama büyük bir mutlulukla kendi yollarını çizdiğini gösteren bu kitap, yazılmış en benzersiz satirlerden de biri. Bilim, büyü ve sosyalizmin bir araya geldiği bir dünyada, kaos ne kadar uzakta olabilir ki?
+Strugatskiler'in bilim üzerine kurguladıkları büyü akademisi, J. K. Rowling'in Hogwarts'ına, Patrick Rothfuss'un Üniversitesi'ne yıllara öncesinden gelen bir esin. Strugatskiler'in isterlerse Kafka olabileceklerini ama büyük bir mutlulukla kendi yollarını çizdiğini gösteren bu kitap, yazılmış en benzersiz satirlerden de biri. Bilim, büyü ve sosyalizmin bir araya geldiği bir dünyada, kaos ne kadar uzakta olabilir ki?
 
 Pazartesi Cumartesiden Başlar, büyünün çarpım tablosu.
 
 ---
 
-### [ #13 ] Arcturus’a Yolculuk
+### [ #13 ] Arcturus'a Yolculuk
 - **Yazar:** David Lindsay
 - **Özgün Adı:** A Voyage to Arcturus
 - **Çevirmen:** Çağlar Kök
 - **Serideki Basım Yılı:** 2016
 - **Tanıtım Bülteni:**
 
-J.R.R. Tolkien, C.S. Lewis, Alan Moore ve Michael Moorcock gibi 20. yüzyıl spekülatif kurgusunun en büyük isimlerini büyüsü altına alan Arcturus&#8217;a Yolculuk, her gizemli hikâye gibi, bir toplantıyla başlar. Ardından her arayış hikâyesinde olduğu gibi, kahramanımız uzun ve zorlu bir yolculuğa çıkar. Yine de Arcturus&#8217;a Yolculuk&#8217;ta karşılaşacağınız bu akıl almaz anlatıyı başka hiçbir kitapta bulamazsınız.
+J.R.R. Tolkien, C.S. Lewis, Alan Moore ve Michael Moorcock gibi 20. yüzyıl spekülatif kurgusunun en büyük isimlerini büyüsü altına alan Arcturus'a Yolculuk, her gizemli hikâye gibi, bir toplantıyla başlar. Ardından her arayış hikâyesinde olduğu gibi, kahramanımız uzun ve zorlu bir yolculuğa çıkar. Yine de Arcturus'a Yolculuk'ta karşılaşacağınız bu akıl almaz anlatıyı başka hiçbir kitapta bulamazsınız.
 
-Arcturus&#8217;a Yolculuk&#8217;u okurken kendinizi, iyi ile kötü çatışmasının donma noktasında, evrenin anlamı için verilen savaşın en kızgın anında bulacaksınız. Arcturus&#8217;a Yolculuk tanımlanmaya direnen bir kitap. Birinci elden tecrübe edip acı eşiğinizi güçlendirmeniz şiddetle tavsiye olunur.
+Arcturus'a Yolculuk'u okurken kendinizi, iyi ile kötü çatışmasının donma noktasında, evrenin anlamı için verilen savaşın en kızgın anında bulacaksınız. Arcturus'a Yolculuk tanımlanmaya direnen bir kitap. Birinci elden tecrübe edip acı eşiğinizi güçlendirmeniz şiddetle tavsiye olunur.
 
-Arcturus&#8217;a Yolculuk, hayaller dünyasında bir benlik arayışı.
+Arcturus'a Yolculuk, hayaller dünyasında bir benlik arayışı.
 
 ---
 
@@ -196,7 +196,7 @@ Arcturus&#8217;a Yolculuk, hayaller dünyasında bir benlik arayışı.
 - **Serideki Basım Yılı:** 2016
 - **Tanıtım Bülteni:**
 
-Wells&#8217;in ilk olarak okul gazetesinde yayınladığı bir öyküden hareketle kaleme aldığı kısa romanı Zaman Makinesi, 1895&#8217;ten beri bilimkurgunun önde gelen eserlerinden biri oldu. Hem geleceği hayal etmek hem de biliminsanının karakterini göstermek adına derin saptamalarda bulunan, politik göndermelerle yüklü bu distopya, hâlâ gerçekleştiremediğimiz bir fantezinin peşinden yıllardır sürüklüyor bizi. Volkan Gürses&#8217;in Türkçeye çevirdiği Zaman Makinesi&#8217;nin bu yeni baskısı, roman tarihi ve H.G. Wells üzerine yaptığı çalışmalarla tanınan akademisyen Patrick Parrinder&#8217;ın önemli makalelerinden biriyle zenginleşiyor. Elif Ersavcı&#8217;nın Türkçeye kazandırdığı bu makalede Parrinder, Wells&#8217;in Zaman Makinesi&#8217;ni yazarken, &#8220;yaratıcılık düzeyinde de olsa, kendi ölümünün ötesine geçmeyi&#8221; öğrendiğini iddia ediyor. Zamana karşı bir makinenin, ölümlülüğe karşı bir yaşamın hikâyesi bu. Wells&#8217;in en büyük üç romanından biri olan Zaman Makinesi&#8217;ni okurken, hepimiz bir Zaman Yolcusu&#8217;yuz!
+Wells'in ilk olarak okul gazetesinde yayınladığı bir öyküden hareketle kaleme aldığı kısa romanı Zaman Makinesi, 1895'ten beri bilimkurgunun önde gelen eserlerinden biri oldu. Hem geleceği hayal etmek hem de biliminsanının karakterini göstermek adına derin saptamalarda bulunan, politik göndermelerle yüklü bu distopya, hâlâ gerçekleştiremediğimiz bir fantezinin peşinden yıllardır sürüklüyor bizi. Volkan Gürses'in Türkçeye çevirdiği Zaman Makinesi'nin bu yeni baskısı, roman tarihi ve H.G. Wells üzerine yaptığı çalışmalarla tanınan akademisyen Patrick Parrinder'ın önemli makalelerinden biriyle zenginleşiyor. Elif Ersavcı'nın Türkçeye kazandırdığı bu makalede Parrinder, Wells'in Zaman Makinesi'ni yazarken, "yaratıcılık düzeyinde de olsa, kendi ölümünün ötesine geçmeyi" öğrendiğini iddia ediyor. Zamana karşı bir makinenin, ölümlülüğe karşı bir yaşamın hikâyesi bu. Wells'in en büyük üç romanından biri olan Zaman Makinesi'ni okurken, hepimiz bir Zaman Yolcusu'yuz!
 
 ---
 
@@ -207,13 +207,13 @@ Wells&#8217;in ilk olarak okul gazetesinde yayınladığı bir öyküden hareket
 - **Serideki Basım Yılı:** 2016
 - **Tanıtım Bülteni:**
 
-Ay&#8217;da ortaya çıkarılan bir bilinmezlik;Bu keşfin açtığı ufuklar öylesine engindir ki&#8230;İlk kez güneş sistemi&#8217;nin derinliklerine insanlar gönderilir. Ama bu insanlar, hedeflerine ulaşmadan bir şeyler ters gitmeye başlar. Ürkütücü biçimde ters&#8230;
+Ay'da ortaya çıkarılan bir bilinmezlik;Bu keşfin açtığı ufuklar öylesine engindir ki...İlk kez güneş sistemi'nin derinliklerine insanlar gönderilir. Ama bu insanlar, hedeflerine ulaşmadan bir şeyler ters gitmeye başlar. Ürkütücü biçimde ters...
 
-Ay&#8217;a ayak basmanın henüz hayal olduğu bir dönemde yazılan ve yüzyılımızın en yaratıcı filmlerinden birine konu olan, olağanüstü, çarpıcı bir kitap.
+Ay'a ayak basmanın henüz hayal olduğu bir dönemde yazılan ve yüzyılımızın en yaratıcı filmlerinden birine konu olan, olağanüstü, çarpıcı bir kitap.
 
 2001: Bir Uzay Efsanesi, insanın evrendeki yeri sorusuna cevap arıyor.
 
-Bir Uzay Efsanesi serisinin ilk kitabı olan 2001, Arthur C. Clarke&#8217;ın, kitabının oluşumunu anlatan önsözü ve bu sıradışı romana kaynak olan &#8220;Gözcü&#8221; ve &#8220;Şafakta Karşılaşma&#8221; isimli iki kısa öyküyle birlikte.
+Bir Uzay Efsanesi serisinin ilk kitabı olan 2001, Arthur C. Clarke'ın, kitabının oluşumunu anlatan önsözü ve bu sıradışı romana kaynak olan "Gözcü" ve "Şafakta Karşılaşma" isimli iki kısa öyküyle birlikte.
 
 ---
 
@@ -224,9 +224,9 @@ Bir Uzay Efsanesi serisinin ilk kitabı olan 2001, Arthur C. Clarke&#8217;ın, k
 - **Serideki Basım Yılı:** 2016
 - **Tanıtım Bülteni:**
 
-Frank Herbert, deneylerden çok deneysel yaklaşımların had safhaya ulaştığı, tür içerisindeki “iyi edebiyat iyi edebiyattır”cıları bir araya getiren yeni dalga bilimkurgu akımının en önemli temsilcilerinden. Türün tüm olanaklarını, suyunu çıkarana kadar kullandığı Dune serisinin üçüncü kitabı Dune Çocukları, din ve güç arasındaki ince çizginin altını çizen sayılı romanlardan. Paul’ün çöle gidişinin üzerinden dokuz sene geçmiş, çöl gezegeni artık yeşillenmeye başlamıştı. Bahar üretimi de giderek artıyordu. Bu değişimlerle beraber çöl terk ediliyor, kök salmış âdetlerden sapılıyordu.
+Frank Herbert, deneylerden çok deneysel yaklaşımların had safhaya ulaştığı, tür içerisindeki "iyi edebiyat iyi edebiyattır"cıları bir araya getiren yeni dalga bilimkurgu akımının en önemli temsilcilerinden. Türün tüm olanaklarını, suyunu çıkarana kadar kullandığı Dune serisinin üçüncü kitabı Dune Çocukları, din ve güç arasındaki ince çizginin altını çizen sayılı romanlardan. Paul'ün çöle gidişinin üzerinden dokuz sene geçmiş, çöl gezegeni artık yeşillenmeye başlamıştı. Bahar üretimi de giderek artıyordu. Bu değişimlerle beraber çöl terk ediliyor, kök salmış âdetlerden sapılıyordu.
 
-Baharın sağladığı geleceği görme gücünden yoksun kalan Alia, İmparatorluk’u kaybetmemek adına elinden geleni yaparken, karşısında geçmişinden hesaba katmadığı rakipler bulacaktı. Çölün derinliklerinden çıkagelen Vaiz, Paul’ün dinine karşı vaazlar veriyordu. Unutulmayan kan davaları tekrar gün yüzüne çıkacaktı. Paul’ün ikizleri, II. Leto ve Ganimet ise İmparatorluk’un yeni mehdileri olarak yetiştirilmekteydi. Fakat onların da kendi planları vardı.
+Baharın sağladığı geleceği görme gücünden yoksun kalan Alia, İmparatorluk'u kaybetmemek adına elinden geleni yaparken, karşısında geçmişinden hesaba katmadığı rakipler bulacaktı. Çölün derinliklerinden çıkagelen Vaiz, Paul'ün dinine karşı vaazlar veriyordu. Unutulmayan kan davaları tekrar gün yüzüne çıkacaktı. Paul'ün ikizleri, II. Leto ve Ganimet ise İmparatorluk'un yeni mehdileri olarak yetiştirilmekteydi. Fakat onların da kendi planları vardı.
 
 Dune Çocukları, efsanesiyle uzlaşamayan bir gezegenin yörüngede kalma mücadelesi.
 
@@ -239,7 +239,7 @@ Dune Çocukları, efsanesiyle uzlaşamayan bir gezegenin yörüngede kalma müca
 - **Serideki Basım Yılı:** 2016
 - **Tanıtım Bülteni:**
 
-Ünlü bilimkurgu yazarı Isaac Asimov’un bilimkurguya en büyük katkısı Üç Robot Kanunu’dur. Üç Robot Kanunu’na göre;
+Ünlü bilimkurgu yazarı Isaac Asimov'un bilimkurguya en büyük katkısı Üç Robot Kanunu'dur. Üç Robot Kanunu'na göre;
 
 ---
 
@@ -250,11 +250,11 @@ Dune Çocukları, efsanesiyle uzlaşamayan bir gezegenin yörüngede kalma müca
 - **Serideki Basım Yılı:** 2017
 - **Tanıtım Bülteni:**
 
-“Yüksek maceranın, zengin yaşamanın ve zor ölmenin olduğu bir Altın Çağ’dalardı… ama kimse öyle düşünmüyordu. Servet ve hırsızlığın, talan ve yağmacılığın, kültür ve ahlaksızlığın geleceği… ama kimse bunu kabul etmiyordu. Aşırıların çağındaydılar, ucubelerin büyüleyici yüzyılı… ama kimse bunu sevmiyordu.”
+"Yüksek maceranın, zengin yaşamanın ve zor ölmenin olduğu bir Altın Çağ'dalardı… ama kimse öyle düşünmüyordu. Servet ve hırsızlığın, talan ve yağmacılığın, kültür ve ahlaksızlığın geleceği… ama kimse bunu kabul etmiyordu. Aşırıların çağındaydılar, ucubelerin büyüleyici yüzyılı… ama kimse bunu sevmiyordu."
 
-Uzayda ölüme terk edilen ve 170 gün boyunca havasız ortamda hayatta kalmayı başaran Gully Foyle, kendine geldikten sonra gemi enkazından kurtulur ve intikamını almak için yola koyulur. Tüm Dünya’yı değiştirecek bir sırrı da yanında taşımaktadır.
+Uzayda ölüme terk edilen ve 170 gün boyunca havasız ortamda hayatta kalmayı başaran Gully Foyle, kendine geldikten sonra gemi enkazından kurtulur ve intikamını almak için yola koyulur. Tüm Dünya'yı değiştirecek bir sırrı da yanında taşımaktadır.
 
-Alfred Bester Kaplan! Kaplan!’da bilimkurguya getirdiği tüm yenilikleri bir seviye ileri götürüyor ve belki de yazılmış en iyi bilimkurgu romanını ortaya çıkarıyor.
+Alfred Bester Kaplan! Kaplan!'da bilimkurguya getirdiği tüm yenilikleri bir seviye ileri götürüyor ve belki de yazılmış en iyi bilimkurgu romanını ortaya çıkarıyor.
 
 Kaplan! Kaplan!, bilimkurgu edebiyatındaki Monte Kristo Kontu.
 
@@ -267,11 +267,11 @@ Kaplan! Kaplan!, bilimkurgu edebiyatındaki Monte Kristo Kontu.
 - **Serideki Basım Yılı:** 2017
 - **Tanıtım Bülteni:**
 
-Joe Haldeman, yalnızca tarihin en iyi bilimkurgucularından biri değil ayrıca bir Vietnam gazisi. Robert A. Heinlein’ın, “Okuduğum en iyi gelecek nesil savaşı tasviri olabilir,” diye tanımladığı Bitmeyen Savaş ise askeri bilimkurgunun antimilitarist mucizesi.
+Joe Haldeman, yalnızca tarihin en iyi bilimkurgucularından biri değil ayrıca bir Vietnam gazisi. Robert A. Heinlein'ın, "Okuduğum en iyi gelecek nesil savaşı tasviri olabilir," diye tanımladığı Bitmeyen Savaş ise askeri bilimkurgunun antimilitarist mucizesi.
 
 İnsanlığın, çökmüş yıldızlar aracılığıyla galaksinin çeşitli yerlerine anında seyahat edebildiği bir gelecekte, insanlar Tauranlar dedikleri, iletişim kuramadıkları bir uzaylı ırkla savaştadır. Dünyanın geleceği parlak gençlerinden oluşan elit saldırı takımlarından oluşan ordu, çeşitli liman gezegenlerin kontrolü için bu ırkla çatışma halindedir.
 
-Binlerce ışık yılı uzaktaki gezegenlere yapılan seferler&#8230; Zaman genişlemesi yüzünden Dünya’da daha hızlı akan yıllar&#8230; Canlılara düşman koşullarda verilen eğitimler&#8230; Ve tüm bu şartlar yüzünden, Dünya’ya döndüklerinde ayak bastıkları gezegenlerden çok daha yabancı bir gezegenle karşılaşan askerler&#8230;
+Binlerce ışık yılı uzaktaki gezegenlere yapılan seferler... Zaman genişlemesi yüzünden Dünya'da daha hızlı akan yıllar... Canlılara düşman koşullarda verilen eğitimler... Ve tüm bu şartlar yüzünden, Dünya'ya döndüklerinde ayak bastıkları gezegenlerden çok daha yabancı bir gezegenle karşılaşan askerler...
 
 ---
 
@@ -282,13 +282,13 @@ Binlerce ışık yılı uzaktaki gezegenlere yapılan seferler&#8230; Zaman geni
 - **Serideki Basım Yılı:** 2017
 - **Tanıtım Bülteni:**
 
-Robert A. Heinlein şüphesiz ki tarihin en etkili bilimkurgu yazarlarından; Isaac Asimov’un deyişiyle bilimkurguya yön veren üç büyük yazardan biriydi. Samuel R. Delany ise yazarın tür üzerindeki etkisini, “Heinlein’ın etkisinden kurtulmaya çalışanlar her seferinde gökyüzü ya da okyanus gibi engin bir şeyle uğraştıklarını fark ediyorlar,” diyerek anlatmıştı. En iyi roman dalında Hugo Ödülü&#8217;nü dört kez kazanan üstat halen bu rekoru elinde tutuyor. Hugo ve Prometheus ödüllü Ay Zalim Bir Sevgilidir ise pek çoklarınca yazarın en iyi eseri olarak kabul ediliyor.
+Robert A. Heinlein şüphesiz ki tarihin en etkili bilimkurgu yazarlarından; Isaac Asimov'un deyişiyle bilimkurguya yön veren üç büyük yazardan biriydi. Samuel R. Delany ise yazarın tür üzerindeki etkisini, "Heinlein'ın etkisinden kurtulmaya çalışanlar her seferinde gökyüzü ya da okyanus gibi engin bir şeyle uğraştıklarını fark ediyorlar," diyerek anlatmıştı. En iyi roman dalında Hugo Ödülü'nü dört kez kazanan üstat halen bu rekoru elinde tutuyor. Hugo ve Prometheus ödüllü Ay Zalim Bir Sevgilidir ise pek çoklarınca yazarın en iyi eseri olarak kabul ediliyor.
 
-Ay’ı Dünya&#8217;dan kontrol eden Otorite’ye karşı, yalnızca mahkûm ve sürgünlerin gönderildiği ceza kolonisine dönüşmüş Ay’daki isyanın ve devrimin öyküsü bu. Ayrılıkçı hareketin liderleri haline gelen bir bilgisayar uzmanı, karizmatik bir genç kadın ve yaşlı bir akademisyenin köleleştirilmiş insanların geleceğini değiştirme hikâyesi. Ve birbirinden farklı bu üçlüye ek olarak, kendi kendine bilinç kazanmış, mizah yolunda tüm özelliklerini devrimin nihai başarısına adamış olan süper bilgisayar Mike&#8217;ın çabası burada anlatılan.
+Ay'ı Dünya'dan kontrol eden Otorite'ye karşı, yalnızca mahkûm ve sürgünlerin gönderildiği ceza kolonisine dönüşmüş Ay'daki isyanın ve devrimin öyküsü bu. Ayrılıkçı hareketin liderleri haline gelen bir bilgisayar uzmanı, karizmatik bir genç kadın ve yaşlı bir akademisyenin köleleştirilmiş insanların geleceğini değiştirme hikâyesi. Ve birbirinden farklı bu üçlüye ek olarak, kendi kendine bilinç kazanmış, mizah yolunda tüm özelliklerini devrimin nihai başarısına adamış olan süper bilgisayar Mike'ın çabası burada anlatılan.
 
 Ay Zalim Bir Sevgilidir siyaset, insanlık, tutku, devrim, teknoloji, mizah ve insan özgürlüğüne adanmış yaşamların peşinde koşan bir başyapıt.
 
-Le Guin’in Mülksüzler’i gibi, siyasi bilimkurguda bir devrim!
+Le Guin'in Mülksüzler'i gibi, siyasi bilimkurguda bir devrim!
 
 ---
 
@@ -299,9 +299,9 @@ Le Guin’in Mülksüzler’i gibi, siyasi bilimkurguda bir devrim!
 - **Serideki Basım Yılı:** 2017
 - **Tanıtım Bülteni:**
 
-Türkçeye daha önce Profesör Dowell’in Başı ve Ket Yıldızı kitapları çevrilen ünlü Rus bilimkurgucu Aleksandr Belyaev’in başyapıtı Su Adamı, İthaki Yayınları’nın Bilimkurgu Klasikleri dizisinin 21. kitabı olarak ilk kez Türkçede.
+Türkçeye daha önce Profesör Dowell'in Başı ve Ket Yıldızı kitapları çevrilen ünlü Rus bilimkurgucu Aleksandr Belyaev'in başyapıtı Su Adamı, İthaki Yayınları'nın Bilimkurgu Klasikleri dizisinin 21. kitabı olarak ilk kez Türkçede.
 
-Tarihte bilimkurgu yazarak geçimini sağlayan ilk yazar olan Belyaev, aynı zamanda “Sovyetlerin Jules Verne’i” olarak da nitelendiriliyor. Su Adamı’nda çocukluğunda üzerinde yapılan deneyler sonucu balık solungaçlarına sahip olan ve bu yüzden yaşamını suda geçiren, balıkçıların “deniz şeytanı” lakabını taktığı Ihtyandr’ın kara ve deniz hayatı arasında yaşadığı gelgitlerin yanı sıra insanüstü bir canlı olarak dışdünyayla olan mücadelesine de tanık oluyoruz.
+Tarihte bilimkurgu yazarak geçimini sağlayan ilk yazar olan Belyaev, aynı zamanda "Sovyetlerin Jules Verne'i" olarak da nitelendiriliyor. Su Adamı'nda çocukluğunda üzerinde yapılan deneyler sonucu balık solungaçlarına sahip olan ve bu yüzden yaşamını suda geçiren, balıkçıların "deniz şeytanı" lakabını taktığı Ihtyandr'ın kara ve deniz hayatı arasında yaşadığı gelgitlerin yanı sıra insanüstü bir canlı olarak dışdünyayla olan mücadelesine de tanık oluyoruz.
 
 Belyaev bu eserinde fakirlere daha iyi yaşam koşulları sağlamak gibi sosyal meselelere de dokunmaktan geri durmuyor.
 
@@ -314,11 +314,11 @@ Belyaev bu eserinde fakirlere daha iyi yaşam koşulları sağlamak gibi sosyal 
 - **Serideki Basım Yılı:** 2017
 - **Tanıtım Bülteni:**
 
-“Şüphesiz Görünmezlik, İstediklerimi Elde Etmemi Sağlıyordu Ama Onların Tadını Çıkarmamı da İmkânsız Kılıyordu.”
+"Şüphesiz Görünmezlik, İstediklerimi Elde Etmemi Sağlıyordu Ama Onların Tadını Çıkarmamı da İmkânsız Kılıyordu."
 
-H. G. Wells, bilimkurgunun atası, türe adını altın harflerle yazdırmış en büyük yazarlardan. Yazdığı bilim fantazileri nesiller boyu yazarları etkilemiş, onlara yol göstermiş; ilk basıldıkları dönemden itibaren etkilerini yitirmeden okurların gönlünde taht kurmaya devam etmiştir. Görünmez Adam da Wells’in eserleri içinde en akılda kalıcı olanlardan biri.
+H. G. Wells, bilimkurgunun atası, türe adını altın harflerle yazdırmış en büyük yazarlardan. Yazdığı bilim fantazileri nesiller boyu yazarları etkilemiş, onlara yol göstermiş; ilk basıldıkları dönemden itibaren etkilerini yitirmeden okurların gönlünde taht kurmaya devam etmiştir. Görünmez Adam da Wells'in eserleri içinde en akılda kalıcı olanlardan biri.
 
-Tuhaf görünüşlü yabancı, bir tipi sırasında Iping Köyü’ne gelir. Garip hareketleri, giyinişi, suratının tamamının bandajlar içinde olması ve gözlüklerini bir an olsun gözünden çıkarmaması köy sakinleri tarafından kimi zaman şüpheyle, kimi zaman düşmanca karşılanır. Kısa süre içerisinde hakkındaki dedikodular giderek yoldan çıkan bir dizi olaya neden olacaktır.
+Tuhaf görünüşlü yabancı, bir tipi sırasında Iping Köyü'ne gelir. Garip hareketleri, giyinişi, suratının tamamının bandajlar içinde olması ve gözlüklerini bir an olsun gözünden çıkarmaması köy sakinleri tarafından kimi zaman şüpheyle, kimi zaman düşmanca karşılanır. Kısa süre içerisinde hakkındaki dedikodular giderek yoldan çıkan bir dizi olaya neden olacaktır.
 
 ---
 
@@ -329,11 +329,11 @@ Tuhaf görünüşlü yabancı, bir tipi sırasında Iping Köyü’ne gelir. Gar
 - **Serideki Basım Yılı:** 2017
 - **Tanıtım Bülteni:**
 
-Arkadi ve Boris Strugatski, entelektüel açıdan kışkırtıcı, inanılmaz eğlenceli, cesur ve eleştirel kitaplarıyla “Sovyetler döneminin en büyük bilimkurgu yazarları” sıfatını hak eden yegâne ikili.Tanrı Olmak Zor İş ise insanlığın karanlık geçmişinin kalbine yapılmış en cesur yolculuklardan biri.
+Arkadi ve Boris Strugatski, entelektüel açıdan kışkırtıcı, inanılmaz eğlenceli, cesur ve eleştirel kitaplarıyla "Sovyetler döneminin en büyük bilimkurgu yazarları" sıfatını hak eden yegâne ikili.Tanrı Olmak Zor İş ise insanlığın karanlık geçmişinin kalbine yapılmış en cesur yolculuklardan biri.
 
-İnsanlık, Dünya&#8217;nın tıpatıp aynısı olan, üzerindeki insanların karanlık çağdan öteye gidemediği bir gezegene gözlemciler göndermiştir. Bu gezegenin gidişatına müdahale etmelerine hiçbir şekilde izin verilmeyen bu gözlemcilerin asıl amacı insanlığın karanlık çağını her ayrıntısıyla kayıt altına almaktır.
+İnsanlık, Dünya'nın tıpatıp aynısı olan, üzerindeki insanların karanlık çağdan öteye gidemediği bir gezegene gözlemciler göndermiştir. Bu gezegenin gidişatına müdahale etmelerine hiçbir şekilde izin verilmeyen bu gözlemcilerin asıl amacı insanlığın karanlık çağını her ayrıntısıyla kayıt altına almaktır.
 
-Büyük bir değişimin kıyısında olan Arkanar Krallığı&#8217;nda halk baskı altında yaşamakta, yenilikler beşiğinde boğulmakta, okuma yazma bilenler linç edilmektedir. Bu gezegene gönderilmiş gözlemcilerden biri olan Anton da Don Rumata ismiyle bir asilzade hayatı yaşarken, bir yandan da dönemin aydınlarını kurtarmaya çalışır.
+Büyük bir değişimin kıyısında olan Arkanar Krallığı'nda halk baskı altında yaşamakta, yenilikler beşiğinde boğulmakta, okuma yazma bilenler linç edilmektedir. Bu gezegene gönderilmiş gözlemcilerden biri olan Anton da Don Rumata ismiyle bir asilzade hayatı yaşarken, bir yandan da dönemin aydınlarını kurtarmaya çalışır.
 
 ---
 
@@ -344,13 +344,13 @@ Büyük bir değişimin kıyısında olan Arkanar Krallığı&#8217;nda halk bas
 - **Serideki Basım Yılı:** 2017
 - **Tanıtım Bülteni:**
 
-“Frankenstein, günümüz bilimkurgusunun başlangıç noktası.” — Stephen King
+"Frankenstein, günümüz bilimkurgusunun başlangıç noktası." — Stephen King
 
-“Frankenstein’ın başarısı, insanlığın sonu gelmeyen korkularından biri olan tehlikeli bilgiye karşı korkuyu yeniden ortaya koymasında saklı.” — Isaac Asimov
+"Frankenstein'ın başarısı, insanlığın sonu gelmeyen korkularından biri olan tehlikeli bilgiye karşı korkuyu yeniden ortaya koymasında saklı." — Isaac Asimov
 
-“Sevgi uyandıramıyorsam, korku salacağım, özellikle de sana çünkü söndürülemez bir nefret duyuyorum yaratıcıma&#8230;”
+"Sevgi uyandıramıyorsam, korku salacağım, özellikle de sana çünkü söndürülemez bir nefret duyuyorum yaratıcıma..."
 
-Mary Shelley yaşadığı dönem, bulunduğu çevre ve geldiği aile sebebiyle edebiyat tarihinin nevi şahsına münhasır yazarlarından biri olsa da ona ölümsüzlüğü getiren şey “yaratıcılığı”. Shelley’nin iki asır önce kaleme aldığı Frankenstein pek çoklarınca ilk bilimkurgu eseri olmasının yanı sıra gotiğin, korkunun hatta romansın bir araya geldiği gerçek bir edebiyat klasiği. Eserden daha büyük popülariteye ulaşan, kişinin kendi yaratımı tarafından yok edildiği “Frankenstein Teması” ise hem kültürümüzün önemli bir parçası hem de Shelley’nin izlerini takip eden pek çok yazarın çıkış noktası.
+Mary Shelley yaşadığı dönem, bulunduğu çevre ve geldiği aile sebebiyle edebiyat tarihinin nevi şahsına münhasır yazarlarından biri olsa da ona ölümsüzlüğü getiren şey "yaratıcılığı". Shelley'nin iki asır önce kaleme aldığı Frankenstein pek çoklarınca ilk bilimkurgu eseri olmasının yanı sıra gotiğin, korkunun hatta romansın bir araya geldiği gerçek bir edebiyat klasiği. Eserden daha büyük popülariteye ulaşan, kişinin kendi yaratımı tarafından yok edildiği "Frankenstein Teması" ise hem kültürümüzün önemli bir parçası hem de Shelley'nin izlerini takip eden pek çok yazarın çıkış noktası.
 
 ---
 
@@ -361,9 +361,9 @@ Mary Shelley yaşadığı dönem, bulunduğu çevre ve geldiği aile sebeb
 - **Serideki Basım Yılı:** 2017
 - **Tanıtım Bülteni:**
 
-Karanlığın Sol Eli ve Sürgün Gezegeni gibi unutulmaz kitapların dahil olduğu Hainli Döngüsü’nün özenli bir parçası olan Anlatış, 1974’te yayımlanan Mülksüzler’in ardından Le Guin’in yazdığı ilk Ekumen ve şimdilik, yazarın kaleminden çıkmış son bilimkurgu romanı.
+Karanlığın Sol Eli ve Sürgün Gezegeni gibi unutulmaz kitapların dahil olduğu Hainli Döngüsü'nün özenli bir parçası olan Anlatış, 1974'te yayımlanan Mülksüzler'in ardından Le Guin'in yazdığı ilk Ekumen ve şimdilik, yazarın kaleminden çıkmış son bilimkurgu romanı.
 
-Bu kitapta Le Guin, çoğu eserinde olduğu gibi yine ötekilik ve iletişim gibi temalara eğilerek önyargılarımıza ayna tutuyor. “Din” kavramını sorguluyor ve son derece politik bir bilimkurgu sunuyor. Yine de Le Guin, tüm bunların ötesinde edebiyatın kendisine dönüyor, çünkü bu romanın odağında birçok önemli değeri simgeleyen bir kültür, usul usul sürdürülen bir gelenek var: Hikâye anlatıcılığı.
+Bu kitapta Le Guin, çoğu eserinde olduğu gibi yine ötekilik ve iletişim gibi temalara eğilerek önyargılarımıza ayna tutuyor. "Din" kavramını sorguluyor ve son derece politik bir bilimkurgu sunuyor. Yine de Le Guin, tüm bunların ötesinde edebiyatın kendisine dönüyor, çünkü bu romanın odağında birçok önemli değeri simgeleyen bir kültür, usul usul sürdürülen bir gelenek var: Hikâye anlatıcılığı.
 
 Edebiyat ve tarihle arası iyi olan Sutty, baskıcı bir rejimin altında değerlerin nasıl kaybolduğunu, tarihin nasıl silindiğini görmek, bu rejimin ulaşamadığı noktalardaki direnişi incelemek, efsanelerde bahsedilen hikâye anlatıcılarının dünyasını keşfetmek için Aka gezegeninde bir yolculuğa çıkar. Geride bıraktığı dünya ile vardığı dünya arasındaki farklar dehşete düşürücü, benzerlikler ise düşündürücüdür.
 
@@ -378,7 +378,7 @@ Edebiyat ve tarihle arası iyi olan Sutty, baskıcı bir rejimin altında değer
 
 Bilimkurgu edebiyatının en mühim anlatılarından biri olan Dune efsanesi dördüncü kitap Dune Tanrı İmparatoru ile devam ediyor.
 
-Dune Çocukları’ndaki olayların üzerinden üç bin yıldan fazla geçmiştir. Dune artık çok farklı bir gezegendir. Fakat değişmeyen bir şey var: Dune’un Tanrı İmparatoru II. Leto.
+Dune Çocukları'ndaki olayların üzerinden üç bin yıldan fazla geçmiştir. Dune artık çok farklı bir gezegendir. Fakat değişmeyen bir şey var: Dune'un Tanrı İmparatoru II. Leto.
 
 Dune adıyla bilinen Arrakis gezegeninden evreni kontrol eden Tanrı İmparator II. Leto, evrene daha önce tatmadığı uzunlukta bir barış getirmişti. Fakat son yaklaşıyordu. İnsanlığın evrimini ve geleceğini tayin edebilecek tek kişi olan Tanrı İmparator II. Leto nihai zaferine ulaşmak için çok büyük bir fedakârlıkta bulunmalıydı…
 
@@ -391,11 +391,11 @@ Dune adıyla bilinen Arrakis gezegeninden evreni kontrol eden Tanrı İmparator 
 - **Serideki Basım Yılı:** 2017
 - **Tanıtım Bülteni:**
 
-Ray Bradbury sadece bilimkurgunun değil fantastik edebiyatın ve korkunun da yirminci yüzyıldaki ustalarından biri. Bilimkurgunun “iyi edebiyat” da olabileceğini kanıtlayan belki de ilk yazar. Tüm yeteneklerini sergilediği ve çerçeve öykü formatında yazdığı Resimli Adam ise modern bireyin psikolojisine ve teknolojik ilerlemenin karanlık yanına ışık tutan eşsiz bir öykü derlemesi.
+Ray Bradbury sadece bilimkurgunun değil fantastik edebiyatın ve korkunun da yirminci yüzyıldaki ustalarından biri. Bilimkurgunun "iyi edebiyat" da olabileceğini kanıtlayan belki de ilk yazar. Tüm yeteneklerini sergilediği ve çerçeve öykü formatında yazdığı Resimli Adam ise modern bireyin psikolojisine ve teknolojik ilerlemenin karanlık yanına ışık tutan eşsiz bir öykü derlemesi.
 
-Tüm vücudu, hareket eden dövmelerle kaplı Resimli Adam bu durumundan dolayı neredeyse kırk yıldır kalıcı bir iş bulamamıştır hatta karnavallarda bile çalışamıyordur artık. Çünkü lanetli bedeninin üzerindeki dövmeler geleceği göstermektedir. Yanında belli bir süre geçiren kişinin kaderi Resimli Adam’ın bedeninde görünüverir.
+Tüm vücudu, hareket eden dövmelerle kaplı Resimli Adam bu durumundan dolayı neredeyse kırk yıldır kalıcı bir iş bulamamıştır hatta karnavallarda bile çalışamıyordur artık. Çünkü lanetli bedeninin üzerindeki dövmeler geleceği göstermektedir. Yanında belli bir süre geçiren kişinin kaderi Resimli Adam'ın bedeninde görünüverir.
 
-Dövmeleri üzerinden hikâyeler bir bir ortaya dökülür. Bir çocuğun hayalleri kadar naif, bir bilim insanının gerçekleri kadar kuvvetli toplam on yedi öykü Resimli Adam’ın vücudunda hayat bulur.
+Dövmeleri üzerinden hikâyeler bir bir ortaya dökülür. Bir çocuğun hayalleri kadar naif, bir bilim insanının gerçekleri kadar kuvvetli toplam on yedi öykü Resimli Adam'ın vücudunda hayat bulur.
 
 Ölümden inançlara, nükleer savaştan ırkçılığa, dünyanın sonundan uzaydaki yalnızlığımıza kadar insanlığa dair birçok konuya değinen Bradbury, hayallerimizle hakikati karşı karşıya getirip eleştiren, düşündüren ve dehşete düşüren bir bilimkurgu klasiği ortaya çıkarıyor.
 
@@ -410,7 +410,7 @@ Resimli Adam, bilimkurgunun kaleydoskopu.
 - **Serideki Basım Yılı:** 2017
 - **Tanıtım Bülteni:**
 
-Solaris’in yazarı Stanislaw Lem’den, H. G. Wells ve Jules Verne gibi ustaların izlerini takip eden bir bilimkurgu klasiği: Yenilmez.
+Solaris'in yazarı Stanislaw Lem'den, H. G. Wells ve Jules Verne gibi ustaların izlerini takip eden bir bilimkurgu klasiği: Yenilmez.
 
 Bilinmeyen bir gezegene yolculuğa giden uzay gemisinin Dünya ile bağlantısı bilinmedik sebeplerden ötürü kesilir. Regis III adlı bu gezegende başta kaptan Rohan olmak üzere geminin tüm mürettebatı insanlığın en büyük ikilemlerinden biriyle yüzleşecektir: İnsan, bilgisinin sınırlarının farkına vardığında verebileceği kararlar ne kadar güvenilirdir?
 
@@ -425,13 +425,13 @@ Mantık çerçevesinin çok ötesinde bir durumdayken bu soru üzerinden kendini
 - **Serideki Basım Yılı:** 2017
 - **Tanıtım Bülteni:**
 
-“Bu bir savaş değil. Hiçbir zaman savaş olmadı; insanlarla karıncalar arasındaki bir savaştan daha fazlası değil bu.&#8221;
+"Bu bir savaş değil. Hiçbir zaman savaş olmadı; insanlarla karıncalar arasındaki bir savaştan daha fazlası değil bu."
 
-H.G. Wells, bilimkurgunun atası, türe adını altın harflerle yazdırmış en büyük yazarlardan. Zaman Makinesi, Görünmez Adam, Doktor Moreau’nun Adası gibi eserleri ve düşünceleriyle âdeta zamanın ötesinden gelen bir yazar olan Wells, Dünyalar Savaşı’nda istila altındaki umutsuz ve çaresiz bir gezegenin hikâyesini anlatıyor: Dünya’nın.
+H.G. Wells, bilimkurgunun atası, türe adını altın harflerle yazdırmış en büyük yazarlardan. Zaman Makinesi, Görünmez Adam, Doktor Moreau'nun Adası gibi eserleri ve düşünceleriyle âdeta zamanın ötesinden gelen bir yazar olan Wells, Dünyalar Savaşı'nda istila altındaki umutsuz ve çaresiz bir gezegenin hikâyesini anlatıyor: Dünya'nın.
 
-Gökyüzünden İngiltere’nin güneyine düşen silindirlerin yarattığı merak hemen sonra yerini korkuya bırakmıştır. Dünya, Mars’tan gelen canlıların istilası altındadır. Henüz ne olduğunu anlayamadan Marslılar tarafından katledilmeye başlayan insanlar, var güçleriyle karşılık vermeye ve direnmeye çalışırlar.
+Gökyüzünden İngiltere'nin güneyine düşen silindirlerin yarattığı merak hemen sonra yerini korkuya bırakmıştır. Dünya, Mars'tan gelen canlıların istilası altındadır. Henüz ne olduğunu anlayamadan Marslılar tarafından katledilmeye başlayan insanlar, var güçleriyle karşılık vermeye ve direnmeye çalışırlar.
 
-Uzaylıların kontrolü altındaki İngiltere’de adsız anlatıcının tanıklıkları, insanlığın kaygı verici ümitsizliğinin ve hayatta kalma mücadelesinin karanlık bir portresini çizer. İnsanlığın Dünya üzerindeki binlerce yıllık hükümdarlığı son mu bulacaktır, yoksa bir kurtuluş ihtimali var mıdır?
+Uzaylıların kontrolü altındaki İngiltere'de adsız anlatıcının tanıklıkları, insanlığın kaygı verici ümitsizliğinin ve hayatta kalma mücadelesinin karanlık bir portresini çizer. İnsanlığın Dünya üzerindeki binlerce yıllık hükümdarlığı son mu bulacaktır, yoksa bir kurtuluş ihtimali var mıdır?
 
 ---
 
@@ -444,7 +444,7 @@ Uzaylıların kontrolü altındaki İngiltere’de adsız anlatıcının tanıkl
 
 Yirminci yüzyıl bilimkurgunun temellerinin atıldığı, pulptan ciddi edebiyata evrildiği ve tüm zamanların en popüler türlerinden birine dönüştüğü bir zaman aralığı. Bu yüz senelik süreç içerisinde tür kendisine ait bir geçmiş oluşturdu ve toplu bir yaklaşımla ele alınabilecek hale geldi.
 
-Yüzyılın En İyi Bilimkurgu Öyküleri’nde Orson Scott Card bu türü ve dolaylı olarak da kültürü dönüştüren yazarları ve onların öne çıkan öykülerini titizlikle seçip eşsiz bir panorama sunuyor. Card’ın dediği gibi bu derleme, “Bir hazine. Bir mücevher koleksiyonu.”
+Yüzyılın En İyi Bilimkurgu Öyküleri'nde Orson Scott Card bu türü ve dolaylı olarak da kültürü dönüştüren yazarları ve onların öne çıkan öykülerini titizlikle seçip eşsiz bir panorama sunuyor. Card'ın dediği gibi bu derleme, "Bir hazine. Bir mücevher koleksiyonu."
 
 Isaac Asimov, Arthur C. Clarke, Robert A. Heinlein, Ursula K. Le Guin, Ray Bradbury, Frederik Pohl, Harlan Ellison, George Alec Effinger, Brian W. Aldiss, William Gibson & Michael Swanwick, Theodore Sturgeon, Larry Niven, Robert Silverberg, Harry Turtledove, James Blish, George R. R. Martin, James Patrick Kelly, Karen Joy Fowler, Lloyd Biggle, Jr., Terry Bisson, Poul Anderson, John Kessel, R.A. Lafferty, C.J. Cherryh, Lisa Goldstein ve Edmond Hamilton.
 
@@ -457,11 +457,11 @@ Isaac Asimov, Arthur C. Clarke, Robert A. Heinlein, Ursula K. Le Guin, Ray Bradb
 - **Serideki Basım Yılı:** 2018
 - **Tanıtım Bülteni:**
 
-Arkadi ve Boris Strugatski, entelektüel açıdan kışkırtıcı, inanılmaz eğlenceli, cesur ve eleştirel kitaplarıyla “Sovyetler döneminin en büyük bilimkurgu yazarları” sıfatını hak eden yegâne ikili. Uzayda Piknik ise yazarların en ünlü ve ilham verici romanı.
+Arkadi ve Boris Strugatski, entelektüel açıdan kışkırtıcı, inanılmaz eğlenceli, cesur ve eleştirel kitaplarıyla "Sovyetler döneminin en büyük bilimkurgu yazarları" sıfatını hak eden yegâne ikili. Uzayda Piknik ise yazarların en ünlü ve ilham verici romanı.
 
-Uzaylılar dünyanın beş bölgesini ziyaret etmiş ve giderken geriye “atıklarını” bırakmışlardır. Bu atıklar, tüm dünyada bir gizem yaratır ve endüstri ve bilim çevrelerinin de odak noktası haline gelir. Atıkların bulunduğu yerler “bölge” olarak adlandırılarak karantina altına alınır ve bu bölgeler çevrelerindeki şehirleri ekonomik ve sosyal açıdan etkilemeye başlar.
+Uzaylılar dünyanın beş bölgesini ziyaret etmiş ve giderken geriye "atıklarını" bırakmışlardır. Bu atıklar, tüm dünyada bir gizem yaratır ve endüstri ve bilim çevrelerinin de odak noktası haline gelir. Atıkların bulunduğu yerler "bölge" olarak adlandırılarak karantina altına alınır ve bu bölgeler çevrelerindeki şehirleri ekonomik ve sosyal açıdan etkilemeye başlar.
 
-Redrick Schuhart, bölgeden uzaylı atıklarını kaçırıp satan bir “stalker” yani bir iz sürücüdür. Çoğu insan gibi, hayatı yasak “bölge” tarafından şekillendirilen Red ve bilim insanı arkadaşı Kiril’in bir “zamazingo” elde etmek amacıyla buraya yaptıkları yolculuk ise beklenmedik olaylara sebep olur… Tarkovski’nin Stalker ismiyle beyaz perdeye uyarladığı felsefi hikâye de işte burada başlar. Uzaylıların dünyaya yaptığı bu ziyaret bir piknikten mi ibarettir? Yoksa arkasında insan aklının alamayacağı bir gizem mi yatmaktadır?
+Redrick Schuhart, bölgeden uzaylı atıklarını kaçırıp satan bir "stalker" yani bir iz sürücüdür. Çoğu insan gibi, hayatı yasak "bölge" tarafından şekillendirilen Red ve bilim insanı arkadaşı Kiril'in bir "zamazingo" elde etmek amacıyla buraya yaptıkları yolculuk ise beklenmedik olaylara sebep olur… Tarkovski'nin Stalker ismiyle beyaz perdeye uyarladığı felsefi hikâye de işte burada başlar. Uzaylıların dünyaya yaptığı bu ziyaret bir piknikten mi ibarettir? Yoksa arkasında insan aklının alamayacağı bir gizem mi yatmaktadır?
 
 ---
 
@@ -472,11 +472,11 @@ Redrick Schuhart, bölgeden uzaylı atıklarını kaçırıp satan bir “stalke
 - **Serideki Basım Yılı:** 2018
 - **Tanıtım Bülteni:**
 
-Ray Bradbury sadece bilimkurgunun değil fantastik edebiyatın ve korkunun da yirminci yüzyıldaki ustalarından biri. Bilimkurgunun “iyi edebiyat” da olabileceğini kanıtlayan belki de ilk yazar. Yayımlandığı anda klasikleşen, distopya edebiyatının dört temel kitabından biri olan Fahrenheit 451 ise bir yirminci yüzyıl başyapıtı.
+Ray Bradbury sadece bilimkurgunun değil fantastik edebiyatın ve korkunun da yirminci yüzyıldaki ustalarından biri. Bilimkurgunun "iyi edebiyat" da olabileceğini kanıtlayan belki de ilk yazar. Yayımlandığı anda klasikleşen, distopya edebiyatının dört temel kitabından biri olan Fahrenheit 451 ise bir yirminci yüzyıl başyapıtı.
 
-Guy Montag bir itfaiyeciydi. Televizyonun hüküm sürdüğü bu dünyada kitaplar ise yok olmak üzereydi zira itfaiyeciler yangın söndürmek yerine ortalığı ateşe veriyordu. Montag’ın işi ise yasadışı olanların en tehlikelisini yakmaktı: Kitapları.
+Guy Montag bir itfaiyeciydi. Televizyonun hüküm sürdüğü bu dünyada kitaplar ise yok olmak üzereydi zira itfaiyeciler yangın söndürmek yerine ortalığı ateşe veriyordu. Montag'ın işi ise yasadışı olanların en tehlikelisini yakmaktı: Kitapları.
 
-Montag yaptığı işi tek bir gün dahi sorgulamamıştı ve tüm gününü televizyonla kaplı odalarda geçiren eşi Mildred’la beraber yaşıyordu. Ancak yeni komşusu Clarisse’le tanışmasıyla tüm hayatı değişti. Kitapların değerini kavramaya başlayan Montag artık tüm bildiklerini sorgulayacaktı.
+Montag yaptığı işi tek bir gün dahi sorgulamamıştı ve tüm gününü televizyonla kaplı odalarda geçiren eşi Mildred'la beraber yaşıyordu. Ancak yeni komşusu Clarisse'le tanışmasıyla tüm hayatı değişti. Kitapların değerini kavramaya başlayan Montag artık tüm bildiklerini sorgulayacaktı.
 
 İnsanların uğruna canlarını feda etmeyi göze aldığı bu kitapların içinde ne vardı? Gerçeklerin farkına vardıktan sonra bu karanlık toplumda artık yaşanabilir miydi?
 
@@ -491,9 +491,9 @@ Fahrenheit 451, yeryüzünde tek bir kitap kalacak olsa, o kitap olmaya aday.
 - **Serideki Basım Yılı:** 2018
 - **Tanıtım Bülteni:**
 
-Alice B. Sheldon 1967 yılında James Tiptree Jr. adıyla bilimkurgu yazmaya başladığında kimse onun aslında bir kadın olduğunu bilmiyordu. Bu durum ortaya çıktığında ise insanlar ne şaşkınlıklarını gizleyebilmiş ne de yazarı takdir etmekten kendilerini alabilmişti. Ötekilikten cinsiyete, gerçeğin yanıltıcılığından insanın evrendeki yerine kadar pek çok konuyu eşsiz üslubuyla anlattığı onlarca eserinin en önemlilerinden biri olan Uzaktan Kumandalı Kız‘da ise Tiptree yalnızca kendisinin yazabileceği, feminist, antikapitalist bir siberpunk hikâye ortaya koyuyor. Kurumlarca yönetilen bir yakın gelecek. Reklamların yasaklandığı bir distopya. Bu durumla baş etmek için farklı yöntemler deneyen şirketler. Bu mücadele sonucunda ortaya çıkan ve tek görevleri alışveriş yaparken görüntülenip subliminal reklamların bir parçası olmak olan popüler kültür ikonları – yani geleceğin tanrıları.
+Alice B. Sheldon 1967 yılında James Tiptree Jr. adıyla bilimkurgu yazmaya başladığında kimse onun aslında bir kadın olduğunu bilmiyordu. Bu durum ortaya çıktığında ise insanlar ne şaşkınlıklarını gizleyebilmiş ne de yazarı takdir etmekten kendilerini alabilmişti. Ötekilikten cinsiyete, gerçeğin yanıltıcılığından insanın evrendeki yerine kadar pek çok konuyu eşsiz üslubuyla anlattığı onlarca eserinin en önemlilerinden biri olan Uzaktan Kumandalı Kız'da ise Tiptree yalnızca kendisinin yazabileceği, feminist, antikapitalist bir siberpunk hikâye ortaya koyuyor. Kurumlarca yönetilen bir yakın gelecek. Reklamların yasaklandığı bir distopya. Bu durumla baş etmek için farklı yöntemler deneyen şirketler. Bu mücadele sonucunda ortaya çıkan ve tek görevleri alışveriş yaparken görüntülenip subliminal reklamların bir parçası olmak olan popüler kültür ikonları – yani geleceğin tanrıları.
 
-Kendi halinde bir kız olan ve hastalığından dolayı fiziksel olarak fazlasıyla deforme hatta çirkin P. Burke hiç beklemediği bir anda hayatının fırsatıyla karşılaşır. Elinde artık bir tanrı olma fırsatı vardır, hem de insan elinin ürettiği en güzel canlılardan biri olarak, Delphi olarak. Kilometrelerce öteden P. Burke’ün kumanda etmesiyle dünyayı sarsmaya başlayan Delphi şöhret basamaklarını hızla tırmanırken bu akıldan yoksun Kumandalı’nın arkasındaki Burke de yaşam amacını bulmuş gibidir. Ta ki bu sahte bedenini fazla benimseyip âşık olana dek.
+Kendi halinde bir kız olan ve hastalığından dolayı fiziksel olarak fazlasıyla deforme hatta çirkin P. Burke hiç beklemediği bir anda hayatının fırsatıyla karşılaşır. Elinde artık bir tanrı olma fırsatı vardır, hem de insan elinin ürettiği en güzel canlılardan biri olarak, Delphi olarak. Kilometrelerce öteden P. Burke'ün kumanda etmesiyle dünyayı sarsmaya başlayan Delphi şöhret basamaklarını hızla tırmanırken bu akıldan yoksun Kumandalı'nın arkasındaki Burke de yaşam amacını bulmuş gibidir. Ta ki bu sahte bedenini fazla benimseyip âşık olana dek.
 
 İnsanı insan yapan bilinci midir? Ruh mu bedene hapistir yoksa beden mi ruha?
 
@@ -506,11 +506,11 @@ Kendi halinde bir kız olan ve hastalığından dolayı fiziksel olarak fazlası
 - **Serideki Basım Yılı:** 2018
 - **Tanıtım Bülteni:**
 
-Ray Bradbury sadece bilimkurgunun değil fantastik edebiyatın ve korkunun da yirminci yüzyıldaki ustalarından biri. Bilimkurgunun “iyi edebiyat” da olabileceğini kanıtlayan belki de ilk yazar. Bradbury’nin ölümünden sadece iki sene önce derlenen ve klasik eseri Fahrenheit 451’in geçtiği yolları haritalandıran Yakma Zevki ise bir yazarın edebi süreci içinde çıkılan hayret verici bir yolculuk.
+Ray Bradbury sadece bilimkurgunun değil fantastik edebiyatın ve korkunun da yirminci yüzyıldaki ustalarından biri. Bilimkurgunun "iyi edebiyat" da olabileceğini kanıtlayan belki de ilk yazar. Bradbury'nin ölümünden sadece iki sene önce derlenen ve klasik eseri Fahrenheit 451'in geçtiği yolları haritalandıran Yakma Zevki ise bir yazarın edebi süreci içinde çıkılan hayret verici bir yolculuk.
 
-Kültürün homojenleşmesi, teknolojinin beraberinde duyarsız bir dünya getirmesi, insanların geçmişleriyle olan bağlarının kopması… Fahrenheit 451’de olduğu gibi, Yakma Zevki’ni oluşturan öyküler de bu konuları işliyor.
+Kültürün homojenleşmesi, teknolojinin beraberinde duyarsız bir dünya getirmesi, insanların geçmişleriyle olan bağlarının kopması… Fahrenheit 451'de olduğu gibi, Yakma Zevki'ni oluşturan öyküler de bu konuları işliyor.
 
-Ray Bradbury’nin kariyerinin farklı dönemlerinden 14 öykünün yanı sıra Fahrenheit 451’in öncül versiyonları olan “Geceyarısından Epey Sonra” ve “İtfaiyeci” öykülerini de bu derlemede bulabilirsiniz.
+Ray Bradbury'nin kariyerinin farklı dönemlerinden 14 öykünün yanı sıra Fahrenheit 451'in öncül versiyonları olan "Geceyarısından Epey Sonra" ve "İtfaiyeci" öykülerini de bu derlemede bulabilirsiniz.
 
 Kültür, teknolojiyle birlikte yok olmaya mahkûm mudur? Yoksa teknoloji, kültürün evriminin bir sonraki basamağı mıdır?
 
@@ -525,11 +525,11 @@ Yakma Zevki, bir klasiğin kıvılcımı.
 - **Serideki Basım Yılı:** 2018
 - **Tanıtım Bülteni:**
 
-Tolkien sonrası fantastik edebiyatın öncü ve en önemli yazarlarından olan Michael Moorcock yalnızca yarattığı efsanevi karakteri Elric’le değil, Yeni Dalga akımının yükselmesine sebep olan editörlüğüyle de türün kaderini doğrudan etkilemiş ender yazarlardan. Moorcock’ın kendi sınırlarını bile zorlayıp tabuları yerle bir ettiği bilimkurgu kitabı İşte İnsan ise Jungcu psikoloji temel alınarak yazılmış en cüretkâr zaman yolculuğu romanlarından biri.
+Tolkien sonrası fantastik edebiyatın öncü ve en önemli yazarlarından olan Michael Moorcock yalnızca yarattığı efsanevi karakteri Elric'le değil, Yeni Dalga akımının yükselmesine sebep olan editörlüğüyle de türün kaderini doğrudan etkilemiş ender yazarlardan. Moorcock'ın kendi sınırlarını bile zorlayıp tabuları yerle bir ettiği bilimkurgu kitabı İşte İnsan ise Jungcu psikoloji temel alınarak yazılmış en cüretkâr zaman yolculuğu romanlarından biri.
 
-Kafası sorularla dolu, problemli bir genç olan Karl Glogauer, İsa Peygamber’in son aylarına tanıklık etmek için zaman makinesiyle 1970 yılından M.S. 29 yılına yolculuk eder. Kutsal Topraklar’da Vaftizci Yahya ile karşılaşan Glogauer, bu mucizelerle dolu bölgede Nasıra’ya ulaşmak ve İsa’yı bulmak için yola çıkar.
+Kafası sorularla dolu, problemli bir genç olan Karl Glogauer, İsa Peygamber'in son aylarına tanıklık etmek için zaman makinesiyle 1970 yılından M.S. 29 yılına yolculuk eder. Kutsal Topraklar'da Vaftizci Yahya ile karşılaşan Glogauer, bu mucizelerle dolu bölgede Nasıra'ya ulaşmak ve İsa'yı bulmak için yola çıkar.
 
-İsa’yı bulduğunda ise hikâye oldukça çetrefilli bir hal alır zira bu tarihi figür, Nasıra’da bir marangoz dükkânının gölgelerinde saklanan ve değil peygamber olmak, hayatta kalmak için bile başkalarına ihtiyaç duyan bir insandır. Gelecekte vuku bulmuş geçmişinin peşini bırakmayan hayaletleriyle, insanlık tarihinin olması gerektiği gibi yaşanmasını sağlamak için harekete geçen Glogauer, hem yolculuğun sonuna hem de sorularının yanıtlarına adım adım yaklaşır.
+İsa'yı bulduğunda ise hikâye oldukça çetrefilli bir hal alır zira bu tarihi figür, Nasıra'da bir marangoz dükkânının gölgelerinde saklanan ve değil peygamber olmak, hayatta kalmak için bile başkalarına ihtiyaç duyan bir insandır. Gelecekte vuku bulmuş geçmişinin peşini bırakmayan hayaletleriyle, insanlık tarihinin olması gerektiği gibi yaşanmasını sağlamak için harekete geçen Glogauer, hem yolculuğun sonuna hem de sorularının yanıtlarına adım adım yaklaşır.
 
 Tarih değişmesin diye tarihe müdahale etmenin bedeli nedir? Fikir mi gerçekliğin sebebidir yoksa gerçeklik mi fikrin?
 
@@ -544,11 +544,11 @@ Tarih değişmesin diye tarihe müdahale etmenin bedeli nedir? Fikir mi gerçekl
 - **Serideki Basım Yılı:** 2018
 - **Tanıtım Bülteni:**
 
-Asimov’un deyişiyle bilimkurgunun üç büyük novasından biri olan Stanley G. Weinbaum, bir buçuk yıllık yazarlık kariyerine ve trajik ölümüne rağmen erken dönem Altın Çağ’ın en başarılı yazarlarından biri. Hem ilk hem de en önemli öyküsü “Bir Mars Destanı” da bilimkurguyu kökten değiştiren ve uzaylı algısında devrim yapan gerçek bir klasik.
+Asimov'un deyişiyle bilimkurgunun üç büyük novasından biri olan Stanley G. Weinbaum, bir buçuk yıllık yazarlık kariyerine ve trajik ölümüne rağmen erken dönem Altın Çağ'ın en başarılı yazarlarından biri. Hem ilk hem de en önemli öyküsü "Bir Mars Destanı" da bilimkurguyu kökten değiştiren ve uzaylı algısında devrim yapan gerçek bir klasik.
 
-Yakın gelecekte insanlık Mars’a sefere çıkar ve mürettebatın asi üyesi Dick Jarvis’in başından beklenmedik bir olay geçer: Mars’ta yepyeni bir ırkla tanışır; devekuşu benzeri Tviil’le. Ancak Mars’taki tek hayat formu Tviil değildir. Onun yardımıyla Jarvis, “Bir Mars Destanı” ve devam öyküsü “Hayaller Vadisi”nde Mars’ın diğer mucizeleriyle de karşılaşacaktır.
+Yakın gelecekte insanlık Mars'a sefere çıkar ve mürettebatın asi üyesi Dick Jarvis'in başından beklenmedik bir olay geçer: Mars'ta yepyeni bir ırkla tanışır; devekuşu benzeri Tviil'le. Ancak Mars'taki tek hayat formu Tviil değildir. Onun yardımıyla Jarvis, "Bir Mars Destanı" ve devam öyküsü "Hayaller Vadisi"nde Mars'ın diğer mucizeleriyle de karşılaşacaktır.
 
-Bu iki klasik öyküye ek olarak Weinbaum’un yarattığı bir diğer çarpıcı karakter olan Profesör Manderpootz’un yer aldığı “Eğer Dünyaları” ve “İdeal”in yanı sıra ters giden bir bilimsel deneyi anlatan “Uyumun Doruğu”, uzaylı ekolojilerine yoğunlaşan saykedelik öykü “Üşütük Ay” ve sanal gerçekliği işleyen ilk öykülerden “Pygmalion’un Gözlüğü” de bu derlemede kendine yer buluyor.
+Bu iki klasik öyküye ek olarak Weinbaum'un yarattığı bir diğer çarpıcı karakter olan Profesör Manderpootz'un yer aldığı "Eğer Dünyaları" ve "İdeal"in yanı sıra ters giden bir bilimsel deneyi anlatan "Uyumun Doruğu", uzaylı ekolojilerine yoğunlaşan saykedelik öykü "Üşütük Ay" ve sanal gerçekliği işleyen ilk öykülerden "Pygmalion'un Gözlüğü" de bu derlemede kendine yer buluyor.
 
 Bir Mars Destanı, modern bilimkurgunun ilk adımları.
 
@@ -561,13 +561,13 @@ Bir Mars Destanı, modern bilimkurgunun ilk adımları.
 - **Serideki Basım Yılı:** 2018
 - **Tanıtım Bülteni:**
 
-Roger Zelazny, farklı mitolojileri bilimkurgu romanlarına uyarlamasıyla pek çok yazarın yalnızca hayal edebildiği bir şeyi alışkanlık haline getirmiş eşsiz bir yazar. Yunan mitolojisiyle harmanlanan Bu Ölümsüz ise hem Zelazny’nin ilk romanı olması hem de Hugo En İyi Roman Ödülü’nü Dune gibi bir başyapıtla paylaşması sebebiyle bilimkurgudaki kilometre taşlarından biri.
+Roger Zelazny, farklı mitolojileri bilimkurgu romanlarına uyarlamasıyla pek çok yazarın yalnızca hayal edebildiği bir şeyi alışkanlık haline getirmiş eşsiz bir yazar. Yunan mitolojisiyle harmanlanan Bu Ölümsüz ise hem Zelazny'nin ilk romanı olması hem de Hugo En İyi Roman Ödülü'nü Dune gibi bir başyapıtla paylaşması sebebiyle bilimkurgudaki kilometre taşlarından biri.
 
-Nükleer savaş Dünya’yı neredeyse yerle bir etmiş, yalnızca dört milyon insan ve bundan çok daha fazla sayıda mutasyona uğramış canlı türü geride kalmıştır. Evrenin en güçlü uzaylı ırklarından biri olan Vegalılar için bu harabe gezegen artık turistik bir bölgeden farksızdır.
+Nükleer savaş Dünya'yı neredeyse yerle bir etmiş, yalnızca dört milyon insan ve bundan çok daha fazla sayıda mutasyona uğramış canlı türü geride kalmıştır. Evrenin en güçlü uzaylı ırklarından biri olan Vegalılar için bu harabe gezegen artık turistik bir bölgeden farksızdır.
 
-Nüfuzlu bir Vegalıyı, Dünya’da gezdirme görevi verildiğinde tüm bilinmezliklerin düğüm noktasındaki Conrad Nomikos bu buyruğu gönülsüzce kabul eder. Bu yolculukta Conrad’ın ve Dünya’nın kaderi yeniden şekillenecektir zira ne Conrad sadece bir insandır ne de bu yolculuk yalnızca turistik bir gezidir.
+Nüfuzlu bir Vegalıyı, Dünya'da gezdirme görevi verildiğinde tüm bilinmezliklerin düğüm noktasındaki Conrad Nomikos bu buyruğu gönülsüzce kabul eder. Bu yolculukta Conrad'ın ve Dünya'nın kaderi yeniden şekillenecektir zira ne Conrad sadece bir insandır ne de bu yolculuk yalnızca turistik bir gezidir.
 
-Ölümün pençesinde olan Dünya’yı bir ölümlü kurtarabilir mi? Yok olmak, esarete düşmekten daha mı iyidir?
+Ölümün pençesinde olan Dünya'yı bir ölümlü kurtarabilir mi? Yok olmak, esarete düşmekten daha mı iyidir?
 
 ---
 
@@ -578,9 +578,9 @@ Nüfuzlu bir Vegalıyı, Dünya’da gezdirme görevi verildiğinde tüm bilinme
 - **Serideki Basım Yılı:** 2018
 - **Tanıtım Bülteni:**
 
-Ray Bradbury sadece bilimkurgunun değil fantastik edebiyatın ve korkunun da yirminci yüzyıldaki ustalarından biri. Bilimkurgunun “iyi edebiyat” da olabileceğini kanıtlayan belki de ilk yazar. 1950’de yayımlanan Mars Yıllıkları ise insana dair yazılmış en naif ve en karanlık eserlerden biri.İnsanlık atom savaşlarının gölgesindeki, sorunlarla boğuşan Dünya’yı terk etmek için Mars’ta koloni kurmaya karar verir. İlk roketler umut dolu kızıl gezegene iniş yaptıklarında yolcular hiç beklemedikleri sorunlarla karşı karşıya kalır. Mars’ta yalnız değillerdir. Marslılar şekil değiştiren, zihin okuyan, belirli bir gelişmişlik seviyesine erişmiş canlılardır ve gezegene gelen bu istenmeyen ziyaretçiler için orada yeni bir hayat kurmak hiç kolay olmayacaktır.
+Ray Bradbury sadece bilimkurgunun değil fantastik edebiyatın ve korkunun da yirminci yüzyıldaki ustalarından biri. Bilimkurgunun "iyi edebiyat" da olabileceğini kanıtlayan belki de ilk yazar. 1950'de yayımlanan Mars Yıllıkları ise insana dair yazılmış en naif ve en karanlık eserlerden biri.İnsanlık atom savaşlarının gölgesindeki, sorunlarla boğuşan Dünya'yı terk etmek için Mars'ta koloni kurmaya karar verir. İlk roketler umut dolu kızıl gezegene iniş yaptıklarında yolcular hiç beklemedikleri sorunlarla karşı karşıya kalır. Mars'ta yalnız değillerdir. Marslılar şekil değiştiren, zihin okuyan, belirli bir gelişmişlik seviyesine erişmiş canlılardır ve gezegene gelen bu istenmeyen ziyaretçiler için orada yeni bir hayat kurmak hiç kolay olmayacaktır.
 
-Bradbury’nin yer yer ürkütücü yer yer dramatik anlatımı da burada sahne alır. Irkçılık ve hümanizm gibi fikirler Mars’ta kendine yer bulur. Yazar, âdeta tarihle ve insanlıkla yüzleşir.Bilimkurgu edebiyatının en önemli eserlerinden Mars Yıllıkları, okura insanlığın nihai düşmandan nereye giderse gitsin kurtulamayacağını sert ve vurucu bir biçimde anlatıyor: Kendisinden.
+Bradbury'nin yer yer ürkütücü yer yer dramatik anlatımı da burada sahne alır. Irkçılık ve hümanizm gibi fikirler Mars'ta kendine yer bulur. Yazar, âdeta tarihle ve insanlıkla yüzleşir.Bilimkurgu edebiyatının en önemli eserlerinden Mars Yıllıkları, okura insanlığın nihai düşmandan nereye giderse gitsin kurtulamayacağını sert ve vurucu bir biçimde anlatıyor: Kendisinden.
 
 ---
 
@@ -593,9 +593,9 @@ Bradbury’nin yer yer ürkütücü yer yer dramatik anlatımı da burada sahne 
 
 Charlotte Perkins Gilman yaşadığı dönemin önde gelen hümanistlerinden ve kadın hakları savunucularından biri olmasının yanında feminist edebiyatın en önemli erken dönem temsilcilerinden. Yazıldıktan yaklaşık 65 sene sonra kitap formatında yayımlanabilen Kadınlar Ülkesi ise feminist ütopyanın ilk örneklerinden.
 
-Birinci Dünya Savaşı’nın arifesinde üç Amerikalı erkek pek fazla insanın bulunmadığı, ücra bir yerde, tamamen kadınlardan oluşan bir topluluğa denk gelir. Gözlerine inanamayan kâşifler bu topraklarda erkeklerin de olması gerektiğine dair inançlarıyla araştırmalarına başlar.
+Birinci Dünya Savaşı'nın arifesinde üç Amerikalı erkek pek fazla insanın bulunmadığı, ücra bir yerde, tamamen kadınlardan oluşan bir topluluğa denk gelir. Gözlerine inanamayan kâşifler bu topraklarda erkeklerin de olması gerektiğine dair inançlarıyla araştırmalarına başlar.
 
-Çok geçmeden bu gizemli ülke ile ilgili gerçekler bir bir açığa çıksa da misafirlerin merakı giderilmenin aksine daha da artar ve Kadınlar Ülkesi’nin yönetim biçiminden inançlarına, kültüründen ekonomisine ve hatta anneliğe kadar pek çok konuda bilgi sahibi olmaya ve toplumsal cinsiyet rollerini sorgulamaya başlarlar.
+Çok geçmeden bu gizemli ülke ile ilgili gerçekler bir bir açığa çıksa da misafirlerin merakı giderilmenin aksine daha da artar ve Kadınlar Ülkesi'nin yönetim biçiminden inançlarına, kültüründen ekonomisine ve hatta anneliğe kadar pek çok konuda bilgi sahibi olmaya ve toplumsal cinsiyet rollerini sorgulamaya başlarlar.
 
 Toplumsal roller cinsiyete göre belirlenebilir mi? Kadınlık ve erkeklik değişmez kavramlar mıdır?
 
@@ -610,11 +610,11 @@ Kadınlar Ülkesi, ataerkilliğe verilmiş nüktedan bir yanıt.
 - **Serideki Basım Yılı:** 2018
 - **Tanıtım Bülteni:**
 
-Robert A. Heinlein, Clarke ve Asimov’la birlikte Altın Çağ bilimkurgusuna damga vuran üç büyük ustadan biri. İdeolojisi ve bunu eserlerinde kullanma tarzıyla çağdaşlarından farklılaşan yazarın yalnızca kendi külliyatında değil bilimkurgu türünde yazılmış en önemli, en tartışmalı ve en sıra dışı romanlardan biri olan Yaban Diyarlarda Yabancı ise altkültür için bir dönüm noktası.
+Robert A. Heinlein, Clarke ve Asimov'la birlikte Altın Çağ bilimkurgusuna damga vuran üç büyük ustadan biri. İdeolojisi ve bunu eserlerinde kullanma tarzıyla çağdaşlarından farklılaşan yazarın yalnızca kendi külliyatında değil bilimkurgu türünde yazılmış en önemli, en tartışmalı ve en sıra dışı romanlardan biri olan Yaban Diyarlarda Yabancı ise altkültür için bir dönüm noktası.
 
-Mars’ta Marslılarca geliştirilmiş insan Valentine Michael Smith, Arz’a geleli çok olmamıştır. Kendi halkıyla ilk kez tanışan Smith, bu mavi gezegendeki geleneklere, insan ırkının önyargılarına alışmakta zorlansa da –telepati, telekinezi, teleport ve kehanet gibi– zihinsel güçleri sayesinde insanlar arasında âdeta bir mesih gibi dolaşır. En nihayetinde Mars yönetiminin varisidir.
+Mars'ta Marslılarca geliştirilmiş insan Valentine Michael Smith, Arz'a geleli çok olmamıştır. Kendi halkıyla ilk kez tanışan Smith, bu mavi gezegendeki geleneklere, insan ırkının önyargılarına alışmakta zorlansa da –telepati, telekinezi, teleport ve kehanet gibi– zihinsel güçleri sayesinde insanlar arasında âdeta bir mesih gibi dolaşır. En nihayetinde Mars yönetiminin varisidir.
 
-Tüm bir gezegene ve ırka “groklamayı”, sevgiyi ve su paylaşımını öğretecek bu Marslı, otoriteyle ve Mars’ın yönetimini isteyen bürokratlarla uğraşmak zorunda kalsa da yazar Jubal Harshaw’un yardımlarıyla amacına adım adım ilerleyecek ve kendi kilisesini kurarak “serbest aşk”ı yaygınlaştırmaya devam edecek ve en nihayetinde –her mesihinki gibi– kaderiyle yüzleşecektir.
+Tüm bir gezegene ve ırka "groklamayı", sevgiyi ve su paylaşımını öğretecek bu Marslı, otoriteyle ve Mars'ın yönetimini isteyen bürokratlarla uğraşmak zorunda kalsa da yazar Jubal Harshaw'un yardımlarıyla amacına adım adım ilerleyecek ve kendi kilisesini kurarak "serbest aşk"ı yaygınlaştırmaya devam edecek ve en nihayetinde –her mesihinki gibi– kaderiyle yüzleşecektir.
 
 ---
 
@@ -625,13 +625,13 @@ Tüm bir gezegene ve ırka “groklamayı”, sevgiyi ve su paylaşımını öğ
 - **Serideki Basım Yılı:** 2019
 - **Tanıtım Bülteni:**
 
-H. G. Wells, bilimkurgunun atası, türe adını altın harflerle yazdırmış en büyük yazarlardan. Zaman Makinesi, Görünmez Adam, Doktor Moreau&#8217;nun Adası ve Dünyalar Savaşı gibi eserleri ve düşünceleriyle âdeta zamanın ötesinden gelen bir yazar olan Wells, Tanrıların Tohumu&#8217;nda ters giden bilimsel gelişmelerin, kırılgan bir ırk olan insanlığı nasıl yıkıma sürükleyeceğini anlatıyor.
+H. G. Wells, bilimkurgunun atası, türe adını altın harflerle yazdırmış en büyük yazarlardan. Zaman Makinesi, Görünmez Adam, Doktor Moreau'nun Adası ve Dünyalar Savaşı gibi eserleri ve düşünceleriyle âdeta zamanın ötesinden gelen bir yazar olan Wells, Tanrıların Tohumu'nda ters giden bilimsel gelişmelerin, kırılgan bir ırk olan insanlığı nasıl yıkıma sürükleyeceğini anlatıyor.
 
 Sevimsiz oldukları söylenebilecek iki bilim insanı Profesör Redwood ve Bay Bensington gözden uzakta çalışmalarını sürdürüyorlardı. Bu sırada keşfettikleri Herakleophorbia, namı diğer Devtohumu ile insan evrimindeki en büyük gelişmenin altına imza attılar. Bu tohum sayesinde daha zeki, daha güçlü süper insanlar geliştirilebilecekti.
 
 Ancak göz ardı ettikleri bir şey vardı: Bilim, insanlığa boyun eğmeyecekti. Bu icat sayesinde insanlar ve hayvanlar kontrolün ötesinde büyüyecek, bu besini tüketen devler ile normal toplum arasına sınırlar çekilecek ve bu farklılığın getirdiği kaos, insanlığı yavaş yavaş ele geçirecekti.
 
-Wells&#8217;in 1904 yılında, yani genetiği değiştirilmiş besinlerin tüketilmeye başlamasından uzun yıllar önce yazdığı Tanrıların Tohumu, bilimkurgunun günümüz biliminin dahi kafa yorduğu konulara değinen gizli hazinelerinden biri.
+Wells'in 1904 yılında, yani genetiği değiştirilmiş besinlerin tüketilmeye başlamasından uzun yıllar önce yazdığı Tanrıların Tohumu, bilimkurgunun günümüz biliminin dahi kafa yorduğu konulara değinen gizli hazinelerinden biri.
 
 ---
 
@@ -642,9 +642,9 @@ Wells&#8217;in 1904 yılında, yani genetiği değiştirilmiş besinlerin tüket
 - **Serideki Basım Yılı:** 2019
 - **Tanıtım Bülteni:**
 
-“Ivan Yefremov, modern bilimkurgunun nasıl yazılması gerektiğini gösterip Sovyet bilimkurgusunun altın çağını başlattı.” –Boris Strugatski
+"Ivan Yefremov, modern bilimkurgunun nasıl yazılması gerektiğini gösterip Sovyet bilimkurgusunun altın çağını başlattı." –Boris Strugatski
 
-Aynı zamanda bir biliminsanı olan Ivan Yefremov, Sovyet Rusya’da bilimkurgu edebiyatının öncülerinden biri. Başta Strugatski Kardeşler olmak üzere birçok Sovyet yazara ilham veren ve onlara yol gösteren belki de en önemli yazar. Andromeda Nebulası da sosyal içeriği ve Yefremov’un sahip olduğu bilimsel bakış açısıyla ilk modern Sovyet bilimkurgusu olarak kabul ediliyor.
+Aynı zamanda bir biliminsanı olan Ivan Yefremov, Sovyet Rusya'da bilimkurgu edebiyatının öncülerinden biri. Başta Strugatski Kardeşler olmak üzere birçok Sovyet yazara ilham veren ve onlara yol gösteren belki de en önemli yazar. Andromeda Nebulası da sosyal içeriği ve Yefremov'un sahip olduğu bilimsel bakış açısıyla ilk modern Sovyet bilimkurgusu olarak kabul ediliyor.
 
 Kimsenin aç kalmadığı, fakirliğin yok olduğu, sınıf ayrımının ortadan kalktığı, insanların potansiyellerinin zirvelerine ulaşmak için tüm imkânlara sahip oldukları klasik bir komünist ütopya anlatısı Andromeda Nebulası. Zamanın bilimsel gelişmelerini sonuna kadar kullanmakla kalmayıp geleceğin toplumları hakkında çağdaşı bilimkurguların ötesinde şeyler söylemeyi de beceren, bunu yaparken macera dolu bir hikâye anlatmayı ihmal etmeyen bir kitap.
 
@@ -657,7 +657,7 @@ Kimsenin aç kalmadığı, fakirliğin yok olduğu, sınıf ayrımının ortadan
 - **Serideki Basım Yılı:** 2019
 - **Tanıtım Bülteni:**
 
-1976 yılında Dana, yazar olma hayalleri kuruyordu. 1815’te ise bir köle olduğu varsayılıyordu.
+1976 yılında Dana, yazar olma hayalleri kuruyordu. 1815'te ise bir köle olduğu varsayılıyordu.
 
 Yalnızca kaleminin kuvveti değil aynı zamanda muhalif duruşu, hiyerarşiye baş kaldırması, ırk ve cinsiyet eşitsizliğine karşı tepkisiyle de döneminin en mühim yazarlarından biri olan tarihteki ilk kadın siyahi bilimkurgu yazarı Octavia E. Butler, hem bilimkurguda hem de Afroamerikan edebiyatında bir dönüm noktası. Sadece tür içerisinde değil, modern edebiyat okurları arasında ve hatta akademide dahi çok önemli bir yer tutan Yakın ise zaman yolculuğunun, fantazinin ve tarihi kurgunun iç içe geçtiği türler ötesi bir roman.
 
@@ -670,9 +670,9 @@ Yalnızca kaleminin kuvveti değil aynı zamanda muhalif duruşu, hiyerarşiye b
 - **Serideki Basım Yılı:** 2019
 - **Tanıtım Bülteni:**
 
-Döneminin en çok okunan yazarlarından Nevil Shute&#8217;un iki dünya savaşını da gören bir uçak mühendisi olduğunu bilince, edebiyatındaki, mesleğini seven, çalışkan, iyi niyetli ama dünyanın korkunçluğuyla karşı karşıya kalan çaresiz karakterlerini daha iyi anlayabiliyoruz. Ancak Nevil Shute sadece karamsar değildi, mühendisliğin, bilimin insan hayatını nasıl daha iyiye götürebileceğini de düşünen bir yazardı. Yayımlandığı zamanın korkularını açıkça görebileceğimiz Kumsalda, günümüzde de kendini unutturmayan “büyük savaş” endişesini ve bu savaşın kazananı olmayacağını anlatıyor.
+Döneminin en çok okunan yazarlarından Nevil Shute'un iki dünya savaşını da gören bir uçak mühendisi olduğunu bilince, edebiyatındaki, mesleğini seven, çalışkan, iyi niyetli ama dünyanın korkunçluğuyla karşı karşıya kalan çaresiz karakterlerini daha iyi anlayabiliyoruz. Ancak Nevil Shute sadece karamsar değildi, mühendisliğin, bilimin insan hayatını nasıl daha iyiye götürebileceğini de düşünen bir yazardı. Yayımlandığı zamanın korkularını açıkça görebileceğimiz Kumsalda, günümüzde de kendini unutturmayan "büyük savaş" endişesini ve bu savaşın kazananı olmayacağını anlatıyor.
 
-Dünyadaki son nesil. Üçüncü Dünya Savaşı&#8217;nın masum kurbanları. Gittikçe yaklaşan radyoaktif bulut. Medeniyetin son günleri.Avustralya&#8217;ya sığınan Amerikan denizaltısı Scorpion&#8217;ın kaptanı Dwight Towers, eşiyle çocuklarının hala yaşadığına inanmak istiyordu. Yeni istihbarat subayı Peter Holmes ise kaçınılmaz sonu ailesiyle nasıl karşılayacağını düşünüyordu. Hayatını çalışarak, birçok arzusunu gerçekleştirmeye cesaret edemeden geçiren bilim insanı John Osborne ise kalan zamanını elinden geldiğince güzel geçirmeye kararlıydı.
+Dünyadaki son nesil. Üçüncü Dünya Savaşı'nın masum kurbanları. Gittikçe yaklaşan radyoaktif bulut. Medeniyetin son günleri.Avustralya'ya sığınan Amerikan denizaltısı Scorpion'ın kaptanı Dwight Towers, eşiyle çocuklarının hala yaşadığına inanmak istiyordu. Yeni istihbarat subayı Peter Holmes ise kaçınılmaz sonu ailesiyle nasıl karşılayacağını düşünüyordu. Hayatını çalışarak, birçok arzusunu gerçekleştirmeye cesaret edemeden geçiren bilim insanı John Osborne ise kalan zamanını elinden geldiğince güzel geçirmeye kararlıydı.
 
 Sonra bir umut: Seattle yakınlarından gelen bir sinyal. Belki de hayatta kalan birileri daha vardı. Son bir göreve çıkan bu adamlar ne olursa olsun pes etmeden kıyametle yüzleşeceklerdi.
 
@@ -685,9 +685,9 @@ Sonra bir umut: Seattle yakınlarından gelen bir sinyal. Belki de hayatta kalan
 - **Serideki Basım Yılı:** 2019
 - **Tanıtım Bülteni:**
 
-Kim Stanley Robinson, günümüz bilimkurgusunun en büyük ustalarından biri. Özellikle uzay üzerine yazdığı romanlarla 90’lardan beri türün gelişimine katkıda bulunan yazarların en önde gelenlerinden. Dünyalaştırma ve kolonileşmeye bakış açımızı değiştiren Kızıl Mars ise hem bilimsel hem siyasi hem de sosyolojik açıdan şimdiye dek yazılmış en gerçekçi bilimkurgu romanlarının başında geliyor. İnsanlık artık Mars’ta; önce bir, sonra yüz ve giderek on binlerce insan… Şehirler kuruyor, tüneller kazıyor, sadece kraterlerden ve kayalıklardan ibaret görünen gezegeni kendi suretlerinde değiştiriyorlar. Ama cansız yüzeyini kazıdıkça Mars onları giderek daha fazla kendine bağlıyor, âşık ediyor.
+Kim Stanley Robinson, günümüz bilimkurgusunun en büyük ustalarından biri. Özellikle uzay üzerine yazdığı romanlarla 90'lardan beri türün gelişimine katkıda bulunan yazarların en önde gelenlerinden. Dünyalaştırma ve kolonileşmeye bakış açımızı değiştiren Kızıl Mars ise hem bilimsel hem siyasi hem de sosyolojik açıdan şimdiye dek yazılmış en gerçekçi bilimkurgu romanlarının başında geliyor. İnsanlık artık Mars'ta; önce bir, sonra yüz ve giderek on binlerce insan… Şehirler kuruyor, tüneller kazıyor, sadece kraterlerden ve kayalıklardan ibaret görünen gezegeni kendi suretlerinde değiştiriyorlar. Ama cansız yüzeyini kazıdıkça Mars onları giderek daha fazla kendine bağlıyor, âşık ediyor.
 
-En başından beri tüm kızıllığıyla bir hedef, amaç olarak beliren Mars eskiden bir güçtü, şimdiyse bir mekân: Amerika ve Rusya için yeni bir hegemonya alanı, Araplar için toplumsal baskıdan kaçış, İsviçreliler için bakir bir doğa ve üçüncü dünya için nüfuslarını aktaracakları bir koloni. Yine de akıllarda kalan bir soru var: Yeni yuvaya eskisinin sorunları da mı götürülecek, yoksa bu gezegen kendi fırsatlarını ve sorunlarını dayatarak yeni bir topluma mı can verecek? Mars’a gelenler için Dünya yalnızca geride bırakılmış bir yuva olarak mı kalacak, yoksa Kızıl Gezegen’in kaderinde yeni bir Dünya olmak mı var?
+En başından beri tüm kızıllığıyla bir hedef, amaç olarak beliren Mars eskiden bir güçtü, şimdiyse bir mekân: Amerika ve Rusya için yeni bir hegemonya alanı, Araplar için toplumsal baskıdan kaçış, İsviçreliler için bakir bir doğa ve üçüncü dünya için nüfuslarını aktaracakları bir koloni. Yine de akıllarda kalan bir soru var: Yeni yuvaya eskisinin sorunları da mı götürülecek, yoksa bu gezegen kendi fırsatlarını ve sorunlarını dayatarak yeni bir topluma mı can verecek? Mars'a gelenler için Dünya yalnızca geride bırakılmış bir yuva olarak mı kalacak, yoksa Kızıl Gezegen'in kaderinde yeni bir Dünya olmak mı var?
 
 ---
 
@@ -698,7 +698,7 @@ En başından beri tüm kızıllığıyla bir hedef, amaç olarak beliren Mars e
 - **Serideki Basım Yılı:** 2019
 - **Tanıtım Bülteni:**
 
-Postacı, alternatif bakış açılarını benimsemede usta bir bilimkurgu yazarı olan David Brin’in erken dönem eserlerinden biri ve bir bakıma döneminin kasvetli gelecek düşüncelerine cevabı. Kendi sözleriyle, “…ne kadar çok şeyi fazlaca önemsemeden varsaydığımızın, bugün bizi birbirimize bağlayan o küçük lütufların eksikliğini ne kadar çok çekeceğimizin hikâyesidir.”
+Postacı, alternatif bakış açılarını benimsemede usta bir bilimkurgu yazarı olan David Brin'in erken dönem eserlerinden biri ve bir bakıma döneminin kasvetli gelecek düşüncelerine cevabı. Kendi sözleriyle, "…ne kadar çok şeyi fazlaca önemsemeden varsaydığımızın, bugün bizi birbirimize bağlayan o küçük lütufların eksikliğini ne kadar çok çekeceğimizin hikâyesidir."
 
 Bazı yalanlar, gerçeğe dönüşmeye ya da onu kendilerince değiştirmeye eğilimlidir. İyi bir kurgu, hakkı verilmiş bir rol gerçeğe baskın çıkma potansiyeli barındırır. Kıyametsavaşı ertesinde umut, işte bu tür yalanlardan biriydi.
 
@@ -713,28 +713,28 @@ Uygarlığımız her an çökebilir. Hükümet, ordu dağılabilir. Öyle ki san
 - **Serideki Basım Yılı:** 2019
 - **Tanıtım Bülteni:**
 
-Yevgeni Zamyatin ütopyaların nasıl tepetaklak olabileceğini fark eden belki de ilk yazar. Orwell, Huxley, Le Guin ve daha birçoğuna ütopyaya farklı, ters bir açıdan bakma ilhamını veren Biz ise “distopya” kelimesinin altını dolduran ve onca yıl sonra bile hakkını vermeye devam eden bir şaheser.
+Yevgeni Zamyatin ütopyaların nasıl tepetaklak olabileceğini fark eden belki de ilk yazar. Orwell, Huxley, Le Guin ve daha birçoğuna ütopyaya farklı, ters bir açıdan bakma ilhamını veren Biz ise "distopya" kelimesinin altını dolduran ve onca yıl sonra bile hakkını vermeye devam eden bir şaheser.
 
-Yaşamın bitmez tükenmez kaosunun dizginlendiği bir gelecek… Bu gelecekte ne özgürlük ne demokrasi ne de birey; sadece matematik ve mantığın hükümranlığı geçerli. Mahremiyetlerini ve cezalandırılma hakkı dışındaki bütün haklarını Tek Devlet ve onun sureti Velinimet&#8217;in demir eline teslim eden insanlar ise sadece birer Numara&#8217;dan ibaret.Hem numaraların kutsal kitap yerine koydukları Saat Tableti&#8217;ne göre yaşadığı bu mutlak iktidarın hem de son devrimin diğer gezegenlere müjdelenmesi için camdan bir uzay aracı inşa edilir. İntegral adındaki bu aracın başmühendisi D-503, öteki gezegenlerdeki ilkel okurlarına Tek Devlet&#8217;i anlatmak üzere bir günlük tutmaya başlar.
+Yaşamın bitmez tükenmez kaosunun dizginlendiği bir gelecek… Bu gelecekte ne özgürlük ne demokrasi ne de birey; sadece matematik ve mantığın hükümranlığı geçerli. Mahremiyetlerini ve cezalandırılma hakkı dışındaki bütün haklarını Tek Devlet ve onun sureti Velinimet'in demir eline teslim eden insanlar ise sadece birer Numara'dan ibaret.Hem numaraların kutsal kitap yerine koydukları Saat Tableti'ne göre yaşadığı bu mutlak iktidarın hem de son devrimin diğer gezegenlere müjdelenmesi için camdan bir uzay aracı inşa edilir. İntegral adındaki bu aracın başmühendisi D-503, öteki gezegenlerdeki ilkel okurlarına Tek Devlet'i anlatmak üzere bir günlük tutmaya başlar.
 
 Hayal gücü denen bir hastalıktan mustarip olduğunu düşünen D-503, kusursuz bildiği denklemde bazı hatalar, mutlak devrimde bazı eksiklikler fark eder. Bu hastalıktan kurtulmaya çalıştıkça inancını da kaybetmeye başlar.
 
 ---
 
-### [ #48 ] Phlebas’ı Hatırla
+### [ #48 ] Phlebas'ı Hatırla
 - **Yazar:** Iain M. Banks
 - **Özgün Adı:** Consider Phlebas
 - **Çevirmen:** M. Boran Evren
 - **Serideki Basım Yılı:** 2019
 - **Tanıtım Bülteni:**
 
-Hem spekülatif kurgu hem de ana akım edebiyat sahasında eserler veren Iain M. Banks, ütopyacı bilimkurguyu Kültür Serisi kitaplarıyla devasa bir oyun sahnesine taşısa da ideolojilerle ilgili derdini, tarihsel bakış açısını asla kaybetmedi. Her ne kadar kariyerindeki ilk büyük çıkışını 1984 yılında yayımlanan Eşekarısı Fabrikası adlı kitabıyla yakalasa da döneminin en önemli yazarlarından biri olmasını sağlayan eserleri bilimkurgularıydı. Phlebas&#8217;ı Hatırla ile başlayan Kültür Serisi ise birçoklarınca sadece uzay operasının değil bilimkurgunun en önemli yapıtlarından biri olarak kabul edilir.
+Hem spekülatif kurgu hem de ana akım edebiyat sahasında eserler veren Iain M. Banks, ütopyacı bilimkurguyu Kültür Serisi kitaplarıyla devasa bir oyun sahnesine taşısa da ideolojilerle ilgili derdini, tarihsel bakış açısını asla kaybetmedi. Her ne kadar kariyerindeki ilk büyük çıkışını 1984 yılında yayımlanan Eşekarısı Fabrikası adlı kitabıyla yakalasa da döneminin en önemli yazarlarından biri olmasını sağlayan eserleri bilimkurgularıydı. Phlebas'ı Hatırla ile başlayan Kültür Serisi ise birçoklarınca sadece uzay operasının değil bilimkurgunun en önemli yapıtlarından biri olarak kabul edilir.
 
 Savaş galaksiye yayılmıştı. Kayıp milyarlarcaydı. Uydular, gezegenler, yıldızlar mahvoluşun eşiğindeydi. Hepsinin ardında ise tarihin başlangıcından beri birbiriyle kavgası devam eden fikirler vardı. İdirliler inançları için savaşıyorlardı; Kültür ise varoluş hakkını korumak için. Bu savaş prensiplerin savaşıydı. Teslim olmak söz konusu olamazdı.
 
-Bu kozmik çatışmanın ortasında kalan ve bir Değişçin olan Horza ise belki de hayatının görevindeydi. Terk edilmiş bir Ölü Gezegeninin labirentlerinde, kaçak bir Zihin saklanıyordu. İdirliler de Kültür de sofistike bir yapay zekâ birimi olan Zihin&#8217;in peşindeydi. Horza makineler ve insanlardan oluşan bir mürettebatla o Zihin&#8217;i bulmak zorundaydı. Onun ve milyarların hayatı buna bağlıydı. Tek bir kişi koca bir galaksinin seyrini değiştirebilecek miydi?
+Bu kozmik çatışmanın ortasında kalan ve bir Değişçin olan Horza ise belki de hayatının görevindeydi. Terk edilmiş bir Ölü Gezegeninin labirentlerinde, kaçak bir Zihin saklanıyordu. İdirliler de Kültür de sofistike bir yapay zekâ birimi olan Zihin'in peşindeydi. Horza makineler ve insanlardan oluşan bir mürettebatla o Zihin'i bulmak zorundaydı. Onun ve milyarların hayatı buna bağlıydı. Tek bir kişi koca bir galaksinin seyrini değiştirebilecek miydi?
 
-Phlebas&#8217;ı Hatırla, cevabı kolay olmayan soruların kitabı.
+Phlebas'ı Hatırla, cevabı kolay olmayan soruların kitabı.
 
 ---
 
@@ -749,7 +749,7 @@ Walter M. Miller, Jr., sadece bilimkurgunun değil, tüm edebiyat tarihinin en s
 
 Nükleer savaş sonrasında dünyadaki yaşam neredeyse yok olmuştur. Ama nükleer savaşa giden yolda medeniyet halihazırda çökmeye başlamış, cehalet evrensel hale gelmiş ve kitaplar yakılmış, hatta okuma yazma bilenler öldürülmüştür.
 
-Savaştan sağ kurtulan ve bu düzene karşı duran elektrik mühendisi Isaac Edward Leibowitz ise kitapları saklayarak, onları çoğaltarak ve ezberleyerek medeniyeti kurtarmayı amaçlamaktadır. Bu idealizmi sayesinde müritler edinen Leibowitz’in peşinden giden kardeşliği de onun kurtarabildiği bu bilgileri her ne olursa olsun korumaya yemin etmiştir. Bu olay üzerinden geçen yaklaşık 1800 yıllık bir süreçte hem dünya hem de Leibowitz’in mirası büyük değişimler geçirecek ama her şey bir o kadar da aynı kalacaktır.
+Savaştan sağ kurtulan ve bu düzene karşı duran elektrik mühendisi Isaac Edward Leibowitz ise kitapları saklayarak, onları çoğaltarak ve ezberleyerek medeniyeti kurtarmayı amaçlamaktadır. Bu idealizmi sayesinde müritler edinen Leibowitz'in peşinden giden kardeşliği de onun kurtarabildiği bu bilgileri her ne olursa olsun korumaya yemin etmiştir. Bu olay üzerinden geçen yaklaşık 1800 yıllık bir süreçte hem dünya hem de Leibowitz'in mirası büyük değişimler geçirecek ama her şey bir o kadar da aynı kalacaktır.
 
 ---
 
@@ -760,13 +760,13 @@ Savaştan sağ kurtulan ve bu düzene karşı duran elektrik mühendisi Isaac Ed
 - **Serideki Basım Yılı:** 2019
 - **Tanıtım Bülteni:**
 
-Bilimkurgunun Melville’i olarak bilinen Gene Wolfe, spekülatif edebiyatın sınırlarını zorlayan, fantaziden bilim ve bilimden de fantazi çıkarmayı başaran, türün her alanında eşit muazzamlıkta eserler veren ender yazarlardan biri. Wolfe’un başyapıtı, türün de en önemli serilerinden olan Yeni Güneş Kitabı ise hem bilimkurgunun hem de fantastiğin zirve noktalarından olmakla birlikte başlı başına bir edebiyat fenomeni.
+Bilimkurgunun Melville'i olarak bilinen Gene Wolfe, spekülatif edebiyatın sınırlarını zorlayan, fantaziden bilim ve bilimden de fantazi çıkarmayı başaran, türün her alanında eşit muazzamlıkta eserler veren ender yazarlardan biri. Wolfe'un başyapıtı, türün de en önemli serilerinden olan Yeni Güneş Kitabı ise hem bilimkurgunun hem de fantastiğin zirve noktalarından olmakla birlikte başlı başına bir edebiyat fenomeni.
 
-Günümüzden yüz binlerce yıl sonrası. Ancak öyle bir gelecek ki geçmişten farkı yok. Bugüne ait kültür ve olaylar artık bir anı bile değil. Gezegen, beklenmedik ve gizemli biçimlerde değişimler geçirmiş. Güneş’in ömrünün sonu gelmiş, sönmekte.
+Günümüzden yüz binlerce yıl sonrası. Ancak öyle bir gelecek ki geçmişten farkı yok. Bugüne ait kültür ve olaylar artık bir anı bile değil. Gezegen, beklenmedik ve gizemli biçimlerde değişimler geçirmiş. Güneş'in ömrünün sonu gelmiş, sönmekte.
 
-Serinin ilk kitabı İşkencecinin Gölgesi’nde, artık Urth adıyla bilinen gezegende, İşkenceciler Loncası’nın bir çırağıyken kurbanına merhamet ederek mesleki günahların en büyüğünü işleyen genç Severian’ın sürgüne gönderilmesi, destansı hikâyesinin sadece başlangıcıydı.
+Serinin ilk kitabı İşkencecinin Gölgesi'nde, artık Urth adıyla bilinen gezegende, İşkenceciler Loncası'nın bir çırağıyken kurbanına merhamet ederek mesleki günahların en büyüğünü işleyen genç Severian'ın sürgüne gönderilmesi, destansı hikâyesinin sadece başlangıcıydı.
 
-Büyünün ve bilimin iç içe geçtiği ve artık birbirinden ayrılamadığı bu gizemlerle dolu yolculukta tarih ile gelecek, yalan ile gerçek birbirine karışırken değişmeyen, değişmediğini iddia eden tek kişi ise kusursuz hafızasıyla ve kadim kılıcı Terminus Est’le Severian olacaktır.
+Büyünün ve bilimin iç içe geçtiği ve artık birbirinden ayrılamadığı bu gizemlerle dolu yolculukta tarih ile gelecek, yalan ile gerçek birbirine karışırken değişmeyen, değişmediğini iddia eden tek kişi ise kusursuz hafızasıyla ve kadim kılıcı Terminus Est'le Severian olacaktır.
 
 ---
 
@@ -777,17 +777,17 @@ Büyünün ve bilimin iç içe geçtiği ve artık birbirinden ayrılamadığı 
 - **Serideki Basım Yılı:** 2020
 - **Tanıtım Bülteni:**
 
-Walter Tevis, bilimkurgunun özünü çok iyi kavramış, çağının hem en asi hem de en yumuşak başlı yazarlarından biri. Yönetmen Nicolas Roeg&#8217;un 1976 yılında çektiği ve David Bowie&#8217;nin Newton karakterine hayat verdiği film uyarlaması, bilimkurgu sinemasının kült yapıtlarından biri olan Dünya&#8217;ya Düşen Adam ise yazarın en ünlü ve en düşünsel eseri.
+Walter Tevis, bilimkurgunun özünü çok iyi kavramış, çağının hem en asi hem de en yumuşak başlı yazarlarından biri. Yönetmen Nicolas Roeg'un 1976 yılında çektiği ve David Bowie'nin Newton karakterine hayat verdiği film uyarlaması, bilimkurgu sinemasının kült yapıtlarından biri olan Dünya'ya Düşen Adam ise yazarın en ünlü ve en düşünsel eseri.
 
-Thomas Jerome Newton, halkının Dünyalılardan çok daha zeki olduğu Anthea adlı gezegenden kırık dökük bir uzay aracıyla Yerküre&#8217;ye gelen insansı bir uzaylıdır. Gezegeni nükleer savaş yüzünden yaşanmaz hale gelen Newton&#8217;ın amacı Dünya&#8217;da inşa edeceği uzay gemisiyle evine dönüp oradaki insanları yeni gezegenine taşımaktır.
+Thomas Jerome Newton, halkının Dünyalılardan çok daha zeki olduğu Anthea adlı gezegenden kırık dökük bir uzay aracıyla Yerküre'ye gelen insansı bir uzaylıdır. Gezegeni nükleer savaş yüzünden yaşanmaz hale gelen Newton'ın amacı Dünya'da inşa edeceği uzay gemisiyle evine dönüp oradaki insanları yeni gezegenine taşımaktır.
 
-Anthea&#8217;dan getirdiği yüksek teknoloji sayesinde servet yapıp işe koyulan Newton&#8217;ın bir uzaylı olduğundan halihazırda şüphelenen kimya profesörü Nathan Bryce&#8217;ın ilgisini, Newton&#8217;ın şirketinin piyasaya sürdüğü yeni ürünler daha da çok çekmeye başlar.
+Anthea'dan getirdiği yüksek teknoloji sayesinde servet yapıp işe koyulan Newton'ın bir uzaylı olduğundan halihazırda şüphelenen kimya profesörü Nathan Bryce'ın ilgisini, Newton'ın şirketinin piyasaya sürdüğü yeni ürünler daha da çok çekmeye başlar.
 
-Ancak Dünya&#8217;da geçirdiği yıllar boyunca yavaş yavaş oranın canlılarına benzeyen Newton&#8217;ın amacına yönelik büyük tehlike ne Bryce ne de işin peşine düşen FBI&#8217;dır. Bu sıra dışı uzaylının tek bir düşmanı vardır: İnsanlaşmak.
+Ancak Dünya'da geçirdiği yıllar boyunca yavaş yavaş oranın canlılarına benzeyen Newton'ın amacına yönelik büyük tehlike ne Bryce ne de işin peşine düşen FBI'dır. Bu sıra dışı uzaylının tek bir düşmanı vardır: İnsanlaşmak.
 
-Dünya&#8217;ya Düşen Adam, insan olmayanın içindeki insana bakış.
+Dünya'ya Düşen Adam, insan olmayanın içindeki insana bakış.
 
-Ken MacLeod&#8217;un sonsözüyle&#8230;
+Ken MacLeod'un sonsözüyle...
 
 ---
 
@@ -798,11 +798,11 @@ Ken MacLeod&#8217;un sonsözüyle&#8230;
 - **Serideki Basım Yılı:** 2020
 - **Tanıtım Bülteni:**
 
-Bilimkurgunun Melville&#8217;i olarak bilinen Gene Wolfe, spekülatif edebiyatın sınırlarını zorlayan, fantaziden bilim ve bilimden de fantazi çıkarmayı başaran, türün her alanında eşit muazzamlıkta eserler veren ender yazarlardan biri. Wolfe&#8217;un dilin ve türün imkânlarını sonuna kadar kullandığı, bilimkurgunun Ulysess&#8217;i olarak da anılan Yeni Güneş Kitabı&#8217;nın ikinci cildi Uzlaştırıcının Pençesi de en az ilki kadar esrarengiz.
+Bilimkurgunun Melville'i olarak bilinen Gene Wolfe, spekülatif edebiyatın sınırlarını zorlayan, fantaziden bilim ve bilimden de fantazi çıkarmayı başaran, türün her alanında eşit muazzamlıkta eserler veren ender yazarlardan biri. Wolfe'un dilin ve türün imkânlarını sonuna kadar kullandığı, bilimkurgunun Ulysess'i olarak da anılan Yeni Güneş Kitabı'nın ikinci cildi Uzlaştırıcının Pençesi de en az ilki kadar esrarengiz.
 
-Günümüzden yüz binlerce yıl sonrası. Ancak öyle bir gelecek ki geçmişten farkı yok. Bugüne ait kültür ve olaylar artık bir anı bile değil. Gezegen, beklenmedik ve gizemli biçimlerde değişimler geçirmiş. Güneş&#8217;in ömrünün sonu gelmiş, sönmekte.
+Günümüzden yüz binlerce yıl sonrası. Ancak öyle bir gelecek ki geçmişten farkı yok. Bugüne ait kültür ve olaylar artık bir anı bile değil. Gezegen, beklenmedik ve gizemli biçimlerde değişimler geçirmiş. Güneş'in ömrünün sonu gelmiş, sönmekte.
 
-İşkenceci Severian&#8217;ın, sürgün edildiği Thrax şehrine yolculuğu devam ediyor. Severian&#8217;ın yanında, kadim bir nesne de var artık. Kimi zaman iyileştiren, kimi zaman sadece cılız bir ışık yayan Pençe.
+İşkenceci Severian'ın, sürgün edildiği Thrax şehrine yolculuğu devam ediyor. Severian'ın yanında, kadim bir nesne de var artık. Kimi zaman iyileştiren, kimi zaman sadece cılız bir ışık yayan Pençe.
 
 Severian kılıcı Terminus Est kadar keskin bir çizginin üzerinde kaderini anlamaya çalışırken, sadakatini isteyen kuvvetlerin arasından is karası peleriniyle geçip gidecek. Önüne maymunsu canlılar çıkacak, sonunda bir başkasının hatıralarını tükettiği bir ayine katılacak ve başka âlemleri gösteren bir kitap konacak önüne. Güneş elbet bir gün ölecek. Ve Yeni Güneş elbet bir gün doğacak.
 
@@ -817,15 +817,15 @@ Uzlaştırıcının Pençesi, açığa çıkardığı kadar saklayan ışığın
 - **Serideki Basım Yılı:** 2020
 - **Tanıtım Bülteni:**
 
-Bir şair de olan Karin Boye hayatının son dönemini II. Dünya Savaşı&#8217;nın gölgesinde yaşadı. İşgal tehdidi altındaki ülkesi İsveç&#8217;te sansür, korku ve güvensizlik cenderesinde bir umut ışığı niyetine dünya edebiyatına bu distopyayı armağan etti. İnsan zihninin derinliklerine dair, totaliter gerçekliğe karşı ilaç olarak gördüğü bireyin savunusu olan Kallokain, Boye&#8217;nin son ve en önemli eseridir.
+Bir şair de olan Karin Boye hayatının son dönemini II. Dünya Savaşı'nın gölgesinde yaşadı. İşgal tehdidi altındaki ülkesi İsveç'te sansür, korku ve güvensizlik cenderesinde bir umut ışığı niyetine dünya edebiyatına bu distopyayı armağan etti. İnsan zihninin derinliklerine dair, totaliter gerçekliğe karşı ilaç olarak gördüğü bireyin savunusu olan Kallokain, Boye'nin son ve en önemli eseridir.
 
-Cesur Yeni Dünya ile 1984 arasında bir tarihte kaleme alınan Kallokain&#8217;de sorun gerçekliktir. Dünyadevlet de diğer bütün devletler gibi halkı üzerinde tam bir egemenlik kurmuş, insanlara kendi gerçekliğini dayatmıştır. Askeri bir hiyerarşi üzerinde yükselen bu mekanizmada en büyük gurur ise, silah arkadaşlarına layık biri olarak hainliğe karşı en yakınından bile kuşkulanmaktır.
+Cesur Yeni Dünya ile 1984 arasında bir tarihte kaleme alınan Kallokain'de sorun gerçekliktir. Dünyadevlet de diğer bütün devletler gibi halkı üzerinde tam bir egemenlik kurmuş, insanlara kendi gerçekliğini dayatmıştır. Askeri bir hiyerarşi üzerinde yükselen bu mekanizmada en büyük gurur ise, silah arkadaşlarına layık biri olarak hainliğe karşı en yakınından bile kuşkulanmaktır.
 
 İyi bir silah arkadaşı olma amacındaki Leo Kall, insanları bildiklerini söylemeye mecbur bırakan bir ilaç geliştirir. Artık kimse hiçbir şey saklayamayacak, her yerde görev başında olan polis gözleri ve polis kulaklarına rağmen ihanet içinde olan hainler daha eyleme geçemeden birer birer ortaya çıkarılacaktır. Böylece kolektif kurumlar asosyal yatkınlıkların gizlendiği bütün köşeleri fethedecek ve devletin yüce birliği tamamlanacaktır.
 
 Ancak Leo Kall gerçekleri söylemeye mecbur ettiği insanlardan duyduklarıyla başka türlü bir birliğin mümkün olabileceğine ve gücüyle, insanın içindeki bütün ölü kalıntıları iyileştirebileceğine dair bir şüpheye kapılır. Kallokain, gerçekliğin acı ilacı.
 
-Hakan Bıçakcı&#8217;nın sunumuyla&#8230;
+Hakan Bıçakcı'nın sunumuyla...
 
 ---
 
@@ -836,7 +836,7 @@ Hakan Bıçakcı&#8217;nın sunumuyla&#8230;
 - **Serideki Basım Yılı:** 2020
 - **Tanıtım Bülteni:**
 
-Onu diğer birçok bilimkurgu yazarından ayıran pastoral, nazik bir üsluba sahip olan Clifford D. Simak, bilimkurgunun altın çağının ürettiği ilk üstatlardan biri. Simak&#8217;ın en şöhretli kitaplarından olan ve birbirine bağlı öykülerden oluşan Kent ise yazarın fikir dünyasını en kapsamlı şekilde ortaya koyan eseri.
+Onu diğer birçok bilimkurgu yazarından ayıran pastoral, nazik bir üsluba sahip olan Clifford D. Simak, bilimkurgunun altın çağının ürettiği ilk üstatlardan biri. Simak'ın en şöhretli kitaplarından olan ve birbirine bağlı öykülerden oluşan Kent ise yazarın fikir dünyasını en kapsamlı şekilde ortaya koyan eseri.
 
 Milyonlarca yıl gelecekte, Köpek toplumu, İnsan denen mitolojik bir yaratık hakkındaki öykülere sahiptir. Köpekler, robot hizmetkârlarıyla beraber doğayla iç içe, barışçıl bir hayat sürmektedir. Kent ve savaş gibi şeyleri akla hayale sığmaz kavramlar olarak görürler. İnsanlar, birer masal kahramanıdır onlar için.
 
@@ -850,20 +850,20 @@ Kent, geleceğin efsanelere dönüşmüş hali.
 
 ### [ #55 ] Tanrının Gözündeki Zerre
 - **Yazar:** Larry Niven, Jerry Pournelle
-- **Özgün Adı:** The Mote in God&#8217;s Eye
+- **Özgün Adı:** The Mote in God's Eye
 - **Çevirmen:** Kerem Sanatel
 - **Serideki Basım Yılı:** 2020
 - **Tanıtım Bülteni:**
 
-Larry Niven ile Jerry Pournelle bilimkurgu edebiyatının en sıradışı ikililerinden. Her iki yazarın da başyapıtı olarak gösterilen Tanrı’nın Gözündeki Zerre ise uzaylıyla ilk temas üzerine yazılan ve uzay operasını kökten değiştiren, çığır açıcı bir eser.
+Larry Niven ile Jerry Pournelle bilimkurgu edebiyatının en sıradışı ikililerinden. Her iki yazarın da başyapıtı olarak gösterilen Tanrı'nın Gözündeki Zerre ise uzaylıyla ilk temas üzerine yazılan ve uzay operasını kökten değiştiren, çığır açıcı bir eser.
 
-Dünya’dan altı yüz ışık yılı uzakta, gezegenimizden bakınca Samanyolu’nun güney kısmında isimlerinin hakkını veren bir bulutsu gezinir: Kömür Çuvalı Bulutsusu ya da diğer ismiyle Kapüşonlu Adam. Ve bu “adam”ın karanlığın ortasındaki zifiri boşluğunda başka kimseye ait olamayacak kadar parlak bir güneş ışıldar: Tanrı’nın Gözü. Oradadır hep, milyarlarca yıldır sonsuz kâinatı seyreder.
+Dünya'dan altı yüz ışık yılı uzakta, gezegenimizden bakınca Samanyolu'nun güney kısmında isimlerinin hakkını veren bir bulutsu gezinir: Kömür Çuvalı Bulutsusu ya da diğer ismiyle Kapüşonlu Adam. Ve bu "adam"ın karanlığın ortasındaki zifiri boşluğunda başka kimseye ait olamayacak kadar parlak bir güneş ışıldar: Tanrı'nın Gözü. Oradadır hep, milyarlarca yıldır sonsuz kâinatı seyreder.
 
-3017 yılında Göz’den insanlara doğru yaklaşan bir nesne tespit edildiğinde insanlık, Dünya’dan çıkıp birçok başka gezegene yayılmış, bir dizi yıkım savaşını atlatmış ve ikinci bir galaktik imparatorluk kurmuştu. Ama imparatorluk asilerle ve yeni gezegenlere yayılmanın sıkıntılarıyla uğraşıyordu.
+3017 yılında Göz'den insanlara doğru yaklaşan bir nesne tespit edildiğinde insanlık, Dünya'dan çıkıp birçok başka gezegene yayılmış, bir dizi yıkım savaşını atlatmış ve ikinci bir galaktik imparatorluk kurmuştu. Ama imparatorluk asilerle ve yeni gezegenlere yayılmanın sıkıntılarıyla uğraşıyordu.
 
 Neyse ki ışık yıllarını hızla aşmalarını sağlayan Alderson Sürücüsü ve gemileri bir yıldızın kalbindeyken dahi koruyabilen Langston Kalkanı gibi teknoloji ürünlerine sahiptiler. Yalnız henüz başka bir bilinçli varlıkla karşılaşmamışlardı. İşte Deli Edi, insanlığı tam da bu haldeyken yakaladı.
 
-Tanrı’nın Gözündeki Zerre, insanlığa göz kırpan, aynadaki yansıma&#8230;
+Tanrı'nın Gözündeki Zerre, insanlığa göz kırpan, aynadaki yansıma...
 
 ---
 
@@ -882,7 +882,7 @@ Vampirizme neden olan mikrobu araştırarak durumu tersine çevirmeyi, hâlâ ta
 
 Vampirizm bir mit mi yoksa bilimle çözülebilecek bir hastalık mı? Bir hastalıksa tedavisi mümkün mü?
 
-Ben, Efsane, insanın mitleşme hikâyesi&#8230;
+Ben, Efsane, insanın mitleşme hikâyesi...
 
 ---
 
@@ -893,13 +893,13 @@ Ben, Efsane, insanın mitleşme hikâyesi&#8230;
 - **Serideki Basım Yılı:** 2020
 - **Tanıtım Bülteni:**
 
-Frank Herbert, deneylerden çok deneysel yaklaşımların had safhaya ulaştığı, tür içerisindeki “iyi edebiyat iyi edebiyattır”cıları bir araya getiren yeni dalga bilimkurgu akımının en önemli temsilcilerinden. Türün tüm olanaklarını, suyunu çıkarana kadar kullandığı Dune serisinin beşinci kitabı Dune Sapkınları, inanç ve inançsızlık arasındaki çizgiyi soluklaştıran, epik serinin sonuna bir kala taşları yerinden oynatan bir eser.
+Frank Herbert, deneylerden çok deneysel yaklaşımların had safhaya ulaştığı, tür içerisindeki "iyi edebiyat iyi edebiyattır"cıları bir araya getiren yeni dalga bilimkurgu akımının en önemli temsilcilerinden. Türün tüm olanaklarını, suyunu çıkarana kadar kullandığı Dune serisinin beşinci kitabı Dune Sapkınları, inanç ve inançsızlık arasındaki çizgiyi soluklaştıran, epik serinin sonuna bir kala taşları yerinden oynatan bir eser.
 
-Tanrı İmparator II. Leto’nun üç bin beş yüz yıla yakın süren hükümdarlığının son bulmasının üstünden bin beş yüz yıl geçti. Altın Yol için yaptığı bu fedakârlıktan sonra insanlar II. Leto’nun “gerçekten de” ölüp ölmediğinden hâlâ emin değillerdi ve İmparatorluk harap olsa da Altın Yol’u sıkı sıkıya takip etmeye devam edeceklerdi.
+Tanrı İmparator II. Leto'nun üç bin beş yüz yıla yakın süren hükümdarlığının son bulmasının üstünden bin beş yüz yıl geçti. Altın Yol için yaptığı bu fedakârlıktan sonra insanlar II. Leto'nun "gerçekten de" ölüp ölmediğinden hâlâ emin değillerdi ve İmparatorluk harap olsa da Altın Yol'u sıkı sıkıya takip etmeye devam edeceklerdi.
 
-Büyük Saçılma sonucu milyonlarca insan parçalanan medeniyeti terk ederek uzayın bilinmeyen köşelerine dağılmışlardı. Artık Rakis denen Arrakis yine çölleşmişti ve kum solucanları ölmekteydi. Bu sırada, Kayıp Olanlar gücü ellerine geçirmek için geri dönmüştü. Hizipler, İmparatorluk’tan arta kalanın kontrolünü ele geçirmek için yarışırken Rakis’te Sheeana adında bir kız tüm dikkatleri üstüne çekmişti çünkü son Tanrı İmparator’un bahsettiği kehaneti gerçekleştirebiliyordu: Kum solucanlarını kontrol etmek.
+Büyük Saçılma sonucu milyonlarca insan parçalanan medeniyeti terk ederek uzayın bilinmeyen köşelerine dağılmışlardı. Artık Rakis denen Arrakis yine çölleşmişti ve kum solucanları ölmekteydi. Bu sırada, Kayıp Olanlar gücü ellerine geçirmek için geri dönmüştü. Hizipler, İmparatorluk'tan arta kalanın kontrolünü ele geçirmek için yarışırken Rakis'te Sheeana adında bir kız tüm dikkatleri üstüne çekmişti çünkü son Tanrı İmparator'un bahsettiği kehaneti gerçekleştirebiliyordu: Kum solucanlarını kontrol etmek.
 
-Tüm bunlar olurken Bene Geseritler’in önünde iki seçenek vardı: Ya gizli manipülatörler olarak, hayatta kalmaya çabalayan insanlığın aynı yolda ilerlemesini yönlendirmeye devam edip gerilimi azaltacak ya da Altın Yol’u kabul edip insanlığı yok olma tehlikesinden uzak yeni bir geleceğe götüreceklerdi.
+Tüm bunlar olurken Bene Geseritler'in önünde iki seçenek vardı: Ya gizli manipülatörler olarak, hayatta kalmaya çabalayan insanlığın aynı yolda ilerlemesini yönlendirmeye devam edip gerilimi azaltacak ya da Altın Yol'u kabul edip insanlığı yok olma tehlikesinden uzak yeni bir geleceğe götüreceklerdi.
 
 ---
 
@@ -910,11 +910,11 @@ Tüm bunlar olurken Bene Geseritler’in önünde iki seçenek vardı: Ya gizli 
 - **Serideki Basım Yılı:** 2020
 - **Tanıtım Bülteni:**
 
-Arkadi ve Boris Strugatski, entelektüel açıdan kışkırtıcı, inanılmaz eğlenceli, cesur ve eleştirel kitaplarıyla “Sovyetler döneminin en büyük bilimkurgu yazarları” sıfatını hak eden yegâne ikili. Yokuştaki Salyangoz ise, Strugatski kardeşlerin az bilinen başyapıtlarından fakat onlara göre eserlerinin “en kusursuzu ve yazdıkları arasında en önemlisi.”
+Arkadi ve Boris Strugatski, entelektüel açıdan kışkırtıcı, inanılmaz eğlenceli, cesur ve eleştirel kitaplarıyla "Sovyetler döneminin en büyük bilimkurgu yazarları" sıfatını hak eden yegâne ikili. Yokuştaki Salyangoz ise, Strugatski kardeşlerin az bilinen başyapıtlarından fakat onlara göre eserlerinin "en kusursuzu ve yazdıkları arasında en önemlisi."
 
-Biber, günlerini aşağıdaki ormanın yönetimini sağlayan İdare’nin bürokratik koridorlarında geçirmektedir. Bir dilbilimci olan Biber’in dileği ormana girmektir fakat İdare tarafından bu talebi sürekli reddedilmektedir. Öte yandan, her gün “yarın” geleceği söylenen araba gelip onu almadığı için İdare binasında sıkışıp kalmıştır. Biber’in de tek yapabildiği, yamacın tepesindeki İdare’de oturup ormanı seyretmektir.
+Biber, günlerini aşağıdaki ormanın yönetimini sağlayan İdare'nin bürokratik koridorlarında geçirmektedir. Bir dilbilimci olan Biber'in dileği ormana girmektir fakat İdare tarafından bu talebi sürekli reddedilmektedir. Öte yandan, her gün "yarın" geleceği söylenen araba gelip onu almadığı için İdare binasında sıkışıp kalmıştır. Biber'in de tek yapabildiği, yamacın tepesindeki İdare'de oturup ormanı seyretmektir.
 
-Candide ise yıllar önce bir helikopter kazasından canlı kurtulan bir İdare memurudur. Orman’ın yerlileri tarafından sahiplenilen Candide, yerliler arasında basit hayat sürmektedir. Ancak Candide’in tek istediği İdare’ye geri dönebilmektir. Yerliler ormanın tehlikeleri hakkında onu uyarsalar da Candide her gece yatarken “yarın” tepedeki İdare’ye doğru yola çıkma planları yapmaktadır.
+Candide ise yıllar önce bir helikopter kazasından canlı kurtulan bir İdare memurudur. Orman'ın yerlileri tarafından sahiplenilen Candide, yerliler arasında basit hayat sürmektedir. Ancak Candide'in tek istediği İdare'ye geri dönebilmektir. Yerliler ormanın tehlikeleri hakkında onu uyarsalar da Candide her gece yatarken "yarın" tepedeki İdare'ye doğru yola çıkma planları yapmaktadır.
 
 İnsan, çevresini ne kadar tanıyabilir? Daha da önemlisi, insan doğaya hükmedebilir mi?
 
@@ -929,13 +929,13 @@ Yokuştaki Salyangoz, şimdiyle geleceğin arasındaki tehlikeli yolculuk.
 - **Serideki Basım Yılı:** 2020
 - **Tanıtım Bülteni:**
 
-Frank Herbert, deneylerden çok deneysel yaklaşımların had safhaya ulaştığı, tür içerisindeki “iyi edebiyat iyi edebiyattır”cıları bir araya getiren yeni dalga bilimkurgu akımının en önemli temsilcilerinden. Türün tüm olanaklarını, suyunu çıkarana kadar kullandığı Dune serisinin altıncı ve son kitabı Dune Rahibeler Meclisi, felsefe dozu yüksek, her bir cümlesi akılda yer eden, epik serinin ününe yaraşır bir final.
+Frank Herbert, deneylerden çok deneysel yaklaşımların had safhaya ulaştığı, tür içerisindeki "iyi edebiyat iyi edebiyattır"cıları bir araya getiren yeni dalga bilimkurgu akımının en önemli temsilcilerinden. Türün tüm olanaklarını, suyunu çıkarana kadar kullandığı Dune serisinin altıncı ve son kitabı Dune Rahibeler Meclisi, felsefe dozu yüksek, her bir cümlesi akılda yer eden, epik serinin ününe yaraşır bir final.
 
-Dune adıyla bilinen Arrakis gezegeni yok edilmişti. Maderşahi örgüt Saygın Analar, Eski İmparatorluk&#8217;tan geriye kalanları yakıp kül ediyordu. Mutlak fetihlerinin önünde duran tek bir güç kalmıştı geriye: Bene Gesserit.
+Dune adıyla bilinen Arrakis gezegeni yok edilmişti. Maderşahi örgüt Saygın Analar, Eski İmparatorluk'tan geriye kalanları yakıp kül ediyordu. Mutlak fetihlerinin önünde duran tek bir güç kalmıştı geriye: Bene Gesserit.
 
-Başrahibe Ana Darwi Odrade&#8217;nin önderlik ettiği Bene Gesseritler, yeşilliklerle dolu Rahibeler Meclisi gezegeni adım adım bir çöle dönüştürüyordu. Amaçları, kum solucanları için ideal bir ortam yaratmak ve evrendeki en önemli maddenin üretimini kontrol etmekti: melanjın.
+Başrahibe Ana Darwi Odrade'nin önderlik ettiği Bene Gesseritler, yeşilliklerle dolu Rahibeler Meclisi gezegeni adım adım bir çöle dönüştürüyordu. Amaçları, kum solucanları için ideal bir ortam yaratmak ve evrendeki en önemli maddenin üretimini kontrol etmekti: melanjın.
 
-Saygın Analar ise, önlerine çıkan her gezegeni yok ederek Rahibeler Meclisi&#8217;ne yaklaşıyordu. Bene Gesserit&#8217;ten güçlü olan, Dağılış&#8217;tan dönen bu acımasız tarikat karşısında çaresiz durumdaki Rahibeler Birliği&#8217;nin elinde tek bir silah vardı artık. Paul Muad&#8217;Dib&#8217;e ve Tanrı İmparator&#8217;a hizmet etmiş biri: Duncan Idaho.
+Saygın Analar ise, önlerine çıkan her gezegeni yok ederek Rahibeler Meclisi'ne yaklaşıyordu. Bene Gesserit'ten güçlü olan, Dağılış'tan dönen bu acımasız tarikat karşısında çaresiz durumdaki Rahibeler Birliği'nin elinde tek bir silah vardı artık. Paul Muad'Dib'e ve Tanrı İmparator'a hizmet etmiş biri: Duncan Idaho.
 
 Dune Rahibeler Meclisi, inancın kadere üstün gelme mücadelesi.
 
@@ -948,9 +948,9 @@ Dune Rahibeler Meclisi, inancın kadere üstün gelme mücadelesi.
 - **Serideki Basım Yılı:** 2021
 - **Tanıtım Bülteni:**
 
-George Orwell yazdığı kitaplar ve denemelerin yanı sıra kişiliği, ideolojisi ve yaptıklarıyla da 20. yüzyıla damga vuran, hatta çağımızı değiştiren bir isim. Orwell’in maharetleri her ne kadar kitaplarıyla sınırlı olmasa da başyapıtı 1984 sadece distopya edebiyatında değil, dünya edebiyatında bir mihenk taşı.
+George Orwell yazdığı kitaplar ve denemelerin yanı sıra kişiliği, ideolojisi ve yaptıklarıyla da 20. yüzyıla damga vuran, hatta çağımızı değiştiren bir isim. Orwell'in maharetleri her ne kadar kitaplarıyla sınırlı olmasa da başyapıtı 1984 sadece distopya edebiyatında değil, dünya edebiyatında bir mihenk taşı.
 
-Yıl 1984. Savaş ve devrimden sonra değişmiş, tanınmayacak halde bir dünya. Bu dünyayı kontrol eden üç büyük ülke: Okyanusya, Avrasya ve Şarkasya. Okyanusya’da iktidarı elinde tutan Parti. Parti’nin sureti Büyük Birader. Herkesin gece gündüz, adım adım izlendiği bir düzen. Eylemleri ve hatta düşünceleri kontrol altında tutan Düşünce Polisi. Winston Smith, bu totaliter düzen içinde, Hakikat Bakanlığı’nın Arşiv Bölümü’nde çalışıp büyük bir özenle geçmişi Parti adına yeniden yazmaktaydı. Ancak içten içe özgürlük ve sisteme karşı başkaldırma hayalleri kuruyordu. Kendisi gibi düşünen, Parti’yi çökertmek isteyen başkalarının olduğuna da emindi.
+Yıl 1984. Savaş ve devrimden sonra değişmiş, tanınmayacak halde bir dünya. Bu dünyayı kontrol eden üç büyük ülke: Okyanusya, Avrasya ve Şarkasya. Okyanusya'da iktidarı elinde tutan Parti. Parti'nin sureti Büyük Birader. Herkesin gece gündüz, adım adım izlendiği bir düzen. Eylemleri ve hatta düşünceleri kontrol altında tutan Düşünce Polisi. Winston Smith, bu totaliter düzen içinde, Hakikat Bakanlığı'nın Arşiv Bölümü'nde çalışıp büyük bir özenle geçmişi Parti adına yeniden yazmaktaydı. Ancak içten içe özgürlük ve sisteme karşı başkaldırma hayalleri kuruyordu. Kendisi gibi düşünen, Parti'yi çökertmek isteyen başkalarının olduğuna da emindi.
 
 Kendisiyle aynı uğurda savaşan yoldaşlarından birine âşık olup en büyük yasaklardan birini çiğneyen Winston, bu isyanında savaşın, özgürlüğün ve cehaletin ne anlama geldiğini, bireyselliğin bedelinin ne olduğunu, iktidarın sınırlarının nereye kadar uzandığını zor yoldan öğrenecekti.
 
@@ -965,11 +965,11 @@ Kendisiyle aynı uğurda savaşan yoldaşlarından birine âşık olup en büyü
 - **Serideki Basım Yılı:** 2021
 - **Tanıtım Bülteni:**
 
-George Orwell yazdığı kitaplar ve denemelerin yanı sıra kişiliği, ideolojisi ve yaptıklarıyla da 20. yüzyıla damga vuran, hatta çağımızı değiştiren bir isim. Orwell&#8217;in maharetleri her ne kadar kitaplarıyla sınırlı olmasa daHayvan Çiftliği, siyasi hiciv geleneğinin ve distopyanın çağımızdaki en iyi örneklerinden biri.
+George Orwell yazdığı kitaplar ve denemelerin yanı sıra kişiliği, ideolojisi ve yaptıklarıyla da 20. yüzyıla damga vuran, hatta çağımızı değiştiren bir isim. Orwell'in maharetleri her ne kadar kitaplarıyla sınırlı olmasa daHayvan Çiftliği, siyasi hiciv geleneğinin ve distopyanın çağımızdaki en iyi örneklerinden biri.
 
 Kurgusal bir dünya. Eşitlikten uzak bir düzen. Bir tarafta açgözlü, dik kafalı, hırslı insanlar. Diğer tarafta ise insanların anlayıştan uzak, kötücül yönetiminden usanmış, ezilen hayvanlar. İki tür arasındaki savaşın kıvılcımlandığı bir çiftlik. Bu çiftlikte bilinçlenip kendilerini geliştirerek tüm hayvanları insanların zorbalığından kurtarmayı amaçlayan bir hayvan topluluğu. Büyük bir iktidar savaşı.
 
-Konak Çiftliği&#8217;ndeki hayvanlar, sahipleri Bay Jones&#8217;un tahakkümünden kurtulup kontrolü ele geçirdiklerinde özgürlük ve eşitliğe dayanan bir gelecek hayaline kapılmışlardı. Bay Jones çiftliğini geri almak için planlar yaparken Kartopu ve Napolyon adlı domuzların liderliğindeki hayvanlar da çiftliğin düzenini süratle “insani” bir seviyeye çekmeye başlamıştı.
+Konak Çiftliği'ndeki hayvanlar, sahipleri Bay Jones'un tahakkümünden kurtulup kontrolü ele geçirdiklerinde özgürlük ve eşitliğe dayanan bir gelecek hayaline kapılmışlardı. Bay Jones çiftliğini geri almak için planlar yaparken Kartopu ve Napolyon adlı domuzların liderliğindeki hayvanlar da çiftliğin düzenini süratle "insani" bir seviyeye çekmeye başlamıştı.
 
 Hayvanlar her ne kadar domuzların izinden gitse de kurdukları düzen demokratikti. En nihayetinde tüm hayvanlar eşitti. Ama gerçekten öyle miydi? İnsanların rolünü üstlenmeye başlayan domuzlar günbegün gücü ele alacak, hayvanlar ise otorite sahipleri değişse de otoritenin değişmediğini göreceklerdi.
 
@@ -984,13 +984,13 @@ Hayvan Çiftliği, tiranlığın sonu gelmez döngüsü.
 - **Serideki Basım Yılı:** 2021
 - **Tanıtım Bülteni:**
 
-John Crowley, bilimkurgu edebiyatında kendine has, “kişilikli” bir sesi olan, her bir karakteri ise farklı seslere sahip, yaşayan en iyi spekülatif kurgu yazarlarından. Post-holokost bir dünyanın naif ve sırlarla örülü portresini çizdiği Makine Yazıise masalsı bir arayış romanı.
+John Crowley, bilimkurgu edebiyatında kendine has, "kişilikli" bir sesi olan, her bir karakteri ise farklı seslere sahip, yaşayan en iyi spekülatif kurgu yazarlarından. Post-holokost bir dünyanın naif ve sırlarla örülü portresini çizdiği Makine Yazıise masalsı bir arayış romanı.
 
-Dünya&#8217;daki canlı yaşamını neredeyse sona erdiren, “Fırtına” adıyla anılan afetten bin yıl sonrasında eski medeniyetin azizlerle, her şeyi mümkün kılan teknolojileriyle ve kendilerini yok eden kibirleriyle dolu hikâyelerini dinleyerek büyüyen Konuşan Saz, az sayıda insanın yaşadığı, labirenti andıran, görünmez ve değişken sınırlara sahip Küçük Belaire&#8217;de “Gerçeği Konuşanlar” topluluğuna dahildi.
+Dünya'daki canlı yaşamını neredeyse sona erdiren, "Fırtına" adıyla anılan afetten bin yıl sonrasında eski medeniyetin azizlerle, her şeyi mümkün kılan teknolojileriyle ve kendilerini yok eden kibirleriyle dolu hikâyelerini dinleyerek büyüyen Konuşan Saz, az sayıda insanın yaşadığı, labirenti andıran, görünmez ve değişken sınırlara sahip Küçük Belaire'de "Gerçeği Konuşanlar" topluluğuna dahildi.
 
-Topluluğun dışına çıkmak ve bir aziz olmayı öğrenmek en büyük arzusuydu. Âşık olduğu ve Fısıltı mezhebine dahil Günde Bir Kez adlı kız, Dr. Boots&#8217;un Listesi isimli tuhaf bir toplulukla birlikte Küçük Belaire&#8217;den ayrılınca onu takip etmek için Saz da yolculuğa çıktı.
+Topluluğun dışına çıkmak ve bir aziz olmayı öğrenmek en büyük arzusuydu. Âşık olduğu ve Fısıltı mezhebine dahil Günde Bir Kez adlı kız, Dr. Boots'un Listesi isimli tuhaf bir toplulukla birlikte Küçük Belaire'den ayrılınca onu takip etmek için Saz da yolculuğa çıktı.
 
-Saz&#8217;ın azizlik arayışı uzak geçmişe, yeryüzünü terk ederek bulutların üstünde yaşamaya başlayan teknolojik açıdan gelişmiş “melekler”e, şu anki dünyanın müsebbibi çağlar süren kazalar ve felaketler serisine dair bir arayışa dönüşecekti.
+Saz'ın azizlik arayışı uzak geçmişe, yeryüzünü terk ederek bulutların üstünde yaşamaya başlayan teknolojik açıdan gelişmiş "melekler"e, şu anki dünyanın müsebbibi çağlar süren kazalar ve felaketler serisine dair bir arayışa dönüşecekti.
 
 Makine Yazı, geçmişin, şimdinin ve geleceğin melankolik yankısı.
 
@@ -1003,9 +1003,9 @@ Makine Yazı, geçmişin, şimdinin ve geleceğin melankolik yankısı.
 - **Serideki Basım Yılı:** 2021
 - **Tanıtım Bülteni:**
 
-Aleksandr Belyaev, Sovyet döneminin en saygı duyulan bilimkurgu yazarlarından. Sovyetler&#8217;in Jules Verne&#8217;i olarak da anılan Belyaev, yayımlanan son romanı Hava Adamı Ariel&#8217;de okuru bu kez gökyüzüne çıkarıp insanüstü güçlere sahip kahramanlarına bir yenisini ekliyor.
+Aleksandr Belyaev, Sovyet döneminin en saygı duyulan bilimkurgu yazarlarından. Sovyetler'in Jules Verne'i olarak da anılan Belyaev, yayımlanan son romanı Hava Adamı Ariel'de okuru bu kez gökyüzüne çıkarıp insanüstü güçlere sahip kahramanlarına bir yenisini ekliyor.
 
-Bebek yaşta ailesinden ve vatanından koparılıp Hindistan&#8217;da okültist bir okula kapatılan Ariel, burada insanları kandırmak üzere girişilen mucizevi bir deneyin kurbanı olur. Ariel yeni güçleriyle hem dünyanın adaletsiz yapısını hem de gerçekte kim olduğunu öğreneceği bir serüvene atılır.
+Bebek yaşta ailesinden ve vatanından koparılıp Hindistan'da okültist bir okula kapatılan Ariel, burada insanları kandırmak üzere girişilen mucizevi bir deneyin kurbanı olur. Ariel yeni güçleriyle hem dünyanın adaletsiz yapısını hem de gerçekte kim olduğunu öğreneceği bir serüvene atılır.
 
 Yuvasına varmak için dünyanın öbür ucuna gitmek zorunda kaldığı bu yolculuğunda, kimsenin yaklaşmak istemediği paryalarla, zalim ve kudretli rajalarla, her yerde kâr kovalayan Amerikalı milyonerlerle karşılaşan Ariel aşk ve arkadaşlıkla da tanışacaktır.Çıkar uğruna hem insanları hem de inançları sömüren bir dünyada saflığın ne kadar hayatta kalabileceğini sorgulayan roman, acımasız dünya düzenine hüzünlü bir şekilde yaklaşıyor.
 
@@ -1020,13 +1020,13 @@ Hava Adamı Ariel, güneşe yakın uçmaktan korkmayanların romanı.
 - **Serideki Basım Yılı:** 2021
 - **Tanıtım Bülteni:**
 
-Alice B. Sheldon 1967 yılında James Tiptree, Jr. adıyla bilimkurgu yazmaya başladığında kimse onun bir kadın olduğunu bilmiyordu. Gerçek ortaya çıktığında ise insanlar ne şaşkınlıklarını gizleyebilmiş ne de yazarı takdir etmekten kendilerini alabilmişti. Ötekilikten cinsiyete, gerçeğin yanıltıcılığından insanın evrendeki yerine kadar pek çok konudaki eseri arasında muhtemelen en önemlisi olan Houston, Houston Duyuyor Musun?&#8217;da Tiptree feminist ütopyanın temel metinlerinden birine imza atıyor.
+Alice B. Sheldon 1967 yılında James Tiptree, Jr. adıyla bilimkurgu yazmaya başladığında kimse onun bir kadın olduğunu bilmiyordu. Gerçek ortaya çıktığında ise insanlar ne şaşkınlıklarını gizleyebilmiş ne de yazarı takdir etmekten kendilerini alabilmişti. Ötekilikten cinsiyete, gerçeğin yanıltıcılığından insanın evrendeki yerine kadar pek çok konudaki eseri arasında muhtemelen en önemlisi olan Houston, Houston Duyuyor Musun?'da Tiptree feminist ütopyanın temel metinlerinden birine imza atıyor.
 
-İnsanlık tarihinde Güneş&#8217;e gerçekleşen ilk sefer. Bu seferden başarıyla dönen Güneşkuşu ve üç kişilik mürettebatı. Beklenmedik şekilde uzayan bir rota. Telsizin diğer ucunda tüm iletişim girişimlerini yanıtsız bırakan Houston. Sinyallerini yakalayıp iletişime geçen başka bir uzay aracı.
+İnsanlık tarihinde Güneş'e gerçekleşen ilk sefer. Bu seferden başarıyla dönen Güneşkuşu ve üç kişilik mürettebatı. Beklenmedik şekilde uzayan bir rota. Telsizin diğer ucunda tüm iletişim girişimlerini yanıtsız bırakan Houston. Sinyallerini yakalayıp iletişime geçen başka bir uzay aracı.
 
-Erkeklerden oluşan ve araçları hasar aldığı için tahmini bir rotayla Dünya&#8217;ya dönmeye çalışan astronotlar, mürettebatı kadınlardan oluşan bir uzay gemisiyle derin uzayda karşılaştığında dehşet ve umut karışımı bir hisse kapılır.
+Erkeklerden oluşan ve araçları hasar aldığı için tahmini bir rotayla Dünya'ya dönmeye çalışan astronotlar, mürettebatı kadınlardan oluşan bir uzay gemisiyle derin uzayda karşılaştığında dehşet ve umut karışımı bir hisse kapılır.
 
-Bu yabancı gemidekiler, Güneşkuşu&#8217;nun yüzyıllar önce kaybolduğunu söyler. Belli ki karşılarında onları kandırmak isteyen başka astronotlar ya da uzaylılar vardır. Ama ya söyledikleri doğruysa ve geride bıraktıkları hayat artık tarih olduysa?
+Bu yabancı gemidekiler, Güneşkuşu'nun yüzyıllar önce kaybolduğunu söyler. Belli ki karşılarında onları kandırmak isteyen başka astronotlar ya da uzaylılar vardır. Ama ya söyledikleri doğruysa ve geride bıraktıkları hayat artık tarih olduysa?
 
 Birkaç yüzyılda Dünya ne kadar değişebilir? Değişime uyum sağlanabilir mi?
 
@@ -1041,13 +1041,13 @@ Houston, Houston Duyuyor Musun?, bakış açılarının kırılganlığına dair
 - **Serideki Basım Yılı:** 2021
 - **Tanıtım Bülteni:**
 
-Isaac Asimov, bilimin içinden gelip bilimkurguda devrim yapan, bilimkurgunun üç büyük ustasından biri. İşte Tanrılar ise Asimov&#8217;un bağımsız bilimkurgu romanlarının zirvesi, yazarın kendi tabiriyle “bilimkurgudaki en iyi uzaylı tasvirini barındıran, ayrıca yazıp yazabileceğim en iyi metin.”
+Isaac Asimov, bilimin içinden gelip bilimkurguda devrim yapan, bilimkurgunun üç büyük ustasından biri. İşte Tanrılar ise Asimov'un bağımsız bilimkurgu romanlarının zirvesi, yazarın kendi tabiriyle "bilimkurgudaki en iyi uzaylı tasvirini barındıran, ayrıca yazıp yazabileceğim en iyi metin."
 
-Yirmi ikinci yüzyıl. Dünya, Elektron Pompası&#8217;nın icadıyla sınırsız ve bedava enerjiye ulaşmış durumda. İnsanlığın hayallerini gerçekleştirmesi ve gelişmesinin önünde neredeyse hiç engel yok. Bu başarının arkasında ise Dünya ile kendi paralel evrenleri arasında madde değişimi yapabilen uzaylılar var.
+Yirmi ikinci yüzyıl. Dünya, Elektron Pompası'nın icadıyla sınırsız ve bedava enerjiye ulaşmış durumda. İnsanlığın hayallerini gerçekleştirmesi ve gelişmesinin önünde neredeyse hiç engel yok. Bu başarının arkasında ise Dünya ile kendi paralel evrenleri arasında madde değişimi yapabilen uzaylılar var.
 
-Her ne kadar bedava olsa da bu enerji bedelden yoksun değil. Ne insanların ne de uzaylıların öngörebildiği bir felaket yakında: Güneş&#8217;in ve Dünya&#8217;nın tümüyle yıkımı.
+Her ne kadar bedava olsa da bu enerji bedelden yoksun değil. Ne insanların ne de uzaylıların öngörebildiği bir felaket yakında: Güneş'in ve Dünya'nın tümüyle yıkımı.
 
-Bu felaketin farkında olan sadece birkaç kişi var: Dünyalı bir sürgün bilim insanı, ölen bir gezegende yaşayan asi bir uzaylı, Ay&#8217;da doğmuş ve geleceğe dair tutarlı tahminleri olan bir Sezgici. Onların söylediklerine inanan kimse olmasa da evrenlerin kurtuluşu bu üçlünün ellerinde.
+Bu felaketin farkında olan sadece birkaç kişi var: Dünyalı bir sürgün bilim insanı, ölen bir gezegende yaşayan asi bir uzaylı, Ay'da doğmuş ve geleceğe dair tutarlı tahminleri olan bir Sezgici. Onların söylediklerine inanan kimse olmasa da evrenlerin kurtuluşu bu üçlünün ellerinde.
 
 İşte Tanrılar, çabaları nafile olmayanların kitabı.
 
@@ -1060,15 +1060,15 @@ Bu felaketin farkında olan sadece birkaç kişi var: Dünyalı bir sürgün bil
 - **Serideki Basım Yılı:** 2021
 - **Tanıtım Bülteni:**
 
-“Fikirlerin romancısı” Aldous Huxley, 20. yüzyılın en önemli distopya yazarlarından biri. Cesur Yeni Dünya ve Ada’yla birlikte yazarın üç vizyoner klasiğinden biri sayılan Maymun ve Öz ise bunların içinde en karanlık olanı. Senaryo formunun kullanıldığı bu kitap, yazarın kurgunun yanında biçimde de yaratıcılığını gösterdiği deneysel bir roman.
+"Fikirlerin romancısı" Aldous Huxley, 20. yüzyılın en önemli distopya yazarlarından biri. Cesur Yeni Dünya ve Ada'yla birlikte yazarın üç vizyoner klasiğinden biri sayılan Maymun ve Öz ise bunların içinde en karanlık olanı. Senaryo formunun kullanıldığı bu kitap, yazarın kurgunun yanında biçimde de yaratıcılığını gösterdiği deneysel bir roman.
 
-Hollywood’da sıradan bir gün. Kahramanlarımız kenara atılmış senaryolardan birinin cazibesine kapılır ve biz de kendimizi bu senaryoyu okurken buluruz. “Maymun ve Öz” başlıklı bu tuhaf metinde anlatılanlara göre, Üçüncü Dünya Savaşı neredeyse tüm dünyayı yıkıma uğratmış, nükleer ve kimyasal silahlar uygarlığın sonunu getirmiştir.
+Hollywood'da sıradan bir gün. Kahramanlarımız kenara atılmış senaryolardan birinin cazibesine kapılır ve biz de kendimizi bu senaryoyu okurken buluruz. "Maymun ve Öz" başlıklı bu tuhaf metinde anlatılanlara göre, Üçüncü Dünya Savaşı neredeyse tüm dünyayı yıkıma uğratmış, nükleer ve kimyasal silahlar uygarlığın sonunu getirmiştir.
 
-Yıkımdan etkilenmeyen bir grup bilim insanı, Kaliforniya’ya bir inceleme gezisi düzenler. Bu kişilerden biri olan Dr. Poole o bölgede yaşayanlar tarafından tutsak alınır. Bu insanlar, Şeytan’ı yücelten yeni bir inanç sistemi kurmuşlardır. Dr. Poole, Şeytan’ın ve kötülüğün nasıl bir hâkimiyet kurduğunu öğrendikten sonra, artık oradan uzaklaşması gerektiğini anlar.
+Yıkımdan etkilenmeyen bir grup bilim insanı, Kaliforniya'ya bir inceleme gezisi düzenler. Bu kişilerden biri olan Dr. Poole o bölgede yaşayanlar tarafından tutsak alınır. Bu insanlar, Şeytan'ı yücelten yeni bir inanç sistemi kurmuşlardır. Dr. Poole, Şeytan'ın ve kötülüğün nasıl bir hâkimiyet kurduğunu öğrendikten sonra, artık oradan uzaklaşması gerektiğini anlar.
 
 Uygarlığın teknolojik ilerlemesi nereye varacak? Savaşlar ve nükleer silahlanma dünyayı nereye götürecek? İnsan, kime ya da neye doğru evrilecek?
 
-Maymun ve Öz, Şeytan’ın boynuzları tarafından çizilen bir din, etik ve evrim üçgeni.
+Maymun ve Öz, Şeytan'ın boynuzları tarafından çizilen bir din, etik ve evrim üçgeni.
 
 ---
 
@@ -1079,11 +1079,11 @@ Maymun ve Öz, Şeytan’ın boynuzları tarafından çizilen bir din, etik ve e
 - **Serideki Basım Yılı:** 2021
 - **Tanıtım Bülteni:**
 
-Bilimkurgunun Melville&#8217;i olarak bilinen Gene Wolfe, spekülatif edebiyatın sınırlarını zorlayan, fantaziden bilim ve bilimden de fantazi çıkarmayı başaran, türün her alanında eşit muazzamlıkta eserler veren ender yazarlardan biri. Wolfe&#8217;un dilin ve türün imkânlarını sonuna kadar kullandığı, bilimkurgunun Ulysses&#8217;i olarak da anılan Yeni Güneş Kitabı&#8217;nın üçüncü cildi Liktorun Kılıcı&#8217;nda ise bu gizemli yolculuğun sonuna yaklaşıyoruz artık.
+Bilimkurgunun Melville'i olarak bilinen Gene Wolfe, spekülatif edebiyatın sınırlarını zorlayan, fantaziden bilim ve bilimden de fantazi çıkarmayı başaran, türün her alanında eşit muazzamlıkta eserler veren ender yazarlardan biri. Wolfe'un dilin ve türün imkânlarını sonuna kadar kullandığı, bilimkurgunun Ulysses'i olarak da anılan Yeni Güneş Kitabı'nın üçüncü cildi Liktorun Kılıcı'nda ise bu gizemli yolculuğun sonuna yaklaşıyoruz artık.
 
-Günümüzden yüz binlerce yıl sonrası. Ancak öyle bir gelecek ki geçmişten farkı yok. Bugüne ait kültür ve olaylar artık bir anı bile değil. Gezegen, beklenmedik ve gizemli biçimlerde değişimler geçirmiş. Güneş&#8217;in ömrünün sonu gelmiş, sönmekte.
+Günümüzden yüz binlerce yıl sonrası. Ancak öyle bir gelecek ki geçmişten farkı yok. Bugüne ait kültür ve olaylar artık bir anı bile değil. Gezegen, beklenmedik ve gizemli biçimlerde değişimler geçirmiş. Güneş'in ömrünün sonu gelmiş, sönmekte.
 
-İşkenceci Severian, sürgün edildiği Thrax&#8217;a, Penceresiz Odalar Şehri&#8217;ne ulaştı sonunda. Ancak vicdanı yüzünden burayı da terk etmek zorunda kalacak ve dağları aşacağı bu yolculuğunda, adaş olduğu bir oğlan da yoldaşlık edecek ona.
+İşkenceci Severian, sürgün edildiği Thrax'a, Penceresiz Odalar Şehri'ne ulaştı sonunda. Ancak vicdanı yüzünden burayı da terk etmek zorunda kalacak ve dağları aşacağı bu yolculuğunda, adaş olduğu bir oğlan da yoldaşlık edecek ona.
 
 Serinin bu cildinde, Severian, kaderin kendisi kadar azametli kılıcı Terminus Est ve pek kudretli bir ışığa sahip cevheri Pençe ile yoluna devam edecek, karşısına çıkan canavarları alt edecek, bu yıkılmış dünyanın mazisine dair biraz daha bilgi edinecek ve bazı eski yüzlerle tekrar karşılaşacak. Güneş elbet bir gün ölecek. Ve Yeni Güneş elbet bir gün doğacak.
 
@@ -1100,9 +1100,9 @@ Liktorun Kılıcı, tek hamleyle birbirinden ayrılmayan doğru ile yanlışın 
 
 Harry Harrison, bilimkurgunun altın çağını yaratan isimlerden biri, hatta türün maceracı tarafını en faydalı şekilde kullanan ve derdini anlatmaktan taviz vermeyen en sivri dilli yazarı.Yer Açın! Yer Açın!ise, aşırı nüfus artışını konu edinen ilk eser, bugünün en büyük sorunları olan kaynak kıtlığı ve küresel ısınmayı da tahmin eden bir distopya.
 
-Yıl 1999. Dünyanın nüfusu yedi milyarı aşkın. Yalnızca New York&#8217;ta otuz beş milyon insan yaşıyor. Yaz ayları aşırı sıcakken kış ayları her sene daha sert. Su ve yiyecek kıtlığı hiç olmadığı kadar fazla. Yağmacılık, hırsızlık, cinayet gündelik hayatın bir parçası.
+Yıl 1999. Dünyanın nüfusu yedi milyarı aşkın. Yalnızca New York'ta otuz beş milyon insan yaşıyor. Yaz ayları aşırı sıcakken kış ayları her sene daha sert. Su ve yiyecek kıtlığı hiç olmadığı kadar fazla. Yağmacılık, hırsızlık, cinayet gündelik hayatın bir parçası.
 
-Polis zoru ve hükümet baskısıyla ayakta kalan New York&#8217;ta, yeraltı dünyasının önemli bir figürü ve üst tabakanın bir üyesi olan Mike O&#8217;Brien, evine giren bir hırsız tarafından öldürülünce dedektif Andy Rusch bu davaya atanır.
+Polis zoru ve hükümet baskısıyla ayakta kalan New York'ta, yeraltı dünyasının önemli bir figürü ve üst tabakanın bir üyesi olan Mike O'Brien, evine giren bir hırsız tarafından öldürülünce dedektif Andy Rusch bu davaya atanır.
 
 Andy bir yandan kalabalığın yuttuğu katilin peşinden nafile koşarken bir yandan da şehirde başlayan kıtlık isyanlarıyla ve her geçen gün zıvanadan çıkan şiddet eylemleriyle mücadele etmeye çalışacaktır.
 
@@ -1117,13 +1117,13 @@ Yer Açın! Yer Açın!, yakın geleceğin boğucu bir tablosu.
 - **Serideki Basım Yılı:** 2021
 - **Tanıtım Bülteni:**
 
-Walter Tevis, bilimkurgunun özünü çok iyi kavramış, çağının hem en asi hem de en yumuşak başlı yazarlarından biri. Yazarın Dünya&#8217;ya Düşen Adam ile birlikte en iyi bilimkurgu romanı olarak görülen Alaycı Kuş ise istikrar, düzen, mutluluk gibi maskelerin altına saklanmayan, dehşetli ve melankolik bir distopya.
+Walter Tevis, bilimkurgunun özünü çok iyi kavramış, çağının hem en asi hem de en yumuşak başlı yazarlarından biri. Yazarın Dünya'ya Düşen Adam ile birlikte en iyi bilimkurgu romanı olarak görülen Alaycı Kuş ise istikrar, düzen, mutluluk gibi maskelerin altına saklanmayan, dehşetli ve melankolik bir distopya.
 
 Gelecek, insan nüfusunun fazlasıyla azaldığı, var olan insanların da ilaçlar sayesinde intihardan uzak durduğu, robotların ve teknolojinin hegemonyasında, kasvetli, post-apokaliptik bir yer. Bu dünyada ne sanat, ne kitap ne de yeni doğan çocuklar var. Öyle bir dünya ki insanlar yaşamaktansa diri diri yanmayı yeğliyor.
 
 Ancak üç kişi sayesinde bir umut ışığı belirecekti: ölmek isteyen ama yazılımı gereği kendini öldüremeyen, dünyanın hâkimi, yaratılan en kusursuz makine, robot Spofforth; kendi kendine okumayı öğrenerek büyük bir suç işleyen Paul; düzenin dayattığı ilaçlardan kaçan Mary Lou.
 
-İnsanlığın kederinin en karanlık kuytularında, sevginin mümkün olmadığı bir dünyada umut etme cesareti gösteren Mary Lou ile Paul&#8217;ün yolları, Spofforth&#8217;ın ikilemleri yüzünden hiç ummadıkları bir biçimde çatallanacak ve insanlığın kaderini değiştirecekti.
+İnsanlığın kederinin en karanlık kuytularında, sevginin mümkün olmadığı bir dünyada umut etme cesareti gösteren Mary Lou ile Paul'ün yolları, Spofforth'ın ikilemleri yüzünden hiç ummadıkları bir biçimde çatallanacak ve insanlığın kaderini değiştirecekti.
 
 Alaycı Kuş, kaçınılmaz sonuyla uzlaşan insanlığın ağıtı.
 
@@ -1136,11 +1136,11 @@ Alaycı Kuş, kaçınılmaz sonuyla uzlaşan insanlığın ağıtı.
 - **Serideki Basım Yılı:** 2021
 - **Tanıtım Bülteni:**
 
-Karel Čapek, henüz bilimkurgu ayrı bir tür değilken bu alanda vizyoner eserler üretmiş ve “robot” kelimesini dünya dillerine kazandırmış, hem Çek hem de Avrupa edebiyatının en kıymetli yazarlarından biri. R.U.R. ise yapay zekânın ve robotiğin modern yazın ve sanatta ilk kez anlamlıca yer bulduğu, öngörülü bir oyun.
+Karel Čapek, henüz bilimkurgu ayrı bir tür değilken bu alanda vizyoner eserler üretmiş ve "robot" kelimesini dünya dillerine kazandırmış, hem Çek hem de Avrupa edebiyatının en kıymetli yazarlarından biri. R.U.R. ise yapay zekânın ve robotiğin modern yazın ve sanatta ilk kez anlamlıca yer bulduğu, öngörülü bir oyun.
 
-Rossum&#8217;un Uluslararası Robotları&#8217;nın ürettiği yüz binlerce işçi robot tüm dünyaya satılıyordu. Robotlar toplumun ihtiyaçlarının çoğunu üretecek, insanları çalışmaktan kurtaracak ve insanlık için altın çağı getireceklerdi. Savaşın, açlığın ve fakirliğin olmadığı bir dünya hayal değildi artık.
+Rossum'un Uluslararası Robotları'nın ürettiği yüz binlerce işçi robot tüm dünyaya satılıyordu. Robotlar toplumun ihtiyaçlarının çoğunu üretecek, insanları çalışmaktan kurtaracak ve insanlık için altın çağı getireceklerdi. Savaşın, açlığın ve fakirliğin olmadığı bir dünya hayal değildi artık.
 
-Robot fabrikasında çalışan mühendisler, İnsanlık Birliği üyesi ve müdürün eşi Helena Gloryová&#8217;nın girişimleriyle ürettikleri robotları bir makineden ziyade bir insana yakın tasarlamaya başladıklarında ise, hem kendilerinin hem de insanlığın kaderini yapay ellere teslim edeceklerdi.
+Robot fabrikasında çalışan mühendisler, İnsanlık Birliği üyesi ve müdürün eşi Helena Gloryová'nın girişimleriyle ürettikleri robotları bir makineden ziyade bir insana yakın tasarlamaya başladıklarında ise, hem kendilerinin hem de insanlığın kaderini yapay ellere teslim edeceklerdi.
 
 Her şeyi hafızalarına kaydeden ama yeni bir fikir üretmekten aciz olan robotların sağladığı bu ütopya, insanların üremeyi bırakmasıyla anlamını da yitirecekti. Ve yeni dünyanın temelleri bir isyanla atılacaktı.
 
@@ -1155,15 +1155,15 @@ R.U.R., insanın kendi eliyle yarattığı kıyameti.
 - **Serideki Basım Yılı:** 2021
 - **Tanıtım Bülteni:**
 
-Elli senelik kariyerine onlarca kitap, yüzlerce öykü sığdıran, bilimkurguya absürdist bir bakış açısıyla yaklaşan Robert Sheckley, bilimkurgunun meşhur mizah yazarlarından biri. Sheckley&#8217;nin en başarılı eserlerinden biri olan Mevki Uygarlığı ise iyiliğin hor görüldüğü, suçun kanun sayıldığı etkili bir hiciv.
+Elli senelik kariyerine onlarca kitap, yüzlerce öykü sığdıran, bilimkurguya absürdist bir bakış açısıyla yaklaşan Robert Sheckley, bilimkurgunun meşhur mizah yazarlarından biri. Sheckley'nin en başarılı eserlerinden biri olan Mevki Uygarlığı ise iyiliğin hor görüldüğü, suçun kanun sayıldığı etkili bir hiciv.
 
-Ranzasında uyanan adam, kim ve nerede olduğunu bilmiyor. Kapısına gelen korumanın dediğine göre ismi 402. Sandığı gibi bir hastane odasında da değil. Sonradan öğrendiğine göre adı Will Barrent, cinayetten suçlu bulunduğu için Omega gezegenine sürgün edilmiş. Ve Dünya&#8217;dan sürülmeden önce, tüm suçlulara yapıldığı gibi hafızası silinmiş.
+Ranzasında uyanan adam, kim ve nerede olduğunu bilmiyor. Kapısına gelen korumanın dediğine göre ismi 402. Sandığı gibi bir hastane odasında da değil. Sonradan öğrendiğine göre adı Will Barrent, cinayetten suçlu bulunduğu için Omega gezegenine sürgün edilmiş. Ve Dünya'dan sürülmeden önce, tüm suçlulara yapıldığı gibi hafızası silinmiş.
 
-Suçluların kontrolü altındaki, yeni gelenlerin ortalama hayatta kalma süresinin üç yıl olduğu vahşet dolu ceza gezegeni Omega&#8217;da ölmemenin tek yolu ise öldürmekten geçiyor.
+Suçluların kontrolü altındaki, yeni gelenlerin ortalama hayatta kalma süresinin üç yıl olduğu vahşet dolu ceza gezegeni Omega'da ölmemenin tek yolu ise öldürmekten geçiyor.
 
-Mutlak hukukun hüküm sürdüğü ancak söz konusu kanunların alt sınıflardan gizli tutulduğu, yeni sürgünlerin hayatlarına hiyerarşinin en dibinde başladıkları bu acımasız gezegende tutunmak için Will Barrent&#8217;ın da elini kana bulamaktan başka çaresi olmayacak.
+Mutlak hukukun hüküm sürdüğü ancak söz konusu kanunların alt sınıflardan gizli tutulduğu, yeni sürgünlerin hayatlarına hiyerarşinin en dibinde başladıkları bu acımasız gezegende tutunmak için Will Barrent'ın da elini kana bulamaktan başka çaresi olmayacak.
 
-Mevki Uygarlığı, kafasını ilerlemeyle bozmuş bir Dünya&#8217;nın karanlık yansıması.
+Mevki Uygarlığı, kafasını ilerlemeyle bozmuş bir Dünya'nın karanlık yansıması.
 
 ---
 
@@ -1174,13 +1174,13 @@ Mevki Uygarlığı, kafasını ilerlemeyle bozmuş bir Dünya&#8217;nın karanl�
 - **Serideki Basım Yılı:** 2021
 - **Tanıtım Bülteni:**
 
-“Amerikan bilimkurgusunun kayıp devi” olarak tanımlanan, yazdıklarının çoğunu New York&#8217;taki The Sun gazetesinde imzasız olarak yayımlayan Edward Page Mitchell, birçok konuda ilklerin yazarı. Geri Giden Saat ise yazarın en seçkin bilimkurgu öykülerinin bir araya getirildiği, özgün bir öykü derlemesi.
+"Amerikan bilimkurgusunun kayıp devi" olarak tanımlanan, yazdıklarının çoğunu New York'taki The Sun gazetesinde imzasız olarak yayımlayan Edward Page Mitchell, birçok konuda ilklerin yazarı. Geri Giden Saat ise yazarın en seçkin bilimkurgu öykülerinin bir araya getirildiği, özgün bir öykü derlemesi.
 
-Bilimkurgunun en büyük yazarlarından biri olan H.G. Wells&#8217;e de ilham olduğu düşünülen Edward Page Mitchell, aynı zamanda döneminin en başarılı gazetecilerinden biridir. Öyküleri unutulmaya yüz tutmuş olsa da 1973&#8217;te bilimkurgu tarihçisi Sam Moskowitz&#8217;in titiz çalışması ve yayımladığı detaylı bir derlemeyle hak ettiği ilgiyi görmeye başlamıştır.
+Bilimkurgunun en büyük yazarlarından biri olan H.G. Wells'e de ilham olduğu düşünülen Edward Page Mitchell, aynı zamanda döneminin en başarılı gazetecilerinden biridir. Öyküleri unutulmaya yüz tutmuş olsa da 1973'te bilimkurgu tarihçisi Sam Moskowitz'in titiz çalışması ve yayımladığı detaylı bir derlemeyle hak ettiği ilgiyi görmeye başlamıştır.
 
-Sevdiği kadınla evlenebilmek için matematiğin sınırlarında gezinmek zorunda kalan bir genci anlatan “Takipomp”, bilimsel bir süreç sonucu görünmez kalan bir adamın trajedisini gözler önüne seren “Kristal Adam”, bir zaman makinesini konu alan ilk öykü olan “Geri Giden Saat”, bu derlemedeki öykülerden sadece birkaçı.
+Sevdiği kadınla evlenebilmek için matematiğin sınırlarında gezinmek zorunda kalan bir genci anlatan "Takipomp", bilimsel bir süreç sonucu görünmez kalan bir adamın trajedisini gözler önüne seren "Kristal Adam", bir zaman makinesini konu alan ilk öykü olan "Geri Giden Saat", bu derlemedeki öykülerden sadece birkaçı.
 
-Zaman yolculuğu, androidler, zihin transferi, bilgisayarlar… Geri Giden Saat&#8217;in sayfalarında bilimkurgu tarihinin derinliklerinden gelen ilklere şahit olacaksınız.
+Zaman yolculuğu, androidler, zihin transferi, bilgisayarlar… Geri Giden Saat'in sayfalarında bilimkurgu tarihinin derinliklerinden gelen ilklere şahit olacaksınız.
 
 Geri Giden Saat, bilimkurgunun ilk kıvılcımları.
 
@@ -1193,11 +1193,11 @@ Geri Giden Saat, bilimkurgunun ilk kıvılcımları.
 - **Serideki Basım Yılı:** 2021
 - **Tanıtım Bülteni:**
 
-Ray Bradbury’nin akıl hocası, Star Wars Bölüm V gibi klasikleşen birçok filmin senaristi, 1940’lar Amerika’sında kadınlara reva görülen hayatın çok ötesine geçerek hem Hollywood’da hem de bilimkurgu dünyasında adını kanıtlamaya çalışan Leigh Brackett, döneminin en cesur kalemlerinden. Uzak Yarın ise tasvir ettiği Amerikan pastoral kıyametiyle döneminin ruh hâlini ve nükleer korkusunu sayfalarında dolu dolu hissettiren bir kitap.
+Ray Bradbury'nin akıl hocası, Star Wars Bölüm V gibi klasikleşen birçok filmin senaristi, 1940'lar Amerika'sında kadınlara reva görülen hayatın çok ötesine geçerek hem Hollywood'da hem de bilimkurgu dünyasında adını kanıtlamaya çalışan Leigh Brackett, döneminin en cesur kalemlerinden. Uzak Yarın ise tasvir ettiği Amerikan pastoral kıyametiyle döneminin ruh hâlini ve nükleer korkusunu sayfalarında dolu dolu hissettiren bir kitap.
 
-Tüm dünyayı mahveden ve şehirleri yerle bir eden Yıkım’ın ardından insanlar iki nesildir toparlanmaya çalışmakta, savaştan aldıkları derslerle dindar bir hayat sürmektedirler. Teknoloji, özellikle de insanın kendi zanaatıyla üretemeyeceği teknoloji hem dinen hem de kanunen yasaklanmış, merak Tanrı’ya şirk koşmakla eşanlamlı hâle gelmiştir.
+Tüm dünyayı mahveden ve şehirleri yerle bir eden Yıkım'ın ardından insanlar iki nesildir toparlanmaya çalışmakta, savaştan aldıkları derslerle dindar bir hayat sürmektedirler. Teknoloji, özellikle de insanın kendi zanaatıyla üretemeyeceği teknoloji hem dinen hem de kanunen yasaklanmış, merak Tanrı'ya şirk koşmakla eşanlamlı hâle gelmiştir.
 
-Len ve kuzeni Esau Colter büyükannelerinden gizli gizli dinledikleri şehir hikâyeleriyle büyümüştür. Bir gün gözlerinin önünde yasaklı kasaba Bartorstown’dan olduğu gerekçesiyle bir adam recmedildiğinde, merakın, özgür düşüncenin ve özgürlüğün günah sayılan çekiciliğine kendilerini kaptırırlar. Önlerindeki uzun yol zorluklarla dolu olsa da hem yetişkinliğe hem de gerçeğe ulaşmak bu yoldan geçmektedir.
+Len ve kuzeni Esau Colter büyükannelerinden gizli gizli dinledikleri şehir hikâyeleriyle büyümüştür. Bir gün gözlerinin önünde yasaklı kasaba Bartorstown'dan olduğu gerekçesiyle bir adam recmedildiğinde, merakın, özgür düşüncenin ve özgürlüğün günah sayılan çekiciliğine kendilerini kaptırırlar. Önlerindeki uzun yol zorluklarla dolu olsa da hem yetişkinliğe hem de gerçeğe ulaşmak bu yoldan geçmektedir.
 
 Uzak Yarın, insani ikilemlerde sınırların nerede çizilmemesi gerektiğinin büyük bir hatırlatıcısı.
 
@@ -1210,34 +1210,34 @@ Uzak Yarın, insani ikilemlerde sınırların nerede çizilmemesi gerektiğinin 
 - **Serideki Basım Yılı:** 2021
 - **Tanıtım Bülteni:**
 
-Tüm belirtilerin büyük bir savaşı ve tiranlığın dirilişini işaret ettiği bir çağı yaşamasına karşın mizahından taviz vermeyen, hicvi totaliterliğe karşı etkin bir silah olarak kullanan Karel Čapek’in başyapıtı Semenderlerle Savaş, yazarın küçük ve kendi hâlindeki ülkesi Çekoslovakya’dan tüm insanlığa yaptığı bir uyarı niteliğinde.
+Tüm belirtilerin büyük bir savaşı ve tiranlığın dirilişini işaret ettiği bir çağı yaşamasına karşın mizahından taviz vermeyen, hicvi totaliterliğe karşı etkin bir silah olarak kullanan Karel Čapek'in başyapıtı Semenderlerle Savaş, yazarın küçük ve kendi hâlindeki ülkesi Çekoslovakya'dan tüm insanlığa yaptığı bir uyarı niteliğinde.
 
-İnsanlığı, gezegenin hakimiyeti için semenderlerle savaşa tutuşmaya götüren olaylar zinciri Pasifik’teki küçük bir adada başladı. İnci avcısı Kaptan von Toch bir gün bu işi insanlardan çok daha ucuza ve layıkıyla yapacak yeni bir türle karşılaştı: Semenderler.
+İnsanlığı, gezegenin hakimiyeti için semenderlerle savaşa tutuşmaya götüren olaylar zinciri Pasifik'teki küçük bir adada başladı. İnci avcısı Kaptan von Toch bir gün bu işi insanlardan çok daha ucuza ve layıkıyla yapacak yeni bir türle karşılaştı: Semenderler.
 
 Semenderlerin gezegendeki tüm kıyılara yayılmasındaki esas başarı ise, daha fazla kâr uğruna hiçbir sınırı aşmaktan imtina etmeyecek olan ekonomik sistemdeydi. Ucuz işgücü olarak kullanılan semenderler önce ekonomide, ardından da siyaset ve kültürde beklenmedik bir devrim yapmayı başardı.
 
-Dünya’da Altın Çağ yaşanıyordu ama görünen o ki Altın Çağ’ın insanlara mı yoksa semenderlere mi ait olduğu konusu muallaktı.
+Dünya'da Altın Çağ yaşanıyordu ama görünen o ki Altın Çağ'ın insanlara mı yoksa semenderlere mi ait olduğu konusu muallaktı.
 
 Semenderlerle Savaş, insanın içindeki karanlığın bir aynası.
 
 ---
 
-### [ #75 ] Lilith’in Dölü
+### [ #75 ] Lilith'in Dölü
 - **Yazar:** Octavia E. Butler
-- **Özgün Adı:** Lilith’s Brood
+- **Özgün Adı:** Lilith's Brood
 - **Çevirmen:** Pırıltı Onukar
 - **Serideki Basım Yılı:** 2022
 - **Tanıtım Bülteni:**
 
-Yalnızca kaleminin kuvveti değil aynı zamanda muhalif duruşu, ırk ve cinsiyet eşitsizliğine karşı tepkisiyle de döneminin en mühim figürlerinden biri olan tarihteki ilk kadın siyah bilimkurgu yazarlarından Octavia E. Butler, hem bilimkurguda hem de Afroamerikan edebiyatında bir dönüm noktası. Xenogenesis Üçlemesi’nin tüm kitaplarını bir araya getiren Lilith’in Dölü ise, siyasi tahakküm, cinsel farkındalık, mutasyon, üreme ve kadın-erkek ilişkilerine dair tabuları yıkan bir eser.
+Yalnızca kaleminin kuvveti değil aynı zamanda muhalif duruşu, ırk ve cinsiyet eşitsizliğine karşı tepkisiyle de döneminin en mühim figürlerinden biri olan tarihteki ilk kadın siyah bilimkurgu yazarlarından Octavia E. Butler, hem bilimkurguda hem de Afroamerikan edebiyatında bir dönüm noktası. Xenogenesis Üçlemesi'nin tüm kitaplarını bir araya getiren Lilith'in Dölü ise, siyasi tahakküm, cinsel farkındalık, mutasyon, üreme ve kadın-erkek ilişkilerine dair tabuları yıkan bir eser.
 
-İnsanlık son savaşında atom bombasıyla Dünya’yı tükettiğinde Lilith Iyapo, eşini ve oğlunu kaybetmişti. Yüzlerce yıl sonra Lilith devasa bir uzay gemisinin derinliklerinde uyandı. Gemiyi ise, insanlığı yok olmaktan kurtarmak için tam zamanında gelmiş Oankaliler yönetiyordu.
+İnsanlık son savaşında atom bombasıyla Dünya'yı tükettiğinde Lilith Iyapo, eşini ve oğlunu kaybetmişti. Yüzlerce yıl sonra Lilith devasa bir uzay gemisinin derinliklerinde uyandı. Gemiyi ise, insanlığı yok olmaktan kurtarmak için tam zamanında gelmiş Oankaliler yönetiyordu.
 
-Dünya hakkında öğrenebilecekleri her şeyi öğrenmişler, hayatta kalanları yüzyıllar boyunca uykuda tutup incelemişlerdi. Ama artık insanlığı Lilith’in önderliğinde, Oankalilerin yardımıyla iyileşen Dünya’ya geri götürmenin vakti gelmişti.
+Dünya hakkında öğrenebilecekleri her şeyi öğrenmişler, hayatta kalanları yüzyıllar boyunca uykuda tutup incelemişlerdi. Ama artık insanlığı Lilith'in önderliğinde, Oankalilerin yardımıyla iyileşen Dünya'ya geri götürmenin vakti gelmişti.
 
 Ancak gezegene insanlarla birlikte Oankaliler de yerleşecekti. İnsanlara gezegenin vahşi doğasında hayatta kalmaya uğraşırken soylarını sürdürebilmeleri için tek bir seçenek sunulmuştu: Çocukları insan olmayacaktı. En azından tamamen.
 
-Lilith’in Dölü, kendi kıyametinden kaçamayan insanlığa bir umut ışığı.
+Lilith'in Dölü, kendi kıyametinden kaçamayan insanlığa bir umut ışığı.
 
 ---
 
@@ -1248,11 +1248,11 @@ Lilith’in Dölü, kendi kıyametinden kaçamayan insanlığa bir umut ışığ
 - **Serideki Basım Yılı:** 2022
 - **Tanıtım Bülteni:**
 
-Kariyerinin büyük kısmını Cambridge Astronomi Enstitüsü&#8217;nde geçiren, yıldız nükleosentezi teorisinin kurucusu, alanının saygın bilim insanlarından biri olan Fred Hoyle, aynı zamanda yetenekli bir bilimkurgu yazarı. Başyapıtı Kara Bulut da pek çok bilim insanına ilham veren, yazılmış en bilimsel spekülatif kurgu romanlarından biri.
+Kariyerinin büyük kısmını Cambridge Astronomi Enstitüsü'nde geçiren, yıldız nükleosentezi teorisinin kurucusu, alanının saygın bilim insanlarından biri olan Fred Hoyle, aynı zamanda yetenekli bir bilimkurgu yazarı. Başyapıtı Kara Bulut da pek çok bilim insanına ilham veren, yazılmış en bilimsel spekülatif kurgu romanlarından biri.
 
-Amatör astronomlar, rutin gözlemler sırasında gökyüzünde bir tuhaflık fark eder. Yıldızların belli bir bölümü, olması gerektiğinden çok daha karanlıktadır. Dahası bu karanlık giderek Güneş Sistemi&#8217;ne doğru genişlemektedir ve çok geçmeden simsiyah bir gaz bulutunun doğrudan Güneş ile Dünya&#8217;nın üzerine geldiği anlaşılır.
+Amatör astronomlar, rutin gözlemler sırasında gökyüzünde bir tuhaflık fark eder. Yıldızların belli bir bölümü, olması gerektiğinden çok daha karanlıktadır. Dahası bu karanlık giderek Güneş Sistemi'ne doğru genişlemektedir ve çok geçmeden simsiyah bir gaz bulutunun doğrudan Güneş ile Dünya'nın üzerine geldiği anlaşılır.
 
-Harekete geçen yetkililer yaklaşık on sekiz ay içinde gerçekleşecek felakete hazırlanmaya başlar. Kara Bulut&#8217;u araştırmak üzere İngiltere&#8217;de, çeşitli ülkelere mensup bilim insanlarının bir araya geldiği bir enstitü kurulur. Bu enstitünün başında da huysuz ama fazlasıyla zeki astronom Christopher Kingsley bulunmaktadır.
+Harekete geçen yetkililer yaklaşık on sekiz ay içinde gerçekleşecek felakete hazırlanmaya başlar. Kara Bulut'u araştırmak üzere İngiltere'de, çeşitli ülkelere mensup bilim insanlarının bir araya geldiği bir enstitü kurulur. Bu enstitünün başında da huysuz ama fazlasıyla zeki astronom Christopher Kingsley bulunmaktadır.
 
 Ancak yıkıma giden bu yolda, bilim insanları sadece evrenin acımasızlığıyla değil, hükümetlerin iktidarsızlıklarıyla da yüzleşmek zorunda kalacaklardır.
 
@@ -1260,20 +1260,20 @@ Kara Bulut, yıkımın insanlığın üzerine düşen gölgesi.
 
 ---
 
-### [ #77 ] Özerk’in Hisarı
+### [ #77 ] Özerk'in Hisarı
 - **Yazar:** Gene Wolfe
 - **Özgün Adı:** The Citadel of the Autarch
 - **Çevirmen:** Kerem Sanatel
 - **Serideki Basım Yılı:** 2022
 - **Tanıtım Bülteni:**
 
-Bilimkurgunun Melville&#8217;i olarak bilinen Gene Wolfe, spekülatif edebiyatın sınırlarını zorlayan, fantaziden bilim ve bilimden de fantazi çıkarmayı başaran, türün her alanında eşit muazzamlıkta eserler veren ender yazarlardan biri. Wolfe&#8217;un dilin ve türün imkânlarını sonuna kadar kullandığı, bilimkurgunun Ulysses&#8217;i olarak da anılan Yeni Güneş Kitabı dörtlemesinin son cildi Özerkin Hisarı başladığı yerde bitiriyor yolculuğu.
+Bilimkurgunun Melville'i olarak bilinen Gene Wolfe, spekülatif edebiyatın sınırlarını zorlayan, fantaziden bilim ve bilimden de fantazi çıkarmayı başaran, türün her alanında eşit muazzamlıkta eserler veren ender yazarlardan biri. Wolfe'un dilin ve türün imkânlarını sonuna kadar kullandığı, bilimkurgunun Ulysses'i olarak da anılan Yeni Güneş Kitabı dörtlemesinin son cildi Özerkin Hisarı başladığı yerde bitiriyor yolculuğu.
 
-Günümüzden yüz binlerce yıl sonrası. Ancak öyle bir gelecek ki geçmişten farkı yok. Bugüne ait kültür ve olaylar artık bir anı bile değil. Gezegen, beklenmedik ve gizemli biçimlerde değişimler geçirmiş. Güneş&#8217;in ömrünün sonu gelmiş, sönmekte.
+Günümüzden yüz binlerce yıl sonrası. Ancak öyle bir gelecek ki geçmişten farkı yok. Bugüne ait kültür ve olaylar artık bir anı bile değil. Gezegen, beklenmedik ve gizemli biçimlerde değişimler geçirmiş. Güneş'in ömrünün sonu gelmiş, sönmekte.
 
 Severian bir zamanlar işkenceciydi, ardından liktor görevini üstlendi, şimdiyse yazgısındaki asıl mertebeye erişmek üzere. Ama önce ölü bir askeri diriltmeye çalışacak, ateşler içinde hasta yatacak, daha sonraysa dinleyeceği dört hikâyenin en iyisini seçecek.
 
-Dörtlemenin son kitabında, Severian kadim bir nesneyi asıl sahiplerine teslim edecek, büyük bir savaşın içinde bulacak kendini, Harçâlem&#8217;in Özerki ile tanışacak en nihayetinde ve zamanın ötesindeki yeşil adam ile karşılaşacak bir kere daha. İnsanlığın yıldızlara tekrar erişip erişmemesi onun elinde artık. Güneş ise bir gün ölecek elbette. Peki, Yeni Güneş doğacak mı yine?
+Dörtlemenin son kitabında, Severian kadim bir nesneyi asıl sahiplerine teslim edecek, büyük bir savaşın içinde bulacak kendini, Harçâlem'in Özerki ile tanışacak en nihayetinde ve zamanın ötesindeki yeşil adam ile karşılaşacak bir kere daha. İnsanlığın yıldızlara tekrar erişip erişmemesi onun elinde artık. Güneş ise bir gün ölecek elbette. Peki, Yeni Güneş doğacak mı yine?
 
 Özerkin Hisarı, tek bedende birden fazla ömrün kitabı.
 
@@ -1305,11 +1305,11 @@ Koyunlar Yukarı Bakar, günümüzün ve geleceğimizin otopsisi.
 - **Serideki Basım Yılı:** 2022
 - **Tanıtım Bülteni:**
 
-Cinsiyet, kürtaj, doğum kontrolü ve özgür aşk gibi konularda tartışmalı eserlere imza atan, tüm hayatını aktivizme adayan Naomi Mitchison aynı zamanda feminist bilimkurgu edebiyatının önemli eserlerinden birini kaleme alan cesur bir yazar. Bir Kadın Astronotun Anıları da Mitchison’ın dönemine göre ilerici fikirlerini sakin dille anlattığı, geleneksel anneliği sorgulayan, şaşırtıcı bir roman.
+Cinsiyet, kürtaj, doğum kontrolü ve özgür aşk gibi konularda tartışmalı eserlere imza atan, tüm hayatını aktivizme adayan Naomi Mitchison aynı zamanda feminist bilimkurgu edebiyatının önemli eserlerinden birini kaleme alan cesur bir yazar. Bir Kadın Astronotun Anıları da Mitchison'ın dönemine göre ilerici fikirlerini sakin dille anlattığı, geleneksel anneliği sorgulayan, şaşırtıcı bir roman.
 
 İnsanlık yıldızlara seyahat etmiş ve hiç de yalnız olmadığını öğrenmiştir. Farklı gezegenlere yapılan yolculuklarda birbirinden farklı uzaylı yaşam türleriyle karşılaşan insanlar dikkatlerini bu canlılarla iletişim kurmaya yoğunlaştırmıştır.
 
-Bir iletişimci ve kâşif olan Mary uzak galaksilere yaptığı seyahatlerde karşılaştığı yaşam formlarına karşı müthiş bir tutku ve şefkatle doludur. Ama uzay araştırmalarında birinci kural müdahale etmemektir. Yine de Mary’nin gezilerine duygusal karmaşa eşlik eder. Zamanla hayattaki yerini bulurken kendi kadınlığını da keşfedecektir.
+Bir iletişimci ve kâşif olan Mary uzak galaksilere yaptığı seyahatlerde karşılaştığı yaşam formlarına karşı müthiş bir tutku ve şefkatle doludur. Ama uzay araştırmalarında birinci kural müdahale etmemektir. Yine de Mary'nin gezilerine duygusal karmaşa eşlik eder. Zamanla hayattaki yerini bulurken kendi kadınlığını da keşfedecektir.
 
 İnsanlardan çok daha farklı bir biyolojiye sahip canlılarla iletişim kurmak ve anlaşabilmek mümkün müdür? Peki insanlarla hayvanlar arasında eşit bir ilişki söz konusu olabilir mi?
 
@@ -1324,7 +1324,7 @@ Bir Kadın Astronotun Anıları, geleneksel değer yargılarını yerle yeksan e
 - **Serideki Basım Yılı:** 2022
 - **Tanıtım Bülteni:**
 
-Arthur C. Clarke, bilimi edebiyatla eşsizce birleştiren, bilimkurgunun üç büyük ustasından biri. Cennetin Çeşmeleri ise bilimin popüler “uzay asansörü” fikrini, kurgusal bir tarihin merceğinden insanın gelişime duyduğu tutkuyla harmanlayarak ele alan bir şaheser.
+Arthur C. Clarke, bilimi edebiyatla eşsizce birleştiren, bilimkurgunun üç büyük ustasından biri. Cennetin Çeşmeleri ise bilimin popüler "uzay asansörü" fikrini, kurgusal bir tarihin merceğinden insanın gelişime duyduğu tutkuyla harmanlayarak ele alan bir şaheser.
 
 ---
 
@@ -1335,11 +1335,11 @@ Arthur C. Clarke, bilimi edebiyatla eşsizce birleştiren, bilimkurgunun üç b�
 - **Serideki Basım Yılı:** 2022
 - **Tanıtım Bülteni:**
 
-Vonda N. McIntyre, 1970’lerin feminist bilimkurgu hareketinin ön saflarında yer alan, arkadaşı ve işbirlikçisi Ursula K. Le Guin gibi, edebiyatta ve özellikle bilimkurguda yaygın görülen cinsiyetçiliğe meydan okuyan ileri görüşlü bir yazar. Düşyılanı ise bilimkurgunun üç büyük ödülünü alan türün sayılı romanlarından biri.
+Vonda N. McIntyre, 1970'lerin feminist bilimkurgu hareketinin ön saflarında yer alan, arkadaşı ve işbirlikçisi Ursula K. Le Guin gibi, edebiyatta ve özellikle bilimkurguda yaygın görülen cinsiyetçiliğe meydan okuyan ileri görüşlü bir yazar. Düşyılanı ise bilimkurgunun üç büyük ödülünü alan türün sayılı romanlarından biri.
 
-Nükleer savaşla yaralanmış Dünya’da insanlık küçük kasaba ve kabilelere dağılmış, dünya dışı varlıkların teknolojileri ve sırları, tek şehrin duvarları ardındaki herkese yasaklanmıştır. Yılan isimli şifacı ise bu yokluk dünyasında hastalıkları iyileştirmek ve aşı geliştirmek için yılanlarıyla dolaşarak zehrin gücünü kullanmaktadır.
+Nükleer savaşla yaralanmış Dünya'da insanlık küçük kasaba ve kabilelere dağılmış, dünya dışı varlıkların teknolojileri ve sırları, tek şehrin duvarları ardındaki herkese yasaklanmıştır. Yılan isimli şifacı ise bu yokluk dünyasında hastalıkları iyileştirmek ve aşı geliştirmek için yılanlarıyla dolaşarak zehrin gücünü kullanmaktadır.
 
-Yılan, hasta bir göçebe çocuğa yardım ettiği sırada, nadir bulunan düşyılanı, korkusuna yenilen bir kabile üyesi tarafından öldürülür. Yılan’ın şifa vermeye devam edebilmesi için tek bir seçeneği vardır: Yeni bir düşyılanı bulmak. Bu yüzden çorak çöllerden radyasyon çukurlarına, bilgisini kıskançlıkla koruyan şehirden dünya dışı varlıkların sırlarına uzanan tehlikeli bir yolculuğa çıkmak zorunda kalacaktır.
+Yılan, hasta bir göçebe çocuğa yardım ettiği sırada, nadir bulunan düşyılanı, korkusuna yenilen bir kabile üyesi tarafından öldürülür. Yılan'ın şifa vermeye devam edebilmesi için tek bir seçeneği vardır: Yeni bir düşyılanı bulmak. Bu yüzden çorak çöllerden radyasyon çukurlarına, bilgisini kıskançlıkla koruyan şehirden dünya dışı varlıkların sırlarına uzanan tehlikeli bir yolculuğa çıkmak zorunda kalacaktır.
 
 İnsan hayatını tehdit eden bir dünyayı ve işlevsizleşmiş toplumları tek bir kişi ne kadar etkileyebilir? Şifa vermek sadece bedeni iyileştirmek midir?
 
@@ -1354,13 +1354,13 @@ Düşyılanı, insanların hasta ettiği bir dünyanın reçetesi.
 - **Serideki Basım Yılı:** 2022
 - **Tanıtım Bülteni:**
 
-Ira Levin, Stepford Kadınları ve Rosemary’nin Bebeği gibi eserleriyle popüler kültürün haletiruhiyesini şekillendiren, eserlerinde gizem, korku, bilimkurgu gibi pek çok türün unsurlarını birleştiren bir yazar. Stepford Kadınları da normal denilenin gizlediği ürkütücülüğü ve kusursuz kadınlarıyla paranoyaya uzanan bir feminist gerilim romanı.
+Ira Levin, Stepford Kadınları ve Rosemary'nin Bebeği gibi eserleriyle popüler kültürün haletiruhiyesini şekillendiren, eserlerinde gizem, korku, bilimkurgu gibi pek çok türün unsurlarını birleştiren bir yazar. Stepford Kadınları da normal denilenin gizlediği ürkütücülüğü ve kusursuz kadınlarıyla paranoyaya uzanan bir feminist gerilim romanı.
 
-Connecticut’taki Stepford kasabası tüm varlıklı insanların, başarılı ve memnun kocaların, güzel ve saygılı eşlerin yaşadığı pastoral bir cennet köşesidir. Joanna Eberhart da bu kasabaya kocası ve iki çocuğuyla birlikte yeni taşınmıştır.
+Connecticut'taki Stepford kasabası tüm varlıklı insanların, başarılı ve memnun kocaların, güzel ve saygılı eşlerin yaşadığı pastoral bir cennet köşesidir. Joanna Eberhart da bu kasabaya kocası ve iki çocuğuyla birlikte yeni taşınmıştır.
 
-Başta her şey yolundadır. Stepford kusursuz bir kasabadır. Her şey gerçek olamayacak kadar iyidir. Ancak Joanna’nın canını sıkan bazı şeyler vardır. Her şey fazla kusursuz, herkes fazla mutlu, kadınlar fazla itaatkârdır. Stepford’ın karanlık kalbinin Erkekler Kulübü’nde attığından şüphelenmeye başlayan Joanna içinse hiçbir şey eskisi gibi olmayacaktır.
+Başta her şey yolundadır. Stepford kusursuz bir kasabadır. Her şey gerçek olamayacak kadar iyidir. Ancak Joanna'nın canını sıkan bazı şeyler vardır. Her şey fazla kusursuz, herkes fazla mutlu, kadınlar fazla itaatkârdır. Stepford'ın karanlık kalbinin Erkekler Kulübü'nde attığından şüphelenmeye başlayan Joanna içinse hiçbir şey eskisi gibi olmayacaktır.
 
-Stepford’ın kusursuzluğunun altında yatan gerçekler açığa çıkacak mıdır? Peki ya Joanna, Stepford tarafından yutulmaktan kendini kurtarabilecek midir?
+Stepford'ın kusursuzluğunun altında yatan gerçekler açığa çıkacak mıdır? Peki ya Joanna, Stepford tarafından yutulmaktan kendini kurtarabilecek midir?
 
 Stepford Kadınları, erkek egemen toplumun kayan maskesi.
 
@@ -1375,11 +1375,11 @@ Stepford Kadınları, erkek egemen toplumun kayan maskesi.
 
 Spider Robinson, 20. yüzyılın son çeyreğindeki bilimkurgu camiasının en yaratıcı ve güçlü seslerinden biri, yeri de Douglas Adams ve Terry Pratchett gibi yazarların yanı. Callahan öykülerini bir araya getiren Callahan Günlükleri ise absürt, sarsıcı, heyecanlı ve oyunbaz bir eser.
 
-Callahan’ın Yeri, her zamandan insana ve her galaksiden uzaylıya kapısı açık bir mekân; müdavimleri ise normalin tam zıddı kimseler: zaman yolcuları, konuşan köpekler, alkolik vampirler, sibernetik uzaylılar ve birbirlerini önemseyen bir grup insan. Burası kötü kelime oyunlarının da iyi sohbetler kadar takdir edildiği nadir yerlerden biri.
+Callahan'ın Yeri, her zamandan insana ve her galaksiden uzaylıya kapısı açık bir mekân; müdavimleri ise normalin tam zıddı kimseler: zaman yolcuları, konuşan köpekler, alkolik vampirler, sibernetik uzaylılar ve birbirlerini önemseyen bir grup insan. Burası kötü kelime oyunlarının da iyi sohbetler kadar takdir edildiği nadir yerlerden biri.
 
-Bir zaman polisi zaman suçlusunun peşine düşüyor, uzak gezegenden bir uzaylı içini dökmek istiyor, aynanın içinde hapis kalan bir adam yardım arıyor, intiharın eşiğindeki bir telepat özel gücünden kurtulmaya çalışıyor ve her birinin yolu Callahan’ın Yeri’ne düşüyor.
+Bir zaman polisi zaman suçlusunun peşine düşüyor, uzak gezegenden bir uzaylı içini dökmek istiyor, aynanın içinde hapis kalan bir adam yardım arıyor, intiharın eşiğindeki bir telepat özel gücünden kurtulmaya çalışıyor ve her birinin yolu Callahan'ın Yeri'ne düşüyor.
 
-Tüm bunlar olurken Callahan’ın Yeri’nin müdavimlerini çok daha büyük bir görev bekliyor: Dünya gezegeninin sonunu getirecek komploya engel olmak.
+Tüm bunlar olurken Callahan'ın Yeri'nin müdavimlerini çok daha büyük bir görev bekliyor: Dünya gezegeninin sonunu getirecek komploya engel olmak.
 
 Callahan Günlükleri, kitabın empat hâli.
 
@@ -1392,11 +1392,11 @@ Callahan Günlükleri, kitabın empat hâli.
 - **Serideki Basım Yılı:** 2023
 - **Tanıtım Bülteni:**
 
-Ray Bradbury sadece bilimkurgunun değil, fantastik edebiyatın ve korkunun da yirminci yüzyıldaki ustalarından biri. Bilimkurgunun “iyi edebiyat” da olabileceğini kanıtlayan belki de ilk yazar. Yazarın ilk derlemelerinden biri olan Güneşin Altın Elmaları ise Bradbury’nin erken dönem öykülerinden otuz iki tanesini bir araya getiren gerçek bir hazine.
+Ray Bradbury sadece bilimkurgunun değil, fantastik edebiyatın ve korkunun da yirminci yüzyıldaki ustalarından biri. Bilimkurgunun "iyi edebiyat" da olabileceğini kanıtlayan belki de ilk yazar. Yazarın ilk derlemelerinden biri olan Güneşin Altın Elmaları ise Bradbury'nin erken dönem öykülerinden otuz iki tanesini bir araya getiren gerçek bir hazine.
 
-Bir kupa dolusu güneş ışığı için roketle Güneş’e giden bir kaptan, deniz fenerine âşık olan bir deniz canavarı, sevildiğini hissetmek isteyen bir cadı, kişisel cennetlerini keşfeden astronotlar…
+Bir kupa dolusu güneş ışığı için roketle Güneş'e giden bir kaptan, deniz fenerine âşık olan bir deniz canavarı, sevildiğini hissetmek isteyen bir cadı, kişisel cennetlerini keşfeden astronotlar…
 
-Sıradan yaşamın tuhaf, gizemli ve büyülü yanlarını, bilimkurgu ve fantazinin arasındaki sınırları esneterek anlatan öyküler içeren Güneşin Altın Elmaları’nda Bradbury aile, iktidar, hayal gücü, yalnızlık ve uygarlık gibi temaları kendine has dili ve üslubuyla işleyerek insanlık tarihinin dramatik bir özetini çıkarıyor âdeta.
+Sıradan yaşamın tuhaf, gizemli ve büyülü yanlarını, bilimkurgu ve fantazinin arasındaki sınırları esneterek anlatan öyküler içeren Güneşin Altın Elmaları'nda Bradbury aile, iktidar, hayal gücü, yalnızlık ve uygarlık gibi temaları kendine has dili ve üslubuyla işleyerek insanlık tarihinin dramatik bir özetini çıkarıyor âdeta.
 
 İnsanlık başka dünyalara hasret olmaya mahkûm mudur? Yoksa tüm arzularımızı karşılayan bir dünya mümkün mü?
 
@@ -1413,9 +1413,9 @@ Güneşin Altın Elmaları, içtekini keşfetmek için çıkılan uzak yolculuk.
 
 William Gibson, adını bilimkurgu tarihine neon harflerle yazdırmış, siberpunk türünü âdeta tek başına var etmiş bir yazar. İlk romanı Neuromancer da yayımlandığı andan itibaren türün klasiklerinden birine dönüşen, birçok alanda etkisini hâlâ hissettiğimiz bir şaheser.
 
-Yetenekli siberuzay kovboyu Case, işverenini soyarken yakalandığı için psikedelik bir ilaçla matrisle olan bağlantısını yitirir. Etten bir beden içinde sıkışan ve eskisi gibi matrise bağlanıp özgürce süzülmenin hayalini kuran Case, yaşadığı kanunsuz Çiba Şehri’nde hayatta kalmak için her türlü tehlikeli işle haşır neşir olur.
+Yetenekli siberuzay kovboyu Case, işverenini soyarken yakalandığı için psikedelik bir ilaçla matrisle olan bağlantısını yitirir. Etten bir beden içinde sıkışan ve eskisi gibi matrise bağlanıp özgürce süzülmenin hayalini kuran Case, yaşadığı kanunsuz Çiba Şehri'nde hayatta kalmak için her türlü tehlikeli işle haşır neşir olur.
 
-Ayna gözlüklü jiletkız Molly’nin onu Armitage isimli gizemli bir işadamı için kaçırmasıyla her şey değişir. Case’e matrise tekrar bağlanabilmeyi vadeden Armitage, ondan imkânsızı gerçekleştirmesini ister. Bu amaç uğruna Case, Molly’yle birlikte İstanbul’dan Dünya yörüngesine ve siberuzayın en derin köşelerine kadar uzanan, zorlu bir maceraya atılmak zorunda kalacaktır.
+Ayna gözlüklü jiletkız Molly'nin onu Armitage isimli gizemli bir işadamı için kaçırmasıyla her şey değişir. Case'e matrise tekrar bağlanabilmeyi vadeden Armitage, ondan imkânsızı gerçekleştirmesini ister. Bu amaç uğruna Case, Molly'yle birlikte İstanbul'dan Dünya yörüngesine ve siberuzayın en derin köşelerine kadar uzanan, zorlu bir maceraya atılmak zorunda kalacaktır.
 
 Siberuzayda yaşam, her şeyden daha gerçek olabilir mi? İnsanlar etten bedenlerini geride bırakabilirler mi?
 
@@ -1430,9 +1430,9 @@ Neuromancer, karşılıklı mutabakata dayalı bir halüsinasyon.
 - **Serideki Basım Yılı:** 2023
 - **Tanıtım Bülteni:**
 
-Yalnızca kaleminin kuvveti değil aynı zamanda muhalif duruşu, ırk ve cinsiyet eşitsizliğine karşı tepkisiyle de döneminin en mühim figürlerinden biri olan tarihteki ilk kadın siyah bilimkurgu yazarlarından Octavia E. Butler, hem bilimkurguda hem de Afroamerikan edebiyatında bir dönüm noktası. Örüntücüler Dörtlemesi’ni oluşturan, yazarın reddettiği biri hariç tüm kitaplarını bir araya getiren Tohumdan Hasada ise Butler’ın kimlik ve dönüşüm temalarının kök bulduğu eser.
+Yalnızca kaleminin kuvveti değil aynı zamanda muhalif duruşu, ırk ve cinsiyet eşitsizliğine karşı tepkisiyle de döneminin en mühim figürlerinden biri olan tarihteki ilk kadın siyah bilimkurgu yazarlarından Octavia E. Butler, hem bilimkurguda hem de Afroamerikan edebiyatında bir dönüm noktası. Örüntücüler Dörtlemesi'ni oluşturan, yazarın reddettiği biri hariç tüm kitaplarını bir araya getiren Tohumdan Hasada ise Butler'ın kimlik ve dönüşüm temalarının kök bulduğu eser.
 
-On yedinci yüzyıl Afrika’sında şekil değiştirebilen, iyileştirici güçlere sahip Anyanwu, güçlü ve yıkıcı bir varlık olan Doro’yla karşılaşır. Yüzyıllardır başkalarının bedenini çalarak hayatta kalan Doro kendi psişik insan türünü yaratmanın peşinde tüm dünyaya tohumlarını saçmaktadır.Doro’nun nasıl bir tiran olduğunu anlayan Anyanwu onda hem en büyük düşmanını hem de en yakın dostunu bulacaktır. Birbirinin yüreğine farklı sebeplerle korku salan bu ikiliyi, her nesilde yeni bir zorluk beklemektedir. Doro’nun mükemmelliğe en yaklaştığı kızı Mary, babasının planlarını öğrendiğinde kendisi gibileri özgürleştirmek ve insanlığa yeni bir rota çizmek için ona meydan okuyacak fakat bu rota, uzaydan gelen ve insanları değiştiren bir hastalıkla sınandığında kontrolden çıkacaktır.
+On yedinci yüzyıl Afrika'sında şekil değiştirebilen, iyileştirici güçlere sahip Anyanwu, güçlü ve yıkıcı bir varlık olan Doro'yla karşılaşır. Yüzyıllardır başkalarının bedenini çalarak hayatta kalan Doro kendi psişik insan türünü yaratmanın peşinde tüm dünyaya tohumlarını saçmaktadır.Doro'nun nasıl bir tiran olduğunu anlayan Anyanwu onda hem en büyük düşmanını hem de en yakın dostunu bulacaktır. Birbirinin yüreğine farklı sebeplerle korku salan bu ikiliyi, her nesilde yeni bir zorluk beklemektedir. Doro'nun mükemmelliğe en yaklaştığı kızı Mary, babasının planlarını öğrendiğinde kendisi gibileri özgürleştirmek ve insanlığa yeni bir rota çizmek için ona meydan okuyacak fakat bu rota, uzaydan gelen ve insanları değiştiren bir hastalıkla sınandığında kontrolden çıkacaktır.
 
 İnsanlığın geleceği bir tasarıya göre şekillenebilir mi? Kurtuluş tohumunun kendi başına filizlenmesi mümkün mü?
 
@@ -1442,16 +1442,16 @@ Tohumdan Hasada, medeniyetin nasıl dönüştüğünün mitik hikâyesi.
 
 ### [ #87 ] Mümkünatı Yok
 - **Yazar:** Sinclair Lewis
-- **Özgün Adı:** It Can’t Happen Here
+- **Özgün Adı:** It Can't Happen Here
 - **Çevirmen:** Deniz Daruga
 - **Serideki Basım Yılı:** 2023
 - **Tanıtım Bülteni:**
 
-İki dünya savaşı arasındaki dönemin eleştirel yaklaşımıyla ünlü yazarı Sinclair Lewis, modern toplumsal gidişatı erkenden çözümleyip teşhis eden, akıl ve mizah dolu yaratıcılığıyla Nobel Ödülü’ne layık görülen bir yazar. En önemli eserlerinden Mümkünatı Yok ise dönemi için bir alternatif gelecek sunan ve sunduğu karamsar gelecek gerçekleşen ender alternatif tarih romanlarından biri.
+İki dünya savaşı arasındaki dönemin eleştirel yaklaşımıyla ünlü yazarı Sinclair Lewis, modern toplumsal gidişatı erkenden çözümleyip teşhis eden, akıl ve mizah dolu yaratıcılığıyla Nobel Ödülü'ne layık görülen bir yazar. En önemli eserlerinden Mümkünatı Yok ise dönemi için bir alternatif gelecek sunan ve sunduğu karamsar gelecek gerçekleşen ender alternatif tarih romanlarından biri.
 
-1930’ların sonu yaklaşırken Avrupa savaşa, ABD ise başkanlık seçimine gidiyor. Demokrasi ve özgürlükler tüm dünyada ayaklar altında ve “Özgürlüğün Ülkesi”nin de geleceği eskisi kadar güvende görünmüyor. Herkesin aklında aynı korku, aynı soru: Faşizm bizim ülkemizde de galip gelebilir mi? Sıkı bir siyasi liberal olan gazeteci Doremus Jessup’ın aklıselime inancı tam olduğundan cevabı belli: Mümkünatı yok!
+1930'ların sonu yaklaşırken Avrupa savaşa, ABD ise başkanlık seçimine gidiyor. Demokrasi ve özgürlükler tüm dünyada ayaklar altında ve "Özgürlüğün Ülkesi"nin de geleceği eskisi kadar güvende görünmüyor. Herkesin aklında aynı korku, aynı soru: Faşizm bizim ülkemizde de galip gelebilir mi? Sıkı bir siyasi liberal olan gazeteci Doremus Jessup'ın aklıselime inancı tam olduğundan cevabı belli: Mümkünatı yok!
 
-Ama süreç başka türlü işliyor, kim bilir kaçıncı defa tekerrür eden tarihin sahnesi bir tirana kalıyor. Bir kader seçiminin eşiğindeki ülkesini alternatif fakat çok da imkânsız olmayan, karanlık bir gelecekle yüzleştiren Sinclair Lewis, Mümkünatı Yok’ta demokrasiye neden ihtiyaç duyduğumuzu bir kere daha hatırlatıyor.
+Ama süreç başka türlü işliyor, kim bilir kaçıncı defa tekerrür eden tarihin sahnesi bir tirana kalıyor. Bir kader seçiminin eşiğindeki ülkesini alternatif fakat çok da imkânsız olmayan, karanlık bir gelecekle yüzleştiren Sinclair Lewis, Mümkünatı Yok'ta demokrasiye neden ihtiyaç duyduğumuzu bir kere daha hatırlatıyor.
 
 En güçlü ve gözü pek idealistlerin, insanlığın gelişiminin en büyük yaratıcıları olmak yerine onun en kötü düşmanları olmaları mümkün mü?
 
@@ -1466,13 +1466,13 @@ Mümkünatı Yok, eşikteki tehlikeye dair küçük bir uyarı.
 - **Serideki Basım Yılı:** 2023
 - **Tanıtım Bülteni:**
 
-Ödüllü yazar P. D. James, Agatha Christie sonrası İngiliz polisiye edebiyatının Ruth Rendell’la birlikte en büyük iki isminden biri, namı diğer Polisiyenin Kraliçesi. Yönetmen Alfonso Cuarón tarafından 2008 yılında beyaz perdeye uyarlanan İnsanlığın Çocukları ise distopya türünün en iyi örneklerinden.
+Ödüllü yazar P. D. James, Agatha Christie sonrası İngiliz polisiye edebiyatının Ruth Rendell'la birlikte en büyük iki isminden biri, namı diğer Polisiyenin Kraliçesi. Yönetmen Alfonso Cuarón tarafından 2008 yılında beyaz perdeye uyarlanan İnsanlığın Çocukları ise distopya türünün en iyi örneklerinden.
 
 İnsan ırkı kısırlaşmış, son nesil ise artık yaşlanmaya başlamıştır. Gelecekten beklentisi olmayan ve kendilerinin yaşayan son insanlar olduğunu bilen toplumlarda intihar ve suç oranı arttıkça uygarlık yıldan yıla çökmeye başlar. Bir sabah tüm haber kanallarında dünyanın en genç insanının hayatını kaybettiği duyurulunca insanlar kalan son umutlarını da yitirirler.
 
-İngiltere ise Xan Lyppiatt’ın despot yönetimi altındadır. Lyppiatt’ın tarihçi kuzeni Theo Faren, bu meşum atmosferde yalnız ve umursamaz bir hayat sürmeye çalışıyordur… ta ki Julian adındaki genç bir kadınla “tesadüfi” karşılaşması onu bir grup isyancı muhalifle temasa geçirene kadar. Faren’ın hayatı birdenbire geri dönülmez bir şekilde değişir. Vereceği kararlar ise insan ırkının geleceğini derinden etkileyecektir.
+İngiltere ise Xan Lyppiatt'ın despot yönetimi altındadır. Lyppiatt'ın tarihçi kuzeni Theo Faren, bu meşum atmosferde yalnız ve umursamaz bir hayat sürmeye çalışıyordur… ta ki Julian adındaki genç bir kadınla "tesadüfi" karşılaşması onu bir grup isyancı muhalifle temasa geçirene kadar. Faren'ın hayatı birdenbire geri dönülmez bir şekilde değişir. Vereceği kararlar ise insan ırkının geleceğini derinden etkileyecektir.
 
-İnsanlığın sonu ile Dünya’nın sonu apayrı şeyler olabilir mi?
+İnsanlığın sonu ile Dünya'nın sonu apayrı şeyler olabilir mi?
 
 İnsanlığın Çocukları, geleceği yok olmanın eşiğinde bir ırkın acı portresi.
 
@@ -1487,9 +1487,9 @@ Mümkünatı Yok, eşikteki tehlikeye dair küçük bir uyarı.
 
 Roger Zelazny, farklı mitolojileri bilimkurgu romanlarına uyarlamasıyla pek çok yazarın yalnızca hayal edebildiği bir şeyi alışkanlık hâline getirmiş eşsiz bir yazar. Yol İşaretleri ise kısmen fantastik öğeler içeren deneysel bir bilimkurgu romanı.
 
-Red Dorakeen, kendisinin de bir başkasının da hatırlayamayacağı kadar uzun zamandır Yol’daydı. Çok uzun zaman önce yaşlı bir adam olarak Yol’da yürümüştü. Şimdi ise çok daha gençti. Mavi renkli hurda Dodge pikabıyla antik dönem Maraton’unda istilacı Perslerle savaşan Yunanlara silah taşıyor, yolda Hitler’le ve de Sade’la tartışmalara giriyor, zamanda bir ileri bir geri durmaksızın yolculuk ediyordu.
+Red Dorakeen, kendisinin de bir başkasının da hatırlayamayacağı kadar uzun zamandır Yol'daydı. Çok uzun zaman önce yaşlı bir adam olarak Yol'da yürümüştü. Şimdi ise çok daha gençti. Mavi renkli hurda Dodge pikabıyla antik dönem Maraton'unda istilacı Perslerle savaşan Yunanlara silah taşıyor, yolda Hitler'le ve de Sade'la tartışmalara giriyor, zamanda bir ileri bir geri durmaksızın yolculuk ediyordu.
 
-Şimdiyse biri Red’i öldürmek için on girişimin düzenleneceğine dair Yol’u yöneten yasalara göre resmi bir beyanda bulunmuştu. Gizli düşmanı, (çok tehlikeli bir keşişten bir Tiranozor’a kadar uzanan çeşitlilikte, insan veya diğer türlerde) suikastçılar tutmak için geçmişi ve geleceği tarıyordu. Red’in peşini bırakmayacaklardı, Yol onu nereye götürürse götürsün.
+Şimdiyse biri Red'i öldürmek için on girişimin düzenleneceğine dair Yol'u yöneten yasalara göre resmi bir beyanda bulunmuştu. Gizli düşmanı, (çok tehlikeli bir keşişten bir Tiranozor'a kadar uzanan çeşitlilikte, insan veya diğer türlerde) suikastçılar tutmak için geçmişi ve geleceği tarıyordu. Red'in peşini bırakmayacaklardı, Yol onu nereye götürürse götürsün.
 
 Yol İşaretleri, zamanlar arası bir kendini keşif yolculuğu.
 
@@ -1502,11 +1502,11 @@ Yol İşaretleri, zamanlar arası bir kendini keşif yolculuğu.
 - **Serideki Basım Yılı:** 2023
 - **Tanıtım Bülteni:**
 
-Ray Bradbury sadece bilimkurgunun değil fantastik edebiyatın ve korkunun da yirminci yüzyıldaki ustalarından biri. Bilimkurgunun “iyi edebiyat” da olabileceğini kanıtlayan belki de ilk yazar. 1983’te yayımlanan Dinozor Öyküleri, her yaşa hitap eden farklı türlerde dört öykü ile iki şiir içeriyor.
+Ray Bradbury sadece bilimkurgunun değil fantastik edebiyatın ve korkunun da yirminci yüzyıldaki ustalarından biri. Bilimkurgunun "iyi edebiyat" da olabileceğini kanıtlayan belki de ilk yazar. 1983'te yayımlanan Dinozor Öyküleri, her yaşa hitap eden farklı türlerde dört öykü ile iki şiir içeriyor.
 
 Tarihöncesi çağlara safari düzenleyen bir şirket, yavaş yavaş dinozora dönüşen bir çocuk, bir deniz fenerini saplantı hâline getiren uzak zamanlardan bir canavar, beyaz perdeden çıkıp günlük hayata karışan dinozorlar…
 
-“Sis Düdüğü” ve “Bir Gök Gürültüsü Sesi” gibi çok sevilen iki öyküyü de içeren derlemede Bradbury hataları, başarısızlıkları, intikam arzuları ve hayalleri olan sıradan insanların –ve dinozorların– olağanüstü hikâyelerini anlatıyor.
+"Sis Düdüğü" ve "Bir Gök Gürültüsü Sesi" gibi çok sevilen iki öyküyü de içeren derlemede Bradbury hataları, başarısızlıkları, intikam arzuları ve hayalleri olan sıradan insanların –ve dinozorların– olağanüstü hikâyelerini anlatıyor.
 
 Bugüne bakabilmek için ne kadar geçmişe gitmek gerekir? Bir dünyanın kaderi bir kelebeğin kanatlarının rüzgârıyla değişebilir mi gerçekten?
 
@@ -1521,13 +1521,13 @@ Dinozor Öyküleri, tarihöncesinden uzak geleceğe yankılanan bir gök gürül
 - **Serideki Basım Yılı:** 2023
 - **Tanıtım Bülteni:**
 
-Ray Bradbury sadece bilimkurgunun değil fantastik edebiyatın ve korkunun da yirminci yüzyıldaki ustalarından biri. Bilimkurgunun “iyi edebiyat” da olabileceğini kanıtlayan belki de ilk yazar. 2007’de yayımlanan ve iki kısa romanı bir araya getiren Şimdi ve Daima, Bradbury’ye niçin düzyazının şairi dendiğini kanıtlar nitelikte bir kitap.
+Ray Bradbury sadece bilimkurgunun değil fantastik edebiyatın ve korkunun da yirminci yüzyıldaki ustalarından biri. Bilimkurgunun "iyi edebiyat" da olabileceğini kanıtlayan belki de ilk yazar. 2007'de yayımlanan ve iki kısa romanı bir araya getiren Şimdi ve Daima, Bradbury'ye niçin düzyazının şairi dendiğini kanıtlar nitelikte bir kitap.
 
-“Bir Yerlerde Bir Müzik Çalıyor”da James Cardiff, okuduğu şiirler ve gördüğü rüyalar tarafından yavaş yavaş küçük çocukların sokakta oynamadığı ve sakinlerinin asla yaşlanmadığı, gözlerden uzak bir kasabaya çekilir. Kasabanın şairane güzelliğinden ve bir Mısır kraliçesinin adını taşıyan hoş, esrarengiz bir kadından büyülenen James, acımasız bir yıkım yaklaşırken kasabanın gizemlerini ortaya çıkarmak için elinden geleni yapacaktır.
+"Bir Yerlerde Bir Müzik Çalıyor"da James Cardiff, okuduğu şiirler ve gördüğü rüyalar tarafından yavaş yavaş küçük çocukların sokakta oynamadığı ve sakinlerinin asla yaşlanmadığı, gözlerden uzak bir kasabaya çekilir. Kasabanın şairane güzelliğinden ve bir Mısır kraliçesinin adını taşıyan hoş, esrarengiz bir kadından büyülenen James, acımasız bir yıkım yaklaşırken kasabanın gizemlerini ortaya çıkarmak için elinden geleni yapacaktır.
 
-“Leviathan ‘99”da acemi astronot Ishmael Hunnicut Jones, Cetus 7’ye binerek kaderini bir kuyrukluyıldızı saplantı hâline getiren amansız bir delinin ellerine bırakır. Gezegenler arasında gezinen mürettebat ise bu yolculukta ilahi bir yargıyla ve evrendeki en korkunç düşmanla yüzleşecektir: Zamanla.
+"Leviathan '99"da acemi astronot Ishmael Hunnicut Jones, Cetus 7'ye binerek kaderini bir kuyrukluyıldızı saplantı hâline getiren amansız bir delinin ellerine bırakır. Gezegenler arasında gezinen mürettebat ise bu yolculukta ilahi bir yargıyla ve evrendeki en korkunç düşmanla yüzleşecektir: Zamanla.
 
-Şimdi ve Daima, Amerika’nın önde gelen hikâye anlatıcısının eşsiz yeteneğinin nefes kesici çeşitliliğini ve zihninin, ruhunun ve kalbinin bastırılamaz canlılığını gözler önüne seriyor.
+Şimdi ve Daima, Amerika'nın önde gelen hikâye anlatıcısının eşsiz yeteneğinin nefes kesici çeşitliliğini ve zihninin, ruhunun ve kalbinin bastırılamaz canlılığını gözler önüne seriyor.
 
 Şimdi ve Daima, ustadan ustalara saygı duruşu.
 
@@ -1540,15 +1540,15 @@ Ray Bradbury sadece bilimkurgunun değil fantastik edebiyatın ve korkunun da yi
 - **Serideki Basım Yılı:** 2024
 - **Tanıtım Bülteni:**
 
-&#8220;Bizi kimse yaratmadı. Evrimleşerek bu hâle geldik. Bir sonraki aşamayız biz.&#8221;
+"Bizi kimse yaratmadı. Evrimleşerek bu hâle geldik. Bir sonraki aşamayız biz."
 
-Hugo ve Nebula ödüllü Theodore Sturgeon kaleme aldığı eserlerle bilimkurgu, fantezi ve korku türlerini derinden etkileyen, sıradışı bir yazar. Sturgeon’ın en önemli eseri kabul edilen İnsandan Öte ise özgürlük, ahlak ve aidiyet temalarını irdeleyen bir başyapıt.
+Hugo ve Nebula ödüllü Theodore Sturgeon kaleme aldığı eserlerle bilimkurgu, fantezi ve korku türlerini derinden etkileyen, sıradışı bir yazar. Sturgeon'ın en önemli eseri kabul edilen İnsandan Öte ise özgürlük, ahlak ve aidiyet temalarını irdeleyen bir başyapıt.
 
 Aptal Lone başkalarının düşüncelerini duyabiliyor ve sadece bakarak bir adamın beynini uçurabiliyor. Janie eşyalara dokunmadan onları hareket ettirebiliyor. İkizler kilometrelerce uzağa ışınlanabiliyor. Bebek ise bir süper bilgisayar beynine sahip. Her biri ayrı ayrı yetenekli ucubeler ama bir araya geldiklerinde evrimdeki bir sonraki aşamayı temsil edebilecek tek bir organizmayı oluşturuyorlar.
 
-Bu gruba çok güçlü bir telepat olan Gerry katılınca işler tehlikeli bir vaziyet almaya başlıyor. Ahlaki bir pusuladan yoksun olan Gerry’nin kendisini reddeden dünyaya duyduğu nefret belki de “evrimdeki bir sonraki aşama”yı uygarlığın sonunun habercisi hâline getirecek.
+Bu gruba çok güçlü bir telepat olan Gerry katılınca işler tehlikeli bir vaziyet almaya başlıyor. Ahlaki bir pusuladan yoksun olan Gerry'nin kendisini reddeden dünyaya duyduğu nefret belki de "evrimdeki bir sonraki aşama"yı uygarlığın sonunun habercisi hâline getirecek.
 
-“Bilimkurguda daha önce görülmeyen birçok şeyi Sturgeon sayesinde gördük.” —Robert Silverberg
+"Bilimkurguda daha önce görülmeyen birçok şeyi Sturgeon sayesinde gördük." —Robert Silverberg
 
 ---
 
@@ -1559,11 +1559,11 @@ Bu gruba çok güçlü bir telepat olan Gerry katılınca işler tehlikeli bir v
 - **Serideki Basım Yılı:** 2024
 - **Tanıtım Bülteni:**
 
-Arkadi ve Boris Strugatski, entelektüel açıdan kışkırtıcı, inanılmaz eğlenceli, cesur ve eleştirel kitaplarıyla “Sovyetler döneminin en büyük bilimkurgu yazarları” sıfatını hak eden yegâne ikili. 1972’de tamamlanan ama “tehlikeli fikirlerle” dolu olduğu için ancak 80’lerin sonunda yayımlanabilen Ölüme Yazgılı Şehir ise birçokları tarafından yazarların magnum opusu kabul ediliyor.
+Arkadi ve Boris Strugatski, entelektüel açıdan kışkırtıcı, inanılmaz eğlenceli, cesur ve eleştirel kitaplarıyla "Sovyetler döneminin en büyük bilimkurgu yazarları" sıfatını hak eden yegâne ikili. 1972'de tamamlanan ama "tehlikeli fikirlerle" dolu olduğu için ancak 80'lerin sonunda yayımlanabilen Ölüme Yazgılı Şehir ise birçokları tarafından yazarların magnum opusu kabul ediliyor.
 
-Sabahları güneşin bir tuşa basılarak açıldığı ve geceleri kapandığı, bir tarafı uçurum, diğer tarafı ise inanılmaz yükseklikte bir duvarla çevrili gizemli bir şehir&#8230; Deney adındaki bu şehrin sakinleri farklı tarihlerden ve farklı mekânlarından koparılmış, Deney’de kendi kendilerini yönetmeye bırakılmış insanlardır ve amaçları şüpheli görünen Mentorlar tarafından yönlendirilmektedirler.
+Sabahları güneşin bir tuşa basılarak açıldığı ve geceleri kapandığı, bir tarafı uçurum, diğer tarafı ise inanılmaz yükseklikte bir duvarla çevrili gizemli bir şehir... Deney adındaki bu şehrin sakinleri farklı tarihlerden ve farklı mekânlarından koparılmış, Deney'de kendi kendilerini yönetmeye bırakılmış insanlardır ve amaçları şüpheli görünen Mentorlar tarafından yönlendirilmektedirler.
 
-1950&#8217;lerin Leningrad&#8217;ından getirilen genç bir astronom, Andrey Voronin, şehirdeki ilk işi çöp toplayıcılığı olmasına rağmen Deney&#8217;e yürekten inanmaktadır. Andrey en yakın arkadaşının intiharından sonra sarsılacak, uzaylı olduklarını düşündüğü Mentorların kökenini ve amaçlarını öğrenmek için tehlikeli bir yolculuğa çıkacaktır.
+1950'lerin Leningrad'ından getirilen genç bir astronom, Andrey Voronin, şehirdeki ilk işi çöp toplayıcılığı olmasına rağmen Deney'e yürekten inanmaktadır. Andrey en yakın arkadaşının intiharından sonra sarsılacak, uzaylı olduklarını düşündüğü Mentorların kökenini ve amaçlarını öğrenmek için tehlikeli bir yolculuğa çıkacaktır.
 
 Yönetici sınıfın olmadığı bir medeniyet mümkün mü? İnsanlar kendileriyle baş başa kalabilir mi gerçekten?
 
@@ -1576,15 +1576,15 @@ Yönetici sınıfın olmadığı bir medeniyet mümkün mü? İnsanlar kendileri
 - **Serideki Basım Yılı:** 2024
 - **Tanıtım Bülteni:**
 
-“Galakside cesur bir gezinti ve 2001: Bir Uzay Destanı’na layık bir devam kitabı.” —Carl Sagan
+"Galakside cesur bir gezinti ve 2001: Bir Uzay Destanı'na layık bir devam kitabı." —Carl Sagan
 
-Arthur C. Clarke, bilimi edebiyatla eşsizce birleştiren, bilimkurgunun üç büyük usta­sından biri. İnsanın evrimini, yapay zekânın gelişimini ve uzay yolculuğunu konu edinen 2001: Bir Uzay Destanı’nın büyüleyici de­vam kitabı 2010: İkinci Uzay Destanı ise ga­laksinin derinliklerine gizemli bir yolculuk.
+Arthur C. Clarke, bilimi edebiyatla eşsizce birleştiren, bilimkurgunun üç büyük usta­sından biri. İnsanın evrimini, yapay zekânın gelişimini ve uzay yolculuğunu konu edinen 2001: Bir Uzay Destanı'nın büyüleyici de­vam kitabı 2010: İkinci Uzay Destanı ise ga­laksinin derinliklerine gizemli bir yolculuk.
 
-Jüpiter ve monoliti çevreleyen gizemli olay­dan yıllar sonra Sovyet ve Amerikalı astro­notlar insanlığı temelden değiştirebilecek potansiyel cevaplar aramak üzere, Jüpiter’in uydularına ve Discovery’ye doğru yeni bir yolculuğa çıkarlar. Görevleri: monolitlerin bilmecesini çözmek ve HAL’ı mürettebatı öl­dürmeye sürükleyen koşulları anlamak.
+Jüpiter ve monoliti çevreleyen gizemli olay­dan yıllar sonra Sovyet ve Amerikalı astro­notlar insanlığı temelden değiştirebilecek potansiyel cevaplar aramak üzere, Jüpiter'in uydularına ve Discovery'ye doğru yeni bir yolculuğa çıkarlar. Görevleri: monolitlerin bilmecesini çözmek ve HAL'ı mürettebatı öl­dürmeye sürükleyen koşulları anlamak.
 
-Çinli bir keşif ekibi de aynı hedefe yöne­lir ve kurtarma görevini, Discovery’nin Jüpiter’in yörüngesindeki esrarengiz mo­nolit hakkında sahip olabileceği değerli bilgileri ele geçirmek için çılgınca bir yarışa dönüştürür.
+Çinli bir keşif ekibi de aynı hedefe yöne­lir ve kurtarma görevini, Discovery'nin Jüpiter'in yörüngesindeki esrarengiz mo­nolit hakkında sahip olabileceği değerli bilgileri ele geçirmek için çılgınca bir yarışa dönüştürür.
 
-Bu arada, bir zamanlar Dave Bowman ola­rak bilinen varlık –monolitin gizemini çözen tek insan– hayati bir görev için Dünya’ya doğru yola çıkar.
+Bu arada, bir zamanlar Dave Bowman ola­rak bilinen varlık –monolitin gizemini çözen tek insan– hayati bir görev için Dünya'ya doğru yola çıkar.
 
 2010: İkinci Uzay Destanı, kozmik gizem­lerin ve insanın bitmeyen bilgi arayışının öyküsü.
 
@@ -1597,13 +1597,13 @@ Bu arada, bir zamanlar Dave Bowman ola­rak bilinen varlık –monolitin gizemin
 - **Serideki Basım Yılı:** 2024
 - **Tanıtım Bülteni:**
 
-Onu diğer birçok bilimkurgu yazarından ayıran pastoral, nazik bir üsluba sahip olan Clifford D. Simak, bilimkurgunun altın çağının ürettiği ilk üstatlardan biri. Simak’ın en ünlü eseri Ara İstasyon ise insanlığın galaksideki yerine dair çarpıcı bir anlatı.
+Onu diğer birçok bilimkurgu yazarından ayıran pastoral, nazik bir üsluba sahip olan Clifford D. Simak, bilimkurgunun altın çağının ürettiği ilk üstatlardan biri. Simak'ın en ünlü eseri Ara İstasyon ise insanlığın galaksideki yerine dair çarpıcı bir anlatı.
 
-Enoch Wallace yaşlanmayan bir münzeviydi, yüz yılı aşkın süredir aynı eski evde yaşıyordu ve hâlâ Amerikan İç Savaşı’nda kullandığı silahı taşıyordu. Dışarıdan alelade bir yapı gibi görünen evi ise Galaktik Merkez’in işlettiği yıldızlararası bir ara istasyondu.
+Enoch Wallace yaşlanmayan bir münzeviydi, yüz yılı aşkın süredir aynı eski evde yaşıyordu ve hâlâ Amerikan İç Savaşı'nda kullandığı silahı taşıyordu. Dışarıdan alelade bir yapı gibi görünen evi ise Galaktik Merkez'in işlettiği yıldızlararası bir ara istasyondu.
 
-Yüz yıldan daha uzun bir süre önce, Ulysses adında bir uzaylı Enoch’u Dünya’nın tek galaktik transfer istasyonunun bekçisi olarak işe almıştı. Enoch’un görevi yaptığı işi gizli tutmak ve galaksinin bir ucundan ötekine yolculuk eden uzaylı gezginleri evinde ağırlamaktı.
+Yüz yıldan daha uzun bir süre önce, Ulysses adında bir uzaylı Enoch'u Dünya'nın tek galaktik transfer istasyonunun bekçisi olarak işe almıştı. Enoch'un görevi yaptığı işi gizli tutmak ve galaksinin bir ucundan ötekine yolculuk eden uzaylı gezginleri evinde ağırlamaktı.
 
-CIA bu gizemli adamın hayatına yakından bakmaya karar verince Enoch Wallace’ın sakin hayatı altüst olacak, bunun sonucunda Galaktik Merkez de Dünya istasyonunu kapatmayı tartışacaktı. Dünya gezegeni hem eli kulağında bir nükleer savaşla hem de galaksideki diğer uygarlıklar tarafından dışlanma tehlikesiyle karşı karşıyaydı. Enoch’un ise Dünya adına çok önemli bir seçim yapması gerekecekti.
+CIA bu gizemli adamın hayatına yakından bakmaya karar verince Enoch Wallace'ın sakin hayatı altüst olacak, bunun sonucunda Galaktik Merkez de Dünya istasyonunu kapatmayı tartışacaktı. Dünya gezegeni hem eli kulağında bir nükleer savaşla hem de galaksideki diğer uygarlıklar tarafından dışlanma tehlikesiyle karşı karşıyaydı. Enoch'un ise Dünya adına çok önemli bir seçim yapması gerekecekti.
 
 ---
 
@@ -1616,9 +1616,9 @@ CIA bu gizemli adamın hayatına yakından bakmaya karar verince Enoch Wallace�
 
 Richard Matheson korku, gerilim, fantastik ve bilimkurgu türlerinin en üretken ve en yaratıcı isimlerinden, yalnızca edebiyatta değil sinemada da ardılı sanatçıları hatırı sayılır derecede etkilemiş bir usta. Zaman İçinde Bir Yer ise bilimkurgu ile romantizmi harmanlayan, zamansız bir zaman yolculuğu hikâyesi.
 
-80’li yıllar… Richard Collier, beyin tümörü teşhisi konmuş, son günlerini Hotel del Coronado’da geçirmeye karar veren 36 yaşında bir senaryo yazarıdır. Richard 1890’larda aynı otelde sahne alan ünlü tiyatro oyuncusu Elise McKenna’nın fotoğrafını gördükten sonra kadını takıntı hâline getirir ve otelde kalırken gizemli bir adamla kısa bir ilişki yaşadığını öğrenir. Zamanda geriye giderek o gizemli adam olmanın kaderi olduğuna inanan Richard zaman yolculuğu yapmanın yollarını arayacaktır.
+80'li yıllar… Richard Collier, beyin tümörü teşhisi konmuş, son günlerini Hotel del Coronado'da geçirmeye karar veren 36 yaşında bir senaryo yazarıdır. Richard 1890'larda aynı otelde sahne alan ünlü tiyatro oyuncusu Elise McKenna'nın fotoğrafını gördükten sonra kadını takıntı hâline getirir ve otelde kalırken gizemli bir adamla kısa bir ilişki yaşadığını öğrenir. Zamanda geriye giderek o gizemli adam olmanın kaderi olduğuna inanan Richard zaman yolculuğu yapmanın yollarını arayacaktır.
 
-Matheson’ın “Muhtemelen yazdığım en iyi roman,” dediği, 1980’de beyaz perdeye de uyarlanan Zaman İçinde Bir Yer, yazarın en özel kitaplarından biri. Zamanın amansız akışına karşı durmaya çalışan iki insanın heyecan dolu hikâyesi.
+Matheson'ın "Muhtemelen yazdığım en iyi roman," dediği, 1980'de beyaz perdeye de uyarlanan Zaman İçinde Bir Yer, yazarın en özel kitaplarından biri. Zamanın amansız akışına karşı durmaya çalışan iki insanın heyecan dolu hikâyesi.
 
 Bir gelecek yerine geçmişin hayali kurulabilir mi? Farklı bir zamanda aynı insan olmak mümkün mü?
 
@@ -1633,11 +1633,11 @@ Zaman İçinde Bir Yer, aşkın paradoks hâli.
 - **Serideki Basım Yılı:** 2024
 - **Tanıtım Bülteni:**
 
-2004 yılında Amerika bilimkurgu yazarları­nın büyük üstadı seçilen, Hugo ve Nebula ödüllerinin gediklisi Robert Silverberg bi­limkurgu ve fantazi edebiyatının yaşayan en büyük isimlerinden biri. 1972’de yayım­lanan ve türe farklı bir pencereden ba­kan İçeriden Ölmek zengin, alaycı ve şiirsel diliyle Silverberg’ün başyapıtı.
+2004 yılında Amerika bilimkurgu yazarları­nın büyük üstadı seçilen, Hugo ve Nebula ödüllerinin gediklisi Robert Silverberg bi­limkurgu ve fantazi edebiyatının yaşayan en büyük isimlerinden biri. 1972'de yayım­lanan ve türe farklı bir pencereden ba­kan İçeriden Ölmek zengin, alaycı ve şiirsel diliyle Silverberg'ün başyapıtı.
 
 Eşsiz bir yeteneğe, zihin okuma gücüne sahip David Selig bu yeteneğine rağmen alelade bir hayat sürüyordu. Kötülükle sa­vaşmıyor, dünyayı kurtarmıyor, üniversite öğrencileri için ödev yazarak para kazanıp boş zamanlarında insanların içini röntgen­liyordu.
 
-Orta yaşlara yaklaştıkça Selig’in hiç bekle­mediği bir şey olmaya başlamıştı. Telepati gücünü yavaş yavaş kaybediyordu. Hayatı boyunca beyninin içinde başkalarının iç sesleri yankılanan Selig artık kendi zihni­nin sesini dinlemek zorunda kalacaktı, tıpkı diğer herkes gibi.
+Orta yaşlara yaklaştıkça Selig'in hiç bekle­mediği bir şey olmaya başlamıştı. Telepati gücünü yavaş yavaş kaybediyordu. Hayatı boyunca beyninin içinde başkalarının iç sesleri yankılanan Selig artık kendi zihni­nin sesini dinlemek zorunda kalacaktı, tıpkı diğer herkes gibi.
 
 Yalnızlık, yas, iletişimin kaybı ve orta yaş bunalımı gibi konuları incelikle işleyen İçeriden Ölmek, iyi bilimkurgunun hangi seviyelere erişebileceğini gösteren nadir bir eser.
 
@@ -1652,11 +1652,11 @@ Yalnızlık, yas, iletişimin kaybı ve orta yaş bunalımı gibi konuları ince
 - **Serideki Basım Yılı:** 2024
 - **Tanıtım Bülteni:**
 
-William Gibson, adını bilimkurgu tarihine neon harflerle yazdırmış, siberpunk türünü âdeta tek başına var etmiş bir yazar. Neuromancer’ın öncesini anlatan öykülerin de bulunduğu Yanan Krom ise Gibson’ın romanları kadar güçlü bir öykü kitabı.
+William Gibson, adını bilimkurgu tarihine neon harflerle yazdırmış, siberpunk türünü âdeta tek başına var etmiş bir yazar. Neuromancer'ın öncesini anlatan öykülerin de bulunduğu Yanan Krom ise Gibson'ın romanları kadar güçlü bir öykü kitabı.
 
-Birbirinden farklı siber dünyaların kesiştiği, kitaba adını da veren “Yanan Krom” öyküsü iki bilgisayar korsanının siberuzayda büyük bir soygun gerçekleştirme çabasını, “Johnny Mnemonik” hafızasında büyük miktarda veri taşıyan bir veri taşıyıcısının hayatta kalma mücadelesini, “Gernsback Sürekliliği” gelecekteki ütopyaların halihazırdaki topluma olan etkilerini, “New Rose Oteli” ise bir şirket tarafından ele geçirilmiş bir geleceği anlatıyor.
+Birbirinden farklı siber dünyaların kesiştiği, kitaba adını da veren "Yanan Krom" öyküsü iki bilgisayar korsanının siberuzayda büyük bir soygun gerçekleştirme çabasını, "Johnny Mnemonik" hafızasında büyük miktarda veri taşıyan bir veri taşıyıcısının hayatta kalma mücadelesini, "Gernsback Sürekliliği" gelecekteki ütopyaların halihazırdaki topluma olan etkilerini, "New Rose Oteli" ise bir şirket tarafından ele geçirilmiş bir geleceği anlatıyor.
 
-“İç Bölgeler” uzayda kaybolmuş bir geminin mürettebatının yaşadıklarına odaklanırken &#8220;Hologram Bir Gülden Parçalar” bir adamın kaybolmuş bir aşkın ve onun holografik hatıralarının peşine düşmesini konu alıyor. &#8220;Kış Pazarı” ise gelecekteki bir dünyada, farklı gerçekliklerden gelen fantastik nesnelerin satıldığı bir pazarda geçiyor. Ayrıca William Gibson’ın John Shirley, Michael Swanwick ve Bruce Sterling’le birlikte yazdığı üç öykü daha bu kitapta kendine yer buluyor.
+"İç Bölgeler" uzayda kaybolmuş bir geminin mürettebatının yaşadıklarına odaklanırken "Hologram Bir Gülden Parçalar" bir adamın kaybolmuş bir aşkın ve onun holografik hatıralarının peşine düşmesini konu alıyor. "Kış Pazarı" ise gelecekteki bir dünyada, farklı gerçekliklerden gelen fantastik nesnelerin satıldığı bir pazarda geçiyor. Ayrıca William Gibson'ın John Shirley, Michael Swanwick ve Bruce Sterling'le birlikte yazdığı üç öykü daha bu kitapta kendine yer buluyor.
 
 Yanan Krom, neon ışıklarıyla körleşen bir geleceğin tablosu.
 
@@ -1669,15 +1669,15 @@ Yanan Krom, neon ışıklarıyla körleşen bir geleceğin tablosu.
 - **Serideki Basım Yılı:** 2024
 - **Tanıtım Bülteni:**
 
-Bilimkurgu yazınının başlıca kâhinlerinden biri olan John Brunner, aynı zamanda türün en deneysel ve yenilikçi eserlerine imza atmış bir yazar. “Yeni Dalga” bilimkurgunun bir ürünü olan Zanzibar İstifi ise, yalnızca bilimkurgu adasına sığamayacak kadar büyük ve 60’lardan günümüze seslenen bir başyapıt.
+Bilimkurgu yazınının başlıca kâhinlerinden biri olan John Brunner, aynı zamanda türün en deneysel ve yenilikçi eserlerine imza atmış bir yazar. "Yeni Dalga" bilimkurgunun bir ürünü olan Zanzibar İstifi ise, yalnızca bilimkurgu adasına sığamayacak kadar büyük ve 60'lardan günümüze seslenen bir başyapıt.
 
-2010 yılında dünya, aşırı nüfus artışı yüzünden kaynaklarını tüketme noktasına gelmiştir. Devletler genetik mühendislik, doğum kontrolü ve baskıcı politikalarla hakimiyeti ellerinde tutmaya çalışırken bireyler bu yeni düzenin içinde var olma savaşı vermektedir.
+2010 yılında dünya, aşırı nüfus artışı yüzünden kaynaklarını tüketme noktasına gelmiştir. Devletler genetik mühendislik, doğum kontrolü ve baskıcı politikalarla hakimiyeti ellerinde tutmaya çalışırken bireyler bu yeni düzenin içinde var olma savaşı vermektedir.
 
-Tüm bunlar olup biterken New York’ta iki oda arkadaşı dünyanın kaderini belirleyecek iki farklı göreve gönderilirler. Norman, neredeyse her şeyi üreten ve dünyanın en akıllı bilgisayarı Şalmaneser’in de sahibi General Technics şirketinde yöneticidir. Müslüman bir Afram olan Norman, Beninya adlı kurgusal Afrika ülkesine yapılacak devasa bir yatırımın danışmanlığıyla görevlendirilir.
+Tüm bunlar olup biterken New York'ta iki oda arkadaşı dünyanın kaderini belirleyecek iki farklı göreve gönderilirler. Norman, neredeyse her şeyi üreten ve dünyanın en akıllı bilgisayarı Şalmaneser'in de sahibi General Technics şirketinde yöneticidir. Müslüman bir Afram olan Norman, Beninya adlı kurgusal Afrika ülkesine yapılacak devasa bir yatırımın danışmanlığıyla görevlendirilir.
 
-Oda arkadaşı Donald Hogan ise bir “profesyonel” üniversite öğrencisidir. Hükümet tarafından sentezci olması için gizlice işe alınan Donald, gününün çoğunu kütüphanede güncel olayları okuyarak ve görünüşte ilgisiz olaylar arasında bağlantılar kurarak geçirmektedir. Fakat Hogan aslında bir casustur ve dünyayı değiştirecek bir teknolojinin peşinden Yatakang’a gidecektir.
+Oda arkadaşı Donald Hogan ise bir "profesyonel" üniversite öğrencisidir. Hükümet tarafından sentezci olması için gizlice işe alınan Donald, gününün çoğunu kütüphanede güncel olayları okuyarak ve görünüşte ilgisiz olaylar arasında bağlantılar kurarak geçirmektedir. Fakat Hogan aslında bir casustur ve dünyayı değiştirecek bir teknolojinin peşinden Yatakang'a gidecektir.
 
-Zanzibar İstifi, toplumsal çöküşün gözlem odası.
+Zanzibar İstifi, toplumsal çöküşün gözlem odası.
 
 ---
 
@@ -1688,11 +1688,11 @@ Zanzibar İstifi, toplumsal çöküşün gözlem odası.
 - **Serideki Basım Yılı:** 2024
 - **Tanıtım Bülteni:**
 
-60’lı yıllar… Bilimkurgu edebiyatının yıllardır “lazer tabancalı adamların metal sutyenli kızları kurtardıkları” kitaplarla dolup taştığı, tehlikeli görülen öykülerin ve romanların çok zor yayıncı bulabildiği vakitler. Genç Harlan Ellison bir şeylerin değişmesi gerektiğinin farkında, bazı kapıları tek tek çalıyor ve şu soruyu soruyor: “Eğer tutuklanma ya da sansüre uğrama korkun olmasaydı nasıl bir bilimkurgu öyküsü yazardın?”
+60'lı yıllar… Bilimkurgu edebiyatının yıllardır "lazer tabancalı adamların metal sutyenli kızları kurtardıkları" kitaplarla dolup taştığı, tehlikeli görülen öykülerin ve romanların çok zor yayıncı bulabildiği vakitler. Genç Harlan Ellison bir şeylerin değişmesi gerektiğinin farkında, bazı kapıları tek tek çalıyor ve şu soruyu soruyor: "Eğer tutuklanma ya da sansüre uğrama korkun olmasaydı nasıl bir bilimkurgu öyküsü yazardın?"
 
-İşte bilimkurgunun gidişatını değiştiren Tehlikeli Görüler bu soruyla yola çıkıyor. Kitap yayımlanmadan bir süre önce ise köşe yazarları Ellison’ın “tehlikeli” kitabına öykü gönderen yazarların kariyerinin biteceğini yazmaktan geri durmuyor. Sonuç: Yeni Dalga Bilimkurgu; geleneksel olana meydan okuyan ve okurları oraya varana kadar gitmeleri gerektiğini bilmedikleri yerlere götüren çığır açıcı hikâyeler.
+İşte bilimkurgunun gidişatını değiştiren Tehlikeli Görüler bu soruyla yola çıkıyor. Kitap yayımlanmadan bir süre önce ise köşe yazarları Ellison'ın "tehlikeli" kitabına öykü gönderen yazarların kariyerinin biteceğini yazmaktan geri durmuyor. Sonuç: Yeni Dalga Bilimkurgu; geleneksel olana meydan okuyan ve okurları oraya varana kadar gitmeleri gerektiğini bilmedikleri yerlere götüren çığır açıcı hikâyeler.
 
-Asimov’un önsözde dediği gibi: “Burada türün en cesur ve deneysel hâlini bulacaksınız… kışkırtılmanız ve etkilenmeniz dileğiyle!”
+Asimov'un önsözde dediği gibi: "Burada türün en cesur ve deneysel hâlini bulacaksınız… kışkırtılmanız ve etkilenmeniz dileğiyle!"
 
 Yazarlar:
 
@@ -1709,13 +1709,13 @@ Tehlikeli Görüler, bilimkurgunun devrimi.
 - **Serideki Basım Yılı:** 2025
 - **Tanıtım Bülteni:**
 
-Ray Bradbury sadece bilimkurgunun değil, fantastik edebiyatın ve korkunun da yirminci yüzyıldaki ustalarından biri. Bilimkurgunun “iyi edebiyat” da olabileceğini kanıtlayan belki de ilk yazar. Melankolinin İlacı ise melankoliyi, yalnızlığı ve kaybı derinlemesine işlerken aynı zamanda umut ve neşe aşılıyor.
+Ray Bradbury sadece bilimkurgunun değil, fantastik edebiyatın ve korkunun da yirminci yüzyıldaki ustalarından biri. Bilimkurgunun "iyi edebiyat" da olabileceğini kanıtlayan belki de ilk yazar. Melankolinin İlacı ise melankoliyi, yalnızlığı ve kaybı derinlemesine işlerken aynı zamanda umut ve neşe aşılıyor.
 
-Sonu gelmeyen bir uzay yolculuğu, uzak bir gezegenden gelen ziyaretçiler, bir çocuğun takıntı hâline getirdiği bir ejderha, kimsenin inmediği bir tren istasyonu, Venüs’te tuhaf bir gün, durmadan yağmur yağan ücra bir kasaba… Bradbury Melankolinin İlacı’nda şairane üslubuyla birbirinden zarif ve sert öyküler anlatıyor yine.
+Sonu gelmeyen bir uzay yolculuğu, uzak bir gezegenden gelen ziyaretçiler, bir çocuğun takıntı hâline getirdiği bir ejderha, kimsenin inmediği bir tren istasyonu, Venüs'te tuhaf bir gün, durmadan yağmur yağan ücra bir kasaba… Bradbury Melankolinin İlacı'nda şairane üslubuyla birbirinden zarif ve sert öyküler anlatıyor yine.
 
-Olağan durumlardaki olağanüstü ayrıntıları göstererek okurları ruhsal bir yolculuğa çıkarıyor Bradbury, hayatın basit anlarında saklı mucizeleri ve kaybolmuş gibi görünen hislerin yeniden bulunma ihtimalini arıyor.
+Olağan durumlardaki olağanüstü ayrıntıları göstererek okurları ruhsal bir yolculuğa çıkarıyor Bradbury, hayatın basit anlarında saklı mucizeleri ve kaybolmuş gibi görünen hislerin yeniden bulunma ihtimalini arıyor.
 
-Hiçlik de varlık kadar normal değil mi? Peki ya hüznün içinde mutluluk varlığını sürdürebilir mi?
+Hiçlik de varlık kadar normal değil mi? Peki ya hüznün içinde mutluluk varlığını sürdürebilir mi?
 
 Melankolinin İlacı, sıradan hayatların sıra dışı hikâyeleri.
 
@@ -1728,7 +1728,7 @@ Melankolinin İlacı, sıradan hayatların sıra dışı hikâyeleri.
 - **Serideki Basım Yılı:** 2025
 - **Tanıtım Bülteni:**
 
-Dan Simmons korku, fantazi ve bilimkurgu eserleriyle üç türü de derinden etkileyen, spekülatif kurgunun yaşayan en önemli isimlerinden biri. “Uzayda geçen Canterbury Hikâyeleri” olarak yorumlanan Hyperion Kantoları’nın ilk kitabı Hyperion ise sıklıkla Dune ve Yüzüklerin Efendisi’yle karşılaştırılan bir şaheser.
+Dan Simmons korku, fantazi ve bilimkurgu eserleriyle üç türü de derinden etkileyen, spekülatif kurgunun yaşayan en önemli isimlerinden biri. "Uzayda geçen Canterbury Hikâyeleri" olarak yorumlanan Hyperion Kantoları'nın ilk kitabı Hyperion ise sıklıkla Dune ve Yüzüklerin Efendisi'yle karşılaştırılan bir şaheser.
 
 ---
 
@@ -1739,11 +1739,11 @@ Dan Simmons korku, fantazi ve bilimkurgu eserleriyle üç türü de derinden 
 - **Serideki Basım Yılı:** 2025
 - **Tanıtım Bülteni:**
 
-Edgar Allan Poe’nun tekinsiz gotik mirasını H. G. Wells’in bilimsel hayal gücüyle harmanlayan M. P. Shiel, kıyamet sonrası kurgusunun temellerini atan yazarlardan. Victoria dönemi biterken kaleme aldığı karanlık ve vizyoner metinlerle korku ve bilimkurgu edebiyatının öncülerinden kabul edilen yazarın başyapıtı Mor Bulut ise H. P. Lovecraft’tan Stephen King’e kadar pek çok büyük ismi etkileyen, yirminci yüzyıl bilimkurgusunun ilk büyük romanı ve şimdiye dek yazılmış en çarpıcı “dünyadaki son insan” anlatılarından biri.
+Edgar Allan Poe'nun tekinsiz gotik mirasını H. G. Wells'in bilimsel hayal gücüyle harmanlayan M. P. Shiel, kıyamet sonrası kurgusunun temellerini atan yazarlardan. Victoria dönemi biterken kaleme aldığı karanlık ve vizyoner metinlerle korku ve bilimkurgu edebiyatının öncülerinden kabul edilen yazarın başyapıtı Mor Bulut ise H. P. Lovecraft'tan Stephen King'e kadar pek çok büyük ismi etkileyen, yirminci yüzyıl bilimkurgusunun ilk büyük romanı ve şimdiye dek yazılmış en çarpıcı "dünyadaki son insan" anlatılarından biri.
 
-Ölümcül bir mor bulut dünya üzerinde dolaşarak tüm canlıları yok eder ve geriye yalnızca o sırada Kuzey Kutbu’na ulaşan ilk insan olan Adam Jeffson kalır. Sessiz ve harap olmuş bir gezegende epik bir yolculuğa çıkan Jeffson, geçmiş yaşamının kalıntılarından kendine bir düzen kurmaya çalışan kıyamet sonrası bir Robinson Crusoe’ya dönüşür.
+Ölümcül bir mor bulut dünya üzerinde dolaşarak tüm canlıları yok eder ve geriye yalnızca o sırada Kuzey Kutbu'na ulaşan ilk insan olan Adam Jeffson kalır. Sessiz ve harap olmuş bir gezegende epik bir yolculuğa çıkan Jeffson, geçmiş yaşamının kalıntılarından kendine bir düzen kurmaya çalışan kıyamet sonrası bir Robinson Crusoe'ya dönüşür.
 
-Londra, Paris ve İstanbul gibi şehirlere yolculuk ederek başka insanları arayan ve yıllar geçtikçe akıl sağlığını yitirmeye başlayan Jeffson, hayatta kalışının bir tesadüften ziyade derin, kozmolojik bir planın parçası olduğunu fark edecektir.
+Londra, Paris ve İstanbul gibi şehirlere yolculuk ederek başka insanları arayan ve yıllar geçtikçe akıl sağlığını yitirmeye başlayan Jeffson, hayatta kalışının bir tesadüften ziyade derin, kozmolojik bir planın parçası olduğunu fark edecektir.
 
 Mor Bulut, yalnız gezenin kâbusları.
 
@@ -1758,32 +1758,32 @@ Mor Bulut, yalnız gezenin kâbusları.
 
 Philip K. Dick, gerçeklik, kimlik ve otorite üzerine derin felsefi sorularla bilimkurguyu dönüştüren, birçok filme, diziye ve oyuna esin kaynağı olan, türün en büyük yazarlarından. Çağının ötesinde bir öngörüyle kaleme aldığı Yüksek Şatodaki Adam ise okuru bildiğimiz dünyaya ürkütücü derecede yakın alternatif bir gerçekliğe sürükleyen, bilimkurgunun mihenk taşlarından biri.
 
-Yıl 1947. Nazi Almanyası ve Japon İmparatorluğu, İkinci Dünya Savaşı’nı kazandı. Amerika Birleşik Devletleri bölündü ve Batı Yakası Japonya’nın, Doğu Yakası ise Nazi Almanyası’nın kontrolüne girdi. Orta kısım ise çatışmalarla dolu tarafsız bir bölgeydi.
+Yıl 1947. Nazi Almanyası ve Japon İmparatorluğu, İkinci Dünya Savaşı'nı kazandı. Amerika Birleşik Devletleri bölündü ve Batı Yakası Japonya'nın, Doğu Yakası ise Nazi Almanyası'nın kontrolüne girdi. Orta kısım ise çatışmalarla dolu tarafsız bir bölgeydi.
 
-Yıl 1962. Yeni dünya düzeninde, gerçeklik bile sabit değildi. İnsanlar bir şeylerin “yanlış” olduğunu hissediyorlardı. Çekirge Ağır Gelecek Kendine adlı yasaklanmış bir kitap savaşın aslında Müttefikler tarafından kazanıldığını iddia ediyordu. Ve söylentiye göre, bu kitabın ardında “yüksek şatoda” yaşayan biri vardı.
+Yıl 1962. Yeni dünya düzeninde, gerçeklik bile sabit değildi. İnsanlar bir şeylerin "yanlış" olduğunu hissediyorlardı. Çekirge Ağır Gelecek Kendine adlı yasaklanmış bir kitap savaşın aslında Müttefikler tarafından kazanıldığını iddia ediyordu. Ve söylentiye göre, bu kitabın ardında "yüksek şatoda" yaşayan biri vardı.
 
-Yüksek Şatodaki Adam, kurgunun gerçek, gerçeğin ise kurgu olduğunu hissettiren sarsıcı bir anlatı. Philip K. Dick’in sıradışı zihninden çıkan bu roman, tarihsel olasılıkları, ideolojik kâbusları ve insan olmanın doğasını altüst eden bir başyapıt.
+Yüksek Şatodaki Adam, kurgunun gerçek, gerçeğin ise kurgu olduğunu hissettiren sarsıcı bir anlatı. Philip K. Dick'in sıradışı zihninden çıkan bu roman, tarihsel olasılıkları, ideolojik kâbusları ve insan olmanın doğasını altüst eden bir başyapıt.
 
 Yüksek Şatodaki Adam, bildiğimiz tarihin bozulmuş bir kopyası.
 
 ---
 
-### [ #105 ] Rama’yla Buluşma
+### [ #105 ] Rama'yla Buluşma
 - **Yazar:** Arthur C. Clarke
 - **Özgün Adı:** Rendezvous with Rama
 - **Çevirmen:** Ümit Kayalıoğlu
 - **Serideki Basım Yılı:** 2025
 - **Tanıtım Bülteni:**
 
-Arthur C. Clarke, bilimi edebiyatla eşsizce birleştiren, bilimkurgunun üç büyük ustasından biri. Uzaylılarla ilk temas türünde yazılmış en önemli romanlardan biri olan Rama’yla Buluşma insanlığın evrendeki yerini sorgulatan, hayal gücünün sınırlarını zorlayan heyecan dolu bir keşif hikâyesi.
+Arthur C. Clarke, bilimi edebiyatla eşsizce birleştiren, bilimkurgunun üç büyük ustasından biri. Uzaylılarla ilk temas türünde yazılmış en önemli romanlardan biri olan Rama'yla Buluşma insanlığın evrendeki yerini sorgulatan, hayal gücünün sınırlarını zorlayan heyecan dolu bir keşif hikâyesi.
 
-Güneş sisteminde keşfedilen devasa silindirik bir cisim, insanlık tarihinde eşi benzeri görülmemiş bir keşfin kapısını aralar. “Rama” adı verilen bu yabancı yapı, onu incelemek için gönderilen Endeavour gemisinin mürettebatını sessizce beklemektedir.
+Güneş sisteminde keşfedilen devasa silindirik bir cisim, insanlık tarihinde eşi benzeri görülmemiş bir keşfin kapısını aralar. "Rama" adı verilen bu yabancı yapı, onu incelemek için gönderilen Endeavour gemisinin mürettebatını sessizce beklemektedir.
 
-İçine girildiğinde ise Rama, devasa şehirler, uçsuz bucaksız denizler ve akıl almaz mühendislik harikalarıyla dolu, kendi başına yaşayan bir dünya olarak ortaya çıkar. İnsan zekâsının sınırlarını zorlayan bu yapı, hem insanın evrendeki konumuna hem de insan ırkından çok daha ileri bir uygarlığın varlığına dair derin sorular uyandırır.
+İçine girildiğinde ise Rama, devasa şehirler, uçsuz bucaksız denizler ve akıl almaz mühendislik harikalarıyla dolu, kendi başına yaşayan bir dünya olarak ortaya çıkar. İnsan zekâsının sınırlarını zorlayan bu yapı, hem insanın evrendeki konumuna hem de insan ırkından çok daha ileri bir uygarlığın varlığına dair derin sorular uyandırır.
 
-Clarke’ın bilimsel titizliği ve edebi ustalığıyla şekillenen Rama’yla Buluşma, keşif arzusunun ve insanın evren karşısındaki kırılganlığının büyüleyici bir anlatısı.
+Clarke'ın bilimsel titizliği ve edebi ustalığıyla şekillenen Rama'yla Buluşma, keşif arzusunun ve insanın evren karşısındaki kırılganlığının büyüleyici bir anlatısı.
 
-Rama’yla Buluşma, keşfin büyüsünün en saf hâli.
+Rama'yla Buluşma, keşfin büyüsünün en saf hâli.
 
 ---
 
@@ -1794,11 +1794,11 @@ Rama’yla Buluşma, keşfin büyüsünün en saf hâli.
 - **Serideki Basım Yılı:** 2025
 - **Tanıtım Bülteni:**
 
-Hem spekülatif kurgu hem de anaakım edebiyat sahasında eserler veren Iain M. Banks, ütopyacı bilimkurguyu Kültür Serisi kitaplarıyla devasa bir oyun sahnesine taşısa da ideolojilerle ilgili derdini, tarihsel bakış açısını asla kaybetmedi. Her ne kadar kariyerindeki ilk büyük çıkışını 1984 yılında yayımlanan Eşekarısı Fabrikası adlı kitabıyla yakalasa da döneminin en önemli yazarlarından biri olmasını sağlayan eserleri bilimkurgularıydı. Oyunların Oyuncusu ise Banks’in Kültür evrenindeki en eğlenceli ve en sevilen romanı.
+Hem spekülatif kurgu hem de anaakım edebiyat sahasında eserler veren Iain M. Banks, ütopyacı bilimkurguyu Kültür Serisi kitaplarıyla devasa bir oyun sahnesine taşısa da ideolojilerle ilgili derdini, tarihsel bakış açısını asla kaybetmedi. Her ne kadar kariyerindeki ilk büyük çıkışını 1984 yılında yayımlanan Eşekarısı Fabrikası adlı kitabıyla yakalasa da döneminin en önemli yazarlarından biri olmasını sağlayan eserleri bilimkurgularıydı. Oyunların Oyuncusu ise Banks'in Kültür evrenindeki en eğlenceli ve en sevilen romanı.
 
-Kültür’ün efsanevi oyuncusu Jernau Morat Gurgeh, her şeyin mümkün sayıldığı bir ütopyada anlam arayışından vazgeçmiş, can sıkıntısıyla boğuşan bir dâhiydi. Acımasız Azad İmparatorluğu’ndan gelen teklifse onun için bir kurtuluş vaadi gibiydi: Medeniyetin kaderini belirleyen Azad oyununa katılmak.
+Kültür'ün efsanevi oyuncusu Jernau Morat Gurgeh, her şeyin mümkün sayıldığı bir ütopyada anlam arayışından vazgeçmiş, can sıkıntısıyla boğuşan bir dâhiydi. Acımasız Azad İmparatorluğu'ndan gelen teklifse onun için bir kurtuluş vaadi gibiydi: Medeniyetin kaderini belirleyen Azad oyununa katılmak.
 
-Azad, yalnızca bir strateji oyunundan ibaret değildi; imparatorluğun acımasız, cinsiyetçi ve hiyerarşik düzeninin ta kendisiydi. Oyunda başarı statüyü meşrulaştırırdı; yenilgi ise ölüm demekti. Gurgeh, bu arenada sadece rakipleriyle değil, bir varoluş biçiminin bizzat kendisiyle yüzleşecekti. Üstelik bu ölümcül oyunda yalnızca bir “oyuncu” değildi, farkında olmadan başka bir felsefenin silahı hâline gelecekti. Zaferin bedelinin koca bir medeniyete mal olacağı nihai oyundu bu.
+Azad, yalnızca bir strateji oyunundan ibaret değildi; imparatorluğun acımasız, cinsiyetçi ve hiyerarşik düzeninin ta kendisiydi. Oyunda başarı statüyü meşrulaştırırdı; yenilgi ise ölüm demekti. Gurgeh, bu arenada sadece rakipleriyle değil, bir varoluş biçiminin bizzat kendisiyle yüzleşecekti. Üstelik bu ölümcül oyunda yalnızca bir "oyuncu" değildi, farkında olmadan başka bir felsefenin silahı hâline gelecekti. Zaferin bedelinin koca bir medeniyete mal olacağı nihai oyundu bu.
 
 Oyunların Oyuncusu, evrendeki en tehlikeli oyunun elkitabı.
 
@@ -1813,11 +1813,11 @@ Oyunların Oyuncusu, evrendeki en tehlikeli oyunun elkitabı.
 
 Neal Stephenson, bilimi, mitolojiyi ve mizahı ustaca birleştiren, siberpunk türünün en önemli isimlerinden. Sanal gerçekliğin ve dijital tehlikelerin sınırlarını zorlayan Kar Fırtınası ise insan bilincinin en derin kodlarına nüfuz eden yüksek tempolu bir keşif hikâyesi.
 
-Pizza kuryesi ve kılıç ustası Hiro Protagonist, sanal dünyanın üzerine kurulduğu devasa anayol olan Metaverse’te tehlikeli bir virüsün izini sürer. Bu virüs, yazılımı değil doğrudan insan beynini hedef alan, antik mitolojiden beslenen dijital bir salgındır.
+Pizza kuryesi ve kılıç ustası Hiro Protagonist, sanal dünyanın üzerine kurulduğu devasa anayol olan Metaverse'te tehlikeli bir virüsün izini sürer. Bu virüs, yazılımı değil doğrudan insan beynini hedef alan, antik mitolojiden beslenen dijital bir salgındır.
 
 Kar Fırtınası, mafyalaşmış şirketlerin, özelleşmiş şehir devletlerinin ve siber dünyadaki avatarların kol gezdiği, yozlaşmış bir geleceği resmediyor. Sanal ve fiziksel gerçeklik arasındaki çizgilerin bulanıklaştığı bu distopik evrende dil, bir iletişim aracından öte, kültürü ve bilinci yeniden kodlayabilen güçlü bir silaha dönüşüyor.
 
-Stephenson’ın mizahi, keskin ve eleştirel diliyle kaleme aldığı Kar Fırtınası, kapitalist çürümenin izdüşümlerini ve teknolojinin kültürü nasıl bir yazılıma dönüştürdüğünü büyüleyici bir aksiyon dinamiğiyle anlatıyor.
+Stephenson'ın mizahi, keskin ve eleştirel diliyle kaleme aldığı Kar Fırtınası, kapitalist çürümenin izdüşümlerini ve teknolojinin kültürü nasıl bir yazılıma dönüştürdüğünü büyüleyici bir aksiyon dinamiğiyle anlatıyor.
 
 Kar Fırtınası, antik bir felaketin geleceğe yansıması.
 
@@ -1832,9 +1832,9 @@ Kar Fırtınası, antik bir felaketin geleceğe yansıması.
 
 Thea von Harbou, Alman dışavurumculuğunun en güçlü kalemlerinden biri. Bir dönem hayat arkadaşı olan efsanevi yönetmen Fritz Lang ile kurdukları o devasa görsel evrenin temelinde de kendisinin bu eşsiz hayal gücü yatıyor. Yüzyıl öncesinden bugüne, yapay zekâ ve otomasyon çağının şafağına selam gönderen tekinsiz romanı Metropolis ise teknolojinin tahakkümü, kitlelerin manipülasyonu ve sınıf çatışması üzerine zamansız bir başyapıt.
 
-Geleceğin muazzam şehri Metropolis’te yaşam, keskin ve acımasız bir dikey hiyerarşiye hapsolmuştur. Yukarıda, şehrin efendisi Joh Fredersen’in Yeni Babil Kulesi’nden yönettiği ışıltılı bir dünya ve seçkinlerin sefahat içinde yaşadığı Oğullar Kulübü; aşağıda, yerin derinliklerinde, şehri canlı tutmak için dev makinelerin dişlileri arasında ezilen, güneşe hasret isimsiz işçiler ordusu…
+Geleceğin muazzam şehri Metropolis'te yaşam, keskin ve acımasız bir dikey hiyerarşiye hapsolmuştur. Yukarıda, şehrin efendisi Joh Fredersen'in Yeni Babil Kulesi'nden yönettiği ışıltılı bir dünya ve seçkinlerin sefahat içinde yaşadığı Oğullar Kulübü; aşağıda, yerin derinliklerinde, şehri canlı tutmak için dev makinelerin dişlileri arasında ezilen, güneşe hasret isimsiz işçiler ordusu…
 
-Ancak Fredersen’in oğlu Freder, işçilerin koruyucu meleği Maria ile karşılaştığında bu acımasız tiranlığın temelleri sarsılmaya başlar. Çünkü babasının inşa ettiği sözde cennet, aslında cehennemi yaşayanların sırtında yükselen bir kamburdan fazlası değildir. İki dünya arasındaki uçurum derinleşirken, hırslı mucit Rotwang’ın laboratuvarında ise insan suretine bürünmüş soğuk bir metal uyanır: Kaosun ve yıkımın habercisi olan “Makine-İnsan”.
+Ancak Fredersen'in oğlu Freder, işçilerin koruyucu meleği Maria ile karşılaştığında bu acımasız tiranlığın temelleri sarsılmaya başlar. Çünkü babasının inşa ettiği sözde cennet, aslında cehennemi yaşayanların sırtında yükselen bir kamburdan fazlası değildir. İki dünya arasındaki uçurum derinleşirken, hırslı mucit Rotwang'ın laboratuvarında ise insan suretine bürünmüş soğuk bir metal uyanır: Kaosun ve yıkımın habercisi olan "Makine-İnsan".
 
 Artık insanlık, isyanın ve çeliğin gürültüsü arasında kendi kaderiyle yüzleşmek zorundadır.
 
@@ -1851,28 +1851,28 @@ Metropolis, insanlığın ulaştığı en yüksek zirve ve aynı zamanda en deri
 
 Bilimkurgu edebiyatının önemli isimlerinden Connie Willis, Hugo, Nebula ve Locus ödüllerinin üçünü birden kucaklayan bu dev eseriyle zaman yolculuğunu eşsiz bir dramaya dönüştürüyor. İnsan doğasının en karanlık zamanlarda bile sönmeyen umudunu sorgulayan Kıyamet Kitabı, bilimin soğukluğunu insani sıcaklıkla eriten, okuru tarihin tozlu ve hüzünlü sayfalarında yolculuğa çıkaran unutulmaz bir klasik.
 
-Oxford Üniversitesi tarih bölümü, 2054 yılında geçmişi artık yerinde incelemektedir. Genç tarihçi Kivrin Engle’ın tek hayali, ortaçağın en güvenli yıllarından birine gidip Noel kutlamalarına tanıklık etmektir. Ancak teknisyenlerin yaptığı ölümcül bir hata, Kivrin’i şövalyelerin ve panayırların dünyasına değil, insanlık tarihinin gördüğü en büyük felaketin, Kara Veba’nın kol gezdiği 1348 yılına düşürür.
+Oxford Üniversitesi tarih bölümü, 2054 yılında geçmişi artık yerinde incelemektedir. Genç tarihçi Kivrin Engle'ın tek hayali, ortaçağın en güvenli yıllarından birine gidip Noel kutlamalarına tanıklık etmektir. Ancak teknisyenlerin yaptığı ölümcül bir hata, Kivrin'i şövalyelerin ve panayırların dünyasına değil, insanlık tarihinin gördüğü en büyük felaketin, Kara Veba'nın kol gezdiği 1348 yılına düşürür.
 
-Kivrin çürüyen bir dünyada hayatta kalmaya çalışırken, 2054 Oxford’unda da gizemli bir salgın baş gösterir ve zaman makinesi karantinaya alınır. Akıl hocası Dunworthy, öğrencisini bu cehennemden kurtarmak için zamanla ve bürokrasiyle yarışacak; geçmiş ve gelecek ise benzer acılar ve korkularla birbirine düğümlenecektir.
+Kivrin çürüyen bir dünyada hayatta kalmaya çalışırken, 2054 Oxford'unda da gizemli bir salgın baş gösterir ve zaman makinesi karantinaya alınır. Akıl hocası Dunworthy, öğrencisini bu cehennemden kurtarmak için zamanla ve bürokrasiyle yarışacak; geçmiş ve gelecek ise benzer acılar ve korkularla birbirine düğümlenecektir.
 
 Kıyamet Kitabı, tarihin en karanlık günlerine yapılan hüzünlü bir zaman yolculuğu…
 
 ---
 
-### [ #110 ] Hyperion’ın Düşüşü-Hyperion Kantoları 2. Kitap
+### [ #110 ] Hyperion'ın Düşüşü-Hyperion Kantoları 2. Kitap
 - **Yazar:** Dan Simmons
 - **Özgün Adı:** The Fall of Hyperion
 - **Çevirmen:** Yosun Erdemli Timuçin
 - **Serideki Basım Yılı:** 2026
 - **Tanıtım Bülteni:**
 
-Dan Simmons korku, fantazi ve bilimkurgu eserleriyle üç türü de derinden etkileyen, spekülatif kurgunun yaşayan en önemli isimlerinden biri. “Uzayda geçen Canterbury Hikâyeleri” olarak yorumlanan Hyperion Kantoları’nın ikinci kitabı Hyperion’ın Düşüşü ise varoluşa dair yazılmış en derin tragedyalar arasında.
+Dan Simmons korku, fantazi ve bilimkurgu eserleriyle üç türü de derinden etkileyen, spekülatif kurgunun yaşayan en önemli isimlerinden biri. "Uzayda geçen Canterbury Hikâyeleri" olarak yorumlanan Hyperion Kantoları'nın ikinci kitabı Hyperion'ın Düşüşü ise varoluşa dair yazılmış en derin tragedyalar arasında.
 
-İnsanlığın Hegemonyası için yolun sonu göründü. Atılmışlar’ın devasa donanmaları ağı kuşattı ve yüz elliden fazla dünya karanlığın eşiğine sürüklendi. Yönetim merkezi Tau Ceti’de kaos hüküm sürüyor ve yapay zekâ birliği TeknoÇekirdek’in sinsi planları nihayet meyvesini veriyor. Hyperion dünyasında ise beklenen an gelip çattı: Zaman Kabirleri açılıyor. Acı Lordu Shrike’ın korkunç gölgesi altında yedi hacı, kendi geçmişlerinin ve günahlarının bedelini ödemeye hazırlanıyor. Kabirlerin içindeki sırlar ortaya saçıldığında artık hiçbir şey eskisi gibi olmayacak.
+İnsanlığın Hegemonyası için yolun sonu göründü. Atılmışlar'ın devasa donanmaları ağı kuşattı ve yüz elliden fazla dünya karanlığın eşiğine sürüklendi. Yönetim merkezi Tau Ceti'de kaos hüküm sürüyor ve yapay zekâ birliği TeknoÇekirdek'in sinsi planları nihayet meyvesini veriyor. Hyperion dünyasında ise beklenen an gelip çattı: Zaman Kabirleri açılıyor. Acı Lordu Shrike'ın korkunç gölgesi altında yedi hacı, kendi geçmişlerinin ve günahlarının bedelini ödemeye hazırlanıyor. Kabirlerin içindeki sırlar ortaya saçıldığında artık hiçbir şey eskisi gibi olmayacak.
 
-Dün ve yarın, tek bir kıyamet ânında düğümleniyor. İnsanlık ya TeknoÇekirdek’in kurguladığı o kusursuz yok oluşa boyun eğecek ya da küllerinden yeniden doğacak.
+Dün ve yarın, tek bir kıyamet ânında düğümleniyor. İnsanlık ya TeknoÇekirdek'in kurguladığı o kusursuz yok oluşa boyun eğecek ya da küllerinden yeniden doğacak.
 
-Hyperion’ın Düşüşü, mutlak sonun yankısı.
+Hyperion'ın Düşüşü, mutlak sonun yankısı.
 
 ---
 
@@ -1885,7 +1885,7 @@ Hyperion’ın Düşüşü, mutlak sonun yankısı.
 
 Fransız bilimkurgusunun zarif kalemlerinden René Barjavel, teknolojinin vadettiği ilerleme ile insan doğasının kırılganlığı arasındaki çatışmayı ustaca işleyen bir modern zaman ozanı. Yazarın başyapıtı sayılan ve aslen bir film senaryosu olarak kaleme alınan Zamanın Şafağı ise insanlığın kibrine ve bitmek bilmeyen yıkım tutkusuna dair zamansız bir uyarı.
 
-Antarktika’nın derinliklerinde tespit edilen gizemli bir sinyal, tüm zamanların en büyük arkeolojik keşfine dönüşür. Uluslararası bir bilim ekibi, buzların altında saklı kalmış kadim bir yapıya ve onun içinde de dondurularak korunmuş iki kişiye ulaşır. Çok geçmeden anlaşılır ki bu kişiler, kökleri insanlık tarihinden çok daha eskiye uzanan unutulmuş bir uygarlığın son tanıklarıdır. Uyandırıldıklarında, uygarlıklarını yok oluşa sürükleyen büyük bir felaketin ve zamana meydan okuyan ölümsüz bir aşkın hikâyesi de yavaş yavaş gün yüzüne çıkar.
+Antarktika'nın derinliklerinde tespit edilen gizemli bir sinyal, tüm zamanların en büyük arkeolojik keşfine dönüşür. Uluslararası bir bilim ekibi, buzların altında saklı kalmış kadim bir yapıya ve onun içinde de dondurularak korunmuş iki kişiye ulaşır. Çok geçmeden anlaşılır ki bu kişiler, kökleri insanlık tarihinden çok daha eskiye uzanan unutulmuş bir uygarlığın son tanıklarıdır. Uyandırıldıklarında, uygarlıklarını yok oluşa sürükleyen büyük bir felaketin ve zamana meydan okuyan ölümsüz bir aşkın hikâyesi de yavaş yavaş gün yüzüne çıkar.
 
 Artık çözülen buzlarla birlikte her iki çağın umutları ve korkuları birbirine karışacak, o ezeli soru yeniden kendini hatırlatacaktır: Acaba insanlık, zaman ve mekân değişse de her çağda aynı trajediyi yaşamaya mahkûm mudur?
 
@@ -1900,26 +1900,26 @@ Zamanın Şafağı, insanın buzdaki yansıması.
 - **Serideki Basım Yılı:** 2026
 - **Tanıtım Bülteni:**
 
-Gerilim ile bilimkurgunun kesiştiği o tekinsiz sularda kalem oynatan Jack Finney, sıradan hayatların pürüzsüz yüzeyi altına gizlenmiş dehşeti eşelemekten hoşlanan bir anlatı mimarı. Birçok kez sinemaya da uyarlanan ve bilimkurguda &#8220;paranoya&#8221; kavramını yeniden tanımlayan başyapıtı Beden Kemiricilerin İstilası ise kimlik yitimi ve toplumsal yabancılaşma üzerine yazılmış sarsıcı bir klasik.
+Gerilim ile bilimkurgunun kesiştiği o tekinsiz sularda kalem oynatan Jack Finney, sıradan hayatların pürüzsüz yüzeyi altına gizlenmiş dehşeti eşelemekten hoşlanan bir anlatı mimarı. Birçok kez sinemaya da uyarlanan ve bilimkurguda "paranoya" kavramını yeniden tanımlayan başyapıtı Beden Kemiricilerin İstilası ise kimlik yitimi ve toplumsal yabancılaşma üzerine yazılmış sarsıcı bir klasik.
 
-Kaliforniya&#8217;nın huzurlu kasabası Mill Valley’de hayat, her zamanki tekdüzeliğiyle akıp gitmektedir. Ancak Dr. Miles Bennell’ın muayenehanesine gelen hastalar, akıl almaz bir iddiayla bu huzurlu tabloyu bozmaya başlar: Sevdikleri insanlar, fiziksel olarak her detayıyla aynı görünmelerine rağmen artık “kendileri” değildir. Bakışlarındaki anlam yitmiş, duyguların yerini soğuk ve mekanik bir yabancılaşma almıştır.
+Kaliforniya'nın huzurlu kasabası Mill Valley'de hayat, her zamanki tekdüzeliğiyle akıp gitmektedir. Ancak Dr. Miles Bennell'ın muayenehanesine gelen hastalar, akıl almaz bir iddiayla bu huzurlu tabloyu bozmaya başlar: Sevdikleri insanlar, fiziksel olarak her detayıyla aynı görünmelerine rağmen artık "kendileri" değildir. Bakışlarındaki anlam yitmiş, duyguların yerini soğuk ve mekanik bir yabancılaşma almıştır.
 
-Başta münferit birer sanrı gibi görülen şikâyetler, çok geçmeden tüm kasabayı esir alan kolektif bir dehşete dönüşür. Artık Dr. Bennell ve bir grup arkadaşı, Mill Valley’nin sokaklarında sinsice yayılan ve insanlığı âdeta içeriden &#8220;kemiren&#8221; bu tehditle yüzleşmek zorundadır.
+Başta münferit birer sanrı gibi görülen şikâyetler, çok geçmeden tüm kasabayı esir alan kolektif bir dehşete dönüşür. Artık Dr. Bennell ve bir grup arkadaşı, Mill Valley'nin sokaklarında sinsice yayılan ve insanlığı âdeta içeriden "kemiren" bu tehditle yüzleşmek zorundadır.
 
 Beden Kemiricilerin İstilası, paranoyanın vücut bulmuş hâli.
 
 ---
 
-### [ #113 ] Yeşil Mars 
+### [ #113 ] Yeşil Mars
 - **Yazar:** Kim Stanley Robinson
 - **Özgün Adı:** Green Mars
 - **Çevirmen:** Uğur Gülsün
 - **Serideki Basım Yılı:** 2026
 - **Tanıtım Bülteni:**
 
-Kim Stanley Robinson, günümüz bilimkurgusunun en büyük ustalarından biri. Özellikle uzay üzerine yazdığı romanlarla 90’lardan beri türün gelişimine katkıda bulunan yazarların en önde gelenlerinden. Bir gezegenin ekolojik ve siyasi evrimini derinlemesine işleyen Yeşil Mars ise ütopyanın inşası ile doğanın direnişi arasındaki o ince çizgide yürüyen muazzam bir devam anlatısı.
+Kim Stanley Robinson, günümüz bilimkurgusunun en büyük ustalarından biri. Özellikle uzay üzerine yazdığı romanlarla 90'lardan beri türün gelişimine katkıda bulunan yazarların en önde gelenlerinden. Bir gezegenin ekolojik ve siyasi evrimini derinlemesine işleyen Yeşil Mars ise ütopyanın inşası ile doğanın direnişi arasındaki o ince çizgide yürüyen muazzam bir devam anlatısı.
 
-İlk yerleşimcilerin Kızıl Gezegen’e ayak basmasının üzerinden uzun zaman geçti. Mars artık bakir bir kaya parçası değil, hızla dönüşen bir dünya. Dünyalaştırma projesi gezegenin çehresini yavaş yavaş değiştirirken, yeraltında gizlenen öncüler ve onların Mars topraklarında doğan çocukları da yeni bir medeniyetin sancılı doğumuna tanıklık ediyor. Ancak bu değişim büyük bir ideolojik yarılmayı da beraberinde getiriyor ve gezegenin vahşi saflığını korumaya yeminli direnişçiler ile onu yaşanabilir bir cennete dönüştürmeyi arzulayanlar arasındaki uçurum her geçen gün derinleşiyor.
+İlk yerleşimcilerin Kızıl Gezegen'e ayak basmasının üzerinden uzun zaman geçti. Mars artık bakir bir kaya parçası değil, hızla dönüşen bir dünya. Dünyalaştırma projesi gezegenin çehresini yavaş yavaş değiştirirken, yeraltında gizlenen öncüler ve onların Mars topraklarında doğan çocukları da yeni bir medeniyetin sancılı doğumuna tanıklık ediyor. Ancak bu değişim büyük bir ideolojik yarılmayı da beraberinde getiriyor ve gezegenin vahşi saflığını korumaya yeminli direnişçiler ile onu yaşanabilir bir cennete dönüştürmeyi arzulayanlar arasındaki uçurum her geçen gün derinleşiyor.
 
 Artık mesele sadece hayatta kalmak değil, bu yeni ve yabancı doğanın içinde kimliği yeniden tanımlamak.
 
@@ -1934,11 +1934,11 @@ Yeşil Mars, ütopyanın topraktaki inadı.
 - **Serideki Basım Yılı:** 2026
 - **Tanıtım Bülteni:**
 
-Kim Stanley Robinson, günümüz bilimkurgusunun en büyük ustalarından biri. Özellikle uzay üzerine yazdığı romanlarla 90’lardan beri türün gelişimine katkıda bulunan yazarların en önde gelenlerinden. Üçlemenin görkemli finali Mavi Mars ise buzların eridiği, denizlerin oluştuğu ve insanlığın kendi sınırlarını aşarak yeni bir türün şafağına adım attığı sarsıcı bir destan.
+Kim Stanley Robinson, günümüz bilimkurgusunun en büyük ustalarından biri. Özellikle uzay üzerine yazdığı romanlarla 90'lardan beri türün gelişimine katkıda bulunan yazarların en önde gelenlerinden. Üçlemenin görkemli finali Mavi Mars ise buzların eridiği, denizlerin oluştuğu ve insanlığın kendi sınırlarını aşarak yeni bir türün şafağına adım attığı sarsıcı bir destan.
 
-Okyanuslar yükseliyor, gökyüzü maviye çalıyor ve sonunda Mars, insanlığın kendi elleriyle inşa ettiği o muazzam ütopyaya dönüşüyor. Ancak bu yeni cennetin berrak suları, devasa politik fırtınaları ve yanıtlanması güç etik krizleri de beraberinde getiriyor. Marslılar bağımsızlığın tadını çıkarırken, kaynakları tükenen Dünya’nın gölgesi gezegenin üzerine düşmekte gecikmiyor. Çünkü bir zamanlar “ölü” olarak görülen Mars, şimdi milyonlarca Dünyalı için uğruna savaşılacak bir vahaya dönüşmüş durumda.
+Okyanuslar yükseliyor, gökyüzü maviye çalıyor ve sonunda Mars, insanlığın kendi elleriyle inşa ettiği o muazzam ütopyaya dönüşüyor. Ancak bu yeni cennetin berrak suları, devasa politik fırtınaları ve yanıtlanması güç etik krizleri de beraberinde getiriyor. Marslılar bağımsızlığın tadını çıkarırken, kaynakları tükenen Dünya'nın gölgesi gezegenin üzerine düşmekte gecikmiyor. Çünkü bir zamanlar "ölü" olarak görülen Mars, şimdi milyonlarca Dünyalı için uğruna savaşılacak bir vahaya dönüşmüş durumda.
 
-Kendi yazdıkları tarihin yaşayan birer efsanesi hâline gelen “İlk Yüz” üyeleri, kurulan bu yeni dünyanın insani hırslara yenik düşmemesi için zamana karşı amansız bir mücadeleye girişmek zorunda.
+Kendi yazdıkları tarihin yaşayan birer efsanesi hâline gelen "İlk Yüz" üyeleri, kurulan bu yeni dünyanın insani hırslara yenik düşmemesi için zamana karşı amansız bir mücadeleye girişmek zorunda.
 
 Mavi Mars, ütopyanın sınandığı son durak.
 
@@ -1951,9 +1951,9 @@ Mavi Mars, ütopyanın sınandığı son durak.
 - **Serideki Basım Yılı:** 2026
 - **Tanıtım Bülteni:**
 
-“Altın Çağ Bilimkurgusu”nun en büyük mimarlarından olan, kurduğu evrenlerle edebiyat tarihinde kendine eşsiz bir yer edinen Isaac Asimov, bilimin rasyonel kesinliğini kurgunun sınırsız gücüyle harmanlayan unutulmaz bir deha. “Vakıf” ve “Robot” gibi ölümsüzleşmiş serilerinden bağımsız olarak kaleme aldığı ve ölümünden sadece üç yıl önce tamamlayabildiği Nemesis ise insanlığın evrendeki yerini sorgulayan geç dönem yapıtlarından.
+"Altın Çağ Bilimkurgusu"nun en büyük mimarlarından olan, kurduğu evrenlerle edebiyat tarihinde kendine eşsiz bir yer edinen Isaac Asimov, bilimin rasyonel kesinliğini kurgunun sınırsız gücüyle harmanlayan unutulmaz bir deha. "Vakıf" ve "Robot" gibi ölümsüzleşmiş serilerinden bağımsız olarak kaleme aldığı ve ölümünden sadece üç yıl önce tamamlayabildiği Nemesis ise insanlığın evrendeki yerini sorgulayan geç dönem yapıtlarından.
 
-Yirmi üçüncü yüzyılda öncüler, aşırı kalabalıklaşan ve çöküşün eşiğine gelen Dünya’dan kaçarak kendi kendine yeten yörünge kolonilerinde yeni bir yaşama yelken açar. Bu kolonilerden biri olan Rotor, geliştirdiği çığır açıcı teknolojinin de yardımıyla Güneş Sistemi’ni arkasında bırakarak Nemesis adı verilen gizemli bir yıldızın yörüngesinde kendi asi ütopyasını kurmayı amaçlar. Ne var ki Nemesis, Rotor için yeni bir başlangıcı, Dünya içinse korkunç bir sonu beraberinde getirmektedir. Artık yaklaşan felaketi önlemenin tek anahtarı, Rotor’da doğup büyümüş on beş yaşındaki Marlene adlı genç bir kızın elindedir. Acaba sıradışı yeteneklere sahip Marlene, Nemesis’in sırlarını açığa çıkarıp yaklaşan yıkımı durdurabilecek midir? Yoksa insanın sınır tanımaz kibri ve kendi türüne yabancılaşması, evrenin acımasız kayıtsızlığında koca bir uygarlığın sonunu mu hazırlayacaktır?
+Yirmi üçüncü yüzyılda öncüler, aşırı kalabalıklaşan ve çöküşün eşiğine gelen Dünya'dan kaçarak kendi kendine yeten yörünge kolonilerinde yeni bir yaşama yelken açar. Bu kolonilerden biri olan Rotor, geliştirdiği çığır açıcı teknolojinin de yardımıyla Güneş Sistemi'ni arkasında bırakarak Nemesis adı verilen gizemli bir yıldızın yörüngesinde kendi asi ütopyasını kurmayı amaçlar. Ne var ki Nemesis, Rotor için yeni bir başlangıcı, Dünya içinse korkunç bir sonu beraberinde getirmektedir. Artık yaklaşan felaketi önlemenin tek anahtarı, Rotor'da doğup büyümüş on beş yaşındaki Marlene adlı genç bir kızın elindedir. Acaba sıradışı yeteneklere sahip Marlene, Nemesis'in sırlarını açığa çıkarıp yaklaşan yıkımı durdurabilecek midir? Yoksa insanın sınır tanımaz kibri ve kendi türüne yabancılaşması, evrenin acımasız kayıtsızlığında koca bir uygarlığın sonunu mu hazırlayacaktır?
 
 Nemesis, felaketten kaçmaya çalışırken sığınılan uçurum.
 
@@ -1966,9 +1966,9 @@ Nemesis, felaketten kaçmaya çalışırken sığınılan uçurum.
 - **Serideki Basım Yılı:** 2026
 - **Tanıtım Bülteni:**
 
-John W. Campbell Jr., etkili editörlüğüyle bilimkurgunun Altın Çağı’nı inşa eden, türe yön verip sayısız efsanevi yazarı edebiyat dünyasına kazandıran eşsiz bir vizyoner. Yazarlık kariyerindeki en özel işi sayılan ve sinema tarihine The Thing (Şey) uyarlamalarıyla damga vuran Kim Var Orada? ise klostrofobiyi kozmik dehşetle harmanlayan unutulmaz bir klasik.
+John W. Campbell Jr., etkili editörlüğüyle bilimkurgunun Altın Çağı'nı inşa eden, türe yön verip sayısız efsanevi yazarı edebiyat dünyasına kazandıran eşsiz bir vizyoner. Yazarlık kariyerindeki en özel işi sayılan ve sinema tarihine The Thing (Şey) uyarlamalarıyla damga vuran Kim Var Orada? ise klostrofobiyi kozmik dehşetle harmanlayan unutulmaz bir klasik.
 
-Antarktika’nın dondurucu soğuğunda görev yapan İkinci Manyetik İstasyon ekibi, yüz binlerce yıl boyunca buzun altında gömülü kalmış dünya dışı bir gemiyi açığa çıkarır. Keşif tutkusuna yenik düşen biliminsanları, geminin içinde buldukları donmuş bedeni üsse taşımaya karar verir. Ancak bu karar, çok geçmeden insanlık tarihinin en ölümcül hatalarından birine dönüşür. Çünkü karşılarındaki “şey” sıradan bir canlı değildir; dokunduğu her organizmayı hücrelerine kadar kopyalayıp taklit edebilen eşi görülmemiş bir varlıktır. Artık araştırma ekibini hayatta kalmaktan çok daha zor bir görev beklemektedir: Yaratığın tüm dünyayı ele geçirmesini engellemek. Peki ama paranoyanın bulaşıcı bir hastalık gibi yayıldığı, dostluğun ve güvenin anlamını yitirdiği bu buz cehenneminde insan kalabilmek ne kadar mümkündür?
+Antarktika'nın dondurucu soğuğunda görev yapan İkinci Manyetik İstasyon ekibi, yüz binlerce yıl boyunca buzun altında gömülü kalmış dünya dışı bir gemiyi açığa çıkarır. Keşif tutkusuna yenik düşen biliminsanları, geminin içinde buldukları donmuş bedeni üsse taşımaya karar verir. Ancak bu karar, çok geçmeden insanlık tarihinin en ölümcül hatalarından birine dönüşür. Çünkü karşılarındaki "şey" sıradan bir canlı değildir; dokunduğu her organizmayı hücrelerine kadar kopyalayıp taklit edebilen eşi görülmemiş bir varlıktır. Artık araştırma ekibini hayatta kalmaktan çok daha zor bir görev beklemektedir: Yaratığın tüm dünyayı ele geçirmesini engellemek. Peki ama paranoyanın bulaşıcı bir hastalık gibi yayıldığı, dostluğun ve güvenin anlamını yitirdiği bu buz cehenneminde insan kalabilmek ne kadar mümkündür?
 
 Kim Var Orada?, kuşkunun sıfır noktası.
 
