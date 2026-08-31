@@ -2,7 +2,6 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getBooks, getBookBySlug } from "@/lib/sheets";
 import ReadingPanel from "@/components/book/ReadingPanel";
-import BackButton from "@/components/ui/BackButton";
 import { ChevronLeft, ChevronRight, BookOpen, Layers } from "lucide-react";
 import type { Metadata } from "next";
 
@@ -51,17 +50,12 @@ export default async function BookDetailPage({ params }: Props) {
   const cover = book.kapak_gorseli || "/icon.png";
 
   return (
-    <div className="max-w-4xl mx-auto px-4 sm:px-6 py-6 sm:py-12">
-      {/* ── Native Uygulama Geri Navigasyonu ── */}
-      <div className="mb-6">
-        <BackButton label="Kitaplığa Dön" fallbackHref="/" />
-      </div>
-
+    <div className="max-w-4xl mx-auto px-4 sm:px-6 py-6 sm:py-10">
       {/* ── Kitap Başlığı & Kapak Grid ── */}
       <div className="grid grid-cols-1 md:grid-cols-12 gap-8 sm:gap-10 items-start mb-10">
         {/* Sol Sütun: Kapak Görseli */}
         <div className="md:col-span-5 flex justify-center">
-          <div className="w-full max-w-[280px] md:max-w-none aspect-[2/3] rounded-2xl overflow-hidden shadow-lg border border-[var(--border-main)] bg-[var(--surface-sub)] sticky top-24">
+          <div className="w-full max-w-[280px] md:max-w-none aspect-[2/3] rounded-2xl overflow-hidden shadow-lg border border-[var(--border-main)] bg-[var(--surface-sub)] sticky top-6">
             <img
               src={cover}
               alt={book.kitap_adi}

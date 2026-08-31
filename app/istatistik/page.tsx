@@ -1,6 +1,5 @@
 import { getBooks } from "@/lib/sheets";
 import Link from "next/link";
-import BackButton from "@/components/ui/BackButton";
 import { BookOpen, Star, Award, CheckCircle, Clock, Library, Calendar, Compass } from "lucide-react";
 import ExcelExportButton from "@/components/book/ExcelExportButton";
 import type { Metadata } from "next";
@@ -65,12 +64,7 @@ export default async function StatisticsPage() {
     .slice(0, 8);
 
   return (
-    <div className="max-w-5xl mx-auto px-4 sm:px-6 py-6 sm:py-14">
-      {/* ── Native Uygulama Geri Navigasyonu ── */}
-      <div className="mb-6">
-        <BackButton label="Geri" fallbackHref="/" />
-      </div>
-
+    <div className="max-w-5xl mx-auto px-4 sm:px-6 py-6 sm:py-12">
       {/* ── Başlık ── */}
       <div className="mb-10 flex flex-wrap items-center justify-between gap-4">
         <div>

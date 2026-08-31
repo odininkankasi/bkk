@@ -7,9 +7,13 @@ export default function Header() {
     <header className="border-b border-[var(--border-main)] bg-[var(--bg-page)]">
       <div className="max-w-5xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between gap-4">
         {/* Logo & Seri Başlığı */}
-        <Link href="/" className="flex items-center gap-2.5 group">
-          <div className="w-9 h-9 rounded-lg bg-[var(--accent-soft)] text-[var(--accent)] flex items-center justify-center text-lg group-hover:scale-105 transition-transform">
-            🪐
+        <Link href="/" className="flex items-center gap-3 group">
+          <div className="w-10 h-10 rounded-xl overflow-hidden shadow-xs border border-[var(--border-main)] bg-[var(--surface-sub)] flex-shrink-0 group-hover:scale-105 transition-transform">
+            <img
+              src="/icon.png"
+              alt="İthaki Bilimkurgu Klasikleri"
+              className="w-full h-full object-cover"
+            />
           </div>
           <div>
             <div className="font-serif font-bold text-lg sm:text-xl text-[var(--text-primary)] tracking-tight leading-none group-hover:text-[var(--accent)] transition-colors">

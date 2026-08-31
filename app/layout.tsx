@@ -38,7 +38,19 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: "/icon.png",
+    shortcut: "/icon.png",
     apple: "/icon.png",
+  },
+  openGraph: {
+    title: "İthaki Bilimkurgu Klasikleri (BKK) — Külliyat & Okuma Portalı",
+    description: "İthaki Yayınları Bilimkurgu Klasikleri külliyatı; kişisel okuma günlüğüm, kitap listeleri ve kitap yorumlarım.",
+    images: [{ url: "/icon.png", width: 512, height: 512, alt: "İthaki Bilimkurgu Klasikleri" }],
+  },
+  twitter: {
+    card: "summary",
+    title: "İthaki Bilimkurgu Klasikleri",
+    description: "İthaki Yayınları Bilimkurgu Klasikleri külliyatı; kişisel okuma günlüğüm ve kitap yorumlarım.",
+    images: ["/icon.png"],
   },
 };
 
