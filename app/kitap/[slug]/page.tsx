@@ -2,7 +2,8 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getBooks, getBookBySlug } from "@/lib/sheets";
 import ReadingPanel from "@/components/book/ReadingPanel";
-import { ArrowLeft, ChevronLeft, ChevronRight, BookOpen, Layers } from "lucide-react";
+import BackButton from "@/components/ui/BackButton";
+import { ChevronLeft, ChevronRight, BookOpen, Layers } from "lucide-react";
 import type { Metadata } from "next";
 
 interface Props {
@@ -50,16 +51,10 @@ export default async function BookDetailPage({ params }: Props) {
   const cover = book.kapak_gorseli || "/icon.png";
 
   return (
-    <div className="max-w-4xl mx-auto px-4 sm:px-6 py-8 sm:py-14">
-      {/* ── Geri Dön Linki ── */}
-      <div className="mb-8">
-        <Link
-          href="/"
-          className="inline-flex items-center gap-2 text-sm sm:text-base font-bold text-[var(--text-muted)] hover:text-[var(--accent)] transition-colors"
-        >
-          <ArrowLeft className="w-5 h-5" />
-          <span>Tüm Bilimkurgu Klasikleri Listesine Dön</span>
-        </Link>
+    <div className="max-w-4xl mx-auto px-4 sm:px-6 py-6 sm:py-12">
+      {/* ── Native Uygulama Geri Navigasyonu ── */}
+      <div className="mb-6">
+        <BackButton label="Kitaplığa Dön" fallbackHref="/" />
       </div>
 
       {/* ── Kitap Başlığı & Kapak Grid ── */}

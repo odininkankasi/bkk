@@ -1,6 +1,7 @@
-import { getBooks, Book } from "@/lib/sheets";
+import { getBooks } from "@/lib/sheets";
 import Link from "next/link";
-import { ArrowLeft, BookOpen, Star, Award, CheckCircle, Clock, Library, Calendar, TrendingUp, Compass } from "lucide-react";
+import BackButton from "@/components/ui/BackButton";
+import { BookOpen, Star, Award, CheckCircle, Clock, Library, Calendar, Compass } from "lucide-react";
 import ExcelExportButton from "@/components/book/ExcelExportButton";
 import type { Metadata } from "next";
 
@@ -34,7 +35,7 @@ export default async function StatisticsPage() {
   const rating4 = books.filter((b) => b.puan === 4).length;
   const rating3 = books.filter((b) => b.puan === 3).length;
 
-  // Yıllara Göre Okuma Dağılımı (tarih_1 veya tarih_2'deki yıl değerlerini ayrıştırıyoruz)
+  // Yıllara Göre Okuma Dağılımı
   const yearsMap: Record<string, number> = {};
   readBooks.forEach((b) => {
     const rawDate = b.tarih_2 || b.tarih_1 || "";
@@ -64,16 +65,10 @@ export default async function StatisticsPage() {
     .slice(0, 8);
 
   return (
-    <div className="max-w-5xl mx-auto px-4 sm:px-6 py-8 sm:py-14">
-      {/* ── Geri Dön Linki ── */}
+    <div className="max-w-5xl mx-auto px-4 sm:px-6 py-6 sm:py-14">
+      {/* ── Native Uygulama Geri Navigasyonu ── */}
       <div className="mb-6">
-        <Link
-          href="/"
-          className="inline-flex items-center gap-2 text-sm sm:text-base font-bold text-[var(--text-muted)] hover:text-[var(--accent)] transition-colors"
-        >
-          <ArrowLeft className="w-5 h-5" />
-          <span>Ana Kitaplığa Dön</span>
-        </Link>
+        <BackButton label="Geri" fallbackHref="/" />
       </div>
 
       {/* ── Başlık ── */}
@@ -257,7 +252,7 @@ export default async function StatisticsPage() {
         </div>
       </div>
 
-      {/* ── KİTAPLIKTA OLUP SIRADA BEKLEYENLER (ÖNERİLEN SIRADAKİ OKUMALAR) ── */}
+      {/* ── KİTAPLIKTA OLUP SIRADA BEKLEYENLER ── */}
       {ownedUnreadBooks.length > 0 && (
         <section className="bg-[var(--surface-card)] border border-[var(--border-main)] rounded-2xl p-6 sm:p-8 shadow-xs">
           <div className="flex items-center justify-between gap-4 mb-4">
