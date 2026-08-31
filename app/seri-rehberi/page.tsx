@@ -1,6 +1,6 @@
 import { getBooks, Book } from "@/lib/sheets";
 import Link from "next/link";
-import { ArrowLeft, Compass, Bookmark, Users, Crown, Layers, Sparkles, BookOpen, ChevronRight } from "lucide-react";
+import { ArrowLeft, Users, Layers, BookOpen, ChevronRight, Compass } from "lucide-react";
 import ExcelExportButton from "@/components/book/ExcelExportButton";
 import type { Metadata } from "next";
 
@@ -14,15 +14,14 @@ export const revalidate = 60;
 export default async function SeriesGuidePage() {
   const books = await getBooks();
 
-  // 1. Yazarlar Haritası & İstatistikleri
-  const authorMap: Record<string, { total: number; read: number; books: Book[] }> = {};
+  // 1. Yazarlar Haritası & İstatistikleri (Genel Külliyat Verisi)
+  const authorMap: Record<string, { total: number; books: Book[] }> = {};
   books.forEach((b) => {
     const author = b.yazar_adi?.trim() || "Bilinmeyen Yazar";
     if (!authorMap[author]) {
-      authorMap[author] = { total: 0, read: 0, books: [] };
+      authorMap[author] = { total: 0, books: [] };
     }
     authorMap[author].total++;
-    if (b.okundu === "Evet") authorMap[author].read++;
     authorMap[author].books.push(b);
   });
 
@@ -32,12 +31,13 @@ export default async function SeriesGuidePage() {
   const topAuthors = Object.entries(authorMap)
     .sort((a, b) => b[1].total - a[1].total);
 
-  // 2. Alt Seriler Tanımları
+  // 2. Alt Seriler Tanımları (Genel Edebi Bilgi)
   const subSeries = [
     {
       id: "dune",
       title: "Dune Serisi",
       author: "Frank Herbert",
+      tag: "6 Ciltlik Efsanevi Destan",
       desc: "Bilimkurgu tarihinin en görkemli destanı. Çöl gezegeni Arrakis, baharat melodisi, Bene Gesserit tarikatı ve insanlığın geleceğini şekillendiren efsanevi hanedanlık savaşları.",
       bookNumbers: ["1", "7", "16", "26", "57", "59"],
     },
@@ -45,6 +45,7 @@ export default async function SeriesGuidePage() {
       id: "mars",
       title: "Mars Üçlemesi",
       author: "Kim Stanley Robinson",
+      tag: "3 Ciltlik Başyapıt Üçleme",
       desc: "İnsanlığın Kızıl Gezegen'i dünyalaştırma (terraforming), kolonileştirme ve yeni bir medeniyet kurma sürecini anlatan modern bilimkurgunun en gerçekçi başyapıtı.",
       bookNumbers: ["45", "113", "114"],
     },
@@ -56,15 +57,10 @@ export default async function SeriesGuidePage() {
       .map((num) => books.find((b) => b.sira_no == num))
       .filter(Boolean) as Book[];
 
-    const readCount = matchedBooks.filter((b) => b.okundu === "Evet").length;
-    const isCompleted = readCount === matchedBooks.length && matchedBooks.length > 0;
-
     return {
       ...s,
       books: matchedBooks,
-      readCount,
       totalCount: matchedBooks.length,
-      isCompleted,
     };
   });
 
@@ -85,7 +81,7 @@ export default async function SeriesGuidePage() {
       <div className="mb-10 flex flex-wrap items-center justify-between gap-4">
         <div>
           <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-md text-xs font-black uppercase tracking-wider text-[var(--accent)] bg-[var(--accent-soft)] mb-2.5 font-mono">
-            <span>Külliyat Atlası &amp; Alt Seriler</span>
+            <span>Genel Külliyat Rehberi</span>
           </div>
           <h1 className="font-serif text-3xl sm:text-5xl font-bold text-[var(--text-primary)] tracking-tight">
             Seri Rehberi
@@ -125,14 +121,8 @@ export default async function SeriesGuidePage() {
                 </div>
 
                 <div className="text-right">
-                  <span
-                    className={`inline-flex items-center gap-1 text-xs sm:text-sm font-extrabold px-3 py-1.5 rounded-lg ${
-                      series.isCompleted
-                        ? "bg-[var(--read-tag-bg)] text-[var(--read-tag-text)] border border-emerald-300 dark:border-emerald-800"
-                        : "bg-[var(--surface-sub)] text-[var(--text-primary)] border border-[var(--border-main)]"
-                    }`}
-                  >
-                    {series.isCompleted ? "✓ Seri Tamamlandı" : `${series.readCount} / ${series.totalCount} Okundu`}
+                  <span className="inline-flex items-center gap-1 text-xs sm:text-sm font-extrabold px-3 py-1.5 rounded-lg bg-[var(--surface-sub)] text-[var(--text-primary)] border border-[var(--border-main)] font-mono">
+                    {series.tag}
                   </span>
                 </div>
               </div>
@@ -145,7 +135,6 @@ export default async function SeriesGuidePage() {
               {/* Serinin Kitapları Kart Izgarası */}
               <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-3.5">
                 {series.books.map((b, idx) => {
-                  const isRead = b.okundu === "Evet";
                   const cover = b.kapak_gorseli || "/icon.png";
                   return (
                     <Link
@@ -163,11 +152,6 @@ export default async function SeriesGuidePage() {
                         <div className="absolute top-1 left-1 bg-[#14100c]/90 text-[#faf4e6] text-[10px] font-black px-1.5 py-0.5 rounded font-mono">
                           #{b.sira_no}
                         </div>
-                        {isRead && (
-                          <div className="absolute bottom-1 right-1 bg-emerald-700 text-white text-[9px] font-extrabold px-1 py-0.5 rounded shadow-xs">
-                            ✓ Okundu
-                          </div>
-                        )}
                       </div>
                       <div className="text-[11px] font-bold text-[var(--accent)] font-mono">
                         {idx + 1}. Kitap
@@ -208,12 +192,12 @@ export default async function SeriesGuidePage() {
                       {author}
                     </h3>
                     <div className="text-xs font-bold text-[var(--text-muted)] mt-0.5">
-                      {data.total} Kitap • <span className="text-[var(--read-tag-text)]">{data.read} Okundu</span>
+                      İthaki BKK serisinde <strong className="text-[var(--accent)] font-mono">{data.total}</strong> eseri bulunuyor
                     </div>
                   </div>
 
                   <span className="text-xs font-mono font-extrabold bg-[var(--surface-sub)] text-[var(--text-primary)] border border-[var(--border-main)] px-2.5 py-1 rounded-md">
-                    {data.total} Eser
+                    {data.total} Kitap
                   </span>
                 </div>
 
