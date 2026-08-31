@@ -122,6 +122,13 @@ export async function getBooks(): Promise<Book[]> {
 
         const num = String(obj.sira_no || "0").padStart(2, "0");
         obj.slug = num + "-" + slugify(obj.kitap_adi);
+
+        // Yerel HD Kapak Önceliği
+        const fallbackMatch = (fallbackBooks as Book[]).find((fb) => String(fb.sira_no) == String(obj.sira_no));
+        if (fallbackMatch && fallbackMatch.kapak_gorseli) {
+          obj.kapak_gorseli = fallbackMatch.kapak_gorseli;
+        }
+
         return obj as Book;
       })
       .filter((b: Book) => b.kitap_adi && b.kitap_adi.trim());
