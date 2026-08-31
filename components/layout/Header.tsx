@@ -1,6 +1,6 @@
 import Link from "next/link";
 import ThemeToggle from "./ThemeToggle";
-import { BookOpen, BarChart2 } from "lucide-react";
+import { BookOpen, BarChart2, Compass } from "lucide-react";
 
 export default function Header() {
   return (
@@ -26,6 +26,14 @@ export default function Header() {
           >
             <BookOpen className="w-4 h-4" />
             <span className="hidden sm:inline">Kitaplık</span>
+          </Link>
+
+          <Link
+            href="/seri-rehberi"
+            className="text-xs sm:text-sm font-semibold text-[var(--text-secondary)] hover:text-[var(--accent)] transition-colors flex items-center gap-1.5"
+          >
+            <Compass className="w-4 h-4" />
+            <span className="hidden sm:inline">Seri Rehberi</span>
           </Link>
           
           <Link
